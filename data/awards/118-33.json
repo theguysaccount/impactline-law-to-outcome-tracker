@@ -1,0 +1,21 @@
+{
+ "law": "118-33",
+ "period_start": "2023-12-26",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-33",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-33",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To amend the Siletz Reservation Act to address the hunting, fishing, trapping, and animal gathering rights of the Confederated Tribes of Siletz Indians, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20amend%20the%20Siletz%20Reservation%20Act%20to%20address%20the%20hunting,%20fishing,%20trapping,%20and%20animal%20gathering%20rights%20of%20the%20Confederated%20Tribes%20of%20Siletz%20Indians,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

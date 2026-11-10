@@ -1,0 +1,21 @@
+{
+ "law": "117-220",
+ "period_start": "2022-12-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-220",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-220",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs located at 400 College Drive, Middleburg, Florida, as the \"Andrew K. Baker Department of Veterans Affairs Clinic\", and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20community-based%20outpatient%20clinic%20of%20the%20Department%20of%20Veterans%20Affairs%20located%20at%20400%20College%20Drive,%20Middleburg,%20Florida,%20as%20the%20\"Andrew%20K.%20Baker%20Department%20of%20Veterans%20Affairs%20Clinic\",%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

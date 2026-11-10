@@ -1,0 +1,21 @@
+{
+ "law": "117-134",
+ "period_start": "2022-06-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-134",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-134",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to rename the Provo Veterans Center in Orem, Utah, as the \"Col. Gail S. Halvorsen 'Candy Bomber' Veterans Center\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20rename%20the%20Provo%20Veterans%20Center%20in%20Orem,%20Utah,%20as%20the%20\"Col.%20Gail%20S.%20Halvorsen%20'Candy%20Bomber'%20Veterans%20Center\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

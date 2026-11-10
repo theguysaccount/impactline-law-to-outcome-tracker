@@ -1,0 +1,21 @@
+{
+ "law": "117-87",
+ "period_start": "2022-02-22",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-87",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-87",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the facility of the United States Postal Service located at 42 Main Street in Slatersville, Rhode Island, as the \"Specialist Matthew R. Turcotte Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2042%20Main%20Street%20in%20Slatersville,%20Rhode%20Island,%20as%20the%20\"Specialist%20Matthew%20R.%20Turcotte%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

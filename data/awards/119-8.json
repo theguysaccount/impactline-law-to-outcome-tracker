@@ -1,0 +1,21 @@
+{
+ "law": "119-8",
+ "period_start": "2025-05-09",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-8",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-8",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Providing%20for%20congressional%20disapproval%20under%20chapter%208%20of%20title%205,%20United%20States%20Code,%20of%20the%20rule%20submitted%20by%20the%20Department%20of%20Energy%20relating%20to%20\"Energy%20Conservation%20Program%20for%20Appliance%20Standards:%20Certification%20Requirements,%20Labeling%20Requirements,%20and%20Enforcement%20Provisions%20for%20Certain%20Consumer%20Products%20and%20Commercial%20Equipment\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

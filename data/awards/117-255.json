@@ -1,0 +1,21 @@
+{
+ "law": "117-255",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-255",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-255",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Community Disaster Resilience Zones Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Community%20Disaster%20Resilience%20Zones%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

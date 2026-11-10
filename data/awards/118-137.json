@@ -1,0 +1,21 @@
+{
+ "law": "118-137",
+ "period_start": "2024-12-01",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-137",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-137",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "No Stolen Trademarks Honored in America Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=No%20Stolen%20Trademarks%20Honored%20in%20America%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

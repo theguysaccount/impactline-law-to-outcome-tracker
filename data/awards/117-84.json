@@ -1,0 +1,21 @@
+{
+ "law": "117-84",
+ "period_start": "2022-01-31",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-84",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-84",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Willie O’Ree Congressional Gold Medal Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Willie%20O’Ree%20Congressional%20Gold%20Medal%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

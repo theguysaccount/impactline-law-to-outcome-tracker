@@ -1,0 +1,21 @@
+{
+ "law": "117-352",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-352",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-352",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the facility of the United States Postal Service located at 5302 Galveston Road in Houston, Texas, as the \"Vanessa Guillen Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%205302%20Galveston%20Road%20in%20Houston,%20Texas,%20as%20the%20\"Vanessa%20Guillen%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

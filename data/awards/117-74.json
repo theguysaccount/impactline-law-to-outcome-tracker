@@ -1,0 +1,21 @@
+{
+ "law": "117-74",
+ "period_start": "2021-12-21",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-74",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-74",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To redesignate the Federal building located at 167 North Main Street in Memphis, Tennessee as the \"Odell Horton Federal Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20redesignate%20the%20Federal%20building%20located%20at%20167%20North%20Main%20Street%20in%20Memphis,%20Tennessee%20as%20the%20\"Odell%20Horton%20Federal%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

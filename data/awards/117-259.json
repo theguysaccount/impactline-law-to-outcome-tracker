@@ -1,0 +1,21 @@
+{
+ "law": "117-259",
+ "period_start": "2022-12-21",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-259",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-259",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "SBA Cyber Awareness Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=SBA%20Cyber%20Awareness%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

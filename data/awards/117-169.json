@@ -1,14 +1,19 @@
 {
  "law": "117-169",
+ "partial": true,
  "period_start": "2022-08-16",
  "phrases": [
   {
    "counts": {
     "direct_payments": 215,
-    "grants": 92
+    "grants": 86
    },
    "match": "citation",
    "phrase": "Public Law 117-169",
+   "returned": {
+    "direct_payments": 215,
+    "grants": 92
+   },
    "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-169",
    "top": [
     {
@@ -72,7 +77,89 @@
      "url": "https://www.usaspending.gov/award/ASST_NON_GRRPC24000906_086"
     }
    ]
+  },
+  {
+   "counts": {
+    "contracts": 92,
+    "direct_payments": 500,
+    "grants": 500,
+    "idvs": 1,
+    "other": 11
+   },
+   "match": "name",
+   "partial": true,
+   "phrase": "Inflation Reduction Act",
+   "returned": {
+    "contracts": 93,
+    "direct_payments": 42165,
+    "grants": 1707,
+    "idvs": 1,
+    "other": 11
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Inflation%20Reduction%20Act",
+   "top": [
+    {
+     "agency": "Environmental Protection Agency",
+     "amount": 6970000000.0,
+     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO CLIMATE UNITED (CU). THE RECIPIENT WILL UTILIZE THE FUNDING TO REDUCE EMISSIONS OF GREENHOUSE GASES AND OTHER AIR POLLUTANTS; DELIVER BENEFITS OF GREENHO",
+     "id": "84094001",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "CLIMATE UNITED FUND",
+     "url": "https://www.usaspending.gov/award/ASST_NON_84094001_068"
+    },
+    {
+     "agency": "Environmental Protection Agency",
+     "amount": 5000000000.0,
+     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO COALITION FOR GREEN CAPITAL (CGC). THE RECIPIENT WILL UTILIZE THE FUNDING TO REDUCE EMISSIONS OF GREENHOUSE GASES AND OTHER AIR POLLUTANTS; DELIVER BENEF",
+     "id": "84094201",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "COALITION FOR GREEN CAPITAL",
+     "url": "https://www.usaspending.gov/award/ASST_NON_84094201_068"
+    },
+    {
+     "agency": "Environmental Protection Agency",
+     "amount": 2290000000.0,
+     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO OPPORTUNITY FINANCE NETWORK (OFN). THE RECIPIENT WILL PROVIDE FUNDING AND TECHNICAL ASSISTANCE TO COMMUNITY LENDERS WHO WILL IN TURN FINANCE CLEAN TECHNO",
+     "id": "84093901",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "OPPORTUNITY FINANCE NETWORK",
+     "url": "https://www.usaspending.gov/award/ASST_NON_84093901_068"
+    },
+    {
+     "agency": "Environmental Protection Agency",
+     "amount": 2000000000.0,
+     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO POWER FORWARD COMMUNITIES (PFC). THE RECIPIENT WILL UTILIZE THE FUNDING TO REDUCE EMISSIONS OF GREENHOUSE GASES AND OTHER AIR POLLUTANTS; DELIVER BENEFIT",
+     "id": "84096001",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "POWER FORWARD COMMUNITIES, INC",
+     "url": "https://www.usaspending.gov/award/ASST_NON_84096001_068"
+    },
+    {
+     "agency": "Environmental Protection Agency",
+     "amount": 1870000000.0,
+     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO INCLUSIV. THE RECIPIENT WILL PROVIDE FUNDING AND TECHNICAL ASSISTANCE TO COMMUNITY LENDERS WHO WILL IN TURN FINANCE CLEAN TECHNOLOGY DEPLOYMENT IN LOW-IN",
+     "id": "84094301",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "INCLUSIV, INC",
+     "url": "https://www.usaspending.gov/award/ASST_NON_84094301_068"
+    },
+    {
+     "agency": "Environmental Protection Agency",
+     "amount": 940000000.0,
+     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO JUSTICE CLIMATE FUND, INC. THE RECIPIENT WILL PROVIDE FUNDING AND TECHNICAL ASSISTANCE TO COMMUNITY LENDERS WHO WILL IN TURN FINANCE CLEAN TECHNOLOGY DEP",
+     "id": "84094101",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "JUSTICE CLIMATE FUND, INC.",
+     "url": "https://www.usaspending.gov/award/ASST_NON_84094101_068"
+    }
+   ]
   }
  ],
- "total": 307
+ "total": 1402
 }

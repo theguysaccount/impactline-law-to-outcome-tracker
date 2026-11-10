@@ -1,0 +1,21 @@
+{
+ "law": "117-337",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-337",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-337",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Durbin Feeling Native American Languages Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Durbin%20Feeling%20Native%20American%20Languages%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-236",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-236",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-236",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the medical center of the Department of Veterans Affairs in Memphis, Tennessee, as the \"Lt. Col. Luke Weathers, Jr. VA Medical Center\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20medical%20center%20of%20the%20Department%20of%20Veterans%20Affairs%20in%20Memphis,%20Tennessee,%20as%20the%20\"Lt.%20Col.%20Luke%20Weathers,%20Jr.%20VA%20Medical%20Center\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

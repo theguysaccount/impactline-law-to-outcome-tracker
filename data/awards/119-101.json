@@ -1,0 +1,21 @@
+{
+ "law": "119-101",
+ "period_start": "2026-07-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-101",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-101",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "21st Century ROAD to Housing Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=21st%20Century%20ROAD%20to%20Housing%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-45",
+ "period_start": "2024-03-22",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-45",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-45",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "I–27 Numbering Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=I–27%20Numbering%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

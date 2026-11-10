@@ -1,0 +1,21 @@
+{
+ "law": "119-3",
+ "period_start": "2025-03-14",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-3",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-3",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Ocean Energy Management relating to \"Protection of Marine Archaeological Resources\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20joint%20resolution%20providing%20for%20congressional%20disapproval%20under%20chapter%208%20of%20title%205,%20United%20States%20Code,%20of%20the%20rule%20submitted%20by%20the%20Bureau%20of%20Ocean%20Energy%20Management%20relating%20to%20\"Protection%20of%20Marine%20Archaeological%20Resources\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

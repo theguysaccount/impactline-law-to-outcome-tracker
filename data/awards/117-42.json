@@ -1,0 +1,21 @@
+{
+ "law": "117-42",
+ "period_start": "2021-09-30",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-42",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-42",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Department of Veterans Affairs Expiring Authorities Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Department%20of%20Veterans%20Affairs%20Expiring%20Authorities%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

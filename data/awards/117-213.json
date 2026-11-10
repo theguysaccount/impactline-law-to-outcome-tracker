@@ -1,0 +1,21 @@
+{
+ "law": "117-213",
+ "period_start": "2022-10-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-213",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-213",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend section 301 of title 44, United States Code, to establish a term for the appointment of the Director of the Government Publishing Office.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20section%20301%20of%20title%2044,%20United%20States%20Code,%20to%20establish%20a%20term%20for%20the%20appointment%20of%20the%20Director%20of%20the%20Government%20Publishing%20Office.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

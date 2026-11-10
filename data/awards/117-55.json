@@ -1,0 +1,21 @@
+{
+ "law": "117-55",
+ "period_start": "2021-11-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-55",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-55",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Secure Equipment Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Secure%20Equipment%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

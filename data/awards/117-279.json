@@ -1,0 +1,21 @@
+{
+ "law": "117-279",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-279",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-279",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 16605 East Avenue of the Fountains in Fountain Hills, Arizona, as the \"Dr. C.T. Wright Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2016605%20East%20Avenue%20of%20the%20Fountains%20in%20Fountain%20Hills,%20Arizona,%20as%20the%20\"Dr.%20C.T.%20Wright%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

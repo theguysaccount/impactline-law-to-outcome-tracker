@@ -186,6 +186,58 @@
   "total_obligations": 15746245699.74,
   "total_outlays": 11454191093.48
  },
+ "programs": [
+  {
+   "listing": "97.036",
+   "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
+   "obligations": 204945773598.98
+  },
+  {
+   "listing": "97.048",
+   "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
+   "obligations": 9540130201.25
+  },
+  {
+   "listing": "97.039",
+   "name": "Hazard Mitigation Grant",
+   "obligations": 8854058781.23
+  },
+  {
+   "listing": "97.047",
+   "name": "BRIC: Building Resilient Infrastructure and Communities",
+   "obligations": 336941739.21
+  },
+  {
+   "listing": "97.046",
+   "name": "Fire Management Assistance Grant",
+   "obligations": 197475896.77
+  },
+  {
+   "listing": "97.088",
+   "name": "Disaster Assistance Projects",
+   "obligations": 127721230.05
+  },
+  {
+   "listing": "97.025",
+   "name": "National Urban Search and Rescue (US&R) Response System",
+   "obligations": 103937949.63
+  },
+  {
+   "listing": "97.029",
+   "name": "Flood Mitigation Assistance",
+   "obligations": 14845948.35
+  },
+  {
+   "listing": "97.050",
+   "name": "Presidential Declared Disaster Assistance to Individuals and Households - Other Needs",
+   "obligations": 4781677.47
+  },
+  {
+   "listing": "97.032",
+   "name": "Crisis Counseling",
+   "obligations": 275185.0
+  }
+ ],
  "shared_codes": [],
  "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAE"
 }

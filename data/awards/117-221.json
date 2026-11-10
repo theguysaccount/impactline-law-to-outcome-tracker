@@ -1,0 +1,21 @@
+{
+ "law": "117-221",
+ "period_start": "2022-12-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-221",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-221",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Disaster Resiliency Planning Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Disaster%20Resiliency%20Planning%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

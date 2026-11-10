@@ -1,0 +1,21 @@
+{
+ "law": "117-197",
+ "period_start": "2022-10-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-197",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-197",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 223 West Chalan Santo Papa in Hagatna, Guam, as the \"Atanasio Taitano Perez Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20223%20West%20Chalan%20Santo%20Papa%20in%20Hagatna,%20Guam,%20as%20the%20\"Atanasio%20Taitano%20Perez%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

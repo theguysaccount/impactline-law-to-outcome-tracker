@@ -1,0 +1,21 @@
+{
+ "law": "118-81",
+ "period_start": "2024-09-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-81",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-81",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Royalty Resiliency Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Royalty%20Resiliency%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

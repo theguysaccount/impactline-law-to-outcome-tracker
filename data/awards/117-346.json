@@ -1,0 +1,21 @@
+{
+ "law": "117-346",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-346",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-346",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to authorize leases of up to 99 years for land held in trust for the Confederated Tribes of the Chehalis Reservation.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20authorize%20leases%20of%20up%20to%2099%20years%20for%20land%20held%20in%20trust%20for%20the%20Confederated%20Tribes%20of%20the%20Chehalis%20Reservation.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

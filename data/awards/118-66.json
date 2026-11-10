@@ -1,0 +1,21 @@
+{
+ "law": "118-66",
+ "period_start": "2024-07-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-66",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-66",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinson’s Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Dr.%20Emmanuel%20Bilirakis%20and%20Honorable%20Jennifer%20Wexton%20National%20Plan%20to%20End%20Parkinson’s%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

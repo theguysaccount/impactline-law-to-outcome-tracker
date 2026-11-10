@@ -1,0 +1,21 @@
+{
+ "law": "119-80",
+ "period_start": "2026-03-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-80",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-80",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to waive the 60-day notice requirement for the posthumous honorary promotion of Captain Cody Khork, United States Army.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20waive%20the%2060-day%20notice%20requirement%20for%20the%20posthumous%20honorary%20promotion%20of%20Captain%20Cody%20Khork,%20United%20States%20Army.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-64",
+ "period_start": "2021-11-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-64",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-64",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To direct the Secretary of Veterans Affairs to submit to Congress a report on the use of cameras in medical facilities of the Department of Veterans Affairs.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20direct%20the%20Secretary%20of%20Veterans%20Affairs%20to%20submit%20to%20Congress%20a%20report%20on%20the%20use%20of%20cameras%20in%20medical%20facilities%20of%20the%20Department%20of%20Veterans%20Affairs.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

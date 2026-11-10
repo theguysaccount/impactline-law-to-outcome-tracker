@@ -1,0 +1,21 @@
+{
+ "law": "117-94",
+ "period_start": "2022-03-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-94",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-94",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 66 Meserole Avenue in Brooklyn, New York, as the \"Joseph R. Lentol Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2066%20Meserole%20Avenue%20in%20Brooklyn,%20New%20York,%20as%20the%20\"Joseph%20R.%20Lentol%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

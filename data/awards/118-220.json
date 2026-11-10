@@ -1,0 +1,21 @@
+{
+ "law": "118-220",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-220",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-220",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 1535 East Los Ebanos Boulevard in Brownsville, Texas, as the \"1st Lieutenant Andres Zermeno Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201535%20East%20Los%20Ebanos%20Boulevard%20in%20Brownsville,%20Texas,%20as%20the%20\"1st%20Lieutenant%20Andres%20Zermeno%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

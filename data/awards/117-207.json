@@ -1,0 +1,21 @@
+{
+ "law": "117-207",
+ "period_start": "2022-10-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-207",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-207",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Artificial Intelligence Training for the Acquisition Workforce Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Artificial%20Intelligence%20Training%20for%20the%20Acquisition%20Workforce%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

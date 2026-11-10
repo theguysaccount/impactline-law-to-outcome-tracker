@@ -1,0 +1,21 @@
+{
+ "law": "117-202",
+ "period_start": "2022-10-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-202",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-202",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Bulb Replacement Improving Government with High-efficiency Technology Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Bulb%20Replacement%20Improving%20Government%20with%20High-efficiency%20Technology%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

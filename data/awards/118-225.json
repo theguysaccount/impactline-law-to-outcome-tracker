@@ -1,0 +1,21 @@
+{
+ "law": "118-225",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-225",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-225",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Think Differently Database Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Think%20Differently%20Database%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

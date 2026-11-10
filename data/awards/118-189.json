@@ -1,0 +1,21 @@
+{
+ "law": "118-189",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-189",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-189",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend the Controlled Substances Act to fix a technical error in the definitions.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20the%20Controlled%20Substances%20Act%20to%20fix%20a%20technical%20error%20in%20the%20definitions.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

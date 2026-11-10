@@ -1,0 +1,21 @@
+{
+ "law": "117-228",
+ "period_start": "2022-12-13",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-228",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-228",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Respect for Marriage Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Respect%20for%20Marriage%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

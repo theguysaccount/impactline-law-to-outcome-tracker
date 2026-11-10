@@ -1,0 +1,21 @@
+{
+ "law": "117-140",
+ "period_start": "2022-06-13",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-140",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-140",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Commission To Study the Potential Creation of a National Museum of Asian Pacific American History and Culture Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Commission%20To%20Study%20the%20Potential%20Creation%20of%20a%20National%20Museum%20of%20Asian%20Pacific%20American%20History%20and%20Culture%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

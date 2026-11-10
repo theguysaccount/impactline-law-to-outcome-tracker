@@ -1,0 +1,21 @@
+{
+ "law": "118-126",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-126",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-126",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 333 West Broadway in Anaheim, California, as the \"Dr. William I. 'Bill' Kott Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20333%20West%20Broadway%20in%20Anaheim,%20California,%20as%20the%20\"Dr.%20William%20I.%20'Bill'%20Kott%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

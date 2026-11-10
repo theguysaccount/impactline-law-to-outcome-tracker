@@ -1,0 +1,21 @@
+{
+ "law": "118-208",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-208",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-208",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the medical center of the Department of Veterans Affairs in Tulsa, Oklahoma, as the James Mountain Inhofe VA Medical Center.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20medical%20center%20of%20the%20Department%20of%20Veterans%20Affairs%20in%20Tulsa,%20Oklahoma,%20as%20the%20James%20Mountain%20Inhofe%20VA%20Medical%20Center.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-262",
+ "period_start": "2022-12-21",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-262",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-262",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Providing Resources, Officers, and Technology to Eradicate Cyber Threats to Our Children Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Providing%20Resources,%20Officers,%20and%20Technology%20to%20Eradicate%20Cyber%20Threats%20to%20Our%20Children%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "119-22",
+ "period_start": "2025-07-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-22",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-22",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Alaska Native Settlement Trust Eligibility Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Alaska%20Native%20Settlement%20Trust%20Eligibility%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

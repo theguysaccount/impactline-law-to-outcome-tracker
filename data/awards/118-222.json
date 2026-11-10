@@ -1,0 +1,21 @@
+{
+ "law": "118-222",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-222",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-222",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 501 Mercer Street Southwest in Wilson, North Carolina, as the \"Milton F. Fitch, Sr. Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20501%20Mercer%20Street%20Southwest%20in%20Wilson,%20North%20Carolina,%20as%20the%20\"Milton%20F.%20Fitch,%20Sr.%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

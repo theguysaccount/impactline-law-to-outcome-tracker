@@ -1,0 +1,69 @@
+{
+ "law": "118-138",
+ "partial": false,
+ "period_start": "2024-12-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-138",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-138",
+   "top": []
+  },
+  {
+   "counts": {
+    "grants": 4
+   },
+   "match": "name",
+   "phrase": "Coastal Habitat Conservation Act",
+   "returned": {
+    "grants": 8
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Coastal%20Habitat%20Conservation%20Act",
+   "top": [
+    {
+     "agency": "Department of the Interior",
+     "amount": 255615.0,
+     "description": "THE PROJECT WILL PREVENT PERMANENT LOSS OF NATIVE HABITATS AND POPULATIONS OF RARE SPECIES BY ERADICATING AND CONTROLLING NONNATIVE INVASIVE LIMONIUM SPECIES FROM WITHIN 823 ACRES OF SAN DIEGO BAY CONSISTING OF 600 ACRES OF THE SAN DIEGO BA",
+     "id": "F25AC01912",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "WESTERN BORDERLANDS ECOLOGY GROUP",
+     "url": "https://www.usaspending.gov/award/ASST_NON_F25AC01912_014"
+    },
+    {
+     "agency": "Department of the Interior",
+     "amount": 196000.0,
+     "description": "THE PROJECT WILL PREVENT PERMANENT LOSS OF NATIVE HABITATS AND POPULATIONS OF RARE SPECIES BY ERADICATING AND CONTROLLING NONNATIVE INVASIVE LIMONIUM RAMOSISSIMUM (ALGERIAN SEA LAVENDER) FROM WITHIN THE 100 ACRES OF MARSH AND SHORELINE SURR",
+     "id": "F25AC01899",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "AGUA HEDIONDA LAGOON FOUNDATION",
+     "url": "https://www.usaspending.gov/award/ASST_NON_F25AC01899_014"
+    },
+    {
+     "agency": "Department of the Interior",
+     "amount": 50000.0,
+     "description": "THIS PROJECT WILL USE NOVEL TECHNOLOGY TO IMPLEMENT A STUDY ON MONARCH MOVEMENT AND MIGRATION. THE GOAL IS TO DEEPEN THE UNDERSTANDING OF MONARCH BUTTERFLY USE OF OVERWINTERING HABITAT USING RADIO TELEMETRY TAG TECHNOLOGY. MONARCHS WILL BE ",
+     "id": "F25AC01988",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "ALTHOUSE & MEADE, INC",
+     "url": "https://www.usaspending.gov/award/ASST_NON_F25AC01988_014"
+    },
+    {
+     "agency": "Department of the Interior",
+     "amount": 35000.0,
+     "description": "THE PROJECT WILL TAKE PLACE AT A MONARCH BUTTERFLY OVERWINTERING GROVE IN LOS ANGELES COUNTY, CALIFORNIA. THE MONARCH BUTTERFLY OVERWINTERING SITE IS DEGRADED AND WAS FURTHER IMPACTED BY THE 2025 PALISADES FIRE WHICH BURNED EUCALYPTUS TREES",
+     "id": "F25AC02525",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "RESOURCE CONSERVATION DISTRICT OF THE SANTA MONICA MOUNTAINS",
+     "url": "https://www.usaspending.gov/award/ASST_NON_F25AC02525_014"
+    }
+   ]
+  }
+ ],
+ "total": 4
+}

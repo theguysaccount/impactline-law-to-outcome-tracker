@@ -1,0 +1,21 @@
+{
+ "law": "117-214",
+ "period_start": "2022-10-19",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-214",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-214",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Global Malnutrition Prevention and Treatment Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Global%20Malnutrition%20Prevention%20and%20Treatment%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

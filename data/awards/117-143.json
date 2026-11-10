@@ -1,0 +1,21 @@
+{
+ "law": "117-143",
+ "period_start": "2022-06-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-143",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-143",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 1233 North Cedar Street in Owasso, Oklahoma, as the \"Technical Sergeant Marshal Roberts Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201233%20North%20Cedar%20Street%20in%20Owasso,%20Oklahoma,%20as%20the%20\"Technical%20Sergeant%20Marshal%20Roberts%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

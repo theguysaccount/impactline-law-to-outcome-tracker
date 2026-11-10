@@ -1,0 +1,21 @@
+{
+ "law": "117-68",
+ "period_start": "2021-11-30",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-68",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-68",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Colonel John M. McHugh Tuition Fairness for Survivors Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Colonel%20John%20M.%20McHugh%20Tuition%20Fairness%20for%20Survivors%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-166",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-166",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-166",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To extend the authority to collect Shasta-Trinity Marina fees through fiscal year 2029.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20extend%20the%20authority%20to%20collect%20Shasta-Trinity%20Marina%20fees%20through%20fiscal%20year%202029.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

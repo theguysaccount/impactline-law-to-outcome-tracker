@@ -1,0 +1,21 @@
+{
+ "law": "119-96",
+ "period_start": "2026-06-09",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-96",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-96",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Gerald E. Connolly Esophageal Cancer Awareness Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Gerald%20E.%20Connolly%20Esophageal%20Cancer%20Awareness%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-257",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-257",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-257",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 20 West White Street in Millstadt, Illinois, as the \"Corporal Matthew A. Wyatt Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2020%20West%20White%20Street%20in%20Millstadt,%20Illinois,%20as%20the%20\"Corporal%20Matthew%20A.%20Wyatt%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

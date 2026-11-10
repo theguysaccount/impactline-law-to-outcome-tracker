@@ -1,0 +1,21 @@
+{
+ "law": "117-119",
+ "period_start": "2022-05-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-119",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-119",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the United States courthouse located at 1501 North 6th Street in Harrisburg, Pennsylvania, as the \"Sylvia H. Rambo United States Courthouse\", and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20United%20States%20courthouse%20located%20at%201501%20North%206th%20Street%20in%20Harrisburg,%20Pennsylvania,%20as%20the%20\"Sylvia%20H.%20Rambo%20United%20States%20Courthouse\",%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

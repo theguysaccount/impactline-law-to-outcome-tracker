@@ -1,0 +1,21 @@
+{
+ "law": "118-122",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-122",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-122",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 9925 Bustleton Avenue in Philadelphia, Pennsylvania, as the \"Sergeant Christopher David Fitzgerald Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%209925%20Bustleton%20Avenue%20in%20Philadelphia,%20Pennsylvania,%20as%20the%20\"Sergeant%20Christopher%20David%20Fitzgerald%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

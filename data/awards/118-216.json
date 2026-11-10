@@ -1,0 +1,21 @@
+{
+ "law": "118-216",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-216",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-216",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 109 Live Oaks Boulevard in Casselberry, Florida, as the \"Colonel Joseph William Kittinger II Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20109%20Live%20Oaks%20Boulevard%20in%20Casselberry,%20Florida,%20as%20the%20\"Colonel%20Joseph%20William%20Kittinger%20II%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

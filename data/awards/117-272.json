@@ -1,0 +1,21 @@
+{
+ "law": "117-272",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-272",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-272",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "21st Century President Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=21st%20Century%20President%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

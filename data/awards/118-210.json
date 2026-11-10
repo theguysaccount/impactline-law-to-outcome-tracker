@@ -1,0 +1,31 @@
+{
+ "law": "118-210",
+ "partial": false,
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {
+    "contracts": 1
+   },
+   "match": "citation",
+   "phrase": "Public Law 118-210",
+   "returned": {
+    "contracts": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-210",
+   "top": [
+    {
+     "agency": "Department of Veterans Affairs",
+     "amount": 368850.0,
+     "description": "OEM MOBILE DENTAL UNIT TO FULFILL THE ELIZABETH DOLE 21ST CENTURY VETERANS HEALTH CARE AND BENEFITS IMPROVEMENT ACT OF 2025 (PUBLIC LAW 118-210)",
+     "id": "36C77625P0068",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "TESCO SPECIALTY VEHICLES LLC",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_36C77625P0068_3600_-NONE-_-NONE-"
+    }
+   ]
+  }
+ ],
+ "total": 1
+}

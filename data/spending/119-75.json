@@ -1,0 +1,28 @@
+{
+ "agencies": [],
+ "awards": [],
+ "codes": [
+  {
+   "code": "AAN",
+   "designation": "Emergency"
+  },
+  {
+   "code": "AAO",
+   "designation": "Disaster"
+  }
+ ],
+ "funding_by_code": {
+  "AAO": 76600000.0
+ },
+ "law": "119-75",
+ "overview": {
+  "award_obligations": 0.0,
+  "award_outlays": 0.0,
+  "budget_authority": 76600000.0,
+  "total_obligations": 0.0,
+  "total_outlays": 0.0
+ },
+ "programs": [],
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAN,AAO"
+}

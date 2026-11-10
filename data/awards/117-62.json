@@ -1,0 +1,21 @@
+{
+ "law": "117-62",
+ "period_start": "2021-11-22",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-62",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-62",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Veterans and Family Information Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Veterans%20and%20Family%20Information%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

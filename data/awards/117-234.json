@@ -1,0 +1,21 @@
+{
+ "law": "117-234",
+ "period_start": "2022-12-19",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-234",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-234",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 4744 Grand River Avenue in Detroit, Michigan, as the \"Rosa Louise McCauley Parks Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%204744%20Grand%20River%20Avenue%20in%20Detroit,%20Michigan,%20as%20the%20\"Rosa%20Louise%20McCauley%20Parks%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

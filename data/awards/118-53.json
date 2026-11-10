@@ -1,0 +1,21 @@
+{
+ "law": "118-53",
+ "period_start": "2024-05-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-53",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-53",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 3901 MacArthur Blvd., in New Orleans, Louisiana, as the \"Dr. Rudy Lombard Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%203901%20MacArthur%20Blvd.,%20in%20New%20Orleans,%20Louisiana,%20as%20the%20\"Dr.%20Rudy%20Lombard%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

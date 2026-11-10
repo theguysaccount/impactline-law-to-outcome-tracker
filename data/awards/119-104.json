@@ -1,0 +1,21 @@
+{
+ "law": "119-104",
+ "period_start": "2026-09-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-104",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-104",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Hershel ‘Woody’ Williams National Medal of Honor Monument Location Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Hershel%20‘Woody’%20Williams%20National%20Medal%20of%20Honor%20Monument%20Location%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

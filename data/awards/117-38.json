@@ -1,0 +1,21 @@
+{
+ "law": "117-38",
+ "period_start": "2021-08-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-38",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-38",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Harlem Hellfighters Congressional Gold Medal Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Harlem%20Hellfighters%20Congressional%20Gold%20Medal%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

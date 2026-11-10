@@ -1,0 +1,21 @@
+{
+ "law": "118-250",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-250",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-250",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To amend title 28, United States Code, to authorize holding court for the Central Division of Utah in Moab and Monticello.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20amend%20title%2028,%20United%20States%20Code,%20to%20authorize%20holding%20court%20for%20the%20Central%20Division%20of%20Utah%20in%20Moab%20and%20Monticello.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

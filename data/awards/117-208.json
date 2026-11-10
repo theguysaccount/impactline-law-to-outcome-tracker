@@ -1,0 +1,21 @@
+{
+ "law": "117-208",
+ "period_start": "2022-10-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-208",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-208",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs in San Angelo, Texas, as the \"Colonel Charles and JoAnne Powell Department of Veterans Affairs Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20community-based%20outpatient%20clinic%20of%20the%20Department%20of%20Veterans%20Affairs%20in%20San%20Angelo,%20Texas,%20as%20the%20\"Colonel%20Charles%20and%20JoAnne%20Powell%20Department%20of%20Veterans%20Affairs%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

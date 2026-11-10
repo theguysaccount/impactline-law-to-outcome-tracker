@@ -1,0 +1,21 @@
+{
+ "law": "118-170",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-170",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-170",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Drought Preparedness Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Drought%20Preparedness%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

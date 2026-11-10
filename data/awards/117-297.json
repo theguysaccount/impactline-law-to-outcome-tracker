@@ -1,0 +1,21 @@
+{
+ "law": "117-297",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-297",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-297",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Veterans Eligible to Transfer School (VETS) Credit Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Veterans%20Eligible%20to%20Transfer%20School%20(VETS)%20Credit%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

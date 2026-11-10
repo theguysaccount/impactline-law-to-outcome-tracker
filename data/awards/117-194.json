@@ -1,0 +1,21 @@
+{
+ "law": "117-194",
+ "period_start": "2022-10-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-194",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-194",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 110 Johnson Street in Pickens, South Carolina, as the \"Specialist Four Charles Johnson Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20110%20Johnson%20Street%20in%20Pickens,%20South%20Carolina,%20as%20the%20\"Specialist%20Four%20Charles%20Johnson%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

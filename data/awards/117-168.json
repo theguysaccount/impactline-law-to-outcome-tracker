@@ -1,0 +1,39 @@
+{
+ "law": "117-168",
+ "partial": false,
+ "period_start": "2022-08-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-168",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-168",
+   "top": []
+  },
+  {
+   "counts": {
+    "contracts": 1
+   },
+   "match": "name",
+   "phrase": "Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act",
+   "returned": {
+    "contracts": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Sergeant%20First%20Class%20Heath%20Robinson%20Honoring%20our%20Promise%20to%20Address%20Comprehensive%20Toxics%20Act",
+   "top": [
+    {
+     "agency": "Department of Veterans Affairs",
+     "amount": 903991.42,
+     "description": "VA REQUIRES ADDITIONAL TEXT MESSAGE CAPABILITY CLOUD SHORT MESSAGE SERVICE TO DELIVER FURTHER AWARENESS WITH THE SERGEANT FIRST CLASS HEATH ROBINSON HONORING OUR PROMISE TO ADDRESS COMPREHENSIVE TOXICS ACT AND TOXIC EXPOSURE OUTREACH TO VET",
+     "id": "36C10B24F0158",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "THUNDERCAT TECHNOLOGY, LLC",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B24F0158_3600_NNG15SD26B_8000"
+    }
+   ]
+  }
+ ],
+ "total": 1
+}

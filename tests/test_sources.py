@@ -158,7 +158,16 @@ class SpendingTest(TempData):
             return {"results": [{"code": "20.205", "name": "Highway Planning and Construction", "amount": 44.0}]}
         if "/spending_by_award_count/" in url:
             kw = body["filters"].get("keywords", [""])[0]
-            return {"results": {"grants": 12, "contracts": 3} if "Clear Rural Roads" in kw else {"grants": 0}}
+            return {"results": {"grants": 12, "contracts": 3} if "Clear Rural Roads" in kw else {"grants": 2} if kw == "Public Law 119-10" else {"grants": 0}}
+        if "/spending_by_award/" in url and "keywords" in body["filters"]:
+            # USAspending's keyword search is loose: one row names the law, one does not, one cites a longer law number.
+            rows = [{"Award ID": "A1", "Recipient Name": "CITY OF X", "Award Amount": 9.0, "Awarding Agency": "DOT",
+                     "Description": "ROAD WORK UNDER THE CLEAR  RURAL ROADS ACT OF 2025 " + "AND MORE " * 60, "generated_internal_id": "ASST_NON_A1_069"},
+                    {"Award ID": "A2", "Recipient Name": "CITY OF Y", "Award Amount": 8.0, "Awarding Agency": "DOT",
+                     "Description": "RURAL ROADS CLEARING", "generated_internal_id": "ASST_NON_A2_069"},
+                    {"Award ID": "A3", "Recipient Name": "CITY OF Z", "Award Amount": 7.0, "Awarding Agency": "DOT",
+                     "Description": "WORK REQUIRED BY PUBLIC LAW 119-100", "generated_internal_id": "ASST_NON_A3_069"}]
+            return {"results": rows if body["filters"]["award_type_codes"] == spending.GROUPS["grants"] else rows[1:]}
         if "/spending_by_award/" in url:
             return {"results": [{"Award ID": "A1", "Recipient Name": "CITY OF X", "Award Amount": 9.0, "Total Outlays": 4.0,
                                  "Awarding Agency": "DOT", "Description": "ROAD WORK " * 60, "generated_internal_id": "ASST_NON_A1_069"}]}
@@ -194,6 +203,20 @@ class SpendingTest(TempData):
         spending.refresh_tagged(FakeHttp(lambda u, b: fewer if u.endswith("/def_codes/") else self.route(u, b)), self.cfg, laws_, NOW)
         self.assertFalse(os.path.exists(spending.tagged_path("119-4")))
 
+    def test_a_citation_must_be_this_exact_law_number(self):
+        x = {"congress": 118, "number": 21}
+        cite = {"match": "citation", "phrase": "Public Law 118-21"}
+        self.assertTrue(spending.mentions("FUNDED UNDER PUBLIC LAW 118-21, SECTION 2", cite, x))
+        self.assertTrue(spending.mentions("per P.L. 118-21", cite, x))
+        self.assertTrue(spending.mentions("Pub. L. No. 118–21", cite, x))
+        self.assertTrue(spending.mentions("FY23 NDAA PUBLIC LAW 118 21 DEC 23", cite, x))
+        self.assertFalse(spending.mentions("IMPROVEMENT ACT OF 2025 (PUBLIC LAW 118-210)", cite, x))
+        self.assertFalse(spending.mentions("PUBLIC LAW 117-118-21", cite, x))
+        self.assertFalse(spending.mentions("INVOICE 118-21", cite, x))
+        name = {"match": "name", "phrase": "Coastal Habitat Conservation Act"}
+        self.assertTrue(spending.mentions("under the COASTAL  HABITAT-CONSERVATION ACT of 2023", name, x))
+        self.assertFalse(spending.mentions("ERADICATING NONNATIVE LIMONIUM IN SAN DIEGO BAY", name, x))
+
     def test_keyword_candidates_skip_tagged_laws_and_search_from_the_approval_date(self):
         spending.refresh_tagged(FakeHttp(self.route), self.cfg, [law(58, congress=117, approved="2021-11-15")], NOW)
         laws_ = [law(58, congress=117, approved="2021-11-15"), law(10, title="Clear Rural Roads Act of 2025"), law(11, title="Short Act")]
@@ -203,8 +226,11 @@ class SpendingTest(TempData):
         self.assertFalse(os.path.exists(spending.named_path("117-58")))
         rec = json.loads(read(spending.named_path("119-10")))
         self.assertEqual([(p["phrase"], p["match"], p["counts"]) for p in rec["phrases"]],
-                         [("Public Law 119-10", "citation", {}), ("Clear Rural Roads Act", "name", {"grants": 12, "contracts": 3})])
-        self.assertEqual(rec["total"], 15)
+                         [("Public Law 119-10", "citation", {}), ("Clear Rural Roads Act", "name", {"grants": 1})],
+                         "only descriptions that contain the phrase count; 119-100 is not 119-10")
+        self.assertEqual(rec["phrases"][0]["returned"], {"grants": 2}, "what the loose search reported is kept for the record")
+        self.assertEqual(rec["phrases"][1]["returned"], {"grants": 12, "contracts": 3})
+        self.assertEqual(rec["total"], 1)
         self.assertEqual(rec["phrases"][1]["top"][0]["url"], "https://www.usaspending.gov/award/ASST_NON_A1_069")
         periods = [b["filters"]["time_period"] for u, b in http.log if "award_count" in u]
         self.assertTrue(all(p == [{"start_date": "2025-03-14", "end_date": "2026-03-02"}] for p in periods))

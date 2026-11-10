@@ -1,0 +1,21 @@
+{
+ "law": "118-269",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-269",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-269",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 119 North Anderson Street in Elwood, Indiana, as the \"Officer Noah Jacob Shahnavaz Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20119%20North%20Anderson%20Street%20in%20Elwood,%20Indiana,%20as%20the%20\"Officer%20Noah%20Jacob%20Shahnavaz%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

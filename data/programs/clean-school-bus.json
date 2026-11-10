@@ -1,0 +1,228 @@
+{
+ "codes": [
+  "1",
+  "Z"
+ ],
+ "law": "117-58",
+ "listing": "66.045",
+ "listing_name": "Clean School Bus Program",
+ "national": {
+  "awards": [
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 39499635.0,
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT TO FIRST STUDENT, LLC. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH ZERO EMISSION SCHOOL BUSES. ACTIVITIES:THE ACTIVITIES INCLUDE REPLAC",
+    "id": "00E03675",
+    "kind": "grants",
+    "outlays": 17648460.93,
+    "recipient": "FIRST STUDENT, INC.",
+    "url": "https://www.usaspending.gov/award/ASST_NON_00E03675_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 38146757.0,
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE LION ELECTRIC CO. USA, INC. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION (ZE) SCHOOL BUSES.ACTIVIT",
+    "id": "02F54201",
+    "kind": "grants",
+    "outlays": 34140491.0,
+    "recipient": "THE LION ELECTRIC CO USA INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_02F54201_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 33299750.0,
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO DATTCO, INC. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION (ZE) SCHOOL BUSES. ACTIVITIES:THE ACTIVITIES",
+    "id": "00A01508",
+    "kind": "grants",
+    "outlays": 20828003.26,
+    "recipient": "DATTCO INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_00A01508_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 29500000.0,
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO NYC SCHOOL BUS UMBRELLA SERVICES, INC. (NYCBUS) TO REDUCE DIESEL EMISSIONS AND IMPROVE LOCAL AIR QUALITY. THIS AGREEMENT IS TO REPLACE EX",
+    "id": "96264924",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "NEW YORK CITY SCHOOL BUS UMBRELLA SERVICES INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_96264924_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 26579482.0,
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO ZUM SERVICES, INC. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION (ZE) SCHOOL BUSES. THIS ASSISTANCE AGR",
+    "id": "98T92801",
+    "kind": "grants",
+    "outlays": 10499459.94,
+    "recipient": "ZUM SERVICES, INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_98T92801_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 20285017.0,
+    "description": "DESCRIPTION:CHICAGO PUBLIC SCHOOLS WILL USE THE CLEAN BUS GRANT FUNDING OPPORTUNITY TO PURCHASE 50 ZERO EMISSION CLASS 7 SCHOOL BUSES AND 25 DIRECT CURRENT FAST CHARGERS. THE OVERARCHING GOALS ARE TO IMPROVE AIR QUALITY, REDUCE EMISSIONS RE",
+    "id": "00E03670",
+    "kind": "grants",
+    "outlays": 88074.0,
+    "recipient": "BOARD OF EDUCATION CITY OF CHICAGO",
+    "url": "https://www.usaspending.gov/award/ASST_NON_00E03670_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 20139250.0,
+    "description": "DESCRIPTION:THIS ACTION APPROVES AN AWARD IN THE AMOUNT OF $20,139,250 UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO DEKALB COUNTY SCHOOL DISTRICT. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION",
+    "id": "03D06724",
+    "kind": "grants",
+    "outlays": 17250000.0,
+    "recipient": "DEKALB COUNTY BOARD OF EDUCATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_03D06724_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 20063024.0,
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE CITY OF BOSTON (BOSTON PUBLIC SCHOOLS). THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION (ZE) SCHOOL B",
+    "id": "00A01507",
+    "kind": "grants",
+    "outlays": 19147216.73,
+    "recipient": "BOSTON, CITY OF",
+    "url": "https://www.usaspending.gov/award/ASST_NON_00A01507_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 9125000.0,
+    "description": "CSB PROGRAM: 2023 SPOKANE SCHOOL DISTRICT",
+    "id": "DRP24FZ404G",
+    "kind": "direct_payments",
+    "outlays": 9125000.0,
+    "recipient": "ZUM SERVICES, INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_DRP24FZ404G_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 8985000.0,
+    "description": "CSB PROGRAM: 2023 READING SD",
+    "id": "DRP24FZ404K",
+    "kind": "direct_payments",
+    "outlays": 8985000.0,
+    "recipient": "ZUM SERVICES, INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_DRP24FZ404K_068"
+   }
+  ],
+  "counts": {
+   "direct_payments": 509,
+   "grants": 63
+  }
+ },
+ "obligations": 1638693637.01,
+ "slug": "clean-school-bus",
+ "state": {
+  "awards": [
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 26579482.0,
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO ZUM SERVICES, INC. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION (ZE) SCHOOL BUSES. THIS ASSISTANCE AGR",
+    "id": "98T92801",
+    "kind": "grants",
+    "outlays": 10499459.94,
+    "recipient": "ZUM SERVICES, INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_98T92801_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 19750000.0,
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE LOS ANGELES UNIFIED SCHOOL DISTRICT. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH ZERO EMISSION (ZE) SCHOOL BUSES. THIS AS",
+    "id": "98T92901",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+    "url": "https://www.usaspending.gov/award/ASST_NON_98T92901_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 13856644.0,
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO PORTERVILLE UNIFIED SCHOOL DISTRICT. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION (ZE) SCHOOL BUSES. A",
+    "id": "98T92701",
+    "kind": "grants",
+    "outlays": 2474207.17,
+    "recipient": "PORTERVILLE UNIFIED SCHOOL DISTRICT",
+    "url": "https://www.usaspending.gov/award/ASST_NON_98T92701_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 6625000.0,
+    "description": "CSB PROGRAM: 2023 FRESNO UNIFIED",
+    "id": "DRP24FZ402Y",
+    "kind": "direct_payments",
+    "outlays": 6625000.0,
+    "recipient": "FIRST STUDENT, INC.",
+    "url": "https://www.usaspending.gov/award/ASST_NON_DRP24FZ402Y_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 6625000.0,
+    "description": "CANCELLED - CSB PROGRAM: 2023 COMPTON UNIFIED",
+    "id": "DRP24FS401J",
+    "kind": "direct_payments",
+    "outlays": 6625000.0,
+    "recipient": "HIGHLAND ELECTRIC FLEETS INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_DRP24FS401J_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 5520000.0,
+    "description": "CSB PROGRAM: 2023 ELK GROVE UNIFIED",
+    "id": "DRP24FS4026",
+    "kind": "direct_payments",
+    "outlays": 5520000.0,
+    "recipient": "HIGHLAND ELECTRIC FLEETS INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_DRP24FS4026_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 5300000.0,
+    "description": "CANCELLED - CSB PROGRAM: 2023 STOCKTON UNIFIED",
+    "id": "DRP24FS402L",
+    "kind": "direct_payments",
+    "outlays": 5300000.0,
+    "recipient": "A-Z BUS SALES INC.",
+    "url": "https://www.usaspending.gov/award/ASST_NON_DRP24FS402L_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 5080000.0,
+    "description": "CSB PROGRAM: 2023 SANTA BARBARA UNIFIED",
+    "id": "DRP24FS405F",
+    "kind": "direct_payments",
+    "outlays": 5080000.0,
+    "recipient": "ZUM SERVICES, INC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_DRP24FS405F_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 3125000.0,
+    "description": "CANCELLED - CSB PROGRAM: 2023 WHITTIER UNION HIGH",
+    "id": "DRP24FS403U",
+    "kind": "direct_payments",
+    "outlays": 3125000.0,
+    "recipient": "WHITTIER UNION HIGH SCHOOL DISTRICT",
+    "url": "https://www.usaspending.gov/award/ASST_NON_DRP24FS403U_068"
+   },
+   {
+    "agency": "Environmental Protection Agency",
+    "amount": 2795000.0,
+    "description": "CANCELLED - CSB PROGRAM: 2023 ORANGE UNIFIED",
+    "id": "DRP24FZ401M",
+    "kind": "direct_payments",
+    "outlays": 2795000.0,
+    "recipient": "A-Z BUS SALES INC.",
+    "url": "https://www.usaspending.gov/award/ASST_NON_DRP24FZ401M_068"
+   }
+  ],
+  "code": "CA",
+  "counts": {
+   "direct_payments": 45,
+   "grants": 5
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "law": "117-351",
+ "partial": false,
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-351",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-351",
+   "top": []
+  },
+  {
+   "counts": {
+    "grants": 1
+   },
+   "match": "name",
+   "phrase": "Justice for Victims of War Crimes Act",
+   "returned": {
+    "grants": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Justice%20for%20Victims%20of%20War%20Crimes%20Act",
+   "top": [
+    {
+     "agency": "National Science Foundation",
+     "amount": 162123.0,
+     "description": "NGO-PROSECUTORIAL COMPLEX IN UNIVERSAL JURISDICTION CASES: STRUCTURE AND CONSEQUENCES FOR JUSTICE AND PUBLIC KNOWLEDGE ABOUT HUMAN RIGHTS VIOLATIONS -THE PROJECT WILL ADVANCE KNOWLEDGE ON THE STRUCTURE AND FUNCTIONING OF NETWORKS FORMED BY ",
+     "id": "2314061",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+     "url": "https://www.usaspending.gov/award/ASST_NON_2314061_049"
+    }
+   ]
+  }
+ ],
+ "total": 1
+}

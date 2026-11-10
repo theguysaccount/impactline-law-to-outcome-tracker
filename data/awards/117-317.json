@@ -1,0 +1,21 @@
+{
+ "law": "117-317",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-317",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-317",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Repealing Existing Substandard Provisions Encouraging Conciliation with Tribes Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Repealing%20Existing%20Substandard%20Provisions%20Encouraging%20Conciliation%20with%20Tribes%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

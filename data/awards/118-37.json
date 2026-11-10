@@ -1,0 +1,21 @@
+{
+ "law": "118-37",
+ "period_start": "2024-01-26",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-37",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-37",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to provide remote access to court proceedings for victims of the 1988 Bombing of Pan Am Flight 103 over Lockerbie, Scotland.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20provide%20remote%20access%20to%20court%20proceedings%20for%20victims%20of%20the%201988%20Bombing%20of%20Pan%20Am%20Flight%20103%20over%20Lockerbie,%20Scotland.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

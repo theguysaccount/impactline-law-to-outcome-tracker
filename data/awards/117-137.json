@@ -1,0 +1,21 @@
+{
+ "law": "117-137",
+ "period_start": "2022-06-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-137",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-137",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to transfer the name of property of the Department of Veterans Affairs designated by law to other property of the Department.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20title%2038,%20United%20States%20Code,%20to%20authorize%20the%20Secretary%20of%20Veterans%20Affairs%20to%20transfer%20the%20name%20of%20property%20of%20the%20Department%20of%20Veterans%20Affairs%20designated%20by%20law%20to%20other%20property%20of%20the%20Department.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-212",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-212",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-212",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 207 East Fort Dade Avenue in Brooksville, Florida, as the \"Specialist Justin Dean Coleman Memorial Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20207%20East%20Fort%20Dade%20Avenue%20in%20Brooksville,%20Florida,%20as%20the%20\"Specialist%20Justin%20Dean%20Coleman%20Memorial%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

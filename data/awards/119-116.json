@@ -1,0 +1,21 @@
+{
+ "law": "119-116",
+ "period_start": "2026-09-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-116",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-116",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Modernizing Access to Our Public Oceans Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Modernizing%20Access%20to%20Our%20Public%20Oceans%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

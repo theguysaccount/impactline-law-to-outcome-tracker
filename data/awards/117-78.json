@@ -1,0 +1,21 @@
+{
+ "law": "117-78",
+ "period_start": "2021-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-78",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-78",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Uyghur Forced Labor Prevention Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Uyghur%20Forced%20Labor%20Prevention%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

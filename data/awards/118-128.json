@@ -1,0 +1,21 @@
+{
+ "law": "118-128",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-128",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-128",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To name the Department of Veterans Affairs medical center in West Palm Beach, Florida, as the \"Thomas H. Corey VA Medical Center\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20name%20the%20Department%20of%20Veterans%20Affairs%20medical%20center%20in%20West%20Palm%20Beach,%20Florida,%20as%20the%20\"Thomas%20H.%20Corey%20VA%20Medical%20Center\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

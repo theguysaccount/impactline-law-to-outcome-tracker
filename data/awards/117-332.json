@@ -1,0 +1,21 @@
+{
+ "law": "117-332",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-332",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-332",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Hazard Eligibility and Local Projects Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Hazard%20Eligibility%20and%20Local%20Projects%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

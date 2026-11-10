@@ -1,0 +1,21 @@
+{
+ "law": "117-41",
+ "period_start": "2021-09-24",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-41",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-41",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend the Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act to extend the deadline for a report by the Alyce Spotted Bear and Walter Soboleff Commission on Native Children, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20the%20Alyce%20Spotted%20Bear%20and%20Walter%20Soboleff%20Commission%20on%20Native%20Children%20Act%20to%20extend%20the%20deadline%20for%20a%20report%20by%20the%20Alyce%20Spotted%20Bear%20and%20Walter%20Soboleff%20Commission%20on%20Native%20Children,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

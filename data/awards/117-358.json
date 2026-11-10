@@ -1,0 +1,21 @@
+{
+ "law": "117-358",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-358",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-358",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Don Young Recognition Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Don%20Young%20Recognition%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

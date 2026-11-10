@@ -1,0 +1,21 @@
+{
+ "law": "117-251",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-251",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-251",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "FEMA Improvement, Reform, and Efficiency Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=FEMA%20Improvement,%20Reform,%20and%20Efficiency%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

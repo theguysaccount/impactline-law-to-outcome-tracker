@@ -1,0 +1,21 @@
+{
+ "law": "118-150",
+ "period_start": "2024-12-12",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-150",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-150",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Shirley Chisholm Congressional Gold Medal Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Shirley%20Chisholm%20Congressional%20Gold%20Medal%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

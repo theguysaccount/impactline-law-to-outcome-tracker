@@ -1,0 +1,21 @@
+{
+ "law": "118-244",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-244",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-244",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at Block 1025, Lots 18 & 19, Northeast Corner of US Route 9 South and Main Street in the Township of Middle, County of Cape May, New Jersey, as the \"George Henry White Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20Block%201025,%20Lots%2018%20&%2019,%20Northeast%20Corner%20of%20US%20Route%209%20South%20and%20Main%20Street%20in%20the%20Township%20of%20Middle,%20County%20of%20Cape%20May,%20New%20Jersey,%20as%20the%20\"George%20Henry%20White%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-260",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-260",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-260",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 3913 Leland Avenue Northwest in Comstock Park, Michigan, as the \"Captain Miguel Justin Nava Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%203913%20Leland%20Avenue%20Northwest%20in%20Comstock%20Park,%20Michigan,%20as%20the%20\"Captain%20Miguel%20Justin%20Nava%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

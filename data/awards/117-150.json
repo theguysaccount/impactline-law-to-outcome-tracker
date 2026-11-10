@@ -1,0 +1,21 @@
+{
+ "law": "117-150",
+ "period_start": "2022-06-21",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-150",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-150",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "State and Local Government Cybersecurity Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=State%20and%20Local%20Government%20Cybersecurity%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

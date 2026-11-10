@@ -1,0 +1,21 @@
+{
+ "law": "118-3",
+ "period_start": "2023-04-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-3",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-3",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Relating to a national emergency declared by the President on March 13, 2020.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Relating%20to%20a%20national%20emergency%20declared%20by%20the%20President%20on%20March%2013,%202020.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-86",
+ "period_start": "2022-02-18",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-86",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-86",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Further Additional Extending Government Funding Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Further%20Additional%20Extending%20Government%20Funding%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

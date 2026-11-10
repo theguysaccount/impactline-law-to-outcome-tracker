@@ -1,0 +1,21 @@
+{
+ "law": "118-55",
+ "period_start": "2024-05-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-55",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-55",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 2395 East Del Mar Boulevard in Laredo, Texas, as the \"Lance Corporal David Lee Espinoza, Lance Corporal Juan Rodrigo Rodriguez & Sergeant Roberto Arizola Jr. Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%202395%20East%20Del%20Mar%20Boulevard%20in%20Laredo,%20Texas,%20as%20the%20\"Lance%20Corporal%20David%20Lee%20Espinoza,%20Lance%20Corporal%20Juan%20Rodrigo%20Rodriguez%20&%20Sergeant%20Roberto%20Arizola%20Jr.%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

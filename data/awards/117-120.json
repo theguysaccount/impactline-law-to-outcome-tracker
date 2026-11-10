@@ -1,0 +1,21 @@
+{
+ "law": "117-120",
+ "period_start": "2022-05-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-120",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-120",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the Federal Office Building located at 308 W. 21st Street in Cheyenne, Wyoming, as the \"Louisa Swain Federal Office Building\", and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20Federal%20Office%20Building%20located%20at%20308%20W.%2021st%20Street%20in%20Cheyenne,%20Wyoming,%20as%20the%20\"Louisa%20Swain%20Federal%20Office%20Building\",%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

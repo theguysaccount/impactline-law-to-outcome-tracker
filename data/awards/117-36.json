@@ -1,0 +1,21 @@
+{
+ "law": "117-36",
+ "period_start": "2021-08-06",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-36",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-36",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Debarment Enforcement of Bad Actor Registrants Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Debarment%20Enforcement%20of%20Bad%20Actor%20Registrants%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

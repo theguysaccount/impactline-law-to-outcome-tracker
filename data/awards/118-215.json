@@ -1,0 +1,21 @@
+{
+ "law": "118-215",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-215",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-215",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To name the community-based outpatient clinic of the Department of Veterans Affairs in Monroeville, Pennsylvania, as the \"Henry Parham VA Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20name%20the%20community-based%20outpatient%20clinic%20of%20the%20Department%20of%20Veterans%20Affairs%20in%20Monroeville,%20Pennsylvania,%20as%20the%20\"Henry%20Parham%20VA%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "119-19",
+ "period_start": "2025-06-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-19",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-19",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency of the Department of the Treasury relating to the review of applications under the Bank Merger Act.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20joint%20resolution%20providing%20for%20congressional%20disapproval%20under%20chapter%208%20of%20title%205,%20United%20States%20Code,%20of%20the%20rule%20submitted%20by%20the%20Office%20of%20the%20Comptroller%20of%20the%20Currency%20of%20the%20Department%20of%20the%20Treasury%20relating%20to%20the%20review%20of%20applications%20under%20the%20Bank%20Merger%20Act.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

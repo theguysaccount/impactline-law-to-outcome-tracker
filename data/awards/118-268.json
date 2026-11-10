@@ -1,0 +1,21 @@
+{
+ "law": "118-268",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-268",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-268",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 119 Main Street in Plains, Georgia, as the \"Jimmy and Rosalynn Carter Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20119%20Main%20Street%20in%20Plains,%20Georgia,%20as%20the%20\"Jimmy%20and%20Rosalynn%20Carter%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

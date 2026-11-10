@@ -1,0 +1,21 @@
+{
+ "law": "117-165",
+ "period_start": "2022-08-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-165",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-165",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "COVID–19 EIDL Fraud Statute of Limitations Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=COVID–19%20EIDL%20Fraud%20Statute%20of%20Limitations%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

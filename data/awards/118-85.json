@@ -1,0 +1,21 @@
+{
+ "law": "118-85",
+ "period_start": "2024-09-26",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-85",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-85",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Launch Communications Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Launch%20Communications%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-101",
+ "period_start": "2022-03-15",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-101",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-101",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Supporting the Foundation for the National Institutes of Health and the Reagan-Udall Foundation for the Food and Drug Administration Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Supporting%20the%20Foundation%20for%20the%20National%20Institutes%20of%20Health%20and%20the%20Reagan-Udall%20Foundation%20for%20the%20Food%20and%20Drug%20Administration%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

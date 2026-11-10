@@ -1,0 +1,21 @@
+{
+ "law": "117-182",
+ "period_start": "2022-09-30",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-182",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-182",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Protection and Advocacy for Voting Access Program Inclusion Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Protection%20and%20Advocacy%20for%20Voting%20Access%20Program%20Inclusion%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

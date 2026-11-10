@@ -1,0 +1,21 @@
+{
+ "law": "117-49",
+ "period_start": "2021-10-13",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-49",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-49",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Consider Teachers Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Consider%20Teachers%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-148",
+ "period_start": "2022-06-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-148",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-148",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Supreme Court Police Parity Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Supreme%20Court%20Police%20Parity%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

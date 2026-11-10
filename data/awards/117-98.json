@@ -1,0 +1,21 @@
+{
+ "law": "117-98",
+ "period_start": "2022-03-14",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-98",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-98",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the medical center of the Department of Veterans Affairs in San Diego, California, as the Jennifer Moreno Department of Veterans Affairs Medical Center, and to support the designation of a component of such medical center in honor of Kathleen Bruyere.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20medical%20center%20of%20the%20Department%20of%20Veterans%20Affairs%20in%20San%20Diego,%20California,%20as%20the%20Jennifer%20Moreno%20Department%20of%20Veterans%20Affairs%20Medical%20Center,%20and%20to%20support%20the%20designation%20of%20a%20component%20of%20such%20medical%20center%20in%20honor%20of%20Kathleen%20Bruyere.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

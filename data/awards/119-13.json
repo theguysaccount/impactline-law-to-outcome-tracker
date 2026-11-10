@@ -1,0 +1,21 @@
+{
+ "law": "119-13",
+ "period_start": "2025-05-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-13",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-13",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Park Service relating to \"Glen Canyon National Recreation Area: Motor Vehicles\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Providing%20for%20congressional%20disapproval%20under%20chapter%208%20of%20title%205,%20United%20States%20Code,%20of%20the%20rule%20submitted%20by%20the%20National%20Park%20Service%20relating%20to%20\"Glen%20Canyon%20National%20Recreation%20Area:%20Motor%20Vehicles\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-189",
+ "period_start": "2022-10-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-189",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-189",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Small Project Efficient and Effective Disaster Recovery Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Small%20Project%20Efficient%20and%20Effective%20Disaster%20Recovery%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

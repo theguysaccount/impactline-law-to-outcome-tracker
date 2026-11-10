@@ -1,0 +1,21 @@
+{
+ "law": "119-45",
+ "period_start": "2025-12-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-45",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-45",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Taiwan Assurance Implementation Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Taiwan%20Assurance%20Implementation%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-10",
+ "period_start": "2023-07-26",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-10",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-10",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "250th Anniversary of the United States Marine Corps Commemorative Coin Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=250th%20Anniversary%20of%20the%20United%20States%20Marine%20Corps%20Commemorative%20Coin%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

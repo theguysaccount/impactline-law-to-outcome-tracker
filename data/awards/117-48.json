@@ -1,0 +1,21 @@
+{
+ "law": "117-48",
+ "period_start": "2021-10-13",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-48",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-48",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the September 11th National Memorial Trail Route, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20September%2011th%20National%20Memorial%20Trail%20Route,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

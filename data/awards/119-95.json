@@ -1,0 +1,21 @@
+{
+ "law": "119-95",
+ "period_start": "2026-05-29",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-95",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-95",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend chapters 83 and 84 of title 5, United States Code, to authorize an increase of the retirement age for members of the Capitol Police.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20chapters%2083%20and%2084%20of%20title%205,%20United%20States%20Code,%20to%20authorize%20an%20increase%20of%20the%20retirement%20age%20for%20members%20of%20the%20Capitol%20Police.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

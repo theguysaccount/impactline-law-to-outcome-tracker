@@ -1,0 +1,21 @@
+{
+ "law": "117-253",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-253",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-253",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend the Post-Katrina Emergency Management Reform Act of 2006 to repeal certain obsolete requirements, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20the%20Post-Katrina%20Emergency%20Management%20Reform%20Act%20of%202006%20to%20repeal%20certain%20obsolete%20requirements,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

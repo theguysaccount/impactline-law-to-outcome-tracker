@@ -1,0 +1,21 @@
+{
+ "law": "117-235",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-235",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-235",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the Department of Veterans Affairs community-based outpatient clinic in French Camp, California, as the \"Richard A. Pittman VA Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20Department%20of%20Veterans%20Affairs%20community-based%20outpatient%20clinic%20in%20French%20Camp,%20California,%20as%20the%20\"Richard%20A.%20Pittman%20VA%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

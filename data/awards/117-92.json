@@ -1,0 +1,21 @@
+{
+ "law": "117-92",
+ "period_start": "2022-03-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-92",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-92",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 1905 15th Street in Boulder, Colorado, as the \"Officer Eric H. Talley Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201905%2015th%20Street%20in%20Boulder,%20Colorado,%20as%20the%20\"Officer%20Eric%20H.%20Talley%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

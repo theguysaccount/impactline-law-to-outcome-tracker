@@ -1,0 +1,21 @@
+{
+ "law": "117-249",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-249",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-249",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Disaster Assistance for Rural Communities Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Disaster%20Assistance%20for%20Rural%20Communities%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

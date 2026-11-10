@@ -1,0 +1,21 @@
+{
+ "law": "118-273",
+ "period_start": "2025-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-273",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-273",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Social Security Fairness Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Social%20Security%20Fairness%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

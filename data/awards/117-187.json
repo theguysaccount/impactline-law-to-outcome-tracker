@@ -1,0 +1,21 @@
+{
+ "law": "117-187",
+ "period_start": "2022-10-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-187",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-187",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "FTC Collaboration Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=FTC%20Collaboration%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

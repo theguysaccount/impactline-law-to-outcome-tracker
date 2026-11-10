@@ -1,0 +1,21 @@
+{
+ "law": "118-186",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-186",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-186",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Detection Equipment and Technology Evaluation to Counter the Threat of Fentanyl and Xylazine Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Detection%20Equipment%20and%20Technology%20Evaluation%20to%20Counter%20the%20Threat%20of%20Fentanyl%20and%20Xylazine%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

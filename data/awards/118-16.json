@@ -1,0 +1,21 @@
+{
+ "law": "118-16",
+ "period_start": "2023-10-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-16",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-16",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the clinic of the Department of Veterans Affairs in Gallup, New Mexico, as the Hiroshi \"Hershey\" Miyamura VA Clinic.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20clinic%20of%20the%20Department%20of%20Veterans%20Affairs%20in%20Gallup,%20New%20Mexico,%20as%20the%20Hiroshi%20\"Hershey\"%20Miyamura%20VA%20Clinic.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

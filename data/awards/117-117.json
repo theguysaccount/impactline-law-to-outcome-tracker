@@ -1,0 +1,21 @@
+{
+ "law": "117-117",
+ "period_start": "2022-05-06",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-117",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-117",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "William T. Coleman, Jr. and Norman Y. Mineta Department of Transportation Headquarters Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=William%20T.%20Coleman,%20Jr.%20and%20Norman%20Y.%20Mineta%20Department%20of%20Transportation%20Headquarters%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

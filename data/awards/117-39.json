@@ -1,0 +1,21 @@
+{
+ "law": "117-39",
+ "period_start": "2021-08-31",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-39",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-39",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Emergency Repatriation Assistance for Returning Americans Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Emergency%20Repatriation%20Assistance%20for%20Returning%20Americans%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

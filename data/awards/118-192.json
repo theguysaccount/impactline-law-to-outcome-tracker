@@ -1,0 +1,21 @@
+{
+ "law": "118-192",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-192",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-192",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "No Congressionally Obligated Recurring Revenue Used as Pensions To Incarcerated Officials Now Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=No%20Congressionally%20Obligated%20Recurring%20Revenue%20Used%20as%20Pensions%20To%20Incarcerated%20Officials%20Now%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

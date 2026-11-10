@@ -1,0 +1,21 @@
+{
+ "law": "117-16",
+ "period_start": "2021-06-08",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-16",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-16",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Training in High-demand Roles to Improve Veteran Employment Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Training%20in%20High-demand%20Roles%20to%20Improve%20Veteran%20Employment%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-223",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-223",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-223",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 518 North Ridgewood Drive in Sebring, Florida, as the \"U.S. Army Air Corps Major Thomas B. McGuire Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20518%20North%20Ridgewood%20Drive%20in%20Sebring,%20Florida,%20as%20the%20\"U.S.%20Army%20Air%20Corps%20Major%20Thomas%20B.%20McGuire%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

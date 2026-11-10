@@ -1,0 +1,21 @@
+{
+ "law": "118-256",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-256",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-256",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 151 Highway 74 South in Peachtree City, Georgia, as the \"SFC Shawn McCloskey Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20151%20Highway%2074%20South%20in%20Peachtree%20City,%20Georgia,%20as%20the%20\"SFC%20Shawn%20McCloskey%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

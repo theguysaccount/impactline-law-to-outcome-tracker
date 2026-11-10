@@ -1,0 +1,21 @@
+{
+ "law": "117-284",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-284",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-284",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the outpatient clinic of the Department of Veterans Affairs in Greenville, South Carolina, as the \"Lance Corporal Dana Cornell Darnell VA Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20outpatient%20clinic%20of%20the%20Department%20of%20Veterans%20Affairs%20in%20Greenville,%20South%20Carolina,%20as%20the%20\"Lance%20Corporal%20Dana%20Cornell%20Darnell%20VA%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

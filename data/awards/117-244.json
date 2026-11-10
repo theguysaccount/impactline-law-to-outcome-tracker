@@ -1,0 +1,21 @@
+{
+ "law": "117-244",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-244",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-244",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Cardiovascular Advances in Research and Opportunities Legacy Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Cardiovascular%20Advances%20in%20Research%20and%20Opportunities%20Legacy%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

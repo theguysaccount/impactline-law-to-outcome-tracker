@@ -1,0 +1,21 @@
+{
+ "law": "117-90",
+ "period_start": "2022-03-03",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-90",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-90",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Ending%20Forced%20Arbitration%20of%20Sexual%20Assault%20and%20Sexual%20Harassment%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-269",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-269",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-269",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 82422 Cadiz Jewett Road in Cadiz, Ohio, as the \"John Armor Bingham Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2082422%20Cadiz%20Jewett%20Road%20in%20Cadiz,%20Ohio,%20as%20the%20\"John%20Armor%20Bingham%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

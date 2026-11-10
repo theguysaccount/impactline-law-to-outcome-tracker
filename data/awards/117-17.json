@@ -1,0 +1,21 @@
+{
+ "law": "117-17",
+ "period_start": "2021-06-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-17",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-17",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Juneteenth National Independence Day Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Juneteenth%20National%20Independence%20Day%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

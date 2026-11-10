@@ -1,0 +1,21 @@
+{
+ "law": "117-311",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-311",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-311",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 651 Business Interstate Highway 35 North Suite 420 in New Braunfels, Texas, as the \"Bob Krueger Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20651%20Business%20Interstate%20Highway%2035%20North%20Suite%20420%20in%20New%20Braunfels,%20Texas,%20as%20the%20\"Bob%20Krueger%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

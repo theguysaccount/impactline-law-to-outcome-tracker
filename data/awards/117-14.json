@@ -1,0 +1,21 @@
+{
+ "law": "117-14",
+ "period_start": "2021-05-24",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-14",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-14",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Alaska Tourism Restoration Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Alaska%20Tourism%20Restoration%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

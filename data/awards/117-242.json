@@ -1,0 +1,21 @@
+{
+ "law": "117-242",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-242",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-242",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Paul D. Wellstone Building Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Paul%20D.%20Wellstone%20Building%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

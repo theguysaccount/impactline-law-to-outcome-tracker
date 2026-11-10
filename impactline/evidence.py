@@ -65,7 +65,8 @@ def stages(law, fr, tagged, named):
     if ov.get("award_obligations"):
         add("award", "documented", f"{money(ov['award_obligations'])} obligated to grants, contracts and other awards under the law's fund code.")
     elif n_named:
-        add("award", "candidates", f"{n_named:,} award descriptions name this law. Keyword matches only: not a list of the law's awards.")
+        floor = "At least " if (named or {}).get("partial") else ""
+        add("award", "candidates", f"{floor}{n_named:,} award descriptions name this law. Keyword matches only: not a list of the law's awards.")
     else:
         add("award", "needs-evidence", "No award is tagged to this law, and no award description names it.")
     if ov.get("total_outlays"):

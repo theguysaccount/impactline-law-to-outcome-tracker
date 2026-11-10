@@ -1,0 +1,21 @@
+{
+ "law": "118-217",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-217",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-217",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 14280 South Military Trail in Delray Beach, Florida, as the \"Benjamin Berell Ferencz Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2014280%20South%20Military%20Trail%20in%20Delray%20Beach,%20Florida,%20as%20the%20\"Benjamin%20Berell%20Ferencz%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

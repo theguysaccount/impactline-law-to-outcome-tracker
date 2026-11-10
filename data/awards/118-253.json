@@ -1,0 +1,21 @@
+{
+ "law": "118-253",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-253",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-253",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 114 Center Street East in Roseau, Minnesota, as the \"Floyd B. Olson Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20114%20Center%20Street%20East%20in%20Roseau,%20Minnesota,%20as%20the%20\"Floyd%20B.%20Olson%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

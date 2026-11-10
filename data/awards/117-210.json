@@ -1,0 +1,21 @@
+{
+ "law": "117-210",
+ "period_start": "2022-10-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-210",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-210",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Bridging the Gap for New Americans Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Bridging%20the%20Gap%20for%20New%20Americans%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-341",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-341",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-341",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Dr. Joanne Smith Memorial Rehabilitation Innovation Centers Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Dr.%20Joanne%20Smith%20Memorial%20Rehabilitation%20Innovation%20Centers%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

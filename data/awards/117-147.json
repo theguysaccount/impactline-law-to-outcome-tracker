@@ -1,0 +1,21 @@
+{
+ "law": "117-147",
+ "period_start": "2022-06-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-147",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-147",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 202 Trumbull Street in Saint Clair, Michigan, as the \"Corporal Jeffrey Robert Standfest Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20202%20Trumbull%20Street%20in%20Saint%20Clair,%20Michigan,%20as%20the%20\"Corporal%20Jeffrey%20Robert%20Standfest%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

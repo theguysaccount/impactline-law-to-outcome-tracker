@@ -1,0 +1,21 @@
+{
+ "law": "118-238",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-238",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-238",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Veterans Expedited TSA Screening Safe Travel Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Veterans%20Expedited%20TSA%20Screening%20Safe%20Travel%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

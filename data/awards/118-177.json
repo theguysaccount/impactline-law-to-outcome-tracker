@@ -1,0 +1,21 @@
+{
+ "law": "118-177",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-177",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-177",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To expand the boundaries of the Atchafalaya National Heritage Area to include Lafourche Parish, Louisiana.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20expand%20the%20boundaries%20of%20the%20Atchafalaya%20National%20Heritage%20Area%20to%20include%20Lafourche%20Parish,%20Louisiana.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

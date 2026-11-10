@@ -1,0 +1,21 @@
+{
+ "law": "117-135",
+ "period_start": "2022-06-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-135",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-135",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Making Advances in Mammography and Medical Options for Veterans Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Making%20Advances%20in%20Mammography%20and%20Medical%20Options%20for%20Veterans%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

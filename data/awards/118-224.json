@@ -1,0 +1,21 @@
+{
+ "law": "118-224",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-224",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-224",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 15 South Valdosta Road in Lakeland, Georgia, as the \"Nell Patten Roquemore Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2015%20South%20Valdosta%20Road%20in%20Lakeland,%20Georgia,%20as%20the%20\"Nell%20Patten%20Roquemore%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

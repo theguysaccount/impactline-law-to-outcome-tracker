@@ -1,0 +1,21 @@
+{
+ "law": "117-354",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-354",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-354",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Respect for Child Survivors Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Respect%20for%20Child%20Survivors%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

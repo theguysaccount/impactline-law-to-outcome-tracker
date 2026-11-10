@@ -1,0 +1,21 @@
+{
+ "law": "118-229",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-229",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-229",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Fishery Improvement to Streamline untimely regulatory Hurdles post Emergency Situation Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Fishery%20Improvement%20to%20Streamline%20untimely%20regulatory%20Hurdles%20post%20Emergency%20Situation%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,39 @@
+{
+ "law": "117-114",
+ "partial": false,
+ "period_start": "2022-04-29",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-114",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-114",
+   "top": []
+  },
+  {
+   "counts": {
+    "other": 1
+   },
+   "match": "name",
+   "phrase": "Modernizing Access to Our Public Land Act",
+   "returned": {
+    "other": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Modernizing%20Access%20to%20Our%20Public%20Land%20Act",
+   "top": [
+    {
+     "agency": "Department of Agriculture",
+     "amount": 120000.0,
+     "description": "THE PURPOSE OF THIS AGREEMENT IS TO IMPLEMENT NATIONAL VISITOR USE MONITORING ON THE CHEQUAMEGON NICOLET NATIONAL FOREST. THE FOREST AND THE PARTNER WILL COLLABORATE ON COORDINATION AND IMPLEMENTATION OF VISITOR SURVEYS TO GATHER CRITICAL I",
+     "id": "25CS11091300089",
+     "kind": "other",
+     "outlays": null,
+     "recipient": "UNIVERSITY SYSTEM OF NEW HAMPSHIRE",
+     "url": "https://www.usaspending.gov/award/ASST_NON_25CS11091300089_012"
+    }
+   ]
+  }
+ ],
+ "total": 1
+}

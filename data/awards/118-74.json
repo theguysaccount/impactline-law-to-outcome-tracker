@@ -1,0 +1,21 @@
+{
+ "law": "118-74",
+ "period_start": "2024-07-30",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-74",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-74",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "All-American Flag Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=All-American%20Flag%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

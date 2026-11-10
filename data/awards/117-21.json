@@ -1,0 +1,21 @@
+{
+ "law": "117-21",
+ "period_start": "2021-06-30",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-21",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-21",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Sgt. Ketchum Rural Veterans Mental Health Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Sgt.%20Ketchum%20Rural%20Veterans%20Mental%20Health%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

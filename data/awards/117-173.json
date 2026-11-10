@@ -1,0 +1,21 @@
+{
+ "law": "117-173",
+ "period_start": "2022-08-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-173",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-173",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to include certain computer-related projects in the Federal permitting program under title XLI of the FAST Act, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20include%20certain%20computer-related%20projects%20in%20the%20Federal%20permitting%20program%20under%20title%20XLI%20of%20the%20FAST%20Act,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-110",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-110",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-110",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 1663 East Date Place in San Bernardino, California, as the \"Dr. Margaret B. Hill Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201663%20East%20Date%20Place%20in%20San%20Bernardino,%20California,%20as%20the%20\"Dr.%20Margaret%20B.%20Hill%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

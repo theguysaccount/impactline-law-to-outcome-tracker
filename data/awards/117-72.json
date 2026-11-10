@@ -1,0 +1,21 @@
+{
+ "law": "117-72",
+ "period_start": "2021-12-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-72",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-72",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To award posthumously a Congressional Gold Medal, in commemoration to the servicemembers who perished in Afghanistan on August 26, 2021, during the evacuation of citizens of the United States and Afghan allies at Hamid Karzai International Airport, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20award%20posthumously%20a%20Congressional%20Gold%20Medal,%20in%20commemoration%20to%20the%20servicemembers%20who%20perished%20in%20Afghanistan%20on%20August%2026,%202021,%20during%20the%20evacuation%20of%20citizens%20of%20the%20United%20States%20and%20Afghan%20allies%20at%20Hamid%20Karzai%20International%20Airport,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

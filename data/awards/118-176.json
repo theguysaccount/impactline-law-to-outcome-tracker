@@ -1,0 +1,21 @@
+{
+ "law": "118-176",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-176",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-176",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Cardiomyopathy Health Education, Awareness, and Research, and AED Training in the Schools Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Cardiomyopathy%20Health%20Education,%20Awareness,%20and%20Research,%20and%20AED%20Training%20in%20the%20Schools%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

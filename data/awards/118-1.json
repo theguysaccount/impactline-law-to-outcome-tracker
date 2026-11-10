@@ -1,0 +1,21 @@
+{
+ "law": "118-1",
+ "period_start": "2023-03-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-1",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-1",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Disapproving%20the%20action%20of%20the%20District%20of%20Columbia%20Council%20in%20approving%20the%20Revised%20Criminal%20Code%20Act%20of%202022.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

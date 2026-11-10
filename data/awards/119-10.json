@@ -1,0 +1,21 @@
+{
+ "law": "119-10",
+ "period_start": "2025-05-09",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-10",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-10",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20joint%20resolution%20disapproving%20the%20rule%20submitted%20by%20the%20Bureau%20of%20Consumer%20Financial%20Protection%20relating%20to%20\"Overdraft%20Lending:%20Very%20Large%20Financial%20Institutions\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,26 @@
+{
+ "law": "118-21",
+ "partial": false,
+ "period_start": "2023-11-13",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-21",
+   "returned": {
+    "contracts": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-21",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Wounded Warrior Access Act",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Wounded%20Warrior%20Access%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-298",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-298",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-298",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 1400 N Kraemer Blvd. in Placentia, California, as the \"PFC Jang Ho Kim Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201400%20N%20Kraemer%20Blvd.%20in%20Placentia,%20California,%20as%20the%20\"PFC%20Jang%20Ho%20Kim%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

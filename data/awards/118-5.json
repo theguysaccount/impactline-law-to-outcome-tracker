@@ -1,0 +1,66 @@
+{
+ "law": "118-5",
+ "partial": false,
+ "period_start": "2023-06-03",
+ "phrases": [
+  {
+   "counts": {
+    "contracts": 1
+   },
+   "match": "citation",
+   "phrase": "Public Law 118-5",
+   "returned": {
+    "contracts": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-5",
+   "top": [
+    {
+     "agency": "Department of Health and Human Services",
+     "amount": 5661029.38,
+     "description": "THE PURPOSE OF THIS CONTRACT IS TO DEVELOP AND DELIVER TRAINING AND TECHNICAL ASSISTANCE (TTA) TO STATE TANF PROGRAMS AND PARTNERS RESPONDING TO THE FISCAL RESPONSIBILITY ACT OF 2023 (FRA, PUBLIC LAW 118-5).",
+     "id": "75ACF124F80061",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "MEF ASSOCIATES, LLC",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_75ACF124F80061_7590_47QRAA19D00DK_4732"
+    }
+   ]
+  },
+  {
+   "counts": {
+    "contracts": 2,
+    "grants": 1
+   },
+   "match": "name",
+   "phrase": "Fiscal Responsibility Act",
+   "returned": {
+    "contracts": 2,
+    "grants": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Fiscal%20Responsibility%20Act",
+   "top": [
+    {
+     "agency": "Department of Health and Human Services",
+     "amount": 5661029.38,
+     "description": "THE PURPOSE OF THIS CONTRACT IS TO DEVELOP AND DELIVER TRAINING AND TECHNICAL ASSISTANCE (TTA) TO STATE TANF PROGRAMS AND PARTNERS RESPONDING TO THE FISCAL RESPONSIBILITY ACT OF 2023 (FRA, PUBLIC LAW 118-5).",
+     "id": "75ACF124F80061",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "MEF ASSOCIATES, LLC",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_75ACF124F80061_7590_47QRAA19D00DK_4732"
+    },
+    {
+     "agency": "Department of Agriculture",
+     "amount": 150668.78,
+     "description": "CALL ORDER UNDER BPA: 12319821A0003 COMMENT CODING AND ANALYSIS FOR (SNAP), PROGRAM PURPOSE AND WORK REQUIREMENT PROVISIONS OF THE FISCAL RESPONSIBILITY ACT OF 2023.",
+     "id": "12319824F0013",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "ICF INCORPORATED, L.L.C.",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_12319824F0013_12F2_12319821A0003_12F2"
+    }
+   ]
+  }
+ ],
+ "total": 3
+}

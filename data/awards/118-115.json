@@ -1,0 +1,21 @@
+{
+ "law": "118-115",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-115",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-115",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To name the Department of Veterans Affairs community-based outpatient clinic in Guntersville, Alabama, as the \"Colonel Ola Lee Mize Department of Veterans Affairs Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20name%20the%20Department%20of%20Veterans%20Affairs%20community-based%20outpatient%20clinic%20in%20Guntersville,%20Alabama,%20as%20the%20\"Colonel%20Ola%20Lee%20Mize%20Department%20of%20Veterans%20Affairs%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

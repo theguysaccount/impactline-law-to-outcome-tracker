@@ -1,0 +1,233 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 26367000000.0,
+   "name": "Department of Homeland Security",
+   "obligations": 11973198168.98,
+   "outlays": 0.0
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1980374214.55,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4499DRORP00000001",
+   "kind": "grants",
+   "outlays": 1251658113.63,
+   "recipient": "OREGON MILITARY DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 660572955.78,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "1603DRLAP0000005",
+   "kind": "grants",
+   "outlays": 51696224.27,
+   "recipient": "HOMELAND SECURITY & EMERGENCY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 554787734.86,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4531DRMNP00000001",
+   "kind": "grants",
+   "outlays": 184366399.73,
+   "recipient": "PUBLIC SAFETY, MINNESOTA DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4531DRMNP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 542881187.54,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4483DRIAP00000001",
+   "kind": "grants",
+   "outlays": 270375414.33,
+   "recipient": "IOWA HOMELAND SECURITY AND EMERGENCY MANAGEMENT DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4483DRIAP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 403890788.08,
+   "description": "PROVIDE REIMBURSEMENT TO STATE, LOCAL, TRIBAL, AND TERRITORIAL GOVERNMENT ENTITIES AND CERTAIN PRIVATE NON-PROFIT ORGANIZATIONS FOR EMERGENCY PROTECTIVE MEASURES TAKEN DURING THE PANDEMIC. EMERGENCY PROTECTIVE MEASURES NECESSARY TO SAVE LIV",
+   "id": "4683DRCAP00000001",
+   "kind": "grants",
+   "outlays": 336337615.79,
+   "recipient": "OFFICE OF EMERGENCY SERVICES",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4683DRCAP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 319350707.19,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4285DRNCP0000001",
+   "kind": "grants",
+   "outlays": 28929763.6,
+   "recipient": "NORTH CAROLINA DEPARTMENT OF PUBLIC SAFETY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4285DRNCP0000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 279772775.05,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4515DRINP00000001",
+   "kind": "grants",
+   "outlays": 152442859.51,
+   "recipient": "INDIANA DEPT OF HOMELAND SECURITY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4515DRINP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 277684679.43,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4530DROKP00000001",
+   "kind": "grants",
+   "outlays": 196372220.9,
+   "recipient": "OK DEPT OF EMERGENCY MGMT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4530DROKP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 103318637.03,
+   "description": "THE PURPOSE OF THIS TASK ORDER IS TO PROCURE VOICE AND DATA (V&D) SERVICES FOR FEMA. THIS IS A FIRM FIXED PRICE TASK ORDER",
+   "id": "70FA3021F00000470",
+   "kind": "contracts",
+   "outlays": 44278756.09,
+   "recipient": "AT&T ENTERPRISES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3021F00000470_7022_GS00Q17NSD3000_4732"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 58246199.6,
+   "description": "LOGISTICS HOUSING OPERATIONS UNIT INSTALLATION, MAINTENANCE AND DEACTIVATION - LOGHOUSE HAULING AND INSTALLING (H&I) AND MAINTENANCE AND DEACTIVATION (M&D) SERVICES UP TO 5,000 UNITS, CONSTRUCTION IN SUPPORT OF DR-4673-FL IN FLORIDA",
+   "id": "70FBR423F00000030",
+   "kind": "contracts",
+   "outlays": 16578347.79,
+   "recipient": "MLU SERVICES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR423F00000030_7022_70FB8018D00000013_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 42424885.32,
+   "description": "THE PURPOSE OF THIS ORDER IS TO PROVIDE HOUSING INSPECTION SERVICES (HIS). VIS SERVICES, INC., 100,000 INSPECTIONS - DR-4611-LA",
+   "id": "70FBR621F00000149",
+   "kind": "contracts",
+   "outlays": 433306.72,
+   "recipient": "VANGUARD INSPECTION SERVICES",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR621F00000149_7022_70FB8020D00000003_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 28393524.21,
+   "description": "LOGISTICS HOUSING OPERATIONS UNIT INSTALLATION, MAINTENANCE AND DEACTIVATION - LOG HOUSE HAULING AND INSTALLING AND MAINTENANCE AND DEACTIVATION OF UP TO 2300 UNITS IN SUPPORT OF DR-4611-LA IN LOUISIANA",
+   "id": "70FBR623F00000114",
+   "kind": "contracts",
+   "outlays": 28393524.21,
+   "recipient": "MLU SERVICES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR623F00000114_7022_70FB8018D00000013_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 27514636.27,
+   "description": "THE PURPOSE OF THIS TASK ORDER IS FOR INDIVIDUAL ASSISTANCE MODERNIZATION.",
+   "id": "70FA3125F00000056",
+   "kind": "contracts",
+   "outlays": 14144766.27,
+   "recipient": "MONKTON, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3125F00000056_7022_70FA3125D00000001_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 26212319.8,
+   "description": "INFORMATION TECHNOLOGY ENTERPRISE OPERATING ENVIRONMENT - SUPPORTING EIGHTEEN (18) PRIMARY OPERATIONS AND MAINTENANCE OBJECTIVES.",
+   "id": "70FA3125F00000039",
+   "kind": "contracts",
+   "outlays": 18912290.13,
+   "recipient": "BAE SYSTEMS TECHNOLOGY SOLUTIONS & SERVICES INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3125F00000039_7022_70FA3019D00000003_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 26206707.05,
+   "description": "THE PURPOSE OF THIS BPA CALL IS TO PROCURE MICROSOFT LICENSES AND AZURE SUBSCRIPTIONS FOR THE FEMA ENTERPRISE FOR A TOTAL OF $22,370,644.63 IN ACCORDANCE WITH QUOTE#MASXCL60126FEMA-YR3H. ALL CLAUSES, TERMS AND CONDITIONS FLOW DOWN FROM THE ",
+   "id": "70FA3026F00000044",
+   "kind": "contracts",
+   "outlays": 18452672.82,
+   "recipient": "DELL FEDERAL SYSTEMS L.P",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3026F00000044_7022_70RTAC24A00000001_7001"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 18102768.51,
+   "description": "THE PURPOSE OF THIS BPA IS TO PROVIDE BRIDGE SERVICES FOR EXPIRING BPA CONTRACT HSFE50-17-A-0006.",
+   "id": "70FA6023F00000033",
+   "kind": "contracts",
+   "outlays": 12401361.22,
+   "recipient": "JOHNSON CONTROLS SECURITY SOLUTIONS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FA6023F00000033_7022_70FA6023A00000005_7022"
+  }
+ ],
+ "codes": [
+  {
+   "code": "AAP",
+   "designation": "Disaster"
+  }
+ ],
+ "funding_by_code": {
+  "AAP": 26367000000.0
+ },
+ "law": "119-86",
+ "overview": {
+  "award_obligations": 3251468430.74,
+  "award_outlays": 0.0,
+  "budget_authority": 26367000000.0,
+  "total_obligations": 11973198168.98,
+  "total_outlays": 0.0
+ },
+ "programs": [
+  {
+   "listing": "97.036",
+   "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
+   "obligations": 176307083749.1
+  },
+  {
+   "listing": "97.039",
+   "name": "Hazard Mitigation Grant",
+   "obligations": 6068676588.03
+  },
+  {
+   "listing": "97.048",
+   "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
+   "obligations": 1935832054.47
+  },
+  {
+   "listing": "97.088",
+   "name": "Disaster Assistance Projects",
+   "obligations": 72621603.73
+  },
+  {
+   "listing": "97.047",
+   "name": "BRIC: Building Resilient Infrastructure and Communities",
+   "obligations": 19763803.58
+  },
+  {
+   "listing": "97.046",
+   "name": "Fire Management Assistance Grant",
+   "obligations": 832425.0
+  },
+  {
+   "listing": "97.032",
+   "name": "Crisis Counseling",
+   "obligations": 171905.55
+  },
+  {
+   "listing": "97.025",
+   "name": "National Urban Search and Rescue (US&R) Response System",
+   "obligations": -5654352.12
+  }
+ ],
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAP"
+}

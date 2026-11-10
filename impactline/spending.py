@@ -127,24 +127,59 @@ def search_phrases(law, all_laws):
     return phrases
 
 
+def mentions(text, phrase, law):
+    """Does an award description really contain the phrase?
+
+    USAspending's keyword search is loose: it reads other fields too, and "Public Law 118-21" also
+    returns awards that cite Public Law 118-210. A citation must be this exact law number.
+    """
+    t = " ".join((text or "").split()).lower()
+    if phrase["match"] == "citation":
+        return re.search(rf"(?:public\s+law|pub\.?\s*l\.?|p\.?\s*l\.?)\s*(?:no\.?\s*)?{law['congress']}\s?[-–— ]\s?{law['number']}(?!\d)", t) is not None
+    flat = lambda x: re.sub(r"[^a-z0-9]+", " ", x.lower()).strip()  # noqa: E731
+    return flat(phrase["phrase"]) in flat(t)
+
+
+PAGE, MAX_PAGES = 100, 5
+
+
 def fetch_named(http, law, all_laws, now):
+    """Keyword candidates. `returned` is what USAspending's search reports; `counts` are the awards whose
+    description was read here and does contain the phrase. Only those are listed or counted on a page."""
     period = [{"start_date": law["approved"], "end_date": now.strftime("%Y-%m-%d")}]
-    out = []
+    out, distinct = [], set()       # an award that both cites and names the law is one award
     for p in search_phrases(law, all_laws):
         filters = {"keywords": [p["phrase"]], "time_period": period}
-        counts = http.json(f"{API}/search/spending_by_award_count/", {"filters": filters}).get("results", {})
-        counts = {k: int(counts.get(k) or 0) for k in GROUPS}
-        item = dict(p, counts={k: v for k, v in counts.items() if v}, top=[],
+        raw = http.json(f"{API}/search/spending_by_award_count/", {"filters": filters}).get("results", {})
+        raw = {k: int(raw.get(k) or 0) for k in GROUPS}
+        item = dict(p, returned={k: v for k, v in raw.items() if v}, counts={}, top=[],
                     search_url="https://www.usaspending.gov/search/?keyword=" + p["phrase"].replace(" ", "%20"))
-        biggest = max(("grants", "contracts", "direct_payments", "loans", "other"), key=lambda g: counts[g])
-        if counts[biggest]:
-            w = http.json(f"{API}/search/spending_by_award/", {
-                "filters": dict(filters, award_type_codes=GROUPS[biggest]),
-                "fields": ["Award ID", "Recipient Name", "Award Amount", "Awarding Agency", "Description", "generated_internal_id"],
-                "limit": 6, "page": 1, "sort": "Award Amount", "order": "desc"})
-            item["top"] = [_award(r, biggest) for r in w.get("results", [])]
+        best = []
+        for group in GROUPS:
+            if not raw[group]:
+                continue
+            kept = []
+            for page in range(1, MAX_PAGES + 1):
+                w = http.json(f"{API}/search/spending_by_award/", {
+                    "filters": dict(filters, award_type_codes=GROUPS[group]),
+                    "fields": ["Award ID", "Recipient Name", "Award Amount", "Awarding Agency", "Description", "generated_internal_id"],
+                    "limit": PAGE, "page": page, "sort": "Award Amount", "order": "desc"})
+                rows = w.get("results", [])
+                hits = [r for r in rows if mentions(r.get("Description"), p, law)]
+                kept += [_award(r, group) for r in hits]
+                distinct.update(r.get("generated_internal_id") or r.get("Award ID") or "" for r in hits)
+                if len(rows) < PAGE or page * PAGE >= raw[group]:
+                    break
+            else:
+                item["partial"] = True          # more results than were read: the count is a floor
+            if kept:
+                item["counts"][group] = len(kept)
+                if len(kept) > len(best):
+                    best = kept
+        item["top"] = best[:6]
         out.append(item)
-    return {"law": law["id"], "phrases": out, "total": sum(sum(p["counts"].values()) for p in out),
+    distinct.discard("")
+    return {"law": law["id"], "phrases": out, "total": len(distinct), "partial": any(p.get("partial") for p in out),
             "period_start": law["approved"]}
 
 

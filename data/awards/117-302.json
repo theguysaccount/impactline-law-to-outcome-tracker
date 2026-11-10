@@ -1,0 +1,39 @@
+{
+ "law": "117-302",
+ "partial": false,
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {
+    "contracts": 1
+   },
+   "match": "citation",
+   "phrase": "Public Law 117-302",
+   "returned": {
+    "contracts": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-302",
+   "top": [
+    {
+     "agency": "Department of Veterans Affairs",
+     "amount": 7057535.08,
+     "description": "FEDERALLY FUNDED RESEARCH AND DEVELOPMENT CENTER SERVICES TO THE OFFICE OF INFORMATION TECHNOLOGY, OFFICE OF INFORMATION SECURITY FOR STRENGTHENING DEPARTMENT OF VETERANS AFFAIRS CYBERSECURITY (SVAC) ACT OF 2022 (PUBLIC LAW 117-302) SUPPORT",
+     "id": "36C10A23N0016",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "THE MITRE CORPORATION",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_36C10A23N0016_3600_36C10A20D0004_3600"
+    }
+   ]
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Strengthening VA Cybersecurity Act",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Strengthening%20VA%20Cybersecurity%20Act",
+   "top": []
+  }
+ ],
+ "total": 1
+}

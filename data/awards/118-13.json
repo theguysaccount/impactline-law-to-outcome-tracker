@@ -1,0 +1,21 @@
+{
+ "law": "118-13",
+ "period_start": "2023-08-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-13",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-13",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementation Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=United%20States-Taiwan%20Initiative%20on%2021st-Century%20Trade%20First%20Agreement%20Implementation%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

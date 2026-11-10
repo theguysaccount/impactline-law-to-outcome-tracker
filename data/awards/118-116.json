@@ -1,0 +1,21 @@
+{
+ "law": "118-116",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-116",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-116",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 1077 River Road, Suite 1, in Washington Crossing, Pennsylvania, as the \"Susan C. Barnhart Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201077%20River%20Road,%20Suite%201,%20in%20Washington%20Crossing,%20Pennsylvania,%20as%20the%20\"Susan%20C.%20Barnhart%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

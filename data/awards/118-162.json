@@ -1,0 +1,21 @@
+{
+ "law": "118-162",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-162",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-162",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To clarify jurisdiction with respect to certain Bureau of Reclamation pumped storage development, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20clarify%20jurisdiction%20with%20respect%20to%20certain%20Bureau%20of%20Reclamation%20pumped%20storage%20development,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

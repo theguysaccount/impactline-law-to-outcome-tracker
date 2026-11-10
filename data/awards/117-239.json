@@ -1,0 +1,21 @@
+{
+ "law": "117-239",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-239",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-239",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the facility of the United States Postal Service located at 3903 Melear Drive in Arlington, Texas, as the \"Ron Wright Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%203903%20Melear%20Drive%20in%20Arlington,%20Texas,%20as%20the%20\"Ron%20Wright%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

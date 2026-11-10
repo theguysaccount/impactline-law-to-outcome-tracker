@@ -1,0 +1,21 @@
+{
+ "law": "117-145",
+ "period_start": "2022-06-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-145",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-145",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Supply Chain Security Training Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Supply%20Chain%20Security%20Training%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

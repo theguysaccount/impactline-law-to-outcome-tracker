@@ -1,0 +1,282 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 22407010243.0,
+   "name": "Department of Homeland Security",
+   "obligations": 22410000000.0,
+   "outlays": 0.0
+  },
+  {
+   "budgetary_resources": 8000000000.0,
+   "name": "Department of Housing and Urban Development",
+   "obligations": 7989884182.18,
+   "outlays": 7927959146.86
+  },
+  {
+   "budgetary_resources": 700000000.0,
+   "name": "National Aeronautics and Space Administration",
+   "obligations": 647768426.89,
+   "outlays": 365506360.62
+  },
+  {
+   "budgetary_resources": 741000000.0,
+   "name": "Department of Justice",
+   "obligations": 413000000.0,
+   "outlays": 413000000.0
+  },
+  {
+   "budgetary_resources": 406000000.0,
+   "name": "Small Business Administration",
+   "obligations": 396000000.0,
+   "outlays": 396000000.0
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1980374214.55,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4499DRORP00000001",
+   "kind": "grants",
+   "outlays": 1251658113.63,
+   "recipient": "OREGON MILITARY DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1063462203.7,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4500DRCTP00000001",
+   "kind": "grants",
+   "outlays": 359763529.87,
+   "recipient": "EMERGENCY SERVICES AND PUBLIC PROTECTION, DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4500DRCTP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 660572955.78,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "1603DRLAP0000005",
+   "kind": "grants",
+   "outlays": 51696224.27,
+   "recipient": "HOMELAND SECURITY & EMERGENCY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 554787734.86,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4531DRMNP00000001",
+   "kind": "grants",
+   "outlays": 184366399.73,
+   "recipient": "PUBLIC SAFETY, MINNESOTA DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4531DRMNP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 542881187.54,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4483DRIAP00000001",
+   "kind": "grants",
+   "outlays": 270375414.33,
+   "recipient": "IOWA HOMELAND SECURITY AND EMERGENCY MANAGEMENT DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4483DRIAP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 524461882.66,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4504DRKSP00000001",
+   "kind": "grants",
+   "outlays": 198995609.18,
+   "recipient": "KANSAS ADJUTANT GENERAL DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4504DRKSP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 459186499.76,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4532DRVTP00000001",
+   "kind": "grants",
+   "outlays": 72006669.01,
+   "recipient": "VERMONT DEPARTMENT OF PUBLIC SAFETY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4532DRVTP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 445738691.09,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4525DRUTP00000001",
+   "kind": "grants",
+   "outlays": 60294783.07,
+   "recipient": "DEPARTMENT OF PUBLIC SAFETY STATE UTAH",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4525DRUTP00000001_070"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 3229285063.07,
+   "description": "WORK REQUIRED FOR THE DESIGN, DEVELOPMENT, MANUFACTURE, TEST, LAUNCH, DEMONSTRATION, AND ENGINEERING SUPPORT OF THE HUMAN LANDING SYSTEM (HLS) INTEGRATED LANDER.",
+   "id": "80MSFC20C0034",
+   "kind": "contracts",
+   "outlays": 2895827556.11,
+   "recipient": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 2192010424.8,
+   "description": "RAPID DDT&E AND DEMONSTRATION OF S SUSTAINABLE HUMAN LANDING SYSTEM INTEGRATED LANDER.",
+   "id": "80MSFC23CA014",
+   "kind": "contracts",
+   "outlays": 1366447530.82,
+   "recipient": "BLUE ORIGIN MANUFACTURING, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 1780030031.31,
+   "description": "IGF::OT::IGF NEXTSTEP NRA AWARD. THIS NEXTSTEP CONTRACT BUILDS UPON THE SUCCESS OF COMMERCIAL ORBITAL TRANSPORTATION SERVICES SPACE ACT AGREEMENT DEVELOPMENT PROGRAM AND AN EXISTING INTERNATIONAL SPACE STATION (ISS) COMMERCIAL RESUPPLY SERV",
+   "id": "NNH15CN76C",
+   "kind": "contracts",
+   "outlays": 1553985989.76,
+   "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 817360951.0,
+   "description": "IGF::OT::IGF SYNERGY-ACHIEVING CONSOLIDATED OPERATIONS AND MAINTENANCE, COST PLUS INCENTIVE FEE - INDEFINITE DELIVERY INDEFINITE QUANTITY",
+   "id": "NNS15AA77T",
+   "kind": "contracts",
+   "outlays": 525681523.3,
+   "recipient": "SYNCOM SPACE SERVICES LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNS15AA77T_8000_NNS15AA01C_8000"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 670796870.32,
+   "description": "BASE OPERATIONS AND SPACEPORT SERVICES (BOSS) CONTRACT",
+   "id": "80KSC018C0017",
+   "kind": "contracts",
+   "outlays": 585412498.78,
+   "recipient": "AMENTUM SPACEPORT LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80KSC018C0017_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 310202767.68,
+   "description": "NASA CONSOLIDATED APPLICATION AND PLATFORM SERVICES (NCAPS)",
+   "id": "80TECH24CA002",
+   "kind": "contracts",
+   "outlays": 215722389.53,
+   "recipient": "CACI, INC. - FEDERAL",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80TECH24CA002_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 268069068.05,
+   "description": "MARSHALL ENGINEERING TECHNICIANS AND TRADES SUPPORT (METTS III) COVERS A WIDE RANGE OF ENGINEERING TECHNICIANS AND TRADE SKILLS TO PERFORM TESTING GROUND AND SPACE BASED RESEARCH TEST OPERATIONS DATA ANALYSIS INSTRUMENTATION CALIBRATION",
+   "id": "80MSFC23CA004",
+   "kind": "contracts",
+   "outlays": 205959040.13,
+   "recipient": "RSI-QUANTITECH JV LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA004_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 260040541.82,
+   "description": "THE PURPOSE OF THIS CONTRACT IS TO ACQUIRE REPAIRS, OPERATIONS & MAINTENANCE, AND ENGINEERING (ROME) AND RELATED SERVICES FOR THE GODDARD SPACE FLIGHT CENTER (GREENBELT AND WALLOPS FLIGHT FACILITY).",
+   "id": "80GSFC23CA052",
+   "kind": "contracts",
+   "outlays": 135991592.03,
+   "recipient": "ASRC FEDERAL FACILITIES LOGISTICS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC23CA052_8000_-NONE-_-NONE-"
+  }
+ ],
+ "codes": [
+  {
+   "code": "AAL",
+   "designation": "Emergency"
+  }
+ ],
+ "funding_by_code": {
+  "AAL": 32254010243.0
+ },
+ "law": "119-4",
+ "overview": {
+  "award_obligations": 11263019210.69,
+  "award_outlays": 9566369880.05,
+  "budget_authority": 32254010243.0,
+  "total_obligations": 32184652609.07,
+  "total_outlays": 9430465507.47
+ },
+ "programs": [
+  {
+   "listing": "97.036",
+   "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
+   "obligations": 211174645238.07
+  },
+  {
+   "listing": "14.195",
+   "name": "Project-Based Rental Assistance (PBRA)",
+   "obligations": 13267703556.18
+  },
+  {
+   "listing": "97.048",
+   "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
+   "obligations": 12202696462.48
+  },
+  {
+   "listing": "97.039",
+   "name": "Hazard Mitigation Grant",
+   "obligations": 9578705474.16
+  },
+  {
+   "listing": "14.871",
+   "name": "Section 8 Housing Choice Vouchers",
+   "obligations": 8065759452.0
+  },
+  {
+   "listing": "97.050",
+   "name": "Presidential Declared Disaster Assistance to Individuals and Households - Other Needs",
+   "obligations": 1066150727.51
+  },
+  {
+   "listing": "97.047",
+   "name": "BRIC: Building Resilient Infrastructure and Communities",
+   "obligations": 440935238.73
+  },
+  {
+   "listing": "97.046",
+   "name": "Fire Management Assistance Grant",
+   "obligations": 237148048.6
+  },
+  {
+   "listing": "97.088",
+   "name": "Disaster Assistance Projects",
+   "obligations": 192753894.5
+  },
+  {
+   "listing": "43.001",
+   "name": "Science",
+   "obligations": 71395996.91
+  },
+  {
+   "listing": "43.009",
+   "name": "Mission Support",
+   "obligations": 3271847.55
+  },
+  {
+   "listing": "97.032",
+   "name": "Crisis Counseling",
+   "obligations": 421348.71
+  },
+  {
+   "listing": "97.025",
+   "name": "National Urban Search and Rescue (US&R) Response System",
+   "obligations": -7851093.77
+  }
+ ],
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAL"
+}

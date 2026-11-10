@@ -1,0 +1,21 @@
+{
+ "law": "117-136",
+ "period_start": "2022-06-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-136",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-136",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Strengthening Oversight for Veterans Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Strengthening%20Oversight%20for%20Veterans%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

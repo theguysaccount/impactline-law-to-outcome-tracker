@@ -1,0 +1,21 @@
+{
+ "law": "117-247",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-247",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-247",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Data Mapping to Save Moms’ Lives Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Data%20Mapping%20to%20Save%20Moms’%20Lives%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

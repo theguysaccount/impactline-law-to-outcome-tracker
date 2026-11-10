@@ -1,0 +1,21 @@
+{
+ "law": "119-123",
+ "period_start": "2026-10-15",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-123",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-123",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Illegal Red Snapper and Tuna Enforcement Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Illegal%20Red%20Snapper%20and%20Tuna%20Enforcement%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

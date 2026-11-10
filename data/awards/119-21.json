@@ -1,0 +1,78 @@
+{
+ "law": "119-21",
+ "partial": false,
+ "period_start": "2025-07-04",
+ "phrases": [
+  {
+   "counts": {
+    "contracts": 1
+   },
+   "match": "citation",
+   "phrase": "Public Law 119-21",
+   "returned": {
+    "contracts": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-21",
+   "top": [
+    {
+     "agency": "Department of Homeland Security",
+     "amount": 10800.0,
+     "description": "USCG AIR STATION TRAVERSE CITY HVAC PROJECT PERSONNEL AND ACTIVITIES SUPPORTING THE EXECUTION OF FUNDS RECEIVED UNDER PUBLIC LAW 119-21 OF 04 JULY 2025, THE ONE BIG BEAUTIFUL BILL ACT, ARE CONSIDERED EXCEPTED.\"",
+     "id": "70Z03026CCLEV0018",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "POWER VAC OF MICHIGAN LLC",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_70Z03026CCLEV0018_7008_-NONE-_-NONE-"
+    }
+   ]
+  },
+  {
+   "counts": {
+    "contracts": 3,
+    "grants": 1,
+    "idvs": 3
+   },
+   "match": "name",
+   "phrase": "One Big Beautiful Bill Act",
+   "returned": {
+    "contracts": 3,
+    "grants": 3,
+    "idvs": 3
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=One%20Big%20Beautiful%20Bill%20Act",
+   "top": [
+    {
+     "agency": "Department of Education",
+     "amount": 1183374.16,
+     "description": "THIS BPA IS FOR NSLDS DATA QUALITY AND MONITORING IN SUPPORT FOR THE ONE BIG BEAUTIFUL BILL ACT.",
+     "id": "91003126F0013",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "VIRIDIS POINT, LLC",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_91003126F0013_9100_91003126A0001_9100"
+    },
+    {
+     "agency": "Department of Homeland Security",
+     "amount": 99000.0,
+     "description": "CONTINUING TITLE SEARCH AND PRELIMINARY APPRAISAL SERVICES FOR ONE BIG BEAUTIFUL BILL ACT CONSTRUCTION PROJECTS",
+     "id": "70B01C26P00000091",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "CASO LAW FIRM, PLLC",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_70B01C26P00000091_7014_-NONE-_-NONE-"
+    },
+    {
+     "agency": "Department of Homeland Security",
+     "amount": 10800.0,
+     "description": "USCG AIR STATION TRAVERSE CITY HVAC PROJECT PERSONNEL AND ACTIVITIES SUPPORTING THE EXECUTION OF FUNDS RECEIVED UNDER PUBLIC LAW 119-21 OF 04 JULY 2025, THE ONE BIG BEAUTIFUL BILL ACT, ARE CONSIDERED EXCEPTED.\"",
+     "id": "70Z03026CCLEV0018",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "POWER VAC OF MICHIGAN LLC",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_70Z03026CCLEV0018_7008_-NONE-_-NONE-"
+    }
+   ]
+  }
+ ],
+ "total": 7
+}

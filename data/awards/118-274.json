@@ -1,0 +1,21 @@
+{
+ "law": "118-274",
+ "period_start": "2025-01-06",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-274",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-274",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=D.C.%20Robert%20F.%20Kennedy%20Memorial%20Stadium%20Campus%20Revitalization%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

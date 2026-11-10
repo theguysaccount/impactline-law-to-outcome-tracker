@@ -1,0 +1,21 @@
+{
+ "law": "117-115",
+ "period_start": "2022-05-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-115",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-115",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Donna M. Doss Memorial Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Donna%20M.%20Doss%20Memorial%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

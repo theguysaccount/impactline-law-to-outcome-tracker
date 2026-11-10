@@ -1,0 +1,21 @@
+{
+ "law": "117-196",
+ "period_start": "2022-10-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-196",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-196",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 39 West Main Street, in Honeoye Falls, New York, as the \"CW4 Christian J. Koch Memorial Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2039%20West%20Main%20Street,%20in%20Honeoye%20Falls,%20New%20York,%20as%20the%20\"CW4%20Christian%20J.%20Koch%20Memorial%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

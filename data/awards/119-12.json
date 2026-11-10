@@ -1,0 +1,39 @@
+{
+ "law": "119-12",
+ "partial": false,
+ "period_start": "2025-05-19",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-12",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-12",
+   "top": []
+  },
+  {
+   "counts": {
+    "grants": 1
+   },
+   "match": "name",
+   "phrase": "Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act",
+   "returned": {
+    "grants": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Tools%20to%20Address%20Known%20Exploitation%20by%20Immobilizing%20Technological%20Deepfakes%20on%20Websites%20and%20Networks%20Act",
+   "top": [
+    {
+     "agency": "Department of Justice",
+     "amount": 500000.0,
+     "description": "THE NATIONAL WHITE COLLAR CRIME CENTER (NW3C) PROPOSES TO DEVELOP AND DISSEMINATE A COMPREHENSIVE TOOLKIT DESIGNED TO TRAIN LAW ENFORCEMENT AND EDUCATE COMMUNITIES ABOUT THE NEWLY ENACTED TOOLS TO ADDRESS KNOWN EXPLOITATION BY IMMOBILIZING ",
+     "id": "15JCOPS25GK00687PPSE",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "NW3C, INC.",
+     "url": "https://www.usaspending.gov/award/ASST_NON_15JCOPS25GK00687PPSE_015"
+    }
+   ]
+  }
+ ],
+ "total": 1
+}

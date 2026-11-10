@@ -1,0 +1,116 @@
+{
+ "codes": [
+  "1",
+  "Z"
+ ],
+ "law": "117-58",
+ "listing": "11.033",
+ "listing_name": "Middle Mile (Broadband) Grant Program",
+ "national": {
+  "awards": [
+   {
+    "agency": "Department of Commerce",
+    "amount": 88896493.83,
+    "description": "PURPOSE: THE QSH NOME TO HOMER EXPRESS ROUTE, SERVES DUAL PURPOSES: 1. IT EXTENDS THE EXISTING NETWORK, AND COMPLETES A RING, CONNECTING PREVIOUSLY CONSTRUCTED NETWORK FAIRBANKS TO NOME, VIA PRUDOE BAY, POINT HOPE, TO THIS PROJECT'S ROUTE F",
+    "id": "0240MM503",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "QSH PARENT HOLDCO LLC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_0240MM503_013"
+   },
+   {
+    "agency": "Department of Commerce",
+    "amount": 63671548.24,
+    "description": "PURPOSE: THE NETWORK IS DESIGNED TO ENABLE ISPS TO COST-EFFECTIVELY BUILD AND OPERATE LAST-MILE NETWORKS IN REMOTE PARTS OF THE STATE AND SIGNIFICANTLY REDUCE THE OVERALL COST OF CONNECTING UNSERVED OR UNDERSERVED AREAS. IMPLEMENTATION OF T",
+    "id": "0640MM438",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "CALIFORNIA DEPARTMENT OF TECHNOLOGY",
+    "url": "https://www.usaspending.gov/award/ASST_NON_0640MM438_013"
+   },
+   {
+    "agency": "Department of Commerce",
+    "amount": 61256705.72,
+    "description": "PURPOSE: THE INFRASTRUCTURE FOR MICHIGAN'S PENINSULAS AND CRITICAL CROSSINGS (IMPACC) INCLUDES TWO ROUTES CROSSING MICHIGAN'S LAKES, AND UNSERVED COUNTIES AND TOWNS TO BRING MIDDLE MILE INFRASTRUCTURE INTO RURAL COUNTIES SERVING OVER 35,000",
+    "id": "2640MM196",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "PENINSULA FIBER NETWORK LLC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_2640MM196_013"
+   },
+   {
+    "agency": "Department of Commerce",
+    "amount": 55132425.0,
+    "description": "PURPOSE: THE PURPOSE OF THIS PROJECT PROPOSAL IS TO CONSTRUCT A NEW, 644-MILE UNDERGROUND MIDDLE MILE FIBER ROUTE THAT WOULD SERVE SOME OF THE MOST RURAL AREAS IN WESTERN TEXAS, STRETCHING FROM DALLAS TO EL PASO. THE PRESENCE OF THIS ROUTE ",
+    "id": "0840MM217",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "ZAYO GROUP LLC",
+    "url": "https://www.usaspending.gov/award/ASST_NON_0840MM217_013"
+   },
+   {
+    "agency": "Department of Commerce",
+    "amount": 49858624.0,
+    "description": "PURPOSE: THE PURPOSE OF THE PROJECT IS TO ENHANCE ENMR TELEPHONE COOPERATIVE'S EXISTING NETWORK'S INFRASTRUCTURE BY CREATING ALTERNATE PATHS AND INCREASING RESILIENCY AND BANDWIDTH WITH UPGRADES AND NEW FIBER ROUTES. IT INCLUDES THE CONSTRU",
+    "id": "3540MM273",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "ENMR TELEPHONE COOPERATIVE",
+    "url": "https://www.usaspending.gov/award/ASST_NON_3540MM273_013"
+   },
+   {
+    "agency": "Department of Commerce",
+    "amount": 43547459.38,
+    "description": "PURPOSE: THE PROPOSED EASTERN NEVADA MIDDLE MILE FIBER NETWORK, A 431-MILE OPEN-ACCESS MIDDLE-MILE FIBER OPTIC NETWORK, IS INTENDED TO IMPROVE REGIONAL NETWORK REDUNDANCY AND RESILIENCY, BOTH FOR NETWORKS THAT SERVE LAST-MILE RESIDENTIAL AR",
+    "id": "3240MM339",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "STATE OF NEVADA",
+    "url": "https://www.usaspending.gov/award/ASST_NON_3240MM339_013"
+   },
+   {
+    "agency": "Department of Commerce",
+    "amount": 42514219.13,
+    "description": "PURPOSE: THE STATE OF KANSAS DEPARTMENTS OF COMMERCE (THE APPLICANT) AND TRANSPORTATION (KDOT) (PROJECT PARTNER) ARE WORKING TOGETHER WITH PRIVATE AND NON-PROFIT PARTNERS TO CREATE A 682-MILE OPEN-ACCESS MIDDLE-MILE FIBER OPTIC AND NETWORK,",
+    "id": "2040MM844",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "STATE OF KANSAS DEPARTMENT OF COMMERCE",
+    "url": "https://www.usaspending.gov/award/ASST_NON_2040MM844_013"
+   },
+   {
+    "agency": "Department of Commerce",
+    "amount": 37839311.86,
+    "description": "PROJECT PURPOSE: ACCORDING TO THE APPLICANT THE PROJECT PROPOSES A COST-EFFECTIVE APPROACH OF UTILIZING EXISTING AND PLANNED COMMUNICATION NETWORKS TO PROVIDE CONNECTIVITY FOR ISPS TO DELIVER BROADBAND TO END USERS IN NEED. THE PROJECT OFFE",
+    "id": "1940MM519",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "MID AMERICAN ENERGY COMPANY",
+    "url": "https://www.usaspending.gov/award/ASST_NON_1940MM519_013"
+   }
+  ],
+  "counts": {
+   "grants": 36
+  }
+ },
+ "obligations": 876143658.84,
+ "slug": "middle-mile-broadband",
+ "state": {
+  "awards": [
+   {
+    "agency": "Department of Commerce",
+    "amount": 3276667.98,
+    "description": "PURPOSE: CONCHO VALLEY ELECTRIC COOPERATIVE, INC. (CVEC, INC.) PROJECT TO EXTEND MIDDLE MILE BROADBAND INFRASTRUCTURE TO UNDERSERVED AREAS OF TOM GREEN AND COKE COUNTIES IS INTENDED TO ACCOMMODATE THE POPULATION GROWTH THAT CONTINUED IN RUR",
+    "id": "4840MM978",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "CONCHO VALLEY ELECTRIC COOPERATIVE, INC.",
+    "url": "https://www.usaspending.gov/award/ASST_NON_4840MM978_013"
+   }
+  ],
+  "code": "TX",
+  "counts": {
+   "grants": 1
+  }
+ }
+}

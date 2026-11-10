@@ -1,0 +1,21 @@
+{
+ "law": "117-96",
+ "period_start": "2022-03-14",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-96",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-96",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To amend title 38, United States Code, to clarify the role of doctors of podiatric medicine in the Department of Veterans Affairs, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20amend%20title%2038,%20United%20States%20Code,%20to%20clarify%20the%20role%20of%20doctors%20of%20podiatric%20medicine%20in%20the%20Department%20of%20Veterans%20Affairs,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-73",
+ "period_start": "2021-12-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-73",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-73",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A joint resolution relating to increasing the debt limit.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20joint%20resolution%20relating%20to%20increasing%20the%20debt%20limit.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

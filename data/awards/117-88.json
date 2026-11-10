@@ -1,0 +1,21 @@
+{
+ "law": "117-88",
+ "period_start": "2022-02-22",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-88",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-88",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Promoting Rigorous and Innovative Cost Efficiencies for Federal Procurement and Acquisitions Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Promoting%20Rigorous%20and%20Innovative%20Cost%20Efficiencies%20for%20Federal%20Procurement%20and%20Acquisitions%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

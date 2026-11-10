@@ -256,6 +256,83 @@
   "total_obligations": 34816734806.94,
   "total_outlays": 33673154853.58
  },
+ "programs": [
+  {
+   "listing": "97.036",
+   "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
+   "obligations": 214708025023.7
+  },
+  {
+   "listing": "97.048",
+   "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
+   "obligations": 15126467262.28
+  },
+  {
+   "listing": "97.039",
+   "name": "Hazard Mitigation Grant",
+   "obligations": 10026167978.98
+  },
+  {
+   "listing": "98.001",
+   "name": "USAID Foreign Assistance for Programs Overseas",
+   "obligations": 8496080292.0
+  },
+  {
+   "listing": "19.515",
+   "name": "Contributions to International Organizations for Overseas Assistance",
+   "obligations": 3676188930.55
+  },
+  {
+   "listing": "12.225",
+   "name": "Commercial Technologies for Maintenance Activities Program",
+   "obligations": 1645120812.0
+  },
+  {
+   "listing": "97.050",
+   "name": "Presidential Declared Disaster Assistance to Individuals and Households - Other Needs",
+   "obligations": 1036849396.83
+  },
+  {
+   "listing": "97.047",
+   "name": "BRIC: Building Resilient Infrastructure and Communities",
+   "obligations": 916589243.22
+  },
+  {
+   "listing": "97.046",
+   "name": "Fire Management Assistance Grant",
+   "obligations": 773300645.48
+  },
+  {
+   "listing": "97.088",
+   "name": "Disaster Assistance Projects",
+   "obligations": 308452660.55
+  },
+  {
+   "listing": "97.025",
+   "name": "National Urban Search and Rescue (US&R) Response System",
+   "obligations": 243219871.37
+  },
+  {
+   "listing": "15.035",
+   "name": "Forestry on Indian Lands",
+   "obligations": 102428842.22
+  },
+  {
+   "listing": "97.032",
+   "name": "Crisis Counseling",
+   "obligations": 9990016.56
+  },
+  {
+   "listing": "19.520",
+   "name": "Overseas Refugee Assistance Programs for Europe",
+   "obligations": 8322792.0
+  },
+  {
+   "listing": "98.007",
+   "name": "Food for Peace Development Assistance Program (DAP)",
+   "obligations": 1900000.0
+  }
+ ],
  "shared_codes": [],
  "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=3,4,5"
 }

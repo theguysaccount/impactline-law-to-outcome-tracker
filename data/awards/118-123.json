@@ -1,0 +1,21 @@
+{
+ "law": "118-123",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-123",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-123",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Think Differently About Emergencies Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Think%20Differently%20About%20Emergencies%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

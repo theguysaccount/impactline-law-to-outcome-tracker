@@ -1,0 +1,21 @@
+{
+ "law": "117-175",
+ "period_start": "2022-09-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-175",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-175",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Patient Advocate Tracker Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Patient%20Advocate%20Tracker%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

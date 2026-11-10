@@ -1,0 +1,21 @@
+{
+ "law": "118-127",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-127",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-127",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at S74w16860 Janesville Road, in Muskego, Wisconsin, as the \"Colonel Hans Christian Heg Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20S74w16860%20Janesville%20Road,%20in%20Muskego,%20Wisconsin,%20as%20the%20\"Colonel%20Hans%20Christian%20Heg%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

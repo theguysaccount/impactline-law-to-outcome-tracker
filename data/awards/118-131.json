@@ -1,0 +1,21 @@
+{
+ "law": "118-131",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-131",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-131",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "GAO Inspector General Parity Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=GAO%20Inspector%20General%20Parity%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-63",
+ "period_start": "2021-11-22",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-63",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-63",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "VA Transparency & Trust Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=VA%20Transparency%20&%20Trust%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

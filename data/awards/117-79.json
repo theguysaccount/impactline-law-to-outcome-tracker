@@ -1,0 +1,26 @@
+{
+ "law": "117-79",
+ "partial": false,
+ "period_start": "2021-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-79",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-79",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Accelerating Access to Critical Therapies for ALS Act",
+   "returned": {
+    "direct_payments": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Accelerating%20Access%20to%20Critical%20Therapies%20for%20ALS%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

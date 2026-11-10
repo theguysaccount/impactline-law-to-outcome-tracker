@@ -1,0 +1,21 @@
+{
+ "law": "117-50",
+ "period_start": "2021-10-14",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-50",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-50",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Promoting Physical Activity for Americans Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Promoting%20Physical%20Activity%20for%20Americans%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

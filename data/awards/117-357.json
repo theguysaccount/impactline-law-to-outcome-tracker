@@ -1,0 +1,21 @@
+{
+ "law": "117-357",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-357",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-357",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Colonel Mary Louise Rasmuson Campus of the Alaska VA Healthcare System Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Colonel%20Mary%20Louise%20Rasmuson%20Campus%20of%20the%20Alaska%20VA%20Healthcare%20System%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

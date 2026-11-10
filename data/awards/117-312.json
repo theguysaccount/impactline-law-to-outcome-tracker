@@ -1,0 +1,21 @@
+{
+ "law": "117-312",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-312",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-312",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 236 Concord Exchange North in South Saint Paul, Minnesota, as the \"Officer Leo Pavlak Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20236%20Concord%20Exchange%20North%20in%20South%20Saint%20Paul,%20Minnesota,%20as%20the%20\"Officer%20Leo%20Pavlak%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

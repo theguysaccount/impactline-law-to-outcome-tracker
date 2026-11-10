@@ -1,0 +1,21 @@
+{
+ "law": "117-56",
+ "period_start": "2021-11-12",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-56",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-56",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To name the Department of Veterans Affairs community-based outpatient clinic in Columbus, Georgia, as the \"Robert S. Poydasheff VA Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20name%20the%20Department%20of%20Veterans%20Affairs%20community-based%20outpatient%20clinic%20in%20Columbus,%20Georgia,%20as%20the%20\"Robert%20S.%20Poydasheff%20VA%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

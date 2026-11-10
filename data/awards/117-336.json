@@ -1,0 +1,21 @@
+{
+ "law": "117-336",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-336",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-336",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Protecting American Intellectual Property Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Protecting%20American%20Intellectual%20Property%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

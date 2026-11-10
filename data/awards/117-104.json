@@ -1,0 +1,21 @@
+{
+ "law": "117-104",
+ "period_start": "2022-03-18",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-104",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-104",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "John Lewis NIMHD Research Endowment Revitalization Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=John%20Lewis%20NIMHD%20Research%20Endowment%20Revitalization%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

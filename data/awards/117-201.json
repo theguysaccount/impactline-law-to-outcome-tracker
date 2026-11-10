@@ -1,0 +1,21 @@
+{
+ "law": "117-201",
+ "period_start": "2022-10-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-201",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-201",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Artistic Recognition for Talented Students Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Artistic%20Recognition%20for%20Talented%20Students%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-188",
+ "period_start": "2022-10-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-188",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-188",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "One Stop Shop for Small Business Compliance Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=One%20Stop%20Shop%20for%20Small%20Business%20Compliance%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

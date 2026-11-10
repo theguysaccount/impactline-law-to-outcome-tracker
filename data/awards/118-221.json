@@ -1,0 +1,21 @@
+{
+ "law": "118-221",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-221",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-221",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 9355 113th Street in Seminole, Florida, as the \"Army SSG Ryan Christian Knauss Memorial Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%209355%20113th%20Street%20in%20Seminole,%20Florida,%20as%20the%20\"Army%20SSG%20Ryan%20Christian%20Knauss%20Memorial%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

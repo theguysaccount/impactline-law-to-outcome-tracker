@@ -1,0 +1,21 @@
+{
+ "law": "119-119",
+ "period_start": "2026-10-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-119",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-119",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Improving Social Security’s Service to Victims of Identity Theft Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Improving%20Social%20Security’s%20Service%20to%20Victims%20of%20Identity%20Theft%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

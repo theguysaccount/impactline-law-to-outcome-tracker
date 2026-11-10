@@ -1,0 +1,21 @@
+{
+ "law": "117-97",
+ "period_start": "2022-03-14",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-97",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-97",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "‘Six Triple Eight’ Congressional Gold Medal Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=‘Six%20Triple%20Eight’%20Congressional%20Gold%20Medal%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

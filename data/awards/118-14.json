@@ -1,0 +1,21 @@
+{
+ "law": "118-14",
+ "period_start": "2023-09-22",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-14",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-14",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Securing the U.S. Organ Procurement and Transplantation Network Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Securing%20the%20U.S.%20Organ%20Procurement%20and%20Transplantation%20Network%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

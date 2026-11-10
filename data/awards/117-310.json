@@ -1,0 +1,21 @@
+{
+ "law": "117-310",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-310",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-310",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, as the \"Charles W. Lindberg Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20825%20West%2065th%20Street%20in%20Minneapolis,%20Minnesota,%20as%20the%20\"Charles%20W.%20Lindberg%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-258",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-258",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-258",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Supporting America’s Children and Families Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Supporting%20America’s%20Children%20and%20Families%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

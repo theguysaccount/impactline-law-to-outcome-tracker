@@ -1,0 +1,21 @@
+{
+ "law": "118-26",
+ "period_start": "2023-12-19",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-26",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-26",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend the Federal Election Campaign Act of 1971 to extend the Administrative Fine Program for certain reporting violations.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20the%20Federal%20Election%20Campaign%20Act%20of%201971%20to%20extend%20the%20Administrative%20Fine%20Program%20for%20certain%20reporting%20violations.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

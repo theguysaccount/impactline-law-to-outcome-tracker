@@ -1,0 +1,21 @@
+{
+ "law": "117-156",
+ "period_start": "2022-06-24",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-156",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-156",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 40 Fulton Street in Middletown, New York, as the \"Benjamin A. Gilman Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2040%20Fulton%20Street%20in%20Middletown,%20New%20York,%20as%20the%20\"Benjamin%20A.%20Gilman%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-186",
+ "period_start": "2022-10-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-186",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-186",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Expedited Delivery of Airport Infrastructure Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Expedited%20Delivery%20of%20Airport%20Infrastructure%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

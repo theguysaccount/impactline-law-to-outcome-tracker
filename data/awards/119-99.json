@@ -1,0 +1,21 @@
+{
+ "law": "119-99",
+ "period_start": "2026-06-12",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-99",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-99",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Alaska’s Right to Ivory Sales and Tradition Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Alaska’s%20Right%20to%20Ivory%20Sales%20and%20Tradition%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-303",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-303",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-303",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "MST Claims Coordination Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=MST%20Claims%20Coordination%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

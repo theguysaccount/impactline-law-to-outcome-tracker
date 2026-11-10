@@ -1,0 +1,21 @@
+{
+ "law": "118-19",
+ "period_start": "2023-10-06",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-19",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-19",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend title 38, United States Code, to extend and modify certain authorities and requirements relating to the Department of Veterans Affairs, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20title%2038,%20United%20States%20Code,%20to%20extend%20and%20modify%20certain%20authorities%20and%20requirements%20relating%20to%20the%20Department%20of%20Veterans%20Affairs,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

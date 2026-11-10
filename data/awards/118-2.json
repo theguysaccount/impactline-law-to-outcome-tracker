@@ -1,0 +1,21 @@
+{
+ "law": "118-2",
+ "period_start": "2023-03-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-2",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-2",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "COVID–19 Origin Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=COVID–19%20Origin%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

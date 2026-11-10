@@ -1,0 +1,21 @@
+{
+ "law": "117-276",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-276",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-276",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 10 Broadway Street West, in Akeley, Minnesota, as the \"Neal Kenneth Todd Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2010%20Broadway%20Street%20West,%20in%20Akeley,%20Minnesota,%20as%20the%20\"Neal%20Kenneth%20Todd%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

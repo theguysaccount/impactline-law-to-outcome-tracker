@@ -1,0 +1,21 @@
+{
+ "law": "117-37",
+ "period_start": "2021-08-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-37",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-37",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Puppies Assisting Wounded Servicemembers for Veterans Therapy Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Puppies%20Assisting%20Wounded%20Servicemembers%20for%20Veterans%20Therapy%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

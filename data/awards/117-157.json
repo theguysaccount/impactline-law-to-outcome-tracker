@@ -1,0 +1,21 @@
+{
+ "law": "117-157",
+ "period_start": "2022-06-24",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-157",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-157",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 132 North Loudoun Street, Suite 1 in Winchester, Virginia, as the \"Patsy Cline Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20132%20North%20Loudoun%20Street,%20Suite%201%20in%20Winchester,%20Virginia,%20as%20the%20\"Patsy%20Cline%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

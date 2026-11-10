@@ -1,0 +1,21 @@
+{
+ "law": "119-16",
+ "period_start": "2025-06-12",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-16",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-16",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Advanced Clean Cars II; Waiver of Preemption; Notice of Decision\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Providing%20congressional%20disapproval%20under%20chapter%208%20of%20title%205,%20United%20States%20Code,%20of%20the%20rule%20submitted%20by%20the%20Environmental%20Protection%20Agency%20relating%20to%20\"California%20State%20Motor%20Vehicle%20and%20Engine%20Pollution%20Control%20Standards;%20Advanced%20Clean%20Cars%20II;%20Waiver%20of%20Preemption;%20Notice%20of%20Decision\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

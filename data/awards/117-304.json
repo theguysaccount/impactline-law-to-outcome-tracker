@@ -1,0 +1,21 @@
+{
+ "law": "117-304",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-304",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-304",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 345 South Main Street in Butler, Pennsylvania, as the \"Andrew Gomer Williams Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20345%20South%20Main%20Street%20in%20Butler,%20Pennsylvania,%20as%20the%20\"Andrew%20Gomer%20Williams%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

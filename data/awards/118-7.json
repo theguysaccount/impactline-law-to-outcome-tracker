@@ -1,0 +1,21 @@
+{
+ "law": "118-7",
+ "period_start": "2023-06-30",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-7",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-7",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Changing Age-Determined Eligibility To Student Incentive Payments Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Changing%20Age-Determined%20Eligibility%20To%20Student%20Incentive%20Payments%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

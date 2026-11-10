@@ -1,0 +1,21 @@
+{
+ "law": "118-61",
+ "period_start": "2024-05-13",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-61",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-61",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To rename the Department of Veterans Affairs community-based outpatient clinic in Hinesville, Georgia, as the \"John Gibson, Dan James, William Sapp, and Frankie Smiley VA Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20rename%20the%20Department%20of%20Veterans%20Affairs%20community-based%20outpatient%20clinic%20in%20Hinesville,%20Georgia,%20as%20the%20\"John%20Gibson,%20Dan%20James,%20William%20Sapp,%20and%20Frankie%20Smiley%20VA%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

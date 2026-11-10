@@ -1,0 +1,21 @@
+{
+ "law": "118-38",
+ "period_start": "2024-02-06",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-38",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-38",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Overtime Pay for Protective Services Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Overtime%20Pay%20for%20Protective%20Services%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

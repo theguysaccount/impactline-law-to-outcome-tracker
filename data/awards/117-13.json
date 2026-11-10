@@ -1,0 +1,21 @@
+{
+ "law": "117-13",
+ "period_start": "2021-05-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-13",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-13",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "COVID–19 Hate Crimes Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=COVID–19%20Hate%20Crimes%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

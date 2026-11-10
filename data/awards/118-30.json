@@ -1,0 +1,21 @@
+{
+ "law": "118-30",
+ "period_start": "2023-12-21",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-30",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-30",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Providing for the reappointment of Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Providing%20for%20the%20reappointment%20of%20Roger%20W.%20Ferguson%20as%20a%20citizen%20regent%20of%20the%20Board%20of%20Regents%20of%20the%20Smithsonian%20Institution.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

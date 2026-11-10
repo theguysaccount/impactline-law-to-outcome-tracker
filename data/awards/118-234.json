@@ -1,0 +1,26 @@
+{
+ "law": "118-234",
+ "partial": false,
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-234",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-234",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Expanding Public Lands Outdoor Recreation Experiences Act",
+   "returned": {
+    "grants": 2
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Expanding%20Public%20Lands%20Outdoor%20Recreation%20Experiences%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

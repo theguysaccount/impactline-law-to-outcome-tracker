@@ -1,0 +1,21 @@
+{
+ "law": "117-219",
+ "period_start": "2022-12-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-219",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-219",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Metropolitan Areas Protection and Standardization Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Metropolitan%20Areas%20Protection%20and%20Standardization%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

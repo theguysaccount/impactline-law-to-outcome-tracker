@@ -1,0 +1,21 @@
+{
+ "law": "118-264",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-264",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-264",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 340 South Loudon Avenue in Baltimore, Maryland, as the \"United States Representative Elijah E. Cummings Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20340%20South%20Loudon%20Avenue%20in%20Baltimore,%20Maryland,%20as%20the%20\"United%20States%20Representative%20Elijah%20E.%20Cummings%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

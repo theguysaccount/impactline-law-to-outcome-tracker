@@ -1,0 +1,21 @@
+{
+ "law": "117-254",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-254",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-254",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Preventing PFAS Runoff at Airports Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Preventing%20PFAS%20Runoff%20at%20Airports%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

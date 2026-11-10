@@ -1,0 +1,21 @@
+{
+ "law": "117-283",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-283",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-283",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 2016 East 1st Street in Los Angeles, California, as the \"Marine Corps Reserve PVT Jacob Cruz Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%202016%20East%201st%20Street%20in%20Los%20Angeles,%20California,%20as%20the%20\"Marine%20Corps%20Reserve%20PVT%20Jacob%20Cruz%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

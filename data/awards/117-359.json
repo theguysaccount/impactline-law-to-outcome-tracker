@@ -1,0 +1,21 @@
+{
+ "law": "117-359",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-359",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-359",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend the Not Invisible Act of 2019 to extend, and provide additional support for, the activities of the Department of the Interior and the Department of Justice Joint Commission on Reducing Violent Crime Against Indians, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20the%20Not%20Invisible%20Act%20of%202019%20to%20extend,%20and%20provide%20additional%20support%20for,%20the%20activities%20of%20the%20Department%20of%20the%20Interior%20and%20the%20Department%20of%20Justice%20Joint%20Commission%20on%20Reducing%20Violent%20Crime%20Against%20Indians,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

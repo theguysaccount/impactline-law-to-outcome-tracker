@@ -1,0 +1,31 @@
+{
+ "law": "117-263",
+ "partial": false,
+ "period_start": "2022-12-23",
+ "phrases": [
+  {
+   "counts": {
+    "contracts": 1
+   },
+   "match": "citation",
+   "phrase": "Public Law 117-263",
+   "returned": {
+    "contracts": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-263",
+   "top": [
+    {
+     "agency": "Department of Homeland Security",
+     "amount": 1646428.0,
+     "description": "CONGRESSIONALLY MANDATED SEXUAL ASSAULT AT SEA STUDY IN ACCORDANCE WITH THE FY23 NDAA PUBLIC LAW 117 263 DEC 23, 2022, SECTION 11272",
+     "id": "70Z02324F11200001",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "NATIONAL ACADEMY OF SCIENCES",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_70Z02324F11200001_7008_70RSAT21G00000003_7001"
+    }
+   ]
+  }
+ ],
+ "total": 1
+}

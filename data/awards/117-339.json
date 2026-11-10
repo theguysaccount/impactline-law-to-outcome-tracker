@@ -1,0 +1,49 @@
+{
+ "law": "117-339",
+ "partial": false,
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {
+    "grants": 2
+   },
+   "match": "citation",
+   "phrase": "Public Law 117-339",
+   "returned": {
+    "grants": 2
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-339",
+   "top": [
+    {
+     "agency": "Department of the Interior",
+     "amount": 48929.0,
+     "description": "IN ACCORDANCE WITH PUBLIC LAW 117-339, THE PROJECTS COMPLETED UNDER THIS AGREEMENT ARE TO DEVELOP AND IMPLEMENT A MANAGEMENT PLAN. THE NATIONAL PARK SERVICE (NPS) AND RECIPIENT COLLABORATE, WITH THE NPS PROVIDING TECHNICAL AND FINANCIAL SUP",
+     "id": "P23AC02164",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "TRICOUNTY COUNCIL FOR SOUTHERN MARYLAND",
+     "url": "https://www.usaspending.gov/award/ASST_NON_P23AC02164_014"
+    },
+    {
+     "agency": "Department of the Interior",
+     "amount": 44613.39,
+     "description": "TO ESTABLISH AND MAINTAIN COOPERATIVE STUDY UNITS, IN PARTNERSHIP WITH FEDERAL, STATE, AND LOCAL GOVERNMENTS, TRIBES, NONPROFIT ORGANIZATIONS, AND INSTITUTIONS OF HIGHER EDUCATION, TO FACILITATE MULTI-DISCIPLINARY SCIENCE AND INTEGRATED INF",
+     "id": "P25AC00343",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "UNIVERSITY OF GUAM",
+     "url": "https://www.usaspending.gov/award/ASST_NON_P25AC00343_014"
+    }
+   ]
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "National Heritage Area Act",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=National%20Heritage%20Area%20Act",
+   "top": []
+  }
+ ],
+ "total": 2
+}

@@ -1,0 +1,362 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 850830078375.11,
+   "name": "Department of the Treasury",
+   "obligations": 720768355436.94,
+   "outlays": 842258745919.32
+  },
+  {
+   "budgetary_resources": 168682603254.23,
+   "name": "Department of Education",
+   "obligations": 168663016037.36,
+   "outlays": 166731944964.87
+  },
+  {
+   "budgetary_resources": 151590092185.21,
+   "name": "Department of Health and Human Services",
+   "obligations": 149110695659.37,
+   "outlays": 139020291431.06
+  },
+  {
+   "budgetary_resources": 79746336427.48,
+   "name": "Pension Benefit Guaranty Corporation",
+   "obligations": 78070287999.44,
+   "outlays": 78051782905.09
+  },
+  {
+   "budgetary_resources": 51527161304.52,
+   "name": "Department of Homeland Security",
+   "obligations": 51398067156.68,
+   "outlays": 51236783378.62
+  },
+  {
+   "budgetary_resources": 40816728539.03,
+   "name": "Department of Transportation",
+   "obligations": 40760302333.94,
+   "outlays": 40244291006.71
+  },
+  {
+   "budgetary_resources": 45204350576.44,
+   "name": "Small Business Administration",
+   "obligations": 39527599999.42,
+   "outlays": 39515529572.22
+  },
+  {
+   "budgetary_resources": 6802807763.69,
+   "name": "Department of Agriculture",
+   "obligations": 26244078448.7,
+   "outlays": 35354789886.43
+  },
+  {
+   "budgetary_resources": 17000832830.93,
+   "name": "Department of Veterans Affairs",
+   "obligations": 16789762255.21,
+   "outlays": 16543321316.39
+  },
+  {
+   "budgetary_resources": 10789448986.92,
+   "name": "Department of Housing and Urban Development",
+   "obligations": 10648958406.46,
+   "outlays": 6745330664.41
+  },
+  {
+   "budgetary_resources": 8407920143.0,
+   "name": "Agency for International Development",
+   "obligations": 8326167091.96,
+   "outlays": 8321960836.4
+  },
+  {
+   "budgetary_resources": 5404000000.0,
+   "name": "Federal Communications Commission",
+   "obligations": 5015945776.13,
+   "outlays": 4982133078.71
+  },
+  {
+   "budgetary_resources": 3288000000.0,
+   "name": "Department of Commerce",
+   "obligations": 2626568731.03,
+   "outlays": 2188894854.9
+  },
+  {
+   "budgetary_resources": 1828532929.81,
+   "name": "Department of the Interior",
+   "obligations": 1826492492.27,
+   "outlays": 1785865078.77
+  },
+  {
+   "budgetary_resources": 1315300000.0,
+   "name": "Department of State",
+   "obligations": 1277915846.6,
+   "outlays": 1277616224.73
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Education",
+   "amount": 15079696097.0,
+   "description": "AMERICAN RESCUE PLAN - ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND (ARP-ESSER)",
+   "id": "S425U210016",
+   "kind": "grants",
+   "outlays": 15007117249.95,
+   "recipient": "DEPARTMENT OF EDUCATION CALIFORNIA",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S425U210016_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 12427523267.0,
+   "description": "AMERICAN RESCUE PLAN - ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND (ARP-ESSER)",
+   "id": "S425U210042",
+   "kind": "grants",
+   "outlays": 12330247853.39,
+   "recipient": "TX EDUCATION AGENCY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S425U210042_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 8995282324.0,
+   "description": "AMERICAN RESCUE PLAN - ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND (ARP-ESSER)",
+   "id": "S425U210022",
+   "kind": "grants",
+   "outlays": 8911697975.36,
+   "recipient": "NEW YORK STATE EDUCATION DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S425U210022_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 7043370152.0,
+   "description": "AMERICAN RESCUE PLAN - ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND (ARP-ESSER)",
+   "id": "S425U210052",
+   "kind": "grants",
+   "outlays": 6952554308.04,
+   "recipient": "FLORIDA DEPARTMENT OF EDUCATION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S425U210052_091"
+  },
+  {
+   "agency": "Department of Transportation",
+   "amount": 6222460873.0,
+   "description": "THIS IS A FEDERAL FISCAL YEAR (FFY) 2021 SECTION 5307 ARP FUNDING APPLICATION IN THE AMOUNT OF $6192134734 REPRESENTING A 100% FEDERAL SHARE OF THE TOTAL ELIGIBLE AMOUNT. THIS APPLICATION UTILIZES ARP FUNDING TO PREVENT PREPARE FOR AND RESP",
+   "id": "NY-2022-002",
+   "kind": "grants",
+   "outlays": 6222460873.0,
+   "recipient": "METROPOLITAN TRANSPORTATION AUTHORITY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_NY-2022-002_069"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 5058601934.0,
+   "description": "AMERICAN RESCUE PLAN - ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND (ARP-ESSER)",
+   "id": "S425U210041",
+   "kind": "grants",
+   "outlays": 5036826874.68,
+   "recipient": "ILLINOIS STATE BOARD OF EDUCATION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S425U210041_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 5000509384.0,
+   "description": "AMERICAN RESCUE PLAN - ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND (ARP-ESSER)",
+   "id": "S425U210028",
+   "kind": "grants",
+   "outlays": 4901586033.8,
+   "recipient": "COMMONWEALTH OF PENNSYLVANIA DEPARTMENT OF EDUCATION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S425U210028_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 4475243513.0,
+   "description": "AMERICAN RESCUE PLAN - ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND (ARP-ESSER)",
+   "id": "S425U210035",
+   "kind": "grants",
+   "outlays": 4371609717.12,
+   "recipient": "OHIO DEPARTMENT OF EDUCATION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S425U210035_091"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 44093914875.26,
+   "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SANDIA, LLC (NTESS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S SANDIA NATIONAL LAB",
+   "id": "DENA0003525",
+   "kind": "contracts",
+   "outlays": 27227349900.77,
+   "recipient": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0003525_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 31194334447.95,
+   "description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY OPERATING AND MANAGING CONTRACT",
+   "id": "DEAC0576RL01830",
+   "kind": "contracts",
+   "outlays": 8436700652.4,
+   "recipient": "BATTELLE MEMORIAL INSTITUTE",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 7933559692.74,
+   "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003624 TO THE MISSION SUPPORT AND TEST SERVICES LLC (MSTS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY NATIONAL NUCLEAR SECURITY ADMINISTRATION'S NEVADA NATIONAL SECURITY SITE.",
+   "id": "DENA0003624",
+   "kind": "contracts",
+   "outlays": 5325245773.05,
+   "recipient": "MISSION SUPPORT & TEST SERVICES LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0003624_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Agency for International Development",
+   "amount": 6723916684.79,
+   "description": "IGF::CL::IGF - GHSC IDIQ - HIV/AIDS TO",
+   "id": "AIDOAATO1500007",
+   "kind": "contracts",
+   "outlays": 4865881328.21,
+   "recipient": "CHEMONICS INTERNATIONAL, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_AIDOAATO1500007_7200_AIDOAAI1500004_7200"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 3516373308.21,
+   "description": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE THE FULL COMPLEMENT OF SERVICES NECESSARY TO CARE FOR UC IN ORR CUSTODY INCLUDING FACILITIES SET-UP, MAINTENANCE, AND SUPPORT INTERNAL AND PERIMETER (IF APPLICABLE) SECURITY, DIRECT CARE AND SUPERV",
+   "id": "75ACF121C00020",
+   "kind": "contracts",
+   "outlays": 2948772104.63,
+   "recipient": "RAPID DEPLOYMENT INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75ACF121C00020_7590_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 3314910843.0,
+   "description": "CONTACT CENTER OPERATIONS",
+   "id": "75FCMC22C0038",
+   "kind": "contracts",
+   "outlays": 2627035729.15,
+   "recipient": "MAXIMUS FEDERAL SERVICES, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC22C0038_7530_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 1775380496.13,
+   "description": "NCI OPERATIONAL TASK ORDER",
+   "id": "75N91020F00003",
+   "kind": "contracts",
+   "outlays": 1313701746.05,
+   "recipient": "LEIDOS BIOMEDICAL RESEARCH INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75N91020F00003_7529_75N91019D00024_7529"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 1754345480.45,
+   "description": "DEVELOPMENT OF MRNA VACCINE TO LICENSURE FOR THE PREVENTION OF COVID-19. CLIN 0001 - PRE-AWARD COST, CLIN 0002 - DEVELOPMENT OF MRNA VACCINE TO BLA AND CLIN 0003 - DOMESTIC MANUFACTURING SCALE-OUT",
+   "id": "75A50120C00034",
+   "kind": "contracts",
+   "outlays": 1692330474.01,
+   "recipient": "MODERNATX, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75A50120C00034_7505_-NONE-_-NONE-"
+  }
+ ],
+ "codes": [
+  {
+   "code": "V",
+   "designation": "Non-emergency"
+  }
+ ],
+ "funding_by_code": {
+  "V": 1448053608909.87
+ },
+ "law": "117-2",
+ "overview": {
+  "award_obligations": 821359474806.6,
+  "award_outlays": 887455926045.37,
+  "budget_authority": 1448053608909.87,
+  "total_obligations": 1430223657959.64,
+  "total_outlays": 1412971316810.9
+ },
+ "programs": [
+  {
+   "listing": "21.027",
+   "name": "CORONAVIRUS STATE AND LOCAL FISCAL RECOVERY FUNDS",
+   "obligations": 349729514361.39
+  },
+  {
+   "listing": "10.551",
+   "name": "Supplemental Nutrition Assistance Program",
+   "obligations": 249374588953.57
+  },
+  {
+   "listing": "84.425",
+   "name": "Education Stabilization Fund",
+   "obligations": 168023071700.28
+  },
+  {
+   "listing": "97.036",
+   "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
+   "obligations": 153305932426.53
+  },
+  {
+   "listing": "86.001",
+   "name": "Pension Plan Termination Insurance",
+   "obligations": 41483453542.42
+  },
+  {
+   "listing": "93.575",
+   "name": "Child Care and Development Block Grant",
+   "obligations": 38985269861.99
+  },
+  {
+   "listing": "59.078",
+   "name": "Restaurant Revitalization Fund",
+   "obligations": 28532508236.95
+  },
+  {
+   "listing": "20.507",
+   "name": "Federal Transit Formula Grants",
+   "obligations": 28285458623.54
+  },
+  {
+   "listing": "93.498",
+   "name": "Provider Relief Fund and American Rescue Plan (ARP) Rural Distribution",
+   "obligations": 25096989349.38
+  },
+  {
+   "listing": "93.210",
+   "name": "Tribal Self-Governance Program: IHS Compacts/Funding Agreements ",
+   "obligations": 23302632792.71
+  },
+  {
+   "listing": "98.001",
+   "name": "USAID Foreign Assistance for Programs Overseas",
+   "obligations": 21330681115.0
+  },
+  {
+   "listing": "21.023",
+   "name": "Emergency Rental Assistance Program",
+   "obligations": 21281188650.1
+  },
+  {
+   "listing": "93.461",
+   "name": "HRSA COVID-19 Claims Reimbursement for the Uninsured Program and the COVID-19 Coverage Assistance Fund",
+   "obligations": 19838176962.78
+  },
+  {
+   "listing": "97.048",
+   "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
+   "obligations": 12759578397.96
+  },
+  {
+   "listing": "20.106",
+   "name": "Airport Improvement Program, Infrastructure Investment and Jobs Act Programs, and COVID-19 Airports Programs",
+   "obligations": 11410103525.18
+  }
+ ],
+ "shared_codes": [
+  {
+   "code": "O",
+   "laws": [
+    "116-136",
+    "116-139",
+    "116-260",
+    "117-2"
+   ]
+  }
+ ],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=V"
+}

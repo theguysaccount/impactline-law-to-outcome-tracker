@@ -1,0 +1,21 @@
+{
+ "law": "118-46",
+ "period_start": "2024-03-22",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-46",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-46",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the Federal building located at 985 Michigan Avenue in Detroit, Michigan, as the \"Rosa Parks Federal Building\", and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20Federal%20building%20located%20at%20985%20Michigan%20Avenue%20in%20Detroit,%20Michigan,%20as%20the%20\"Rosa%20Parks%20Federal%20Building\",%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

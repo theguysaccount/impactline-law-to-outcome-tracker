@@ -1,0 +1,21 @@
+{
+ "law": "118-12",
+ "period_start": "2023-07-28",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-12",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-12",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the clinic of the Department of Veterans Affairs in Indian River, Michigan, as the \"Pfc. Justin T. Paton Department of Veterans Affairs Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20clinic%20of%20the%20Department%20of%20Veterans%20Affairs%20in%20Indian%20River,%20Michigan,%20as%20the%20\"Pfc.%20Justin%20T.%20Paton%20Department%20of%20Veterans%20Affairs%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

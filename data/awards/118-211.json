@@ -1,0 +1,21 @@
+{
+ "law": "118-211",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-211",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-211",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 2300 Sylvan Avenue in Modesto, California, as the \"Corporal Michael D. Anderson Jr. Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%202300%20Sylvan%20Avenue%20in%20Modesto,%20California,%20as%20the%20\"Corporal%20Michael%20D.%20Anderson%20Jr.%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

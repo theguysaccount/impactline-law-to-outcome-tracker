@@ -1,0 +1,21 @@
+{
+ "law": "117-93",
+ "period_start": "2022-03-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-93",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-93",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 3493 Burnet Avenue in Cincinnati, Ohio, as the \"John H. Leahr and Herbert M. Heilbrun Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%203493%20Burnet%20Avenue%20in%20Cincinnati,%20Ohio,%20as%20the%20\"John%20H.%20Leahr%20and%20Herbert%20M.%20Heilbrun%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "119-52",
+ "period_start": "2025-12-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-52",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-52",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Coastal Plain Oil and Gas Leasing Program Record of Decision.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Providing%20for%20congressional%20disapproval%20under%20chapter%208%20of%20title%205,%20United%20States%20Code,%20of%20the%20rule%20submitted%20by%20the%20Bureau%20of%20Land%20Management%20relating%20to%20Coastal%20Plain%20Oil%20and%20Gas%20Leasing%20Program%20Record%20of%20Decision.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

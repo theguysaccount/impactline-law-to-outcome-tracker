@@ -1,0 +1,21 @@
+{
+ "law": "117-361",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-361",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-361",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend the Farm Security and Rural Investment Act of 2002 to extend terminal lakes assistance.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20the%20Farm%20Security%20and%20Rural%20Investment%20Act%20of%202002%20to%20extend%20terminal%20lakes%20assistance.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

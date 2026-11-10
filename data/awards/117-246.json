@@ -1,0 +1,21 @@
+{
+ "law": "117-246",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-246",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-246",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Empowering the U.S. Fire Administration Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Empowering%20the%20U.S.%20Fire%20Administration%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

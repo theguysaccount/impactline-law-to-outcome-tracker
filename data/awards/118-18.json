@@ -1,0 +1,21 @@
+{
+ "law": "118-18",
+ "period_start": "2023-10-06",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-18",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-18",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend title 38, United States Code, to strengthen benefits for children of Vietnam veterans born with spina bifida, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20title%2038,%20United%20States%20Code,%20to%20strengthen%20benefits%20for%20children%20of%20Vietnam%20veterans%20born%20with%20spina%20bifida,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

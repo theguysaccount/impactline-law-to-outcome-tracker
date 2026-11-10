@@ -1,0 +1,21 @@
+{
+ "law": "118-271",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-271",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-271",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Keeping Military Families Together Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Keeping%20Military%20Families%20Together%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

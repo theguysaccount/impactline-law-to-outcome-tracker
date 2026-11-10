@@ -1,0 +1,21 @@
+{
+ "law": "117-11",
+ "period_start": "2021-04-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-11",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-11",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Food Allergy Safety, Treatment, Education, and Research Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Food%20Allergy%20Safety,%20Treatment,%20Education,%20and%20Research%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-316",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-316",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-316",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Flood Level Observation, Operations, and Decision Support Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Flood%20Level%20Observation,%20Operations,%20and%20Decision%20Support%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

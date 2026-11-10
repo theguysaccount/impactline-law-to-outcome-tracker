@@ -1,0 +1,21 @@
+{
+ "law": "119-90",
+ "period_start": "2026-05-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-90",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-90",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to require the Federal Energy Regulatory Commission to extend the time period during which licensees are required to commence construction of certain hydropower projects.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20require%20the%20Federal%20Energy%20Regulatory%20Commission%20to%20extend%20the%20time%20period%20during%20which%20licensees%20are%20required%20to%20commence%20construction%20of%20certain%20hydropower%20projects.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-170",
+ "period_start": "2022-08-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-170",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-170",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Traumatic Brain Injury and Post-Traumatic Stress Disorder Law Enforcement Training Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Traumatic%20Brain%20Injury%20and%20Post-Traumatic%20Stress%20Disorder%20Law%20Enforcement%20Training%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

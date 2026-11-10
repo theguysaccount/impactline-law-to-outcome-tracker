@@ -1,0 +1,21 @@
+{
+ "law": "117-129",
+ "period_start": "2022-05-21",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-129",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-129",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Access to Baby Formula Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Access%20to%20Baby%20Formula%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

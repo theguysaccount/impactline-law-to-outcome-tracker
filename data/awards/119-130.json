@@ -1,0 +1,21 @@
+{
+ "law": "119-130",
+ "period_start": "2026-10-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-130",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-130",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Southcentral Foundation Land Transfer Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Southcentral%20Foundation%20Land%20Transfer%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

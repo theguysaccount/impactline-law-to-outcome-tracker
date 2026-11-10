@@ -1,0 +1,21 @@
+{
+ "law": "118-102",
+ "period_start": "2024-10-01",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-102",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-102",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the facility of the United States Postal Service located at 90 McCamly Street South in Battle Creek, Michigan, as the \"Sojourner Truth Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2090%20McCamly%20Street%20South%20in%20Battle%20Creek,%20Michigan,%20as%20the%20\"Sojourner%20Truth%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

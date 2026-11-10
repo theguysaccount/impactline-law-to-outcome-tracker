@@ -1,0 +1,21 @@
+{
+ "law": "118-36",
+ "period_start": "2024-01-26",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-36",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-36",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to ensure the security of office space rented by Senators, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20ensure%20the%20security%20of%20office%20space%20rented%20by%20Senators,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

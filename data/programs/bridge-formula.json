@@ -1,0 +1,186 @@
+{
+ "codes": [
+  "1",
+  "Z"
+ ],
+ "law": "117-58",
+ "listing": "20.263",
+ "listing_name": "Bridge Formula Program",
+ "national": {
+  "awards": [
+   {
+    "agency": "Department of Transportation",
+    "amount": 152579959.58,
+    "description": "PROJECT TITLE: LOS ANGELES COUNTY, RTE 047, PM 0.4R/2.1. IN THE CITY OF LOS ANGELES, NEAR THE PORT OF LONG BEACH, AT VINCENT THOMAS BRIDGE NO. 53-1471. REPLACE BRID :::: PROJECT DESCRIPTION: ON STATE ROUTE: 47. LOS ANGELES COUNTY, RTE 047, ",
+    "id": "693JJ22630000Y114CAP047017",
+    "kind": "grants",
+    "outlays": 54329324.44,
+    "recipient": "DEPARTMENT OF TRANSPORTATION CALIFORNIA",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y114CAP047017_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 125000000.0,
+    "description": "PROJECT TITLE: LOWELL- ROURKE BRIDGE REPLACEMENT, L-15-088, WITH NEW BRIDGE, L-15-114, WOOD STREET EXTENSION OVER MERRIMACK RIVER AND MBTA/CSX RAILROAD :::: PROJECT DESCRIPTION: HIP(BR)-DBPS(001) - LOWELL- ROURKE BRIDGE REPLACEMENT, L-15-08",
+    "id": "693JJ22630000Y116MADBPS001",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "MASSACHUSETTS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y116MADBPS001_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 109836114.42,
+    "description": "PROJECT TITLE: I-81 VIADUCT - REBUILD I-690 & WEST STREET INTERCHANGE, PHASE 2, CONTRACT 6 :::: PROJECT DESCRIPTION: INSTALL, 24 NEW BRIDGES; REMOVE 38 BRIDGES BINS: (1053882, 1053881, 105388A, 105100A, 1053870, 1053840, 105384A, 1053860, 1",
+    "id": "693JJ22630000Y113NY3501953",
+    "kind": "grants",
+    "outlays": 29231.37,
+    "recipient": "DEPARTMENT OF TRANSPORTATION NEW YORK",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y113NY3501953_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 92209850.0,
+    "description": "PROJECT TITLE: SR 509/28TH/24TH AVE. S. TO S. 188TH ST.Â€“ NEW EXPRESSWAY (SR 509 COMPLETION STAGE 2) :::: PROJECT DESCRIPTION: WIDEN SR 509 BETWEEN 24TH/28TH AVE. S. AND S. 188TH ST. TO ADD TOLL LANES.",
+    "id": "693JJ22630000Y113WA0509032",
+    "kind": "grants",
+    "outlays": 23434030.0,
+    "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y113WA0509032_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 82950000.0,
+    "description": "PROJECT TITLE: CM/GC & MEGA GRANT - PROJECT STERLING - REPLACE BRIDGE 880007 OVER ALLIGATOR RIVER ON US 64 AND INSTALL BROADBAND FROM ROCKY MOUNT TO NAGS HEAD. :::: PROJECT DESCRIPTION: MEGA-NATIONAL INFRASTRUCTURE GRANT. PROJECT STERLING: ",
+    "id": "693JJ22630000Y115NC0001156",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "TRANSPORTATION NORTH CAROLINA DEPARTMENT",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y115NC0001156_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 60455028.0,
+    "description": "PROJECT TITLE: CM/GC & MEGA GRANT - PROJECT STERLING - REPLACE BRIDGE 880007 OVER ALLIGATOR RIVER ON US 64 AND INSTALL BROADBAND FROM ROCKY MOUNT TO NAGS HEAD. :::: PROJECT DESCRIPTION: MEGA-NATIONAL INFRASTRUCTURE GRANT. PROJECT STERLING: ",
+    "id": "693JJ22630000Y116NC0001156",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "TRANSPORTATION NORTH CAROLINA DEPARTMENT",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y116NC0001156_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 58450000.0,
+    "description": "PROJECT TITLE: CM/GC & MEGA GRANT - PROJECT STERLING - REPLACE BRIDGE 880007 OVER ALLIGATOR RIVER ON US 64 AND INSTALL BROADBAND FROM ROCKY MOUNT TO NAGS HEAD. :::: PROJECT DESCRIPTION: MEGA-NATIONAL INFRASTRUCTURE GRANT. PROJECT STERLING: ",
+    "id": "693JJ22630000Y114NC0001156",
+    "kind": "grants",
+    "outlays": 55249263.0,
+    "recipient": "TRANSPORTATION NORTH CAROLINA DEPARTMENT",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y114NC0001156_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 44005236.8,
+    "description": "PROJECT TITLE: NEW BEDFORD- BRIDGE REPLACEMENT, N-06-020, I-195 (EB & WB), RAMP C & F OVER ST 18, COUNTY STREET, STATE STREET, MASS COASTAL RAILROAD, PURCHASE STREET :::: PROJECT DESCRIPTION: HIP(BR)-003S(776) - NEW BEDFORD- BRIDGE REPLACEM",
+    "id": "693JJ22630000Y116MA003S776",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "MASSACHUSETTS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y116MA003S776_069"
+   }
+  ],
+  "counts": {
+   "grants": 3237
+  }
+ },
+ "obligations": 4949225201.23,
+ "slug": "bridge-formula",
+ "state": {
+  "awards": [
+   {
+    "agency": "Department of Transportation",
+    "amount": 4815754.79,
+    "description": "PROJECT TITLE: REHABILITATE BRIDGE ON NORTH HUGHES STREET :::: PROJECT DESCRIPTION: NORTH HUGHES STREET AT BURLINGTON NORHT SANTA FE RAIL ROAD; REHABILITATE EXISTING OFF SYSTEM BRIDGE",
+    "id": "693JJ22630000Y114TX2024903",
+    "kind": "grants",
+    "outlays": 568566.82,
+    "recipient": "TEXAS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y114TX2024903_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 2592552.12,
+    "description": "PROJECT TITLE: BRIDGE REPLACEMENT ON ERIE STREET. :::: PROJECT DESCRIPTION: ERIE STREET AT LNVA CANAL; BRIDGE REPLACEMENT.",
+    "id": "693JJ22630000Y116TX2024674",
+    "kind": "grants",
+    "outlays": 750.1,
+    "recipient": "TEXAS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y116TX2024674_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 2531106.87,
+    "description": "PROJECT TITLE: BRIDGE REPLACEMENT ON SOUTH TOVAR STREET AT SAN DIEGO CREEK :::: PROJECT DESCRIPTION: SOUTH TOVAR STREET AT SAN DIEGO CREEK. BRIDGE REPLACEMENT.",
+    "id": "693JJ22630000Y126TX2B23173",
+    "kind": "grants",
+    "outlays": 2531106.87,
+    "recipient": "TEXAS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y126TX2B23173_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 1806754.45,
+    "description": "PROJECT TITLE: BRIDGE REPLACEMENT ON LAMESA ROAD :::: PROJECT DESCRIPTION: LAMESA ROAD FROM SCHARBAUER DRAW; BRIDGE REPLACEMENT.",
+    "id": "693JJ22630000Y114TX2025147",
+    "kind": "grants",
+    "outlays": 1806754.45,
+    "recipient": "TEXAS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y114TX2025147_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 1789496.01,
+    "description": "PROJECT TITLE: REHABILITATE BRIDGE ON AUGUSTA STREET. :::: PROJECT DESCRIPTION: AUGUSTA STREET AT SAN ANTONIO RIVER. REHABILITATE BRIDGE.",
+    "id": "693JJ22630000Y115TX2B24056",
+    "kind": "grants",
+    "outlays": 0.0,
+    "recipient": "TEXAS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y115TX2B24056_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 1720547.93,
+    "description": "PROJECT TITLE: BRIDGE REPLACEMENT ON COUNTY ROAD 115. :::: PROJECT DESCRIPTION: CR 115 ON BROWNE AVENUE, 0.35 MILES NORTH OF SH 4 AT DRAINAGE DITCH. REPLACE BRIDGE AND RECONSTRUCT APPROACHES.",
+    "id": "693JJ22630000Y126TX2024513",
+    "kind": "grants",
+    "outlays": 70976.82,
+    "recipient": "TEXAS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y126TX2024513_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 1610112.14,
+    "description": "PROJECT TITLE: BRIDGE REPLACEMENT ON EAST FRANKFORD ROAD. :::: PROJECT DESCRIPTION: EAST FRANKFORD ROAD WESTBOUND AT FURNEAUX CREEK; REPLACE BRIDGE AND APPROACHES.",
+    "id": "693JJ22630000Y115TX2024568",
+    "kind": "grants",
+    "outlays": 366.12,
+    "recipient": "TEXAS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y115TX2024568_069"
+   },
+   {
+    "agency": "Department of Transportation",
+    "amount": 1389283.84,
+    "description": "PROJECT TITLE: BRIDGE REPLACEMENT ON CR 2018. :::: PROJECT DESCRIPTION: CR 2018 AT HACKBERRY BRANCH; BRIDGE REPLACEMENT.",
+    "id": "693JJ22630000Y115TX2B24527",
+    "kind": "grants",
+    "outlays": 716366.8,
+    "recipient": "TEXAS DEPARTMENT OF TRANSPORTATION",
+    "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22630000Y115TX2B24527_069"
+   }
+  ],
+  "code": "TX",
+  "counts": {
+   "grants": 213
+  }
+ }
+}

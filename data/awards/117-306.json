@@ -1,0 +1,21 @@
+{
+ "law": "117-306",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-306",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-306",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 2050 South Boulevard in Bloomfield Township, Michigan, as the \"Dr. Ezra S. Parke Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%202050%20South%20Boulevard%20in%20Bloomfield%20Township,%20Michigan,%20as%20the%20\"Dr.%20Ezra%20S.%20Parke%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

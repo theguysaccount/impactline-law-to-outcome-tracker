@@ -1,0 +1,21 @@
+{
+ "law": "117-130",
+ "period_start": "2022-06-06",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-130",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-130",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Homeland Security for Children Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Homeland%20Security%20for%20Children%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

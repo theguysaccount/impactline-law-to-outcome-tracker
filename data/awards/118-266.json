@@ -1,0 +1,21 @@
+{
+ "law": "118-266",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-266",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-266",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 2777 Brentwood Road in Raleigh, North Carolina, as the \"Millie Dunn Veasey Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%202777%20Brentwood%20Road%20in%20Raleigh,%20North%20Carolina,%20as%20the%20\"Millie%20Dunn%20Veasey%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

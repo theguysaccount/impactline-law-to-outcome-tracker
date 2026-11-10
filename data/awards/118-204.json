@@ -1,0 +1,21 @@
+{
+ "law": "118-204",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-204",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-204",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in San Francisco, California, as the \"Dianne Feinstein Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20180%20Steuart%20Street%20in%20San%20Francisco,%20California,%20as%20the%20\"Dianne%20Feinstein%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

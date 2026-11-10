@@ -1,0 +1,21 @@
+{
+ "law": "118-206",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-206",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-206",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend title 36, United States Code, to designate the bald eagle as the national bird.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20title%2036,%20United%20States%20Code,%20to%20designate%20the%20bald%20eagle%20as%20the%20national%20bird.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

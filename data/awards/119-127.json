@@ -1,0 +1,21 @@
+{
+ "law": "119-127",
+ "period_start": "2026-10-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-127",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-127",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Critical Infrastructure Manufacturing Feasibility Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Critical%20Infrastructure%20Manufacturing%20Feasibility%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

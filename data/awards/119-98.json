@@ -1,0 +1,21 @@
+{
+ "law": "119-98",
+ "period_start": "2026-06-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-98",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-98",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Secure America Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Secure%20America%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

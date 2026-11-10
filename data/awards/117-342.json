@@ -1,0 +1,21 @@
+{
+ "law": "117-342",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-342",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-342",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20the%20White%20Mountain%20Apache%20Tribe%20Water%20Rights%20Quantification%20Act%20of%202010%20to%20modify%20the%20enforceability%20date%20for%20certain%20provisions,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-65",
+ "period_start": "2021-11-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-65",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-65",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to authorize the Seminole Tribe of Florida to lease or transfer certain land, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20authorize%20the%20Seminole%20Tribe%20of%20Florida%20to%20lease%20or%20transfer%20certain%20land,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

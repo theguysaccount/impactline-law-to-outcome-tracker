@@ -1,0 +1,21 @@
+{
+ "law": "117-131",
+ "period_start": "2022-06-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-131",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-131",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs planned to be built in Oahu, Hawaii, as the \"Daniel Kahikina Akaka Department of Veterans Affairs Community-Based Outpatient Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20community-based%20outpatient%20clinic%20of%20the%20Department%20of%20Veterans%20Affairs%20planned%20to%20be%20built%20in%20Oahu,%20Hawaii,%20as%20the%20\"Daniel%20Kahikina%20Akaka%20Department%20of%20Veterans%20Affairs%20Community-Based%20Outpatient%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

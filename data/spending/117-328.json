@@ -280,6 +280,83 @@
   "total_obligations": 102589245666.61,
   "total_outlays": 83601843037.43
  },
+ "programs": [
+  {
+   "listing": "97.036",
+   "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
+   "obligations": 215509354861.83
+  },
+  {
+   "listing": "98.001",
+   "name": "USAID Foreign Assistance for Programs Overseas",
+   "obligations": 33036454874.0
+  },
+  {
+   "listing": "97.048",
+   "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
+   "obligations": 15720545931.56
+  },
+  {
+   "listing": "97.039",
+   "name": "Hazard Mitigation Grant",
+   "obligations": 10751331949.09
+  },
+  {
+   "listing": "93.568",
+   "name": "Low-Income Home Energy Assistance",
+   "obligations": 9879788108.55
+  },
+  {
+   "listing": "14.195",
+   "name": "Project-Based Rental Assistance (PBRA)",
+   "obligations": 7719887100.0
+  },
+  {
+   "listing": "93.566",
+   "name": "Refugee and Entrant Assistance State/Replacement Designee Administered Programs",
+   "obligations": 5795720349.23
+  },
+  {
+   "listing": "14.871",
+   "name": "Section 8 Housing Choice Vouchers",
+   "obligations": 4078383274.0
+  },
+  {
+   "listing": "93.323",
+   "name": "Epidemiology and Laboratory Capacity for Infectious Diseases (ELC)",
+   "obligations": 4075567815.8
+  },
+  {
+   "listing": "10.703",
+   "name": "Cooperative Fire Protection Agreement",
+   "obligations": 3233695426.52
+  },
+  {
+   "listing": "14.228",
+   "name": "Community Development Block Grants/State's program and Non-Entitlement Grants in Hawaii",
+   "obligations": 2980000000.0
+  },
+  {
+   "listing": "47.049",
+   "name": "Mathematical and Physical Sciences",
+   "obligations": 2110794732.0
+  },
+  {
+   "listing": "47.050",
+   "name": "Geosciences",
+   "obligations": 1501364593.0
+  },
+  {
+   "listing": "97.047",
+   "name": "BRIC: Building Resilient Infrastructure and Communities",
+   "obligations": 1182839328.08
+  },
+  {
+   "listing": "81.121",
+   "name": "Nuclear Energy Research, Development and Demonstration",
+   "obligations": 1121087522.0
+  }
+ ],
  "shared_codes": [],
  "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAB,AAC,AAD"
 }

@@ -1,0 +1,21 @@
+{
+ "law": "118-190",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-190",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-190",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Federal Agency Performance Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Federal%20Agency%20Performance%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-151",
+ "period_start": "2024-12-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-151",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-151",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend title 35, United States Code, to provide a good faith exception to the imposition of fines for false assertions and certifications, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20title%2035,%20United%20States%20Code,%20to%20provide%20a%20good%20faith%20exception%20to%20the%20imposition%20of%20fines%20for%20false%20assertions%20and%20certifications,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

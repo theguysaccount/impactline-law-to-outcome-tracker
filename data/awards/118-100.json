@@ -1,0 +1,21 @@
+{
+ "law": "118-100",
+ "period_start": "2024-10-01",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-100",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-100",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the facility of the United States Postal Service located at 2075 West Stadium Boulevard in Ann Arbor, Michigan, as the \"Robert Hayden Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%202075%20West%20Stadium%20Boulevard%20in%20Ann%20Arbor,%20Michigan,%20as%20the%20\"Robert%20Hayden%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

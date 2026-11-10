@@ -1,0 +1,21 @@
+{
+ "law": "117-257",
+ "period_start": "2022-12-21",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-257",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-257",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To amend title 40, United States Code, to modify the treatment of certain bargain-price options to purchase at less than fair market value, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20amend%20title%2040,%20United%20States%20Code,%20to%20modify%20the%20treatment%20of%20certain%20bargain-price%20options%20to%20purchase%20at%20less%20than%20fair%20market%20value,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

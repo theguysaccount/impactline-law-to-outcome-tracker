@@ -1,0 +1,21 @@
+{
+ "law": "117-215",
+ "period_start": "2022-12-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-215",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-215",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Medical Marijuana and Cannabidiol Research Expansion Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Medical%20Marijuana%20and%20Cannabidiol%20Research%20Expansion%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-101",
+ "period_start": "2024-10-01",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-101",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-101",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the facility of the United States Postal Service located at 155 South Main Street in Mount Clemens, Michigan, as the \"Lieutenant Colonel Alexander Jefferson Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20155%20South%20Main%20Street%20in%20Mount%20Clemens,%20Michigan,%20as%20the%20\"Lieutenant%20Colonel%20Alexander%20Jefferson%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

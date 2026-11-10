@@ -1,0 +1,39 @@
+{
+ "law": "119-27",
+ "partial": false,
+ "period_start": "2025-07-18",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-27",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-27",
+   "top": []
+  },
+  {
+   "counts": {
+    "contracts": 1
+   },
+   "match": "name",
+   "phrase": "Guiding and Establishing National Innovation for U.S. Stablecoins Act",
+   "returned": {
+    "contracts": 1
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Guiding%20and%20Establishing%20National%20Innovation%20for%20U.S.%20Stablecoins%20Act",
+   "top": [
+    {
+     "agency": "Department of the Treasury",
+     "amount": 780000.0,
+     "description": "REGIONAL & MIDSIZE FINANCIAL INSTITUTIONS (RMFI) CONSULTING SERVICES FOR ITS IMPLEMENTATION OF THE GUIDING AND ESTABLISHING NATIONAL INNOVATION FOR U.S. STABLECOINS ACT (12 U.S.C. 5901 ET SEQ.) (GENIUS ACT OR THE ACT).",
+     "id": "2031JW26C00009",
+     "kind": "contracts",
+     "outlays": null,
+     "recipient": "METRIKA, INC",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_2031JW26C00009_2046_-NONE-_-NONE-"
+    }
+   ]
+  }
+ ],
+ "total": 1
+}

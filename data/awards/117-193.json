@@ -1,0 +1,21 @@
+{
+ "law": "117-193",
+ "period_start": "2022-10-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-193",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-193",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 810 South Pendleton Street in Easley, South Carolina, as the \"Private First Class Barrett Lyle Austin Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20810%20South%20Pendleton%20Street%20in%20Easley,%20South%20Carolina,%20as%20the%20\"Private%20First%20Class%20Barrett%20Lyle%20Austin%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

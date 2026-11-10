@@ -1,0 +1,21 @@
+{
+ "law": "117-233",
+ "period_start": "2022-12-19",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-233",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-233",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To name the Department of Veterans Affairs community-based outpatient clinic in Forest City,   North Carolina, as the \"Master Sergeant Jerry K. Crump VA Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20name%20the%20Department%20of%20Veterans%20Affairs%20community-based%20outpatient%20clinic%20in%20Forest%20City,%20%20%20North%20Carolina,%20as%20the%20\"Master%20Sergeant%20Jerry%20K.%20Crump%20VA%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

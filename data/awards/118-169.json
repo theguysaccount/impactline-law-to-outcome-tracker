@@ -1,0 +1,21 @@
+{
+ "law": "118-169",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-169",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-169",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Great Salt Lake Stewardship Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Great%20Salt%20Lake%20Stewardship%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

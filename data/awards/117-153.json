@@ -1,0 +1,21 @@
+{
+ "law": "117-153",
+ "period_start": "2022-06-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-153",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-153",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 2800 South Adams Street in Tallahassee, Florida, as the \"D. Edwina Stephens Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%202800%20South%20Adams%20Street%20in%20Tallahassee,%20Florida,%20as%20the%20\"D.%20Edwina%20Stephens%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

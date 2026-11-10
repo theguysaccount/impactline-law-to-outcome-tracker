@@ -1,0 +1,21 @@
+{
+ "law": "119-59",
+ "period_start": "2025-12-18",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-59",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-59",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20201%20West%20Oklahoma%20Avenue%20in%20Guthrie,%20Oklahoma,%20as%20the%20\"Oscar%20J.%20Upham%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

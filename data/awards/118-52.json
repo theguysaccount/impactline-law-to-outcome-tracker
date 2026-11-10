@@ -1,0 +1,21 @@
+{
+ "law": "118-52",
+ "period_start": "2024-05-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-52",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-52",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 24355 Creekside Road in Santa Clarita, California, as the \"William L. Reynolds Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2024355%20Creekside%20Road%20in%20Santa%20Clarita,%20California,%20as%20the%20\"William%20L.%20Reynolds%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

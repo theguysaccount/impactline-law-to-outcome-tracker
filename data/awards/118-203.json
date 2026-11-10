@@ -1,0 +1,21 @@
+{
+ "law": "118-203",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-203",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-203",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Federal Judiciary Stabilization Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Federal%20Judiciary%20Stabilization%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-64",
+ "period_start": "2024-05-24",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-64",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-64",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Recruit and Retain Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Recruit%20and%20Retain%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

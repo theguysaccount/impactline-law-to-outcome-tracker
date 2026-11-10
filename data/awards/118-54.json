@@ -1,0 +1,21 @@
+{
+ "law": "118-54",
+ "period_start": "2024-05-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-54",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-54",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 616 East Main Street in St. Charles, Illinois, as the \"Veterans of the Vietnam War Memorial Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20616%20East%20Main%20Street%20in%20St.%20Charles,%20Illinois,%20as%20the%20\"Veterans%20of%20the%20Vietnam%20War%20Memorial%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

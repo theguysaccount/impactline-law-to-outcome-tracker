@@ -1,0 +1,21 @@
+{
+ "law": "117-199",
+ "period_start": "2022-10-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-199",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-199",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the outpatient clinic of the Department of Veterans Affairs in Ventura, California, as the \"Captain Rosemary Bryant Mariner Outpatient Clinic\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20outpatient%20clinic%20of%20the%20Department%20of%20Veterans%20Affairs%20in%20Ventura,%20California,%20as%20the%20\"Captain%20Rosemary%20Bryant%20Mariner%20Outpatient%20Clinic\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

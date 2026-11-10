@@ -1,0 +1,21 @@
+{
+ "law": "117-172",
+ "period_start": "2022-08-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-172",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-172",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Public Safety Officer Support Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Safety%20Officer%20Support%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

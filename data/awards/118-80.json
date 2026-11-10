@@ -1,0 +1,21 @@
+{
+ "law": "118-80",
+ "period_start": "2024-09-13",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-80",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-80",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Starr–Camargo Bridge Expansion Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Starr–Camargo%20Bridge%20Expansion%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

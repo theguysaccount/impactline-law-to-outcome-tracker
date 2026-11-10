@@ -1,0 +1,21 @@
+{
+ "law": "117-291",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-291",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-291",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 317 Blattner Drive in Avon, Minnesota, as the \"W.O.C. Kort Miller Plantenberg Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20317%20Blattner%20Drive%20in%20Avon,%20Minnesota,%20as%20the%20\"W.O.C.%20Kort%20Miller%20Plantenberg%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

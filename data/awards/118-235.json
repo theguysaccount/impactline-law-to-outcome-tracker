@@ -1,0 +1,21 @@
+{
+ "law": "118-235",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-235",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-235",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Holcombe Rucker Park National Commemorative Site Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Holcombe%20Rucker%20Park%20National%20Commemorative%20Site%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

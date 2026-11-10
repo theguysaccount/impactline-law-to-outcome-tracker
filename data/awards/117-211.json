@@ -1,0 +1,21 @@
+{
+ "law": "117-211",
+ "period_start": "2022-10-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-211",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-211",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "End Human Trafficking in Government Contracts Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=End%20Human%20Trafficking%20in%20Government%20Contracts%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

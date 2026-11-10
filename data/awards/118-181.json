@@ -1,0 +1,21 @@
+{
+ "law": "118-181",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-181",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-181",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Utah State Parks Adjustment Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Utah%20State%20Parks%20Adjustment%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-362",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-362",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-362",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to amend the Bill Emerson Good Samaritan Food Donation Act to improve the program, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20amend%20the%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act%20to%20improve%20the%20program,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

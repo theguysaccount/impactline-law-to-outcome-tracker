@@ -1,0 +1,21 @@
+{
+ "law": "117-226",
+ "period_start": "2022-12-09",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-226",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-226",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Max Cleland VA Medical Center Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Max%20Cleland%20VA%20Medical%20Center%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-250",
+ "period_start": "2022-12-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-250",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-250",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Rural Opioid Abuse Prevention Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Rural%20Opioid%20Abuse%20Prevention%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

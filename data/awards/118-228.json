@@ -1,0 +1,21 @@
+{
+ "law": "118-228",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-228",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-228",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Gabriella Miller Kids First Research Act 2.0",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Gabriella%20Miller%20Kids%20First%20Research%20Act%202.0",
+   "top": []
+  }
+ ],
+ "total": 0
+}

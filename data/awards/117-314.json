@@ -1,0 +1,21 @@
+{
+ "law": "117-314",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-314",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-314",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 6401 El Cajon Boulevard in San Diego, California, as the \"Susan A. Davis Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%206401%20El%20Cajon%20Boulevard%20in%20San%20Diego,%20California,%20as%20the%20\"Susan%20A.%20Davis%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

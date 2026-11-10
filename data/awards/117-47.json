@@ -1,0 +1,21 @@
+{
+ "law": "117-47",
+ "period_start": "2021-10-08",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-47",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-47",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "K–12 Cybersecurity Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=K–12%20Cybersecurity%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

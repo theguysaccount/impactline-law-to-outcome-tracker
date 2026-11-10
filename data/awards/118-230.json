@@ -1,0 +1,21 @@
+{
+ "law": "118-230",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-230",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-230",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Accelerating Appraisals and Conservation Efforts Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Accelerating%20Appraisals%20and%20Conservation%20Efforts%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

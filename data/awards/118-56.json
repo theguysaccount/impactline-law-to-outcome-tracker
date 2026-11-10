@@ -1,0 +1,21 @@
+{
+ "law": "118-56",
+ "period_start": "2024-05-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-56",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-56",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 101 South 8th Street in Lebanon, Pennsylvania, as the \"Lieutenant William D. Lebo Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20101%20South%208th%20Street%20in%20Lebanon,%20Pennsylvania,%20as%20the%20\"Lieutenant%20William%20D.%20Lebo%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

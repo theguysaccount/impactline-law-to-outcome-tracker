@@ -1,0 +1,184 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 4901746012.99,
+   "name": "Department of Agriculture",
+   "obligations": 3991130255.96,
+   "outlays": 3265020168.06
+  },
+  {
+   "budgetary_resources": 180000000.0,
+   "name": "Department of the Interior",
+   "obligations": 91918288.93,
+   "outlays": 85677148.52
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Agriculture",
+   "amount": 3405817.0,
+   "description": "THIS AWARD IS A CONTINUATION OF THE NATIONAL WILDFIRE PREVENTION CAMPAIGN FEATURING SMOKEY BEAR. THIS COOPERATIVE AGREEMENT HAS THE ABILITY TO GENERATE A WIDE-REACHING PUBLIC SERVICE ADVERTISING CAMPAIGN FOR PUBLIC OUTREACH AND EDUCATION TO",
+   "id": "26CA11132543020",
+   "kind": "grants",
+   "outlays": 65222.73,
+   "recipient": "THE ADVERTISING COUNCIL INC",
+   "url": "https://www.usaspending.gov/award/ASST_NON_26CA11132543020_012"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 46942.0,
+   "description": "THIS AGREEMENT PROVIDES FOR NOXIOUS WEED DETECTION, TREATMENT, AND FIELD MONITORING ON THE BEAVERHEAD-DEERLODGE NATIONAL FOREST. FIELD CREWS WILL IMPLEMENT TARGETED HERBICIDE APPLICATION AND FOLLOW UP MONITORING ON PRIORITY AREAS ALONG KEY ",
+   "id": "26GN11010200028",
+   "kind": "grants",
+   "outlays": null,
+   "recipient": "COUNTY OF BEAVERHEAD",
+   "url": "https://www.usaspending.gov/award/ASST_NON_26GN11010200028_012"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 62376008.41,
+   "description": "FAM RETARDANT - FULL SERVICE, 2026 IQ-NOCOMMIT CONTINUANCE OF TASK ORDER 1202SC26K2501",
+   "id": "1202SC26K2503",
+   "kind": "contracts",
+   "outlays": 35899948.17,
+   "recipient": "PERIMETER SOLUTIONS LP",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SC26K2503_12C2_1202SC26T2500_12C2"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 49838115.1,
+   "description": "FAM RETARDANT - FULL SERVICE, 2026 IQ-NOCOMMIT",
+   "id": "1202SC26K2501",
+   "kind": "contracts",
+   "outlays": 46016074.41,
+   "recipient": "PERIMETER SOLUTIONS LP",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SC26K2501_12C2_1202SC26T2500_12C2"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 46542266.89,
+   "description": "FAM RETARDANT - FULL SERVICE, 2025 IQ-NOCOMMIT",
+   "id": "1202SC25K2504",
+   "kind": "contracts",
+   "outlays": 46542266.89,
+   "recipient": "PERIMETER SOLUTIONS LP",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SC25K2504_12C2_1202SC24T2500_12C2"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 37445652.33,
+   "description": "COULSON - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER 160 DAY MAP",
+   "id": "1202SA24K9116",
+   "kind": "contracts",
+   "outlays": 29127457.69,
+   "recipient": "COULSON AVIATION (USA), INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9116_12C2_1202SA23T9103_12C2"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 37401739.44,
+   "description": "10 TANKER - AIRTANKER MATCO EXCLUSIVE USE TASK ORDER 2024-2028 - 120 DAY MAP",
+   "id": "1202SA24K9112",
+   "kind": "contracts",
+   "outlays": 30583314.41,
+   "recipient": "10 TANKER AIR CARRIER, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9112_12C2_1202SA23T9100_12C2"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 35801116.32,
+   "description": "10 TANKER - AIRTANKER MATOC EXCLUSIVE USE TASK ORDER",
+   "id": "1202SA24K9128",
+   "kind": "contracts",
+   "outlays": 29490404.18,
+   "recipient": "10 TANKER AIR CARRIER, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9128_12C2_1202SA23T9100_12C2"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 34951083.93,
+   "description": "10 TANKER - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER 120 DAY MAP",
+   "id": "1202SA24K9124",
+   "kind": "contracts",
+   "outlays": 27506762.25,
+   "recipient": "10 TANKER AIR CARRIER, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9124_12C2_1202SA23T9100_12C2"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 33804282.9,
+   "description": "AERO AIR - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER - 160 DAY MAP",
+   "id": "1202SA24K9115",
+   "kind": "contracts",
+   "outlays": 28339795.55,
+   "recipient": "AERO AIR, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9115_12C2_1202SA23T9101_12C2"
+  }
+ ],
+ "codes": [
+  {
+   "code": "AAM",
+   "designation": "Wildfire Suppression"
+  }
+ ],
+ "funding_by_code": {
+  "AAM": 5081746012.99
+ },
+ "law": "119-74",
+ "overview": {
+  "award_obligations": 1301127064.95,
+  "award_outlays": 1342056275.93,
+  "budget_authority": 5081746012.99,
+  "total_obligations": 4083048544.89,
+  "total_outlays": 3350697316.58
+ },
+ "programs": [
+  {
+   "listing": "10.703",
+   "name": "Cooperative Fire Protection Agreement",
+   "obligations": 2882034640.13
+  },
+  {
+   "listing": "10.664",
+   "name": "Cooperative Forestry Assistance",
+   "obligations": 3405817.0
+  },
+  {
+   "listing": "10.699",
+   "name": "Partnership Agreements",
+   "obligations": 1121031.32
+  },
+  {
+   "listing": "10.740",
+   "name": "Youth Conservation Corps and Public Land Corps",
+   "obligations": 867734.14
+  },
+  {
+   "listing": "10.704",
+   "name": "Law Enforcement Agreements",
+   "obligations": 638180.76
+  },
+  {
+   "listing": "10.709",
+   "name": "Cost Reimbursable Agreements",
+   "obligations": 134688.23
+  },
+  {
+   "listing": "10.738",
+   "name": "Collaborative Forest Landscape Restoration Program (CFLRP)",
+   "obligations": 49160.62
+  },
+  {
+   "listing": "10.691",
+   "name": "Good Neighbor Authority ",
+   "obligations": 46942.0
+  },
+  {
+   "listing": "10.716",
+   "name": "Infrastructure Investment and Jobs Act Prescribed Fire/Fire Recovery",
+   "obligations": 42500.0
+  }
+ ],
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAM"
+}

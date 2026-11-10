@@ -1,0 +1,21 @@
+{
+ "law": "117-100",
+ "period_start": "2022-03-15",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-100",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-100",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Suicide Training and Awareness Nationally Delivered for Universal Prevention Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Suicide%20Training%20and%20Awareness%20Nationally%20Delivered%20for%20Universal%20Prevention%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

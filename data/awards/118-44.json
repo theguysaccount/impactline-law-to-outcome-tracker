@@ -1,0 +1,21 @@
+{
+ "law": "118-44",
+ "period_start": "2024-03-18",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-44",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-44",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Disaster Assistance Deadlines Alignment Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Disaster%20Assistance%20Deadlines%20Alignment%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

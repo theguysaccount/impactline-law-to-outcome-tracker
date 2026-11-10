@@ -1,0 +1,21 @@
+{
+ "law": "117-278",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-278",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-278",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 1550 State Road S-38-211 in Orangeburg, South Carolina, as the \"J.I. Washington Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201550%20State%20Road%20S-38-211%20in%20Orangeburg,%20South%20Carolina,%20as%20the%20\"J.I.%20Washington%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

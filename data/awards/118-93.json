@@ -1,0 +1,21 @@
+{
+ "law": "118-93",
+ "period_start": "2024-10-01",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-93",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-93",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Alzheimer’s Accountability and Investment Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Alzheimer’s%20Accountability%20and%20Investment%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

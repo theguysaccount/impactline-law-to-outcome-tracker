@@ -1,0 +1,21 @@
+{
+ "law": "117-111",
+ "period_start": "2022-04-13",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-111",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-111",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to obtain and direct the placement in the Capitol or on the Capitol Grounds of a statue to honor Associate Justice of the Supreme Court of the United States Sandra Day O'Connor and a statue to honor Associate Justice of the Supreme Court of the United States Ruth Bader Ginsburg.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20obtain%20and%20direct%20the%20placement%20in%20the%20Capitol%20or%20on%20the%20Capitol%20Grounds%20of%20a%20statue%20to%20honor%20Associate%20Justice%20of%20the%20Supreme%20Court%20of%20the%20United%20States%20Sandra%20Day%20O'Connor%20and%20a%20statue%20to%20honor%20Associate%20Justice%20of%20the%20Supreme%20Court%20of%20the%20United%20States%20Ruth%20Bader%20Ginsburg.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

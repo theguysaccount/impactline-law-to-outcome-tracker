@@ -1,0 +1,21 @@
+{
+ "law": "117-80",
+ "period_start": "2021-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-80",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-80",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To authorize the National Medal of Honor Museum Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20authorize%20the%20National%20Medal%20of%20Honor%20Museum%20Foundation%20to%20establish%20a%20commemorative%20work%20in%20the%20District%20of%20Columbia%20and%20its%20environs,%20and%20for%20other%20purposes.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

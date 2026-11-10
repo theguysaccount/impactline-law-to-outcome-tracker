@@ -1,0 +1,21 @@
+{
+ "law": "118-95",
+ "period_start": "2024-10-01",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-95",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-95",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Veteran Improvement Commercial Driver License Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Veteran%20Improvement%20Commercial%20Driver%20License%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

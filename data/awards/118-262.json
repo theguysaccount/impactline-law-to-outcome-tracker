@@ -1,0 +1,21 @@
+{
+ "law": "118-262",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-262",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-262",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 108 North Main Street in Bucoda, Washington, as the \"Mayor Rob Gordon Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20108%20North%20Main%20Street%20in%20Bucoda,%20Washington,%20as%20the%20\"Mayor%20Rob%20Gordon%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

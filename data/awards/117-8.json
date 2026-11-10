@@ -1,0 +1,21 @@
+{
+ "law": "117-8",
+ "period_start": "2021-04-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-8",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-8",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Advancing Education on Biosimilars Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Advancing%20Education%20on%20Biosimilars%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "117-300",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-300",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-300",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Dignity for MST Survivors Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Dignity%20for%20MST%20Survivors%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

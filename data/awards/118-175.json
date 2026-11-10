@@ -1,0 +1,21 @@
+{
+ "law": "118-175",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-175",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-175",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the visitor and education center at Fort McHenry National Monument and Historic Shrine as the Paul S. Sarbanes Visitor and Education Center.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20visitor%20and%20education%20center%20at%20Fort%20McHenry%20National%20Monument%20and%20Historic%20Shrine%20as%20the%20Paul%20S.%20Sarbanes%20Visitor%20and%20Education%20Center.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

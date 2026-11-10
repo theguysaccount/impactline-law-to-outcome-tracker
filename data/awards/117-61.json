@@ -1,0 +1,21 @@
+{
+ "law": "117-61",
+ "period_start": "2021-11-18",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-61",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-61",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Protecting America’s First Responders Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Protecting%20America’s%20First%20Responders%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

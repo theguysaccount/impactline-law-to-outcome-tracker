@@ -1,0 +1,21 @@
+{
+ "law": "119-46",
+ "period_start": "2025-12-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-46",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-46",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Requesting the Secretary of the Interior to authorize unique and one-time arrangements for displays on the National Mall and the Washington Monument during the period beginning on December 31, 2025, and ending on January 5, 2026.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Requesting%20the%20Secretary%20of%20the%20Interior%20to%20authorize%20unique%20and%20one-time%20arrangements%20for%20displays%20on%20the%20National%20Mall%20and%20the%20Washington%20Monument%20during%20the%20period%20beginning%20on%20December%2031,%202025,%20and%20ending%20on%20January%205,%202026.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

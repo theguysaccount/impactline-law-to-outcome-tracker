@@ -1,0 +1,21 @@
+{
+ "law": "118-108",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-108",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-108",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 3500 West 6th Street, Suite 103 in Los Angeles, California, as the \"Dosan Ahn Chang Ho Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%203500%20West%206th%20Street,%20Suite%20103%20in%20Los%20Angeles,%20California,%20as%20the%20\"Dosan%20Ahn%20Chang%20Ho%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

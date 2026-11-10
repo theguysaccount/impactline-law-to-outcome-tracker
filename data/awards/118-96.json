@@ -1,0 +1,21 @@
+{
+ "law": "118-96",
+ "period_start": "2024-10-01",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-96",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-96",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "IMPACTT Human Trafficking Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=IMPACTT%20Human%20Trafficking%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

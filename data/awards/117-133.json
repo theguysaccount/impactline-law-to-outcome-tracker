@@ -1,0 +1,21 @@
+{
+ "law": "117-133",
+ "period_start": "2022-06-07",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-133",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-133",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Dr. Kate Hendricks Thomas Supporting Expanded Review for Veterans In Combat Environments Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Dr.%20Kate%20Hendricks%20Thomas%20Supporting%20Expanded%20Review%20for%20Veterans%20In%20Combat%20Environments%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

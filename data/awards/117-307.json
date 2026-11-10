@@ -1,0 +1,21 @@
+{
+ "law": "117-307",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-307",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-307",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 6000 South Florida Avenue in Lakeland, Florida, as the \"U.S. Marine Corporal Ronald R. Payne Jr. Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%206000%20South%20Florida%20Avenue%20in%20Lakeland,%20Florida,%20as%20the%20\"U.S.%20Marine%20Corporal%20Ronald%20R.%20Payne%20Jr.%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

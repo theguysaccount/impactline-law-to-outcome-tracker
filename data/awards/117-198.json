@@ -1,0 +1,21 @@
+{
+ "law": "117-198",
+ "period_start": "2022-10-11",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-198",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-198",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 1801 Town and Country Drive in Norco, California, as the \"Lance Corporal Kareem Nikoui Memorial Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201801%20Town%20and%20Country%20Drive%20in%20Norco,%20California,%20as%20the%20\"Lance%20Corporal%20Kareem%20Nikoui%20Memorial%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

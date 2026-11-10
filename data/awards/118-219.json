@@ -1,0 +1,21 @@
+{
+ "law": "118-219",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-219",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-219",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 420 Highway 17 North in Surfside Beach, South Carolina, as the \"Nancy Yount Childs Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20420%20Highway%2017%20North%20in%20Surfside%20Beach,%20South%20Carolina,%20as%20the%20\"Nancy%20Yount%20Childs%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

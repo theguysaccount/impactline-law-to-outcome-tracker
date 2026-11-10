@@ -1,0 +1,21 @@
+{
+ "law": "119-72",
+ "period_start": "2026-01-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-72",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-72",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Focused Assistance and Skills Training for Veterans’ Employment and Transition Success Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Focused%20Assistance%20and%20Skills%20Training%20for%20Veterans’%20Employment%20and%20Transition%20Success%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

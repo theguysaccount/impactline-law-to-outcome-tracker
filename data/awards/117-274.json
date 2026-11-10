@@ -1,0 +1,21 @@
+{
+ "law": "117-274",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-274",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-274",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 226 North Main Street in Roseville, Ohio, as the \"Ronald E. Rosser Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20226%20North%20Main%20Street%20in%20Roseville,%20Ohio,%20as%20the%20\"Ronald%20E.%20Rosser%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

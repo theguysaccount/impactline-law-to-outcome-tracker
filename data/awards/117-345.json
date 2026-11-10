@@ -1,0 +1,21 @@
+{
+ "law": "117-345",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-345",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-345",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Butterfield Overland National Historic Trail Designation Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Butterfield%20Overland%20National%20Historic%20Trail%20Designation%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,59 @@
+{
+ "law": "117-325",
+ "partial": false,
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-325",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-325",
+   "top": []
+  },
+  {
+   "counts": {
+    "grants": 3
+   },
+   "match": "name",
+   "phrase": "Law Enforcement De-Escalation Training Act",
+   "returned": {
+    "grants": 3
+   },
+   "search_url": "https://www.usaspending.gov/search/?keyword=Law%20Enforcement%20De-Escalation%20Training%20Act",
+   "top": [
+    {
+     "agency": "Department of Justice",
+     "amount": 2000000.0,
+     "description": "LAW ENFORCEMENT TYPICALLY SERVES AS THE FIRST RESPONDERS FOR MOST 911 CALLS, INCLUDING RESPONDING TO SITUATIONS INVOLVING BEHAVIORAL HEALTH- (I.E., MENTAL HEALTH AND SUBSTANCE USE DISORDERS) AND INTELLECTUAL AND DEVELOPMENTAL DISABILITY (ID",
+     "id": "15PBJA23GK05524NTCP",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "NATIONAL POLICING INSTITUTE",
+     "url": "https://www.usaspending.gov/award/ASST_NON_15PBJA23GK05524NTCP_015"
+    },
+    {
+     "agency": "Department of Justice",
+     "amount": 2000000.0,
+     "description": "IDENTIFYING AND SUPPORTING EFFECTIVE LAW ENFORCEMENT RESPONSES TO SITUATIONS INVOLVING CONFLICT AND CRISIS ARE A PRIORITY OF THE DEPARTMENT OF JUSTICE (DOJ). THESE EFFORTS ARE REINFORCED BY THE LAW ENFORCEMENT DE-ESCALATION TRAINING ACT OF ",
+     "id": "15JCOPS25GK00003DETU",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "NATIONAL POLICING INSTITUTE",
+     "url": "https://www.usaspending.gov/award/ASST_NON_15JCOPS25GK00003DETU_015"
+    },
+    {
+     "agency": "Department of Justice",
+     "amount": 750000.0,
+     "description": "THE NATIONAL POLICING INSTITUTE (NPI), IN COLLABORATION WITH THE INSTITUTE FOR INTERGOVERNMENTAL RESEARCH (IIR), PROPOSES TO DEVELOP AND PROMOTE THE BENEFITS OF A STANDARDS-BASED REVIEW AND APPROVAL PROCESS FOR DE-ESCALATION TRAINING IN THE",
+     "id": "15JCOPS24GK01371DETX",
+     "kind": "grants",
+     "outlays": null,
+     "recipient": "NATIONAL POLICING INSTITUTE",
+     "url": "https://www.usaspending.gov/award/ASST_NON_15JCOPS24GK01371DETX_015"
+    }
+   ]
+  }
+ ],
+ "total": 3
+}

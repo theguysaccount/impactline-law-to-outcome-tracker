@@ -1,0 +1,21 @@
+{
+ "law": "118-91",
+ "period_start": "2024-10-01",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-91",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-91",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Enhanced Presidential Security Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Enhanced%20Presidential%20Security%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

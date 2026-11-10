@@ -1,0 +1,21 @@
+{
+ "law": "118-201",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-201",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-201",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to designate the facility of the United States Postal Service located at 1106 Main Street in Bastrop, Texas, as the \"Sergeant Major Billy D. Waugh Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201106%20Main%20Street%20in%20Bastrop,%20Texas,%20as%20the%20\"Sergeant%20Major%20Billy%20D.%20Waugh%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

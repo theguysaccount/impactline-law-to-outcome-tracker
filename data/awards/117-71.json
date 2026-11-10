@@ -1,0 +1,21 @@
+{
+ "law": "117-71",
+ "period_start": "2021-12-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-71",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-71",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Protecting Medicare and American Farmers from Sequester Cuts Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Protecting%20Medicare%20and%20American%20Farmers%20from%20Sequester%20Cuts%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

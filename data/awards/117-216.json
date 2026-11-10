@@ -1,0 +1,21 @@
+{
+ "law": "117-216",
+ "period_start": "2022-12-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-216",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-216",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers' Conference Committee of the National Railway Labor Conference and certain of their employees.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20provide%20for%20a%20resolution%20with%20respect%20to%20the%20unresolved%20disputes%20between%20certain%20railroads%20represented%20by%20the%20National%20Carriers'%20Conference%20Committee%20of%20the%20National%20Railway%20Labor%20Conference%20and%20certain%20of%20their%20employees.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

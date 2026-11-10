@@ -1,0 +1,21 @@
+{
+ "law": "117-12",
+ "period_start": "2021-05-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-12",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-12",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Extending Temporary Emergency Scheduling of Fentanyl Analogues Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Extending%20Temporary%20Emergency%20Scheduling%20of%20Fentanyl%20Analogues%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

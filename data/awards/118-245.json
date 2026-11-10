@@ -1,0 +1,21 @@
+{
+ "law": "118-245",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-245",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-245",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 306 Pickens Street in Marion, Alabama, as the \"Albert Turner, Sr. Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20306%20Pickens%20Street%20in%20Marion,%20Alabama,%20as%20the%20\"Albert%20Turner,%20Sr.%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

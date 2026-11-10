@@ -1,0 +1,21 @@
+{
+ "law": "117-206",
+ "period_start": "2022-10-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-206",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-206",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Blackwell School National Historic Site Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Blackwell%20School%20National%20Historic%20Site%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

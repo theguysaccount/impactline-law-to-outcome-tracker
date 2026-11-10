@@ -1,0 +1,21 @@
+{
+ "law": "118-240",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-240",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-240",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 135 West Spring Street in Titusville, Pennsylvania, as the \"Edwin L. Drake Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20135%20West%20Spring%20Street%20in%20Titusville,%20Pennsylvania,%20as%20the%20\"Edwin%20L.%20Drake%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

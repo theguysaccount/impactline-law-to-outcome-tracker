@@ -1,0 +1,21 @@
+{
+ "law": "118-214",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-214",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-214",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "U.S. Congressman Sam Johnson Memorial VA Clinic Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=U.S.%20Congressman%20Sam%20Johnson%20Memorial%20VA%20Clinic%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

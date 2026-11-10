@@ -367,10 +367,20 @@ Checked {when(checks.text('tagged', lid))}. Percentages are simple divisions of 
             for p in named["phrases"]:
                 if not p["counts"]:
                     continue
-                counts = ", ".join(f"{n:,} {spending.GROUP_LABEL[k]}" for k, n in sorted(p["counts"].items(), key=lambda kv: -kv[1]))
+                counts = ", ".join(f"{n:,} {spending.GROUP_LABEL[k][:-1] if n == 1 and spending.GROUP_LABEL[k].endswith('s') else spending.GROUP_LABEL[k]}"
+                                   for k, n in sorted(p["counts"].items(), key=lambda kv: -kv[1]))
                 what = "cites" if p["match"] == "citation" else "names"
-                blocks.append(f'<h3>Awards whose description {what} “{E(p["phrase"])}”</h3><p>{counts}, among awards starting on or after '
-                              f'{short_date(named["period_start"])}. <a href="{E(p["search_url"])}" rel="noopener">Run this search on USAspending.gov</a>.</p>'
+                floor = "At least " if p.get("partial") else ""
+                returned = sum((p.get("returned") or {}).values())
+                loose = ""
+                if p.get("partial"):
+                    loose = (f" USAspending's keyword search returns {returned:,} awards for this phrase. The {spending.PAGE * spending.MAX_PAGES:,} largest "
+                             f"of each kind were read, and only those whose description contains the phrase are counted, so these are minimums.")
+                elif returned > sum(p["counts"].values()):
+                    loose = (f" USAspending's keyword search returns {returned:,} awards for this phrase; only those whose description "
+                             f"contains it are counted here.")
+                blocks.append(f'<h3>Awards whose description {what} “{E(p["phrase"])}”</h3><p>{floor}{counts}, among awards starting on or after '
+                              f'{short_date(named["period_start"])}.{loose} <a href="{E(p["search_url"])}" rel="noopener">Run this search on USAspending.gov</a>.</p>'
                               + (f"<p>Largest by award total:</p>{awards_list(p['top'][:5])}" if p["top"] else ""))
             money_html = f"""<p><span class="chip candidates">Candidates</span> Treasury does not tag spending to this law. The only automatic
 signal is an award whose description mentions the law. These are keyword matches: some awards funded by this law never say so,

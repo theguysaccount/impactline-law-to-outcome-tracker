@@ -43,6 +43,10 @@
   law's own check date (young or busy laws daily, quiet laws every one to four weeks). Polite to the sources and
   finishes in minutes.
 - Check dates live in one small file (`data/checked.json`) so a quiet night changes one file, not 774.
+- USAspending's keyword search is loose: it reads fields other than the description, and "Public Law 118-21" also
+  returns awards citing Public Law 118-210. So every candidate's description is read and must contain the exact
+  citation or name. `returned` keeps what the search reported; `counts` are the verified ones. When a phrase returns
+  more than 500 awards of a kind, only the 500 largest are read and the page says "at least".
 - A source that fails keeps its last good files. A law file that suddenly lists 10% fewer laws is not trusted.
 - Stack change from Next.js on a Worker to Python's standard library plus static files: the brief is a site that runs
   with no server and no keys, and every dynamic route in the original needs one or the other.
@@ -50,4 +54,4 @@
 ## Questions left for Jack (none blocks the staged site)
 1. Cut over `app.impactline.org`, add a new name such as `laws.impactline.org`, or keep this as a mirror?
 2. Should the site be indexed after cutover? The original is not.
-3. Is the merge with America V2 (AuditLine) wanted? The two static sites already cross-link cleanly by public-law number.
+3. Is the merge with America V2 (AuditLine) wanted? The two static sites share a contract and a build pattern, but no common key yet.

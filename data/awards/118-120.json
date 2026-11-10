@@ -1,0 +1,21 @@
+{
+ "law": "118-120",
+ "period_start": "2024-11-25",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-120",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-120",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Building on Reemployment Improvements to Deliver Good Employment for Workers Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Building%20on%20Reemployment%20Improvements%20to%20Deliver%20Good%20Employment%20for%20Workers%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

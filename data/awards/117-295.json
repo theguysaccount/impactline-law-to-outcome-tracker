@@ -1,0 +1,21 @@
+{
+ "law": "117-295",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-295",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-295",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 450 West Schaumburg Road in Schaumburg, Illinois, as the \"Veterans of Iraq and Afghanistan Memorial Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20450%20West%20Schaumburg%20Road%20in%20Schaumburg,%20Illinois,%20as%20the%20\"Veterans%20of%20Iraq%20and%20Afghanistan%20Memorial%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

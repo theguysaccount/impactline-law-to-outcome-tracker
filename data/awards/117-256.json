@@ -1,0 +1,21 @@
+{
+ "law": "117-256",
+ "period_start": "2022-12-21",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-256",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-256",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To posthumously award the Congressional Gold Medal, collectively, to Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith, in recognition of their contributions to the Nation.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20posthumously%20award%20the%20Congressional%20Gold%20Medal,%20collectively,%20to%20Glen%20Doherty,%20Tyrone%20Woods,%20J.%20Christopher%20Stevens,%20and%20Sean%20Smith,%20in%20recognition%20of%20their%20contributions%20to%20the%20Nation.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

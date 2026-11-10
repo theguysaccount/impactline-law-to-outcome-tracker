@@ -1,0 +1,21 @@
+{
+ "law": "118-213",
+ "period_start": "2025-01-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-213",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-213",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 220 North Hatcher Avenue in Purcellville, Virginia, as the \"Secretary of State Madeleine Albright Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20220%20North%20Hatcher%20Avenue%20in%20Purcellville,%20Virginia,%20as%20the%20\"Secretary%20of%20State%20Madeleine%20Albright%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

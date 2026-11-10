@@ -1,0 +1,21 @@
+{
+ "law": "117-75",
+ "period_start": "2021-12-21",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-75",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-75",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the Federal Building and United States Courthouse located at 1125 Chapline Street in Wheeling, West Virginia, as the \"Frederick P. Stamp, Jr. Federal Building and United States Courthouse\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20Federal%20Building%20and%20United%20States%20Courthouse%20located%20at%201125%20Chapline%20Street%20in%20Wheeling,%20West%20Virginia,%20as%20the%20\"Frederick%20P.%20Stamp,%20Jr.%20Federal%20Building%20and%20United%20States%20Courthouse\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

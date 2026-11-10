@@ -1,0 +1,21 @@
+{
+ "law": "117-102",
+ "period_start": "2022-03-15",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-102",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-102",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "A bill to provide for the application of certain provisions of the Secure Rural Schools and Community Self-Determination Act of 2000 for fiscal year 2021.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=A%20bill%20to%20provide%20for%20the%20application%20of%20certain%20provisions%20of%20the%20Secure%20Rural%20Schools%20and%20Community%20Self-Determination%20Act%20of%202000%20for%20fiscal%20year%202021.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

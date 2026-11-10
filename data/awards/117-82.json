@@ -1,0 +1,21 @@
+{
+ "law": "117-82",
+ "period_start": "2022-01-20",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-82",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-82",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Puerto Rico Recovery Accuracy in Disclosures Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Puerto%20Rico%20Recovery%20Accuracy%20in%20Disclosures%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

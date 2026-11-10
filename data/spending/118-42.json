@@ -1,0 +1,156 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 8000000000.0,
+   "name": "Department of Housing and Urban Development",
+   "obligations": 7999857760.0,
+   "outlays": 7867277307.0
+  },
+  {
+   "budgetary_resources": 700000000.0,
+   "name": "National Aeronautics and Space Administration",
+   "obligations": 680672728.7,
+   "outlays": 550212124.07
+  },
+  {
+   "budgetary_resources": 584000000.0,
+   "name": "Department of the Interior",
+   "obligations": 480714480.53,
+   "outlays": 351989890.1
+  },
+  {
+   "budgetary_resources": 99900000.0,
+   "name": "Department of Commerce",
+   "obligations": 97191559.0,
+   "outlays": 95739223.69
+  }
+ ],
+ "awards": [
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 3229285063.07,
+   "description": "WORK REQUIRED FOR THE DESIGN, DEVELOPMENT, MANUFACTURE, TEST, LAUNCH, DEMONSTRATION, AND ENGINEERING SUPPORT OF THE HUMAN LANDING SYSTEM (HLS) INTEGRATED LANDER.",
+   "id": "80MSFC20C0034",
+   "kind": "contracts",
+   "outlays": 2895827556.11,
+   "recipient": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 2192010424.8,
+   "description": "RAPID DDT&E AND DEMONSTRATION OF S SUSTAINABLE HUMAN LANDING SYSTEM INTEGRATED LANDER.",
+   "id": "80MSFC23CA014",
+   "kind": "contracts",
+   "outlays": 1366447530.82,
+   "recipient": "BLUE ORIGIN MANUFACTURING, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 670796870.32,
+   "description": "BASE OPERATIONS AND SPACEPORT SERVICES (BOSS) CONTRACT",
+   "id": "80KSC018C0017",
+   "kind": "contracts",
+   "outlays": 585412498.78,
+   "recipient": "AMENTUM SPACEPORT LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80KSC018C0017_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 341723840.93,
+   "description": "THE ETIS III CONTRACT WILL PROVIDE ENVIRONMENTAL TEST AND INTEGRATION RELATED SERVICES FOR NASA GSFC ENGINEERING AND TECHNOLOGY DIRECTORATE (ETD) MECHANICAL SYSTEMS DIVISION AND RELATED ORGANIZATIONS FOR THE FORMULATION, DESIGN, DEVELOPMENT",
+   "id": "80GSFC19C0060",
+   "kind": "contracts",
+   "outlays": 338868642.29,
+   "recipient": "PERATON INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC19C0060_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 310202767.68,
+   "description": "NASA CONSOLIDATED APPLICATION AND PLATFORM SERVICES (NCAPS)",
+   "id": "80TECH24CA002",
+   "kind": "contracts",
+   "outlays": 215722389.53,
+   "recipient": "CACI, INC. - FEDERAL",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80TECH24CA002_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 260040541.82,
+   "description": "THE PURPOSE OF THIS CONTRACT IS TO ACQUIRE REPAIRS, OPERATIONS & MAINTENANCE, AND ENGINEERING (ROME) AND RELATED SERVICES FOR THE GODDARD SPACE FLIGHT CENTER (GREENBELT AND WALLOPS FLIGHT FACILITY).",
+   "id": "80GSFC23CA052",
+   "kind": "contracts",
+   "outlays": 135991592.03,
+   "recipient": "ASRC FEDERAL FACILITIES LOGISTICS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC23CA052_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 246030219.63,
+   "description": "IGF::OT::IGF NASA AMES RESEARCH CENTER FACILITIES MAINTENANCE SUPPORT SERVICES CONTRACT THE NASA AMES FACILITIES MAINTENANCE SUPPORT SERVICES (AFSS) CONTRACT WILL PROVIDE THE PLANNING, IMPLEMENTATION, AND EXECUTION OF A COMPREHENSIVE RELIAB",
+   "id": "NNA15BB23C",
+   "kind": "contracts",
+   "outlays": 151798548.64,
+   "recipient": "AMENTUM TECHNOLOGY, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNA15BB23C_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 241798324.15,
+   "description": "THE OVERALL SCOPE OF THIS CONTRACT IS TO PROVIDE WALLOPS RANGE OPERATIONS AND MAINTENANCE SUPPORT SERVICES TRAINING COMMAND, CONTROL, COMMUNICATIONS, INFORMATION AND COMPUTER SYSTEMS SERVICES TESTING, MODIFYING AND INSTALLING COMMUNICATIONS",
+   "id": "80GSFC19C0013",
+   "kind": "contracts",
+   "outlays": 234613870.1,
+   "recipient": "KBR WYLE SERVICES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC19C0013_8000_-NONE-_-NONE-"
+  }
+ ],
+ "codes": [
+  {
+   "code": "AAF",
+   "designation": "Emergency"
+  },
+  {
+   "code": "AAG",
+   "designation": "Disaster"
+  }
+ ],
+ "funding_by_code": {
+  "AAF": 8799900000.0,
+  "AAG": 584000000.0
+ },
+ "law": "118-42",
+ "overview": {
+  "award_obligations": 8645768206.08,
+  "award_outlays": 8436843799.22,
+  "budget_authority": 9383900000.0,
+  "total_obligations": 9586436528.23,
+  "total_outlays": 9193218544.86
+ },
+ "programs": [
+  {
+   "listing": "14.871",
+   "name": "Section 8 Housing Choice Vouchers",
+   "obligations": 12217321185.0
+  },
+  {
+   "listing": "14.195",
+   "name": "Project-Based Rental Assistance (PBRA)",
+   "obligations": 9870382616.18
+  },
+  {
+   "listing": "15.035",
+   "name": "Forestry on Indian Lands",
+   "obligations": 5463701.17
+  },
+  {
+   "listing": "15.031",
+   "name": "Indian Community Fire Protection",
+   "obligations": 1314827.53
+  }
+ ],
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAF,AAG"
+}

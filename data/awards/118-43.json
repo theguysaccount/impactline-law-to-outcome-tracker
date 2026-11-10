@@ -1,0 +1,21 @@
+{
+ "law": "118-43",
+ "period_start": "2024-03-18",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-43",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-43",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Eradicating Narcotic Drugs and Formulating Effective New Tools to Address National Yearly Losses of life Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Eradicating%20Narcotic%20Drugs%20and%20Formulating%20Effective%20New%20Tools%20to%20Address%20National%20Yearly%20Losses%20of%20life%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

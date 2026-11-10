@@ -1,0 +1,21 @@
+{
+ "law": "117-51",
+ "period_start": "2021-10-19",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-51",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-51",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To amend the Fentanyl Sanctions Act, to modify certain deadlines relating to the Commission on Combating Synthetic Opioid Trafficking.",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20amend%20the%20Fentanyl%20Sanctions%20Act,%20to%20modify%20certain%20deadlines%20relating%20to%20the%20Commission%20on%20Combating%20Synthetic%20Opioid%20Trafficking.",
+   "top": []
+  }
+ ],
+ "total": 0
+}

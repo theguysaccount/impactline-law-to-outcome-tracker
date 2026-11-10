@@ -1,0 +1,21 @@
+{
+ "law": "117-126",
+ "period_start": "2022-05-16",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-126",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-126",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Safe Sleep for Babies Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Safe%20Sleep%20for%20Babies%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

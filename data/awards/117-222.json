@@ -1,0 +1,21 @@
+{
+ "law": "117-222",
+ "period_start": "2022-12-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-222",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-222",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Civil Rights Cold Case Investigations Support Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Civil%20Rights%20Cold%20Case%20Investigations%20Support%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

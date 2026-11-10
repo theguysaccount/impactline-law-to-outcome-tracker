@@ -1,0 +1,21 @@
+{
+ "law": "117-290",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-290",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-290",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 5420 Kavanaugh Boulevard in Little Rock, Arkansas, as the \"Ronald A. Robinson Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%205420%20Kavanaugh%20Boulevard%20in%20Little%20Rock,%20Arkansas,%20as%20the%20\"Ronald%20A.%20Robinson%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

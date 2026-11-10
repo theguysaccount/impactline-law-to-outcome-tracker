@@ -1,0 +1,21 @@
+{
+ "law": "117-4",
+ "period_start": "2021-03-24",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-4",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-4",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Strengthening and Amplifying Vaccination Efforts to Locally Immunize All Veterans and Every Spouse Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Strengthening%20and%20Amplifying%20Vaccination%20Efforts%20to%20Locally%20Immunize%20All%20Veterans%20and%20Every%20Spouse%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

@@ -1,0 +1,21 @@
+{
+ "law": "118-23",
+ "period_start": "2023-12-19",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-23",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-23",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Testing, Rapid Analysis, and Narcotic Quality Research Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Testing,%20Rapid%20Analysis,%20and%20Narcotic%20Quality%20Research%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

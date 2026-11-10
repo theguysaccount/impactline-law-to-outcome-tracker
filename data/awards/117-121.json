@@ -1,0 +1,21 @@
+{
+ "law": "117-121",
+ "period_start": "2022-05-12",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-121",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-121",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "American Fisheries Advisory Committee Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=American%20Fisheries%20Advisory%20Committee%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

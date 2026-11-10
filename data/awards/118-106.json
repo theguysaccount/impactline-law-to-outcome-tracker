@@ -1,0 +1,21 @@
+{
+ "law": "118-106",
+ "period_start": "2024-10-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-106",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-106",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Confirmation Of Congressional Observer Access Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Confirmation%20Of%20Congressional%20Observer%20Access%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

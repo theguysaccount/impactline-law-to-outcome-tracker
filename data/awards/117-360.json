@@ -1,0 +1,21 @@
+{
+ "law": "117-360",
+ "period_start": "2023-01-05",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-360",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-360",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Energy Security and Lightering Independence Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Energy%20Security%20and%20Lightering%20Independence%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

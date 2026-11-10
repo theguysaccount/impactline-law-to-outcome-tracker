@@ -1,0 +1,21 @@
+{
+ "law": "118-187",
+ "period_start": "2024-12-23",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-187",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-187",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Source code Harmonization And Reuse in Information Technology Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Source%20code%20Harmonization%20And%20Reuse%20in%20Information%20Technology%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

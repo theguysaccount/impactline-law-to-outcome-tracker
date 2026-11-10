@@ -1,15 +1,15 @@
 {
  "fr": {
-  "checked_at": "2026-11-10T08:56:37Z",
+  "checked_at": "2026-11-10T08:57:01Z",
   "error": "",
-  "last_changed": "2026-11-10T08:56:37Z",
-  "last_success": "2026-11-10T08:56:37Z",
-  "note": "1 laws checked, 1 changed, 773 still due",
+  "last_changed": "2026-11-10T08:57:01Z",
+  "last_success": "2026-11-10T08:57:01Z",
+  "note": "773 laws checked, 773 changed, 0 still due",
   "ok": true,
-  "waiting": 773,
+  "waiting": 0,
   "warnings": []
  },
- "http_calls": 2,
+ "http_calls": 0,
  "laws": {
   "checked_at": "2026-11-10T08:56:30Z",
   "error": "",
@@ -20,22 +20,33 @@
   "warnings": []
  },
  "named": {
-  "checked_at": "2026-11-10T08:56:44Z",
+  "checked_at": "2026-11-10T09:53:43Z",
   "error": "",
-  "last_changed": "2026-11-10T08:56:44Z",
-  "last_success": "2026-11-10T08:56:44Z",
-  "note": "1 laws searched, 1 changed, 0 still due",
+  "last_changed": "2026-11-10T09:37:59Z",
+  "last_success": "2026-11-10T09:53:43Z",
+  "note": "0 laws searched, 0 changed, 0 still due",
   "ok": true,
   "waiting": 0,
   "warnings": []
  },
- "tagged": {
-  "checked_at": "2026-11-10T08:56:38Z",
+ "programs": {
+  "checked_at": "2026-11-10T09:37:59Z",
   "error": "",
-  "last_changed": "2026-11-10T08:56:38Z",
-  "last_success": "2026-11-10T08:56:38Z",
-  "note": "20 laws carry a spending code; 1 re-read, 1 changed",
+  "last_changed": "2026-11-10T09:37:59Z",
+  "last_success": "2026-11-10T09:37:59Z",
+  "note": "3 program traces re-read, 3 changed",
   "ok": true,
   "warnings": []
+ },
+ "tagged": {
+  "checked_at": "2026-11-10T09:37:59Z",
+  "error": "",
+  "last_changed": "2026-11-10T09:37:59Z",
+  "last_success": "2026-11-10T09:37:59Z",
+  "note": "20 laws carry a spending code; 19 re-read, 19 changed",
+  "ok": true,
+  "warnings": [
+   "118-158: HttpError: 502 for https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAK"
+  ]
  }
 }

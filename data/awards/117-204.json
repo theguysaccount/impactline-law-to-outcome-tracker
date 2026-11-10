@@ -1,0 +1,21 @@
+{
+ "law": "117-204",
+ "period_start": "2022-10-17",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-204",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-204",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Maximizing Outcomes through Better Investments in Lifesaving Equipment for (MOBILE) Health Care Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Maximizing%20Outcomes%20through%20Better%20Investments%20in%20Lifesaving%20Equipment%20for%20(MOBILE)%20Health%20Care%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

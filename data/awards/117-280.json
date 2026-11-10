@@ -1,0 +1,21 @@
+{
+ "law": "117-280",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-280",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-280",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 1961 North C Street in Oxnard, California, as the \"John R. Hatcher III Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%201961%20North%20C%20Street%20in%20Oxnard,%20California,%20as%20the%20\"John%20R.%20Hatcher%20III%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

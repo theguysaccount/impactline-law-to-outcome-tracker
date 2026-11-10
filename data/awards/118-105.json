@@ -1,0 +1,21 @@
+{
+ "law": "118-105",
+ "period_start": "2024-10-02",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-105",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-105",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Building Chips in America Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Building%20Chips%20in%20America%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

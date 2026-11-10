@@ -1,0 +1,21 @@
+{
+ "law": "117-288",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-288",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-288",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 213 William Hilton Parkway in Hilton Head Island, South Carolina, as the \"Caesar H. Wright Jr. Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%20213%20William%20Hilton%20Parkway%20in%20Hilton%20Head%20Island,%20South%20Carolina,%20as%20the%20\"Caesar%20H.%20Wright%20Jr.%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

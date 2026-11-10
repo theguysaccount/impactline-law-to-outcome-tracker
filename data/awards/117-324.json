@@ -1,0 +1,21 @@
+{
+ "law": "117-324",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-324",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-324",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Preventing Organizational Conflicts of Interest in Federal Acquisition Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Preventing%20Organizational%20Conflicts%20of%20Interest%20in%20Federal%20Acquisition%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

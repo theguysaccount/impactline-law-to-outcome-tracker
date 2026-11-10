@@ -1,0 +1,21 @@
+{
+ "law": "118-252",
+ "period_start": "2025-01-04",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 118-252",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20118-252",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 20 West Main Street in Santaquin, Utah, as the \"SGT Bill Hooser Post Office Building\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%2020%20West%20Main%20Street%20in%20Santaquin,%20Utah,%20as%20the%20\"SGT%20Bill%20Hooser%20Post%20Office%20Building\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

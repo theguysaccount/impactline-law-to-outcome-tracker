@@ -1,0 +1,21 @@
+{
+ "law": "117-313",
+ "period_start": "2022-12-27",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-313",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-313",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Faster Payments to Veterans’ Survivors Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Faster%20Payments%20to%20Veterans’%20Survivors%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

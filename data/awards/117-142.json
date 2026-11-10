@@ -1,0 +1,21 @@
+{
+ "law": "117-142",
+ "period_start": "2022-06-15",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-142",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-142",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "To designate the facility of the United States Postal Service located at 6223 Maple Street, in Omaha, Nebraska, as the \"Petty Officer 1st Class Charles Jackson French Post Office\".",
+   "search_url": "https://www.usaspending.gov/search/?keyword=To%20designate%20the%20facility%20of%20the%20United%20States%20Postal%20Service%20located%20at%206223%20Maple%20Street,%20in%20Omaha,%20Nebraska,%20as%20the%20\"Petty%20Officer%201st%20Class%20Charles%20Jackson%20French%20Post%20Office\".",
+   "top": []
+  }
+ ],
+ "total": 0
+}

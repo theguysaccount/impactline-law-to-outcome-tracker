@@ -1,0 +1,21 @@
+{
+ "law": "117-46",
+ "period_start": "2021-10-08",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 117-46",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-46",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Helping American Victims Afflicted by Neurological Attacks Act",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Helping%20American%20Victims%20Afflicted%20by%20Neurological%20Attacks%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}
