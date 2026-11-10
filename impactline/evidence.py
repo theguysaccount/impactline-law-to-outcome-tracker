@@ -37,8 +37,12 @@ def canonical(obj):
     return json.dumps(obj, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
 
 
-def stages(law, fr, tagged, named):
-    """The seven steps from enactment to outcome, each marked by what the public record supports."""
+def stages(law, fr, tagged, named, unread_codes=None):
+    """The seven steps from enactment to outcome, each marked by what the public record supports.
+
+    `unread_codes` lists the law's own fund codes when Treasury tags funds to it but USAspending's
+    totals have not been read: the tag is an official record, the amounts are simply not known here."""
+    unread = ", ".join(unread_codes or []) if not (tagged or {}).get("overview") else ""
     out = []
 
     def add(key, status, summary):
@@ -50,6 +54,8 @@ def stages(law, fr, tagged, named):
     codes = ", ".join(c["code"] for c in (tagged or {}).get("codes", []))
     if ov.get("budget_authority"):
         add("authority", "documented", f"Treasury tags {money(ov['budget_authority'])} in budget authority to this law (fund code {codes}).")
+    elif unread:
+        add("authority", "documented", f"Treasury tags funds to this law (fund code {unread}). USAspending did not return the totals when last asked, so no amount is shown.")
     else:
         add("authority", "needs-evidence", "No fund code ties appropriations to this law. An authorization is not an appropriation.")
     total = (fr or {}).get("total", 0)
@@ -67,17 +73,21 @@ def stages(law, fr, tagged, named):
     elif n_named:
         floor = "At least " if (named or {}).get("partial") else ""
         add("award", "candidates", f"{floor}{n_named:,} award descriptions name this law. Keyword matches only: not a list of the law's awards.")
+    elif unread:
+        add("award", "needs-evidence", "Awards under this law's fund code have not been read yet.")
     else:
         add("award", "needs-evidence", "No award is tagged to this law, and no award description names it.")
     if ov.get("total_outlays"):
         add("payment", "documented", f"{money(ov['total_outlays'])} in outlays reported under the law's fund code.")
+    elif unread:
+        add("payment", "needs-evidence", "Outlays under this law's fund code have not been read yet.")
     else:
         add("payment", "needs-evidence", "No payment data can be tied to this law.")
     add("outcome", "needs-evidence", "No reconciled outcome record. ImpactLine does not judge whether a law delivered.")
     return out
 
 
-def packet(law, fr, tagged, named, checks, repo_url):
+def packet(law, fr, tagged, named, checks, repo_url, unread_codes=None):
     lid = law["id"]
     p = {
         "packet": "impactline-evidence/1",
@@ -89,7 +99,7 @@ def packet(law, fr, tagged, named, checks, repo_url):
                        "sha256": law["xml_sha256"], "bytes": law["xml_bytes"]},
             "links": law["links"]},
         "federal_register": None, "spending_tagged_by_law": None, "awards_naming_the_law": None,
-        "stages": stages(law, fr, tagged, named), "limits": LIMITS,
+        "stages": stages(law, fr, tagged, named, unread_codes), "limits": LIMITS,
         "generator": {"name": "ImpactLine static edition", "repository": repo_url}}
     if fr:
         p["federal_register"] = {
@@ -114,9 +124,11 @@ def write_all(site_dir, laws, checks, repo_url, generated_at):
     out_dir = os.path.join(site_dir, "evidence")
     os.makedirs(out_dir, exist_ok=True)
     listed = {}
+    codes = spending.load_codes()
     for law in laws:
         lid = law["id"]
-        data = canonical(packet(law, fedreg.load(lid), _read(spending.tagged_path(lid)), _read(spending.named_path(lid)), checks, repo_url))
+        own = [c["code"] for c in spending.codes_for(codes, lid)[0]]
+        data = canonical(packet(law, fedreg.load(lid), _read(spending.tagged_path(lid)), _read(spending.named_path(lid)), checks, repo_url, own))
         with open(os.path.join(out_dir, f"{lid}.json"), "wb") as f:
             f.write(data)
         listed[lid] = {"sha256": hashlib.sha256(data).hexdigest(), "bytes": len(data)}

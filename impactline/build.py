@@ -252,6 +252,7 @@ def build(out, now=None):
     shutil.copytree(os.path.join(ROOT, "static"), os.path.join(out, "static"))
     codes = spending.load_codes()
     programs = spending.load_programs()
+    status = read_json(data_path("status.json"), {}) or {}
 
     recs = []
     for law in laws:
@@ -278,7 +279,8 @@ def build(out, now=None):
     for r in recs:
         law, fr, tagged, named = r["law"], r["fr"], r["tagged"], r["named"]
         lid = law["id"]
-        st = evidence.stages(law, fr, tagged, named)
+        own_codes = [c["code"] for c in spending.codes_for(codes, lid)[0]]
+        st = evidence.stages(law, fr, tagged, named, own_codes)
         aka = (f'<p class="note"><b>Commonly called the {E(law["also_called"])}.</b> '
                f'{E((cfg_aliases.get(lid) or {}).get("basis", ""))}</p>') if law.get("also_called") else ""
         official = "" if law["title"] == law["official_title"] else f'<p class="lede">{E(law["official_title"])}</p>'
@@ -387,6 +389,11 @@ signal is an award whose description mentions the law. These are keyword matches
 and an award can mention a law it is not funded by. They are not added up, and they are not “this law's spending”.</p>
 {''.join(blocks)}
 <p class="asof">Source: USAspending.gov award search. Checked {when(checks.text('named', lid))}.</p>"""
+        elif own_codes:
+            money_html = (f'<p><span class="chip documented">Official record</span> Treasury tags spending to this law with fund code '
+                          f'{E(", ".join(own_codes))}. USAspending.gov did not return the totals for that code when last asked, so no amount '
+                          f'is shown here. The request is repeated on every refresh.</p>'
+                          f'<p class="asof">Source: USAspending.gov API, Disaster Emergency Fund Codes. Code list read {when(status.get("tagged", {}).get("last_success", ""))}.</p>')
         elif not checks.text("named", lid) and not checks.text("tagged", lid):
             money_html = ('<p>Spending records for this law have not been read yet. They are read on a rolling schedule; '
                           'this section fills in after the next refresh.</p>')

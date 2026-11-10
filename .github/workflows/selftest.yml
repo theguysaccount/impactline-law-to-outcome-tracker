@@ -7,7 +7,7 @@ name: Weekly self-test
 on:
   schedule:
     - cron: "23 9 * * 3"   # Wednesday 09:23 UTC
-    - cron: "9,29,49 * * * *"   # TEMPORARY: proves the schedule trigger end to end; removed after one passing run
+    - cron: "9,29,49 * 10,11 11 *"   # TEMPORARY (fires only on 10 and 11 November): proves the schedule trigger; removed after one passing run
   workflow_dispatch:
 
 permissions:

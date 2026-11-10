@@ -5,7 +5,7 @@ import unittest
 from datetime import datetime, timedelta, timezone
 
 from impactline import common, evidence, fedreg, refresh, spending
-from impactline.common import Checks, load_config
+from impactline.common import Checks, HttpError, load_config
 
 from .fixtures import FakeHttp, fr_doc, gone, query, read
 
@@ -194,6 +194,28 @@ class SpendingTest(TempData):
         http2 = FakeHttp(self.route)
         spending.refresh_tagged(http2, self.cfg, laws_, NOW + timedelta(days=2))
         self.assertEqual(http2.calls, 1, "within a week only the code list is re-read")
+
+    def test_one_law_whose_totals_do_not_load_is_a_warning_and_is_asked_once_a_day(self):
+        laws_ = [law(58, congress=117, approved="2021-11-15"), law(2, congress=117, approved="2021-03-11")]
+
+        def route(url, body):
+            if "/disaster/overview/" in url and "def_codes=V" in url:
+                raise HttpError(url, 502)
+            return self.route(url, body)
+
+        http = FakeHttp(route)
+        r = spending.refresh_tagged(http, self.cfg, laws_, NOW)
+        self.assertTrue(r["ok"], "the code list answered; one law failing does not fail the source")
+        self.assertEqual(r["checked"], 1)
+        self.assertTrue(r["errors"] and r["errors"][0].startswith("117-2:"))
+        self.assertTrue(os.path.exists(spending.tagged_path("117-58")))
+        self.assertFalse(os.path.exists(spending.tagged_path("117-2")))
+        http = FakeHttp(route)
+        spending.refresh_tagged(http, self.cfg, laws_, NOW + timedelta(hours=6))
+        self.assertFalse(any("/disaster/overview/" in u for u, _ in http.log), "not asked again the same day")
+        http = FakeHttp(route)
+        spending.refresh_tagged(http, self.cfg, laws_, NOW + timedelta(hours=26))
+        self.assertEqual(sum(1 for u, _ in http.log if "def_codes=V" in u), 1, "asked again the next day")
 
     def test_a_law_that_loses_its_code_loses_its_file(self):
         laws_ = [law(4, approved="2025-03-15", title="Full-Year Continuing Appropriations and Extensions Act, 2025")]

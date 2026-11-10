@@ -203,11 +203,15 @@ def refresh_tagged(http, cfg, laws, now, only=None, checks=None, force=False):
         last = checks.get("tagged", lid)
         if not force and last and now - last < timedelta(days=6, hours=20) and os.path.exists(tagged_path(lid)):
             continue
+        tried = checks.get("tagged_try", lid)
+        if not force and tried and now - tried < timedelta(hours=20):
+            continue                      # its totals did not load earlier today: ask again tomorrow, not every run
         exclusive, shared = codes_for(codes, lid)
         try:
             rec = fetch_tagged(http, by_id[lid], exclusive, shared)
         except Exception as e:
             errors.append(f"{lid}: {type(e).__name__}: {e}"[:160])
+            checks.set("tagged_try", lid, now)
             continue
         changed += 1 if write_json(tagged_path(lid), rec) else 0
         checks.set("tagged", lid, now)
@@ -218,7 +222,9 @@ def refresh_tagged(http, cfg, laws, now, only=None, checks=None, force=False):
             os.remove(data_path("spending", fn))
     checks.save()
     return {"note": f"{len(tagged_ids)} laws carry a spending code; {done} re-read, {changed} changed", "changed": bool(changed),
-            "errors": errors[:10], "ok": not errors or done > 0, "checked": done}
+            # The code list answered, so the source is up. A law whose totals did not load is a warning for that law,
+            # shown on its page; it does not mark the whole source as failed.
+            "errors": errors[:10], "ok": True, "checked": done}
 
 
 # ------------------------------------------------------------------------------------------------

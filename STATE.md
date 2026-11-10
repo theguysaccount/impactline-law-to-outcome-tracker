@@ -10,7 +10,7 @@ app.impactline.org is live and unchanged).
 - Three program traces (Clean School Bus, Bridge Formula, Middle Mile) joined by fund code and Assistance Listing.
 - Evidence packet per law (canonical JSON), a manifest of SHA-256 digests attested by GitHub on every build, and an
   in-browser check. CSV/JSON mirror. Atom feeds (new laws; per-law Federal Register documents).
-- Nightly refresh within a request budget, weekly self-test and link check, keep-alive. 39 tests.
+- Nightly refresh within a request budget, weekly self-test and link check, keep-alive. 40 tests.
 
 ## What the original has that this copy does not
 - Live per-request search of Regulations.gov, AI extraction of implementation steps (never configured), the

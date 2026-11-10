@@ -47,7 +47,8 @@ def seed(n_laws=320):
         "rules": [doc(i, "Rule", "2026-02-%02d" % (20 - i)) for i in range(0, 8, 2)]})
     common.write_json(spending.defc_path(), {"codes": [
         {"code": "ZZ", "title": "Big Works Act", "group": "", "parts": [{"designation": "Emergency", "law": "119-1"}]},
-        {"code": "OO", "title": "x", "group": "", "parts": [{"designation": "Non-emergency", "law": "119-1"}, {"designation": "Non-emergency", "law": "119-4"}]}]})
+        {"code": "OO", "title": "x", "group": "", "parts": [{"designation": "Non-emergency", "law": "119-1"}, {"designation": "Non-emergency", "law": "119-4"}]},
+        {"code": "YY", "title": "Relief Act", "group": "", "parts": [{"designation": "Emergency", "law": "119-5"}]}]})   # tagged, but its totals never loaded
     common.write_json(spending.tagged_path("119-1"), {
         "law": "119-1", "codes": [{"code": "ZZ", "designation": "Emergency"}], "shared_codes": [{"code": "OO", "laws": ["119-1", "119-4"]}],
         "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=ZZ",
@@ -131,6 +132,20 @@ class SiteTest(unittest.TestCase):
         self.assertNotIn("<thing>", html)
         self.assertEqual(html.count('class="stage documented"'), 4)
         self.assertEqual(html.count('class="stage candidates"'), 1)
+
+    def test_a_tagged_law_whose_totals_did_not_load_is_still_shown_as_tagged(self):
+        self.build()
+        html = self.page("laws/119-5/index.html")
+        self.assertIn("Treasury tags spending to this law with fund code YY", html)
+        self.assertIn("did not return the totals", html)
+        self.assertNotIn("No fund code ties appropriations to this law", html)
+        self.assertNotIn("No award is tagged to this law", html)
+        self.assertNotIn("No spending is tagged to this law", html)
+        packet = json.loads(self.page("evidence/119-5.json"))
+        authority = next(s for s in packet["stages"] if s["id"] == "authority")
+        self.assertEqual(authority["status"], "documented")
+        self.assertIn("fund code YY", authority["summary"])
+        self.assertNotIn("$", authority["summary"], "no amount is invented")
 
     def test_named_law_is_labelled_candidates_and_never_summed(self):
         self.build()
