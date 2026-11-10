@@ -1,0 +1,352 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 38664350000.0,
+   "name": "Department of Agriculture",
+   "obligations": 46691133176.69,
+   "outlays": 42135673015.25
+  },
+  {
+   "budgetary_resources": 30826720000.0,
+   "name": "Department of Homeland Security",
+   "obligations": 28613015629.87,
+   "outlays": 17405676889.03
+  },
+  {
+   "budgetary_resources": 12070767995.6,
+   "name": "Department of Housing and Urban Development",
+   "obligations": 12021014543.1,
+   "outlays": 177935160.01
+  },
+  {
+   "budgetary_resources": 11703344000.0,
+   "name": "Department of Defense",
+   "obligations": 10369647502.49,
+   "outlays": 3512067083.07
+  },
+  {
+   "budgetary_resources": 8086020000.0,
+   "name": "Department of Transportation",
+   "obligations": 3870859737.6,
+   "outlays": 1574430832.15
+  },
+  {
+   "budgetary_resources": 3267000000.0,
+   "name": "Environmental Protection Agency",
+   "obligations": 3231390011.99,
+   "outlays": 7538212.97
+  },
+  {
+   "budgetary_resources": 2189000000.0,
+   "name": "Small Business Administration",
+   "obligations": 1767517452.77,
+   "outlays": 1426425417.5
+  },
+  {
+   "budgetary_resources": 2543000000.0,
+   "name": "Department of Commerce",
+   "obligations": 843082141.55,
+   "outlays": 61097984.46
+  },
+  {
+   "budgetary_resources": 500000000.0,
+   "name": "Department of Health and Human Services",
+   "obligations": 496761069.8,
+   "outlays": 88149733.16
+  },
+  {
+   "budgetary_resources": 740200000.0,
+   "name": "National Aeronautics and Space Administration",
+   "obligations": 475536308.86,
+   "outlays": 97475252.41
+  },
+  {
+   "budgetary_resources": 3068843000.0,
+   "name": "Department of the Interior",
+   "obligations": 471691379.44,
+   "outlays": 336053445.24
+  },
+  {
+   "budgetary_resources": 1515000000.0,
+   "name": "Corps of Engineers - Civil Works",
+   "obligations": 275745415.55,
+   "outlays": 81777308.13
+  },
+  {
+   "budgetary_resources": 28668000.0,
+   "name": "Department of Justice",
+   "obligations": 21916628.4,
+   "outlays": 18626518.94
+  },
+  {
+   "budgetary_resources": 67961000.0,
+   "name": "Department of Veterans Affairs",
+   "obligations": 17434924.83,
+   "outlays": 17392850.25
+  },
+  {
+   "budgetary_resources": 10000000.0,
+   "name": "Delta Regional Authority",
+   "obligations": 9833154.75,
+   "outlays": 0.0
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1980374214.55,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4499DRORP00000001",
+   "kind": "grants",
+   "outlays": 1251658113.63,
+   "recipient": "OREGON MILITARY DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
+  },
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 1639381000.0,
+   "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
+   "id": "B-25-UU-15-0001",
+   "kind": "grants",
+   "outlays": 34418143.59,
+   "recipient": "COUNTY OF MAUI",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-25-UU-15-0001_086"
+  },
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 1428120000.0,
+   "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
+   "id": "B-25-DU-37-0001",
+   "kind": "grants",
+   "outlays": 23014278.69,
+   "recipient": "DEPARTMENT OF COMMERCE NORTH CAROLINA",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-25-DU-37-0001_086"
+  },
+  {
+   "agency": "Department of Transportation",
+   "amount": 1337684526.0,
+   "description": "PROJECT TITLE: CM/GC - 2024 HURRICANE HELENE - PERMANENT REPAIRS TO I-40 IN HAYWOOD COUNTY :::: PROJECT DESCRIPTION: HIGHWAY RECONSTRUCTION OF I-40 THROUGH PIGEON RIVER GORGE FROM THE TENNESSEE STATE LINE (MILEMARKER 0.0) TO TOM HALL BRANCH",
+   "id": "693JJ22540000ER05NCER24381",
+   "kind": "grants",
+   "outlays": 304320842.0,
+   "recipient": "TRANSPORTATION NORTH CAROLINA DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_693JJ22540000ER05NCER24381_069"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1063462203.7,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4500DRCTP00000001",
+   "kind": "grants",
+   "outlays": 359763529.87,
+   "recipient": "EMERGENCY SERVICES AND PUBLIC PROTECTION, DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4500DRCTP00000001_070"
+  },
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 925394000.0,
+   "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
+   "id": "B-25-DU-12-0001",
+   "kind": "grants",
+   "outlays": 23011177.6,
+   "recipient": "FLORIDA DEPARTMENT OF COMMERCE",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-25-DU-12-0001_086"
+  },
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 813783000.0,
+   "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
+   "id": "B-25-UU-12-0007",
+   "kind": "grants",
+   "outlays": 15935239.5,
+   "recipient": "COUNTY OF PINELLAS",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-25-UU-12-0007_086"
+  },
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 709324000.0,
+   "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
+   "id": "B-25-UU-12-0002",
+   "kind": "grants",
+   "outlays": 6304776.45,
+   "recipient": "HILLSBOROUGH COUNTY OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-25-UU-12-0002_086"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 2012496049.86,
+   "description": "ENGINEERING SERVICES AND SCIENCE CAPABILITY AUGMENTATION (ESSCA)",
+   "id": "80MSFC18C0011",
+   "kind": "contracts",
+   "outlays": 1591437747.39,
+   "recipient": "AMENTUM TECHNOLOGY, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC18C0011_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 1527052044.97,
+   "description": "THE EXPLORATION AND SPACE COMMUNICATIONS PROJECTS DIVISION (ESC) IS A NATIONAL RESOURCE LOCATED AT GODDARD SPACE FLIGHT CENTER (GSFC) WHICH ENABLES SCIENTIFIC DISCOVERY AND SPACE EXPLORATION BY PROVIDING INNOVATIVE AND MISSION-EFFECTIVE SPA",
+   "id": "80GSFC19C0063",
+   "kind": "contracts",
+   "outlays": 1285357016.41,
+   "recipient": "PERATON INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC19C0063_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 670796870.32,
+   "description": "BASE OPERATIONS AND SPACEPORT SERVICES (BOSS) CONTRACT",
+   "id": "80KSC018C0017",
+   "kind": "contracts",
+   "outlays": 585412498.78,
+   "recipient": "AMENTUM SPACEPORT LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80KSC018C0017_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Commerce",
+   "amount": 489927931.0,
+   "description": "NOAA/OMAO_PRODUCTION OF UP TO FOUR (4) FULLY MODIFIED C130J AIRCRAFT",
+   "id": "1305M224C0039",
+   "kind": "contracts",
+   "outlays": 81119816.78,
+   "recipient": "LOCKHEED MARTIN CORPORATION",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1305M224C0039_1330_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 310202767.68,
+   "description": "NASA CONSOLIDATED APPLICATION AND PLATFORM SERVICES (NCAPS)",
+   "id": "80TECH24CA002",
+   "kind": "contracts",
+   "outlays": 215722389.53,
+   "recipient": "CACI, INC. - FEDERAL",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80TECH24CA002_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 260562774.7,
+   "description": "MORATORIUM EXCEPTION\" BLI DDVAK725 HURRICANE HELENE VCT DISASTER RECON DESIGN-BUILD HURRICANE HELENE IN VA",
+   "id": "12445126C0001",
+   "kind": "contracts",
+   "outlays": 134340115.48,
+   "recipient": "KIEWIT INFRASTRUCTURE SOUTH CO",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_12445126C0001_12C2_-NONE-_-NONE-"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 226584486.21,
+   "description": "HHPC2 TO",
+   "id": "80JSC025F0042",
+   "kind": "contracts",
+   "outlays": 130275041.8,
+   "recipient": "KBR WYLE SERVICES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80JSC025F0042_8000_80JSC025D0068_8000"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 158904952.71,
+   "description": "PROGRAM SUPPORT SERVICES (CPSS) PROGRAMMATIC SUBJECT MATTER EXPERT (SME) IDIQ TASK ORDER FOR MARSHALL SPACE FLIGHT CENTER (MSFC).",
+   "id": "80MSFC21FA009",
+   "kind": "contracts",
+   "outlays": 155058783.98,
+   "recipient": "CGI FEDERAL INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC21FA009_8000_80MSFC21DA007_8000"
+  }
+ ],
+ "codes": [
+  {
+   "code": "AAK",
+   "designation": "Emergency"
+  }
+ ],
+ "funding_by_code": {
+  "AAK": 115290873995.6
+ },
+ "law": "118-158",
+ "overview": {
+  "award_obligations": 49505426872.82,
+  "award_outlays": 25109312230.32,
+  "budget_authority": 115290873995.6,
+  "total_obligations": 92904601481.4,
+  "total_outlays": 51172817295.43
+ },
+ "programs": [
+  {
+   "listing": "97.036",
+   "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
+   "obligations": 210812262371.34
+  },
+  {
+   "listing": "10.988",
+   "name": "Supplemental Disaster Relief Program",
+   "obligations": 12069110026.24
+  },
+  {
+   "listing": "14.228",
+   "name": "Community Development Block Grants/State's program and Non-Entitlement Grants in Hawaii",
+   "obligations": 11362446000.0
+  },
+  {
+   "listing": "97.048",
+   "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
+   "obligations": 10644577646.17
+  },
+  {
+   "listing": "10.121",
+   "name": "Emergency Commodity Assistance Program",
+   "obligations": 9379550894.95
+  },
+  {
+   "listing": "97.039",
+   "name": "Hazard Mitigation Grant",
+   "obligations": 8318088980.21
+  },
+  {
+   "listing": "20.205",
+   "name": "Highway Planning and Construction",
+   "obligations": 2764573663.29
+  },
+  {
+   "listing": "20.271",
+   "name": "Emergency Relief (ER) Program",
+   "obligations": 1808673396.04
+  },
+  {
+   "listing": "66.468",
+   "name": "Drinking Water State Revolving Fund",
+   "obligations": 1770152000.0
+  },
+  {
+   "listing": "66.458",
+   "name": "Clean Water State Revolving Fund",
+   "obligations": 1305192000.0
+  },
+  {
+   "listing": "59.008",
+   "name": "Disaster Assistance Loans",
+   "obligations": 1159055804.99
+  },
+  {
+   "listing": "10.923",
+   "name": "Emergency Watershed Protection Program",
+   "obligations": 773824339.38
+  },
+  {
+   "listing": "97.050",
+   "name": "Presidential Declared Disaster Assistance to Individuals and Households - Other Needs",
+   "obligations": 765050514.45
+  },
+  {
+   "listing": "10.148",
+   "name": "Emergency Livestock Relief Program",
+   "obligations": 641002615.93
+  },
+  {
+   "listing": "14.233",
+   "name": "Community Development Block Grant Disaster Recovery (CDBG-DR)",
+   "obligations": 629405000.0
+  }
+ ],
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAK"
+}
