@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "General Services Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2022": 1
+ },
+ "complete": true,
+ "first": "2022-05-17",
+ "last": "2022-05-17",
+ "latest": [
+  {
+   "a": [
+    "General Services Administration"
+   ],
+   "d": "2022-05-17",
+   "k": "Notice",
+   "n": "2022-10478",
+   "t": "Federal Management Regulation; Designation of Federal Building",
+   "u": "https://www.federalregister.gov/documents/2022/05/17/2022-10478/federal-management-regulation-designation-of-federal-building"
+  }
+ ],
+ "law": "117-74",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-74%22+%7C+%22Pub.+L.+117-74%22+%7C+%22P.L.+117-74%22&order=newest",
+ "term": "\"Public Law 117-74\" | \"Pub. L. 117-74\" | \"P.L. 117-74\"",
+ "total": 1
+}

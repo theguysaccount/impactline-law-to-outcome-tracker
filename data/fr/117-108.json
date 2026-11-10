@@ -1,0 +1,311 @@
+{
+ "agencies": [
+  [
+   "Postal Regulatory Commission",
+   9
+  ],
+  [
+   "Personnel Management Office",
+   5
+  ],
+  [
+   "Social Security Administration",
+   1
+  ],
+  [
+   "Postal Service",
+   1
+  ],
+  [
+   "Regulatory Information Service Center",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 7,
+  "Proposed Rule": 8,
+  "Rule": 3
+ },
+ "by_year": {
+  "2022": 1,
+  "2023": 9,
+  "2024": 3,
+  "2025": 1,
+  "2026": 4
+ },
+ "complete": true,
+ "first": "2022-09-13",
+ "last": "2026-10-13",
+ "latest": [
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2026-10-13",
+   "k": "Proposed Rule",
+   "n": "2026-20865",
+   "t": "Periodic Reporting",
+   "u": "https://www.federalregister.gov/documents/2026/10/13/2026-20865/periodic-reporting"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-06-23",
+   "k": "Notice",
+   "n": "2026-12596",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12596/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2026-05-13",
+   "k": "Rule",
+   "n": "2026-09554",
+   "t": "Service Performance Reporting Requirements; Revisions",
+   "u": "https://www.federalregister.gov/documents/2026/05/13/2026-09554/service-performance-reporting-requirements-revisions"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2026-04-30",
+   "k": "Proposed Rule",
+   "n": "2026-08432",
+   "t": "Periodic Reporting",
+   "u": "https://www.federalregister.gov/documents/2026/04/30/2026-08432/periodic-reporting"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2025-12-18",
+   "k": "Proposed Rule",
+   "n": "2025-23260",
+   "t": "Service Performance Reporting",
+   "u": "https://www.federalregister.gov/documents/2025/12/18/2025-23260/service-performance-reporting"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2024-05-24",
+   "k": "Proposed Rule",
+   "n": "2024-11127",
+   "t": "Postal Service Health Benefits Program: Additional Requirements and Clarifications",
+   "u": "https://www.federalregister.gov/documents/2024/05/24/2024-11127/postal-service-health-benefits-program-additional-requirements-and-clarifications"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2024-05-06",
+   "k": "Notice",
+   "n": "2024-09566",
+   "t": "Submission for Review: Revision and Consolidation of Two Existing Information Collections Related to Health Benefits Election Forms",
+   "u": "https://www.federalregister.gov/documents/2024/05/06/2024-09566/submission-for-review-revision-and-consolidation-of-two-existing-information-collections-related-to"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2024-05-06",
+   "k": "Rule",
+   "n": "2024-09565",
+   "t": "Postal Service Reform Act; Establishment of the Postal Service Health Benefits Program",
+   "u": "https://www.federalregister.gov/documents/2024/05/06/2024-09565/postal-service-reform-act-establishment-of-the-postal-service-health-benefits-program"
+  },
+  {
+   "a": [
+    "Social Security Administration"
+   ],
+   "d": "2023-12-21",
+   "k": "Notice",
+   "n": "2023-28104",
+   "t": "Privacy Act of 1974; Matching Program",
+   "u": "https://www.federalregister.gov/documents/2023/12/21/2023-28104/privacy-act-of-1974-matching-program"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2023-11-24",
+   "k": "Notice",
+   "n": "2023-25914",
+   "t": "Special Study on Flats Operations",
+   "u": "https://www.federalregister.gov/documents/2023/11/24/2023-25914/special-study-on-flats-operations"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2023-09-08",
+   "k": "Proposed Rule",
+   "n": "2023-19363",
+   "t": "Periodic Reporting",
+   "u": "https://www.federalregister.gov/documents/2023/09/08/2023-19363/periodic-reporting"
+  },
+  {
+   "a": [
+    "Postal Service"
+   ],
+   "d": "2023-08-16",
+   "k": "Notice",
+   "n": "2023-17567",
+   "t": "Notice of Availability of Draft Plan for Flat-Shaped Mail",
+   "u": "https://www.federalregister.gov/documents/2023/08/16/2023-17567/notice-of-availability-of-draft-plan-for-flat-shaped-mail"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2023-06-06",
+   "k": "Proposed Rule",
+   "n": "2023-11935",
+   "t": "Periodic Reporting",
+   "u": "https://www.federalregister.gov/documents/2023/06/06/2023-11935/periodic-reporting"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2023-04-06",
+   "k": "Rule",
+   "n": "2023-07080",
+   "t": "Postal Service Reform Act; Establishment of the Postal Service Health Benefits Program",
+   "u": "https://www.federalregister.gov/documents/2023/04/06/2023-07080/postal-service-reform-act-establishment-of-the-postal-service-health-benefits-program"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2023-02-22",
+   "k": "Proposed Rule",
+   "n": "2023-02113",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+   "u": "https://www.federalregister.gov/documents/2023/02/22/2023-02113/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2022"
+  }
+ ],
+ "law": "117-108",
+ "rules": [
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2026-10-13",
+   "k": "Proposed Rule",
+   "n": "2026-20865",
+   "t": "Periodic Reporting",
+   "u": "https://www.federalregister.gov/documents/2026/10/13/2026-20865/periodic-reporting"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2026-05-13",
+   "k": "Rule",
+   "n": "2026-09554",
+   "t": "Service Performance Reporting Requirements; Revisions",
+   "u": "https://www.federalregister.gov/documents/2026/05/13/2026-09554/service-performance-reporting-requirements-revisions"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2026-04-30",
+   "k": "Proposed Rule",
+   "n": "2026-08432",
+   "t": "Periodic Reporting",
+   "u": "https://www.federalregister.gov/documents/2026/04/30/2026-08432/periodic-reporting"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2025-12-18",
+   "k": "Proposed Rule",
+   "n": "2025-23260",
+   "t": "Service Performance Reporting",
+   "u": "https://www.federalregister.gov/documents/2025/12/18/2025-23260/service-performance-reporting"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2024-05-24",
+   "k": "Proposed Rule",
+   "n": "2024-11127",
+   "t": "Postal Service Health Benefits Program: Additional Requirements and Clarifications",
+   "u": "https://www.federalregister.gov/documents/2024/05/24/2024-11127/postal-service-health-benefits-program-additional-requirements-and-clarifications"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2024-05-06",
+   "k": "Rule",
+   "n": "2024-09565",
+   "t": "Postal Service Reform Act; Establishment of the Postal Service Health Benefits Program",
+   "u": "https://www.federalregister.gov/documents/2024/05/06/2024-09565/postal-service-reform-act-establishment-of-the-postal-service-health-benefits-program"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2023-09-08",
+   "k": "Proposed Rule",
+   "n": "2023-19363",
+   "t": "Periodic Reporting",
+   "u": "https://www.federalregister.gov/documents/2023/09/08/2023-19363/periodic-reporting"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2023-06-06",
+   "k": "Proposed Rule",
+   "n": "2023-11935",
+   "t": "Periodic Reporting",
+   "u": "https://www.federalregister.gov/documents/2023/06/06/2023-11935/periodic-reporting"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2023-04-06",
+   "k": "Rule",
+   "n": "2023-07080",
+   "t": "Postal Service Reform Act; Establishment of the Postal Service Health Benefits Program",
+   "u": "https://www.federalregister.gov/documents/2023/04/06/2023-07080/postal-service-reform-act-establishment-of-the-postal-service-health-benefits-program"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2023-02-22",
+   "k": "Proposed Rule",
+   "n": "2023-02113",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+   "u": "https://www.federalregister.gov/documents/2023/02/22/2023-02113/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2022"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2023-02-01",
+   "k": "Proposed Rule",
+   "n": "2023-01930",
+   "t": "Periodic Reporting",
+   "u": "https://www.federalregister.gov/documents/2023/02/01/2023-01930/periodic-reporting"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-108%22+%7C+%22Pub.+L.+117-108%22+%7C+%22P.L.+117-108%22&order=newest",
+ "term": "\"Public Law 117-108\" | \"Pub. L. 117-108\" | \"P.L. 117-108\"",
+ "total": 18
+}

@@ -1,0 +1,127 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   3
+  ],
+  [
+   "Engineers Corps",
+   3
+  ],
+  [
+   "Homeland Security Department",
+   1
+  ],
+  [
+   "Federal Emergency Management Agency",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ],
+  [
+   "Commerce Department",
+   1
+  ],
+  [
+   "Economic Development Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 5,
+  "Rule": 1
+ },
+ "by_year": {
+  "2025": 3,
+  "2026": 3
+ },
+ "complete": true,
+ "first": "2025-02-27",
+ "last": "2026-10-06",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2026-10-06",
+   "k": "Notice",
+   "n": "2026-20458",
+   "t": "Agency Information Collection Activities: Submission for OMB Review, Comment Request; Hazard Mitigation Grant Programs",
+   "u": "https://www.federalregister.gov/documents/2026/10/06/2026-20458/agency-information-collection-activities-submission-for-omb-review-comment-request-hazard-mitigation"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Engineers Corps"
+   ],
+   "d": "2026-05-21",
+   "k": "Notice",
+   "n": "2026-10218",
+   "t": "Proposed Deauthorization of Water Resources Projects",
+   "u": "https://www.federalregister.gov/documents/2026/05/21/2026-10218/proposed-deauthorization-of-water-resources-projects"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2026-01-28",
+   "k": "Notice",
+   "n": "2026-01651",
+   "t": "Notice; 2025 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2026/01/28/2026-01651/notice-2025-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "Economic Development Administration"
+   ],
+   "d": "2025-11-19",
+   "k": "Rule",
+   "n": "2025-20307",
+   "t": "Update of Public Works and Economic Adjustment Act Grant Rate Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/11/19/2025-20307/update-of-public-works-and-economic-adjustment-act-grant-rate-regulations"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Engineers Corps"
+   ],
+   "d": "2025-04-23",
+   "k": "Notice",
+   "n": "2025-07022",
+   "t": "Thomas R. Carper Water Resources Development Act of 2024; Notice of Comment Period Extension",
+   "u": "https://www.federalregister.gov/documents/2025/04/23/2025-07022/thomas-r-carper-water-resources-development-act-of-2024-notice-of-comment-period-extension"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Engineers Corps"
+   ],
+   "d": "2025-02-27",
+   "k": "Notice",
+   "n": "2025-03143",
+   "t": "Thomas R. Carper Water Resources Development Act of 2024 Comment Period and Stakeholder Sessions",
+   "u": "https://www.federalregister.gov/documents/2025/02/27/2025-03143/thomas-r-carper-water-resources-development-act-of-2024-comment-period-and-stakeholder-sessions"
+  }
+ ],
+ "law": "118-272",
+ "rules": [
+  {
+   "a": [
+    "Commerce Department",
+    "Economic Development Administration"
+   ],
+   "d": "2025-11-19",
+   "k": "Rule",
+   "n": "2025-20307",
+   "t": "Update of Public Works and Economic Adjustment Act Grant Rate Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/11/19/2025-20307/update-of-public-works-and-economic-adjustment-act-grant-rate-regulations"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-272%22+%7C+%22Pub.+L.+118-272%22+%7C+%22P.L.+118-272%22&order=newest",
+ "term": "\"Public Law 118-272\" | \"Pub. L. 118-272\" | \"P.L. 118-272\"",
+ "total": 6
+}

@@ -1,0 +1,348 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   28
+  ],
+  [
+   "Regulatory Information Service Center",
+   2
+  ],
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Reclamation Bureau",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 17,
+  "Proposed Rule": 7,
+  "Rule": 8
+ },
+ "by_year": {
+  "2022": 1,
+  "2023": 13,
+  "2024": 11,
+  "2025": 6,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2022-12-22",
+ "last": "2026-04-02",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Reclamation Bureau"
+   ],
+   "d": "2026-04-02",
+   "k": "Notice",
+   "n": "2026-06411",
+   "t": "Quarterly Status Report of Water Service, Repayment, and Other Water-Related Contract Actions",
+   "u": "https://www.federalregister.gov/documents/2026/04/02/2026-06411/quarterly-status-report-of-water-service-repayment-and-other-water-related-contract-actions"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-11-28",
+   "k": "Notice",
+   "n": "2025-21365",
+   "t": "Enhanced-Use Lease of Department of Veterans Affairs Real Property for the Development of Permanent Supportive Housing at the Kerrville Veterans Affairs Medical Center, Kerrville, Texas Campus",
+   "u": "https://www.federalregister.gov/documents/2025/11/28/2025-21365/enhanced-use-lease-of-department-of-veterans-affairs-real-property-for-the-development-of-permanent"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-10-24",
+   "k": "Notice",
+   "n": "2025-19651",
+   "t": "Annual Pay Ranges for Physicians, Dentists, Podiatrists, and Optometrists of the Veterans Health Administration (VHA)",
+   "u": "https://www.federalregister.gov/documents/2025/10/24/2025-19651/annual-pay-ranges-for-physicians-dentists-podiatrists-and-optometrists-of-the-veterans-health"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-10-02",
+   "k": "Notice",
+   "n": "2025-19310",
+   "t": "Response to Comments for the Department of Veterans Affairs To Assess Exposures and Conditions of Interest for Veterans Who Served at Karshi-Khanabad Air Base",
+   "u": "https://www.federalregister.gov/documents/2025/10/02/2025-19310/response-to-comments-for-the-department-of-veterans-affairs-to-assess-exposures-and-conditions-of"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-07-25",
+   "k": "Notice",
+   "n": "2025-14052",
+   "t": "Annual Pay Ranges for Physicians, Dentists, and Podiatrists of the Veterans Health Administration (VHA)",
+   "u": "https://www.federalregister.gov/documents/2025/07/25/2025-14052/annual-pay-ranges-for-physicians-dentists-and-podiatrists-of-the-veterans-health-administration-vha"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-01-10",
+   "k": "Rule",
+   "n": "2024-31776",
+   "t": "Presumptive Service Connection for Leukemias, Multiple Myelomas, Myelodysplastic Syndromes, and Myelofibrosis Due to Exposure to Fine Particulate Matter",
+   "u": "https://www.federalregister.gov/documents/2025/01/10/2024-31776/presumptive-service-connection-for-leukemias-multiple-myelomas-myelodysplastic-syndromes-and"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-01-02",
+   "k": "Rule",
+   "n": "2024-31220",
+   "t": "Presumptive Service Connection for Bladder, Ureter, and Related Genitourinary Cancers Due to Exposure to Fine Particulate Matter",
+   "u": "https://www.federalregister.gov/documents/2025/01/02/2024-31220/presumptive-service-connection-for-bladder-ureter-and-related-genitourinary-cancers-due-to-exposure"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-12-30",
+   "k": "Notice",
+   "n": "2024-30961",
+   "t": "Enhanced-Use Lease of Department of Veterans Affairs Real Property for the Development of Permanent Supportive Housing at the Charlie Norwood Uptown Veterans Affairs Medical Center, Augusta, Georgia Campus",
+   "u": "https://www.federalregister.gov/documents/2024/12/30/2024-30961/enhanced-use-lease-of-department-of-veterans-affairs-real-property-for-the-development-of-permanent"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-10-04",
+   "k": "Notice",
+   "n": "2024-22989",
+   "t": "Enhanced-Use Lease of Department of Veterans Affairs Real Property for the Development of Permanent Supportive Housing at the Northern Arizona VA Health Care System, Prescott, Arizona Campus",
+   "u": "https://www.federalregister.gov/documents/2024/10/04/2024-22989/enhanced-use-lease-of-department-of-veterans-affairs-real-property-for-the-development-of-permanent"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-10-01",
+   "k": "Proposed Rule",
+   "n": "2024-21852",
+   "t": "VA Adjudication Regulations for Disability or Death Benefit Claims Based on Toxic Exposure",
+   "u": "https://www.federalregister.gov/documents/2024/10/01/2024-21852/va-adjudication-regulations-for-disability-or-death-benefit-claims-based-on-toxic-exposure"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-09-27",
+   "k": "Notice",
+   "n": "2024-22184",
+   "t": "Enhanced-Use Lease of Department of Veterans Affairs Real Property for the Development of Permanent Supportive Housing at the Veterans Affairs Palo Alto Health Care System-Menlo Park Division, Menlo Park, California Campus",
+   "u": "https://www.federalregister.gov/documents/2024/09/27/2024-22184/enhanced-use-lease-of-department-of-veterans-affairs-real-property-for-the-development-of-permanent"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-09-12",
+   "k": "Proposed Rule",
+   "n": "2024-20542",
+   "t": "Schedule for Rating Disabilities-Ear, Nose, Throat, and Audiology Disabilities; Special Provisions Regarding Evaluation of Respiratory Conditions; Schedule for Rating Disabilities-Respiratory System",
+   "u": "https://www.federalregister.gov/documents/2024/09/12/2024-20542/schedule-for-rating-disabilities-ear-nose-throat-and-audiology-disabilities-special-provisions"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-06-03",
+   "k": "Notice",
+   "n": "2024-12119",
+   "t": "Agency Information Collection Activity Under OMB Review: VA Health Benefits: Application, Update, Hardship Determination",
+   "u": "https://www.federalregister.gov/documents/2024/06/03/2024-12119/agency-information-collection-activity-under-omb-review-va-health-benefits-application-update"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-03-28",
+   "k": "Notice",
+   "n": "2024-06634",
+   "t": "Loan Guaranty: Specially Adapted Housing Assistive Technology Grant Program",
+   "u": "https://www.federalregister.gov/documents/2024/03/28/2024-06634/loan-guaranty-specially-adapted-housing-assistive-technology-grant-program"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-03-22",
+   "k": "Notice",
+   "n": "2024-06065",
+   "t": "Agency Information Collection Activity: VA Health Benefits: Application, Update, Hardship Determination",
+   "u": "https://www.federalregister.gov/documents/2024/03/22/2024-06065/agency-information-collection-activity-va-health-benefits-application-update-hardship-determination"
+  }
+ ],
+ "law": "117-168",
+ "rules": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-01-10",
+   "k": "Rule",
+   "n": "2024-31776",
+   "t": "Presumptive Service Connection for Leukemias, Multiple Myelomas, Myelodysplastic Syndromes, and Myelofibrosis Due to Exposure to Fine Particulate Matter",
+   "u": "https://www.federalregister.gov/documents/2025/01/10/2024-31776/presumptive-service-connection-for-leukemias-multiple-myelomas-myelodysplastic-syndromes-and"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-01-02",
+   "k": "Rule",
+   "n": "2024-31220",
+   "t": "Presumptive Service Connection for Bladder, Ureter, and Related Genitourinary Cancers Due to Exposure to Fine Particulate Matter",
+   "u": "https://www.federalregister.gov/documents/2025/01/02/2024-31220/presumptive-service-connection-for-bladder-ureter-and-related-genitourinary-cancers-due-to-exposure"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-10-01",
+   "k": "Proposed Rule",
+   "n": "2024-21852",
+   "t": "VA Adjudication Regulations for Disability or Death Benefit Claims Based on Toxic Exposure",
+   "u": "https://www.federalregister.gov/documents/2024/10/01/2024-21852/va-adjudication-regulations-for-disability-or-death-benefit-claims-based-on-toxic-exposure"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-09-12",
+   "k": "Proposed Rule",
+   "n": "2024-20542",
+   "t": "Schedule for Rating Disabilities-Ear, Nose, Throat, and Audiology Disabilities; Special Provisions Regarding Evaluation of Respiratory Conditions; Schedule for Rating Disabilities-Respiratory System",
+   "u": "https://www.federalregister.gov/documents/2024/09/12/2024-20542/schedule-for-rating-disabilities-ear-nose-throat-and-audiology-disabilities-special-provisions"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-03-05",
+   "k": "Rule",
+   "n": "2024-04202",
+   "t": "Processing Applications for Health Care, Sergeant First Class Heath Robinson Honoring Our Promise To Address Comprehensive Toxics Act of 2022, or the Honoring Our PACT Act of 2022",
+   "u": "https://www.federalregister.gov/documents/2024/03/05/2024-04202/processing-applications-for-health-care-sergeant-first-class-heath-robinson-honoring-our-promise-to"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-02-12",
+   "k": "Proposed Rule",
+   "n": "2024-02590",
+   "t": "Updating VA Adjudication Regulations for Disability or Death Benefit Claims Related to Exposure to Certain Herbicide Agents",
+   "u": "https://www.federalregister.gov/documents/2024/02/12/2024-02590/updating-va-adjudication-regulations-for-disability-or-death-benefit-claims-related-to-exposure-to"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00476",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00476/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-11-24",
+   "k": "Rule",
+   "n": "2023-25836",
+   "t": "Reevaluation of Claims for Dependency and Indemnity Compensation",
+   "u": "https://www.federalregister.gov/documents/2023/11/24/2023-25836/reevaluation-of-claims-for-dependency-and-indemnity-compensation"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-11-03",
+   "k": "Rule",
+   "n": "2023-24195",
+   "t": "Presumptive Service Connection for Rare Respiratory Cancers Due to Exposure to Fine Particulate Matter",
+   "u": "https://www.federalregister.gov/documents/2023/11/03/2023-24195/presumptive-service-connection-for-rare-respiratory-cancers-due-to-exposure-to-fine-particulate"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-09-01",
+   "k": "Rule",
+   "n": "2023-18979",
+   "t": "Presumptive Service Connection for Respiratory Conditions Due to Exposure to Fine Particulate Matter",
+   "u": "https://www.federalregister.gov/documents/2023/09/01/2023-18979/presumptive-service-connection-for-respiratory-conditions-due-to-exposure-to-fine-particulate-matter"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-06-02",
+   "k": "Proposed Rule",
+   "n": "2023-11361",
+   "t": "Update VA Adjudication Regulations To Authorize the Use of Electronic Notification for VA Benefit Claims and Appeals",
+   "u": "https://www.federalregister.gov/documents/2023/06/02/2023-11361/update-va-adjudication-regulations-to-authorize-the-use-of-electronic-notification-for-va-benefit"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-03-22",
+   "k": "Proposed Rule",
+   "n": "2023-05840",
+   "t": "Reevaluation of Claims for Dependency and Indemnity Compensation",
+   "u": "https://www.federalregister.gov/documents/2023/03/22/2023-05840/reevaluation-of-claims-for-dependency-and-indemnity-compensation"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-03-13",
+   "k": "Rule",
+   "n": "2023-04514",
+   "t": "Updating Presumptive Radiation Locations Based on the PACT Act",
+   "u": "https://www.federalregister.gov/documents/2023/03/13/2023-04514/updating-presumptive-radiation-locations-based-on-the-pact-act"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2023-02-22",
+   "k": "Proposed Rule",
+   "n": "2023-02113",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+   "u": "https://www.federalregister.gov/documents/2023/02/22/2023-02113/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2022"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2022-12-22",
+   "k": "Rule",
+   "n": "2022-27861",
+   "t": "Processing Claims, Sergeant First Class Heath Robinson Honoring Our Promise To Address Comprehensive Toxics Act of 2022, or the Honoring Our PACT Act of 2022",
+   "u": "https://www.federalregister.gov/documents/2022/12/22/2022-27861/processing-claims-sergeant-first-class-heath-robinson-honoring-our-promise-to-address-comprehensive"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-168%22+%7C+%22Pub.+L.+117-168%22+%7C+%22P.L.+117-168%22&order=newest",
+ "term": "\"Public Law 117-168\" | \"Pub. L. 117-168\" | \"P.L. 117-168\"",
+ "total": 32
+}

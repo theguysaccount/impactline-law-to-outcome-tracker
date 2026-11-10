@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "National Park Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-02-16",
+ "last": "2024-02-16",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "National Park Service"
+   ],
+   "d": "2024-02-16",
+   "k": "Notice",
+   "n": "2024-03250",
+   "t": "Amache National Historic Site",
+   "u": "https://www.federalregister.gov/documents/2024/02/16/2024-03250/amache-national-historic-site"
+  }
+ ],
+ "law": "117-106",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-106%22+%7C+%22Pub.+L.+117-106%22+%7C+%22P.L.+117-106%22&order=newest",
+ "term": "\"Public Law 117-106\" | \"Pub. L. 117-106\" | \"P.L. 117-106\"",
+ "total": 1
+}

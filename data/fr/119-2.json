@@ -1,0 +1,122 @@
+{
+ "agencies": [
+  [
+   "Environmental Protection Agency",
+   4
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 2,
+  "Rule": 2
+ },
+ "by_year": {
+  "2025": 2,
+  "2026": 3
+ },
+ "complete": true,
+ "first": "2025-05-19",
+ "last": "2026-09-17",
+ "latest": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-09-17",
+   "k": "Proposed Rule",
+   "n": "2026-19072",
+   "t": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
+   "u": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-02-18",
+   "k": "Rule",
+   "n": "2026-03157",
+   "t": "Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards Under the Clean Air Act",
+   "u": "https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2026-01-28",
+   "k": "Notice",
+   "n": "2026-01651",
+   "t": "Notice; 2025 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2026/01/28/2026-01651/notice-2025-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2025-08-01",
+   "k": "Proposed Rule",
+   "n": "2025-14572",
+   "t": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "u": "https://www.federalregister.gov/documents/2025/08/01/2025-14572/reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2025-05-19",
+   "k": "Rule",
+   "n": "2025-08688",
+   "t": "Congressional Review Act Revocation of Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions",
+   "u": "https://www.federalregister.gov/documents/2025/05/19/2025-08688/congressional-review-act-revocation-of-waste-emissions-charge-for-petroleum-and-natural-gas-systems"
+  }
+ ],
+ "law": "119-2",
+ "rules": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-09-17",
+   "k": "Proposed Rule",
+   "n": "2026-19072",
+   "t": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
+   "u": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-02-18",
+   "k": "Rule",
+   "n": "2026-03157",
+   "t": "Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards Under the Clean Air Act",
+   "u": "https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2025-08-01",
+   "k": "Proposed Rule",
+   "n": "2025-14572",
+   "t": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "u": "https://www.federalregister.gov/documents/2025/08/01/2025-14572/reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2025-05-19",
+   "k": "Rule",
+   "n": "2025-08688",
+   "t": "Congressional Review Act Revocation of Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions",
+   "u": "https://www.federalregister.gov/documents/2025/05/19/2025-08688/congressional-review-act-revocation-of-waste-emissions-charge-for-petroleum-and-natural-gas-systems"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-2%22+%7C+%22Pub.+L.+119-2%22+%7C+%22P.L.+119-2%22&order=newest",
+ "term": "\"Public Law 119-2\" | \"Pub. L. 119-2\" | \"P.L. 119-2\"",
+ "total": 5
+}

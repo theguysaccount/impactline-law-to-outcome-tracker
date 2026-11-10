@@ -1,0 +1,67 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Indian Affairs Bureau",
+   1
+  ],
+  [
+   "United States Sentencing Commission",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-12-26",
+ "last": "2024-10-25",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Indian Affairs Bureau"
+   ],
+   "d": "2024-10-25",
+   "k": "Proposed Rule",
+   "n": "2024-24332",
+   "t": "Safeguard Tribal Objects of Patrimony",
+   "u": "https://www.federalregister.gov/documents/2024/10/25/2024-24332/safeguard-tribal-objects-of-patrimony"
+  },
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2023-12-26",
+   "k": "Notice",
+   "n": "2023-28317",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2023/12/26/2023-28317/sentencing-guidelines-for-united-states-courts"
+  }
+ ],
+ "law": "117-258",
+ "rules": [
+  {
+   "a": [
+    "Interior Department",
+    "Indian Affairs Bureau"
+   ],
+   "d": "2024-10-25",
+   "k": "Proposed Rule",
+   "n": "2024-24332",
+   "t": "Safeguard Tribal Objects of Patrimony",
+   "u": "https://www.federalregister.gov/documents/2024/10/25/2024-24332/safeguard-tribal-objects-of-patrimony"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-258%22+%7C+%22Pub.+L.+117-258%22+%7C+%22P.L.+117-258%22&order=newest",
+ "term": "\"Public Law 117-258\" | \"Pub. L. 117-258\" | \"P.L. 117-258\"",
+ "total": 2
+}

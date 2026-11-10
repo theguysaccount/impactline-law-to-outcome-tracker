@@ -1,0 +1,148 @@
+{
+ "agencies": [
+  [
+   "State Department",
+   4
+  ],
+  [
+   "Homeland Security Department",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 1,
+  "Rule": 4
+ },
+ "by_year": {
+  "2022": 1,
+  "2023": 2,
+  "2024": 2,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2022-01-26",
+ "last": "2026-03-11",
+ "latest": [
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-03-11",
+   "k": "Rule",
+   "n": "2026-04737",
+   "t": "Visas: Enhancing Vetting and Combatting Fraud in the Diversity Immigrant Visa Program",
+   "u": "https://www.federalregister.gov/documents/2026/03/11/2026-04737/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2024-12-10",
+   "k": "Rule",
+   "n": "2024-28846",
+   "t": "Visas: Special Immigrant Visas-U.S. Government Employee Special Immigrant Visas for Service Abroad",
+   "u": "https://www.federalregister.gov/documents/2024/12/10/2024-28846/visas-special-immigrant-visas-us-government-employee-special-immigrant-visas-for-service-abroad"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2024-07-26",
+   "k": "Rule",
+   "n": "2024-16452",
+   "t": "Visas: Immigrant Visas; Correction",
+   "u": "https://www.federalregister.gov/documents/2024/07/26/2024-16452/visas-immigrant-visas-correction"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2023-07-14",
+   "k": "Rule",
+   "n": "2023-14538",
+   "t": "Visas: Nonimmigrant Visas; Immigrant Visas",
+   "u": "https://www.federalregister.gov/documents/2023/07/14/2023-14538/visas-nonimmigrant-visas-immigrant-visas"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2023-01-04",
+   "k": "Proposed Rule",
+   "n": "2022-27066",
+   "t": "U.S. Citizenship and Immigration Services Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements",
+   "u": "https://www.federalregister.gov/documents/2023/01/04/2022-27066/us-citizenship-and-immigration-services-fee-schedule-and-changes-to-certain-other-immigration"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2022-01-26",
+   "k": "Notice",
+   "n": "2022-01516",
+   "t": "Notice; 2021 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2022/01/26/2022-01516/notice-2021-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "117-31",
+ "rules": [
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-03-11",
+   "k": "Rule",
+   "n": "2026-04737",
+   "t": "Visas: Enhancing Vetting and Combatting Fraud in the Diversity Immigrant Visa Program",
+   "u": "https://www.federalregister.gov/documents/2026/03/11/2026-04737/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2024-12-10",
+   "k": "Rule",
+   "n": "2024-28846",
+   "t": "Visas: Special Immigrant Visas-U.S. Government Employee Special Immigrant Visas for Service Abroad",
+   "u": "https://www.federalregister.gov/documents/2024/12/10/2024-28846/visas-special-immigrant-visas-us-government-employee-special-immigrant-visas-for-service-abroad"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2024-07-26",
+   "k": "Rule",
+   "n": "2024-16452",
+   "t": "Visas: Immigrant Visas; Correction",
+   "u": "https://www.federalregister.gov/documents/2024/07/26/2024-16452/visas-immigrant-visas-correction"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2023-07-14",
+   "k": "Rule",
+   "n": "2023-14538",
+   "t": "Visas: Nonimmigrant Visas; Immigrant Visas",
+   "u": "https://www.federalregister.gov/documents/2023/07/14/2023-14538/visas-nonimmigrant-visas-immigrant-visas"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2023-01-04",
+   "k": "Proposed Rule",
+   "n": "2022-27066",
+   "t": "U.S. Citizenship and Immigration Services Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements",
+   "u": "https://www.federalregister.gov/documents/2023/01/04/2022-27066/us-citizenship-and-immigration-services-fee-schedule-and-changes-to-certain-other-immigration"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-31%22+%7C+%22Pub.+L.+117-31%22+%7C+%22P.L.+117-31%22&order=newest",
+ "term": "\"Public Law 117-31\" | \"Pub. L. 117-31\" | \"P.L. 117-31\"",
+ "total": 6
+}

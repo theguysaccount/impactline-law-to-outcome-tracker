@@ -1,0 +1,394 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   17
+  ],
+  [
+   "Homeland Security Department",
+   12
+  ],
+  [
+   "Food and Drug Administration",
+   10
+  ],
+  [
+   "Housing and Urban Development Department",
+   9
+  ],
+  [
+   "Federal Emergency Management Agency",
+   8
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   6
+  ],
+  [
+   "Veterans Affairs Department",
+   4
+  ],
+  [
+   "Office of the Secretary",
+   2
+  ],
+  [
+   "Labor Department",
+   2
+  ],
+  [
+   "Justice Department",
+   1
+  ],
+  [
+   "Executive Office for Immigration Review",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 31,
+  "Presidential Document": 1,
+  "Proposed Rule": 4,
+  "Rule": 10
+ },
+ "by_year": {
+  "2022": 6,
+  "2023": 20,
+  "2024": 9,
+  "2025": 4,
+  "2026": 7
+ },
+ "complete": true,
+ "first": "2022-11-14",
+ "last": "2026-10-27",
+ "latest": [
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Notice",
+   "n": "2026-21886",
+   "t": "Notice of Regulatory Waiver Requests Granted for the First Quarter of Calendar Year 2026",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21886/notice-of-regulatory-waiver-requests-granted-for-the-first-quarter-of-calendar-year-2026"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-10-13",
+   "k": "Notice",
+   "n": "2026-20817",
+   "t": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers; Guidance for Industry; Availability",
+   "u": "https://www.federalregister.gov/documents/2026/10/13/2026-20817/postapproval-manufacturing-changes-to-biosimilar-and-interchangeable-biosimilar-products-questions"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-09-25",
+   "k": "Notice",
+   "n": "2026-19660",
+   "t": "Reauthorization of the Biosimilar User Fee Act; Public Meeting; Request for Comments",
+   "u": "https://www.federalregister.gov/documents/2026/09/25/2026-19660/reauthorization-of-the-biosimilar-user-fee-act-public-meeting-request-for-comments"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2026-09-04",
+   "k": "Notice",
+   "n": "2026-18169",
+   "t": "Agency Information Collection Activities: Proposed Collection, Comment Request; Generic Clearance for Notice of Loss and Proof of Loss",
+   "u": "https://www.federalregister.gov/documents/2026/09/04/2026-18169/agency-information-collection-activities-proposed-collection-comment-request-generic-clearance-for"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-07-06",
+   "k": "Notice",
+   "n": "2026-13539",
+   "t": "Notice of Regulatory Waiver Requests Granted for the Fourth Quarter of Calendar Year 2025",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13539/notice-of-regulatory-waiver-requests-granted-for-the-fourth-quarter-of-calendar-year-2025"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2026-06-03",
+   "k": "Notice",
+   "n": "2026-11055",
+   "t": "Hermit's Peak/Calf Canyon Fire Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/06/03/2026-11055/hermits-peakcalf-canyon-fire-assistance"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-02-27",
+   "k": "Notice",
+   "n": "2026-03961",
+   "t": "Fiscal Year 2026 Generic Drug Science and Research Initiatives Workshop; Public Workshop; Request for Comments",
+   "u": "https://www.federalregister.gov/documents/2026/02/27/2026-03961/fiscal-year-2026-generic-drug-science-and-research-initiatives-workshop-public-workshop-request-for"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2025-11-24",
+   "k": "Notice",
+   "n": "2025-20654",
+   "t": "Reauthorization of the Biosimilar User Fee Act; Public Meeting; Request for Comments",
+   "u": "https://www.federalregister.gov/documents/2025/11/24/2025-20654/reauthorization-of-the-biosimilar-user-fee-act-public-meeting-request-for-comments"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2025-08-25",
+   "k": "Notice",
+   "n": "2025-16245",
+   "t": "Prescription Drug User Fee Act and Biosimilar User Fee Amendments Hiring and Retention Assessment; Public Meeting; Request for Comments",
+   "u": "https://www.federalregister.gov/documents/2025/08/25/2025-16245/prescription-drug-user-fee-act-and-biosimilar-user-fee-amendments-hiring-and-retention-assessment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-04",
+   "k": "Rule",
+   "n": "2025-14681",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; ",
+   "u": "https://www.federalregister.gov/documents/2025/08/04/2025-14681/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-04-30",
+   "k": "Proposed Rule",
+   "n": "2025-06271",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2026 Rates; Requirements for Quality Programs; and Other Policy Changes",
+   "u": "https://www.federalregister.gov/documents/2025/04/30/2025-06271/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2024-12-18",
+   "k": "Notice",
+   "n": "2024-29962",
+   "t": "Fiscal Year 2025 Generic Drug Science and Research Initiatives Workshop; Public Workshop; Request for Comments",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29962/fiscal-year-2025-generic-drug-science-and-research-initiatives-workshop-public-workshop-request-for"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29353",
+   "t": "Modernizing H-2 Program Requirements, Oversight, and Worker Protections",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-08-28",
+   "k": "Rule",
+   "n": "2024-17021",
+   "t": "Medicare and Medicaid Programs and the Children's Health Insurance Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2025 Rates; Quality Programs Requirements; and Other Polic",
+   "u": "https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-and-medicaid-programs-and-the-childrens-health-insurance-program-hospital-inpatient"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-05-16",
+   "k": "Notice",
+   "n": "2024-10786",
+   "t": "Solicitation of Nominations for Appointment to the Advisory Committee on Homeless Veterans",
+   "u": "https://www.federalregister.gov/documents/2024/05/16/2024-10786/solicitation-of-nominations-for-appointment-to-the-advisory-committee-on-homeless-veterans"
+  }
+ ],
+ "law": "117-180",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-04",
+   "k": "Rule",
+   "n": "2025-14681",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; ",
+   "u": "https://www.federalregister.gov/documents/2025/08/04/2025-14681/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-04-30",
+   "k": "Proposed Rule",
+   "n": "2025-06271",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2026 Rates; Requirements for Quality Programs; and Other Policy Changes",
+   "u": "https://www.federalregister.gov/documents/2025/04/30/2025-06271/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29353",
+   "t": "Modernizing H-2 Program Requirements, Oversight, and Worker Protections",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-08-28",
+   "k": "Rule",
+   "n": "2024-17021",
+   "t": "Medicare and Medicaid Programs and the Children's Health Insurance Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2025 Rates; Quality Programs Requirements; and Other Polic",
+   "u": "https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-and-medicaid-programs-and-the-childrens-health-insurance-program-hospital-inpatient"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-05-02",
+   "k": "Proposed Rule",
+   "n": "2024-07567",
+   "t": "Medicare and Medicaid Programs and the Children's Health Insurance Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2025 Rates; Quality Programs Requirements; and Other Polic",
+   "u": "https://www.federalregister.gov/documents/2024/05/02/2024-07567/medicare-and-medicaid-programs-and-the-childrens-health-insurance-program-hospital-inpatient"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2023-09-20",
+   "k": "Proposed Rule",
+   "n": "2023-20123",
+   "t": "Modernizing H-2 Program Requirements, Oversight, and Worker Protections",
+   "u": "https://www.federalregister.gov/documents/2023/09/20/2023-20123/modernizing-h-2-program-requirements-oversight-and-worker-protections"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2023-08-29",
+   "k": "Rule",
+   "n": "2023-18457",
+   "t": "Hermit's Peak/Calf Canyon Fire Assistance",
+   "u": "https://www.federalregister.gov/documents/2023/08/29/2023-18457/hermits-peakcalf-canyon-fire-assistance"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-08-28",
+   "k": "Rule",
+   "n": "2023-16252",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2024 Rates; Quality Programs and Medicare Promoting Interoperability Program Requirements for Eligible Hospitals and",
+   "u": "https://www.federalregister.gov/documents/2023/08/28/2023-16252/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Justice Department",
+    "Executive Office for Immigration Review"
+   ],
+   "d": "2023-05-16",
+   "k": "Rule",
+   "n": "2023-10146",
+   "t": "Circumvention of Lawful Pathways",
+   "u": "https://www.federalregister.gov/documents/2023/05/16/2023-10146/circumvention-of-lawful-pathways"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-05-01",
+   "k": "Proposed Rule",
+   "n": "2023-07389",
+   "t": "Medicare Program; Proposed Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2024 Rates; Quality Programs and Medicare Promoting Interoperability Program Requirements for Eligible Hosp",
+   "u": "https://www.federalregister.gov/documents/2023/05/01/2023-07389/medicare-program-proposed-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary",
+    "Farm Service Agency"
+   ],
+   "d": "2023-01-11",
+   "k": "Rule",
+   "n": "2023-00005",
+   "t": "Pandemic Assistance Programs and Agricultural Disaster Assistance Programs",
+   "u": "https://www.federalregister.gov/documents/2023/01/11/2023-00005/pandemic-assistance-programs-and-agricultural-disaster-assistance-programs"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2022-12-15",
+   "k": "Rule",
+   "n": "2022-27236",
+   "t": "Exercise of Time-Limited Authority To Increase the Numerical Limitation for FY 2023 for the H-2B Temporary Nonagricultural Worker Program and Portability Flexibility for H-2B Workers Seeking To Change Employers",
+   "u": "https://www.federalregister.gov/documents/2022/12/15/2022-27236/exercise-of-time-limited-authority-to-increase-the-numerical-limitation-for-fy-2023-for-the-h-2b"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2022-12-09",
+   "k": "Rule",
+   "n": "2022-26814",
+   "t": "Notification of Public Meetings on Hermit's Peak/Calf Canyon Fire Assistance",
+   "u": "https://www.federalregister.gov/documents/2022/12/09/2022-26814/notification-of-public-meetings-on-hermits-peakcalf-canyon-fire-assistance"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2022-11-14",
+   "k": "Rule",
+   "n": "2022-24728",
+   "t": "Hermit's Peak/Calf Canyon Fire Assistance",
+   "u": "https://www.federalregister.gov/documents/2022/11/14/2022-24728/hermits-peakcalf-canyon-fire-assistance"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-180%22+%7C+%22Pub.+L.+117-180%22+%7C+%22P.L.+117-180%22&order=newest",
+ "term": "\"Public Law 117-180\" | \"Pub. L. 117-180\" | \"P.L. 117-180\"",
+ "total": 46
+}

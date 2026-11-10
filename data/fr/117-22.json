@@ -1,0 +1,77 @@
+{
+ "agencies": [
+  [
+   "Equal Employment Opportunity Commission",
+   1
+  ],
+  [
+   "Labor Department",
+   1
+  ],
+  [
+   "Federal Contract Compliance Programs Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2022": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2022-03-22",
+ "last": "2024-02-16",
+ "latest": [
+  {
+   "a": [
+    "Equal Employment Opportunity Commission"
+   ],
+   "d": "2024-02-16",
+   "k": "Rule",
+   "n": "2024-03176",
+   "t": "Congressional Disapproval of Update of Commission's Conciliation Procedures",
+   "u": "https://www.federalregister.gov/documents/2024/02/16/2024-03176/congressional-disapproval-of-update-of-commissions-conciliation-procedures"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Federal Contract Compliance Programs Office"
+   ],
+   "d": "2022-03-22",
+   "k": "Proposed Rule",
+   "n": "2022-05696",
+   "t": "Pre-Enforcement Notice and Conciliation Procedures",
+   "u": "https://www.federalregister.gov/documents/2022/03/22/2022-05696/pre-enforcement-notice-and-conciliation-procedures"
+  }
+ ],
+ "law": "117-22",
+ "rules": [
+  {
+   "a": [
+    "Equal Employment Opportunity Commission"
+   ],
+   "d": "2024-02-16",
+   "k": "Rule",
+   "n": "2024-03176",
+   "t": "Congressional Disapproval of Update of Commission's Conciliation Procedures",
+   "u": "https://www.federalregister.gov/documents/2024/02/16/2024-03176/congressional-disapproval-of-update-of-commissions-conciliation-procedures"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Federal Contract Compliance Programs Office"
+   ],
+   "d": "2022-03-22",
+   "k": "Proposed Rule",
+   "n": "2022-05696",
+   "t": "Pre-Enforcement Notice and Conciliation Procedures",
+   "u": "https://www.federalregister.gov/documents/2022/03/22/2022-05696/pre-enforcement-notice-and-conciliation-procedures"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-22%22+%7C+%22Pub.+L.+117-22%22+%7C+%22P.L.+117-22%22&order=newest",
+ "term": "\"Public Law 117-22\" | \"Pub. L. 117-22\" | \"P.L. 117-22\"",
+ "total": 2
+}

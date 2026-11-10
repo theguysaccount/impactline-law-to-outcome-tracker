@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Federal Deposit Insurance Corporation",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2020": 1
+ },
+ "complete": true,
+ "first": "2020-09-25",
+ "last": "2020-09-25",
+ "latest": [
+  {
+   "a": [
+    "Federal Deposit Insurance Corporation"
+   ],
+   "d": "2020-09-25",
+   "k": "Proposed Rule",
+   "n": "2020-18813",
+   "t": "Transferred OTS Regulations Regarding Nondiscrimination Requirements",
+   "u": "https://www.federalregister.gov/documents/2020/09/25/2020-18813/transferred-ots-regulations-regarding-nondiscrimination-requirements"
+  }
+ ],
+ "law": "117-154",
+ "rules": [
+  {
+   "a": [
+    "Federal Deposit Insurance Corporation"
+   ],
+   "d": "2020-09-25",
+   "k": "Proposed Rule",
+   "n": "2020-18813",
+   "t": "Transferred OTS Regulations Regarding Nondiscrimination Requirements",
+   "u": "https://www.federalregister.gov/documents/2020/09/25/2020-18813/transferred-ots-regulations-regarding-nondiscrimination-requirements"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-154%22+%7C+%22Pub.+L.+117-154%22+%7C+%22P.L.+117-154%22&order=newest",
+ "term": "\"Public Law 117-154\" | \"Pub. L. 117-154\" | \"P.L. 117-154\"",
+ "total": 1
+}

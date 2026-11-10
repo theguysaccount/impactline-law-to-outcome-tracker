@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Committee for the Implementation of Textile Agreements",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-09-18",
+ "last": "2026-09-18",
+ "latest": [
+  {
+   "a": [
+    "Committee for the Implementation of Textile Agreements"
+   ],
+   "d": "2026-09-18",
+   "k": "Notice",
+   "n": "2026-19191",
+   "t": "Limitations of Duty-Free Imports of Apparel Articles Assembled in Beneficiary Sub-Saharan African Countries From Regional and Third-Country Fabric",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19191/limitations-of-duty-free-imports-of-apparel-articles-assembled-in-beneficiary-sub-saharan-african"
+  }
+ ],
+ "law": "119-103",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-103%22+%7C+%22Pub.+L.+119-103%22+%7C+%22P.L.+119-103%22&order=newest",
+ "term": "\"Public Law 119-103\" | \"Pub. L. 119-103\" | \"P.L. 119-103\"",
+ "total": 1
+}

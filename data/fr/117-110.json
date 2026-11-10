@@ -1,0 +1,48 @@
+{
+ "agencies": [
+  [
+   "State Department",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2023": 2
+ },
+ "complete": true,
+ "first": "2023-01-30",
+ "last": "2023-03-31",
+ "latest": [
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2023-03-31",
+   "k": "Notice",
+   "n": "2023-06749",
+   "t": "2022 Global Magnitsky Human Rights Accountability Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2023/03/31/2023-06749/2022-global-magnitsky-human-rights-accountability-act-annual-report"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-01-30",
+   "k": "Notice",
+   "n": "2023-01771",
+   "t": "Notice; 2022 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2023/01/30/2023-01771/notice-2022-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "117-110",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-110%22+%7C+%22Pub.+L.+117-110%22+%7C+%22P.L.+117-110%22&order=newest",
+ "term": "\"Public Law 117-110\" | \"Pub. L. 117-110\" | \"P.L. 117-110\"",
+ "total": 2
+}

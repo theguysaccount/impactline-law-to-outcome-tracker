@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2022": 1,
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2022-03-30",
+ "last": "2023-05-19",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-05-19",
+   "k": "Notice",
+   "n": "2023-10726",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2023/05/19/2023-10726/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2022-03-30",
+   "k": "Notice",
+   "n": "2022-06735",
+   "t": "Implementation of the PAWS for Veterans Therapy Act",
+   "u": "https://www.federalregister.gov/documents/2022/03/30/2022-06735/implementation-of-the-paws-for-veterans-therapy-act"
+  }
+ ],
+ "law": "117-37",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-37%22+%7C+%22Pub.+L.+117-37%22+%7C+%22P.L.+117-37%22&order=newest",
+ "term": "\"Public Law 117-37\" | \"Pub. L. 117-37\" | \"P.L. 117-37\"",
+ "total": 2
+}

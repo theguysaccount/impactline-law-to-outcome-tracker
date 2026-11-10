@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Land Management Bureau",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-06-04",
+ "last": "2026-06-04",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Land Management Bureau"
+   ],
+   "d": "2026-06-04",
+   "k": "Notice",
+   "n": "2026-11151",
+   "t": "Termination of the Resource Management Plan Amendment for the Buffalo Field Office, Wyoming, and an Associated Environmental Assessment",
+   "u": "https://www.federalregister.gov/documents/2026/06/04/2026-11151/termination-of-the-resource-management-plan-amendment-for-the-buffalo-field-office-wyoming-and-an"
+  }
+ ],
+ "law": "119-51",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-51%22+%7C+%22Pub.+L.+119-51%22+%7C+%22P.L.+119-51%22&order=newest",
+ "term": "\"Public Law 119-51\" | \"Pub. L. 119-51\" | \"P.L. 119-51\"",
+ "total": 1
+}

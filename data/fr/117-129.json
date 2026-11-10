@@ -1,0 +1,153 @@
+{
+ "agencies": [
+  [
+   "Agriculture Department",
+   5
+  ],
+  [
+   "Food and Nutrition Service",
+   4
+  ],
+  [
+   "Regulatory Information Service Center",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 3,
+  "Proposed Rule": 2,
+  "Rule": 2
+ },
+ "by_year": {
+  "2023": 4,
+  "2024": 2,
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2023-02-22",
+ "last": "2025-12-17",
+ "latest": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2025-12-17",
+   "k": "Rule",
+   "n": "2025-23089",
+   "t": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Implementation of the Access to Baby Formula Act of 2022 and Related Provisions; Correcting Amendments",
+   "u": "https://www.federalregister.gov/documents/2025/12/17/2025-23089/special-supplemental-nutrition-program-for-women-infants-and-children-wic-implementation-of-the"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2024-12-30",
+   "k": "Notice",
+   "n": "2024-31264",
+   "t": "Agency Information Collection Activities: Waiver and State Plans (WiSP)",
+   "u": "https://www.federalregister.gov/documents/2024/12/30/2024-31264/agency-information-collection-activities-waiver-and-state-plans-wisp"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00476",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00476/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2023-12-14",
+   "k": "Rule",
+   "n": "2023-26641",
+   "t": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Implementation of the Access to Baby Formula Act of 2022 and Related Provisions",
+   "u": "https://www.federalregister.gov/documents/2023/12/14/2023-26641/special-supplemental-nutrition-program-for-women-infants-and-children-wic-implementation-of-the"
+  },
+  {
+   "a": [
+    "Agriculture Department"
+   ],
+   "d": "2023-09-05",
+   "k": "Notice",
+   "n": "2023-19102",
+   "t": "Submission for OMB Review; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2023/09/05/2023-19102/submission-for-omb-review-comment-request"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2023-05-19",
+   "k": "Notice",
+   "n": "2023-10752",
+   "t": "Agency Information Collection Activities: Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) Program and WIC Farmers' Market Nutrition Program (FMNP) Waivers",
+   "u": "https://www.federalregister.gov/documents/2023/05/19/2023-10752/agency-information-collection-activities-special-supplemental-nutrition-program-for-women-infants"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2023-02-22",
+   "k": "Proposed Rule",
+   "n": "2023-02113",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+   "u": "https://www.federalregister.gov/documents/2023/02/22/2023-02113/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2022"
+  }
+ ],
+ "law": "117-129",
+ "rules": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2025-12-17",
+   "k": "Rule",
+   "n": "2025-23089",
+   "t": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Implementation of the Access to Baby Formula Act of 2022 and Related Provisions; Correcting Amendments",
+   "u": "https://www.federalregister.gov/documents/2025/12/17/2025-23089/special-supplemental-nutrition-program-for-women-infants-and-children-wic-implementation-of-the"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00476",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00476/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2023-12-14",
+   "k": "Rule",
+   "n": "2023-26641",
+   "t": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Implementation of the Access to Baby Formula Act of 2022 and Related Provisions",
+   "u": "https://www.federalregister.gov/documents/2023/12/14/2023-26641/special-supplemental-nutrition-program-for-women-infants-and-children-wic-implementation-of-the"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2023-02-22",
+   "k": "Proposed Rule",
+   "n": "2023-02113",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+   "u": "https://www.federalregister.gov/documents/2023/02/22/2023-02113/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2022"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-129%22+%7C+%22Pub.+L.+117-129%22+%7C+%22P.L.+117-129%22&order=newest",
+ "term": "\"Public Law 117-129\" | \"Pub. L. 117-129\" | \"P.L. 117-129\"",
+ "total": 7
+}

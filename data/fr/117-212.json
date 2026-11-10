@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   2
+  ],
+  [
+   "Federal Emergency Management Agency",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-07-20",
+ "last": "2024-06-10",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2024-06-10",
+   "k": "Notice",
+   "n": "2024-12644",
+   "t": "National Advisory Council; Meeting",
+   "u": "https://www.federalregister.gov/documents/2024/06/10/2024-12644/national-advisory-council-meeting"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2023-07-20",
+   "k": "Notice",
+   "n": "2023-15409",
+   "t": "National Advisory Council",
+   "u": "https://www.federalregister.gov/documents/2023/07/20/2023-15409/national-advisory-council"
+  }
+ ],
+ "law": "117-212",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-212%22+%7C+%22Pub.+L.+117-212%22+%7C+%22P.L.+117-212%22&order=newest",
+ "term": "\"Public Law 117-212\" | \"Pub. L. 117-212\" | \"P.L. 117-212\"",
+ "total": 2
+}

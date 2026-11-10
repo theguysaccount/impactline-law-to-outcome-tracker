@@ -1,0 +1,389 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   6
+  ],
+  [
+   "Management and Budget Office",
+   5
+  ],
+  [
+   "Federal Procurement Policy Office",
+   4
+  ],
+  [
+   "Homeland Security Department",
+   3
+  ],
+  [
+   "Securities and Exchange Commission",
+   3
+  ],
+  [
+   "Justice Department",
+   2
+  ],
+  [
+   "Coast Guard",
+   2
+  ],
+  [
+   "United States Sentencing Commission",
+   2
+  ],
+  [
+   "Defense Acquisition Regulations System",
+   2
+  ],
+  [
+   "Commerce Department",
+   2
+  ],
+  [
+   "Transportation Department",
+   1
+  ],
+  [
+   "Maritime Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 6,
+  "Proposed Rule": 9,
+  "Rule": 5
+ },
+ "by_year": {
+  "2026": 20
+ },
+ "complete": true,
+ "first": "2026-01-28",
+ "last": "2026-11-05",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-11-05",
+   "k": "Proposed Rule",
+   "n": "2026-22617",
+   "t": "Deepwater Port Application Processing and Licensing",
+   "u": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Rule",
+   "n": "2026-21923",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Coast Guard"
+   ],
+   "d": "2026-09-21",
+   "k": "Proposed Rule",
+   "n": "2026-19254",
+   "t": "Great Lakes Pilotage Rates-2027 Annual Review and Revisions to Methodology",
+   "u": "https://www.federalregister.gov/documents/2026/09/21/2026-19254/great-lakes-pilotage-rates-2027-annual-review-and-revisions-to-methodology"
+  },
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2026-09-18",
+   "k": "Notice",
+   "n": "2026-19192",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19192/sentencing-guidelines-for-united-states-courts"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-09-18",
+   "k": "Proposed Rule",
+   "n": "2026-19160",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 16, 17, and 35",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19160/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-16-17-and"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-09-18",
+   "k": "Proposed Rule",
+   "n": "2026-19159",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 9, 27, and 47",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19159/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-9-27-and"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Justice Department"
+   ],
+   "d": "2026-07-06",
+   "k": "Rule",
+   "n": "2026-13609",
+   "t": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13609/counter-uas-authority-for-state-local-tribal-and-territorial-law-enforcement-and-correctional"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12826",
+   "t": "Defense Federal Acquisition Regulation Supplement: Certification Requirement for Military Recruitment Advertising (DFARS Case 2024-D022)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12826/defense-federal-acquisition-regulation-supplement-certification-requirement-for-military-recruitment"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12825",
+   "t": "Defense Federal Acquisition Regulation Supplement: Small Purchase Exception for the Acquisition of U.S. Flags (DFARS Case 2024-D013)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12825/defense-federal-acquisition-regulation-supplement-small-purchase-exception-for-the-acquisition-of-us"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-06-23",
+   "k": "Proposed Rule",
+   "n": "2026-12560",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 6, 7, 10, 18, 26, 37, and 41",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12560/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-6-7-10-18"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-06-23",
+   "k": "Proposed Rule",
+   "n": "2026-12559",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 1, 2, 4, 33, 39, 40, and 53",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12559/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-1-2-4-33"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Coast Guard"
+   ],
+   "d": "2026-06-08",
+   "k": "Proposed Rule",
+   "n": "2026-11434",
+   "t": "Anchorages; Port of New York",
+   "u": "https://www.federalregister.gov/documents/2026/06/08/2026-11434/anchorages-port-of-new-york"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-06-01",
+   "k": "Rule",
+   "n": "2026-10916",
+   "t": "Holding Foreign Insiders Accountable Act Disclosure; Correction",
+   "u": "https://www.federalregister.gov/documents/2026/06/01/2026-10916/holding-foreign-insiders-accountable-act-disclosure-correction"
+  },
+  {
+   "a": [
+    "Commerce Department"
+   ],
+   "d": "2026-05-04",
+   "k": "Rule",
+   "n": "2026-08622",
+   "t": "Amending the Department of Commerce's Regulations Implementing the HAVANA Act",
+   "u": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act"
+  },
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2026-04-24",
+   "k": "Notice",
+   "n": "2026-08088",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2026/04/24/2026-08088/sentencing-guidelines-for-united-states-courts"
+  }
+ ],
+ "law": "119-60",
+ "rules": [
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-11-05",
+   "k": "Proposed Rule",
+   "n": "2026-22617",
+   "t": "Deepwater Port Application Processing and Licensing",
+   "u": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Rule",
+   "n": "2026-21923",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Coast Guard"
+   ],
+   "d": "2026-09-21",
+   "k": "Proposed Rule",
+   "n": "2026-19254",
+   "t": "Great Lakes Pilotage Rates-2027 Annual Review and Revisions to Methodology",
+   "u": "https://www.federalregister.gov/documents/2026/09/21/2026-19254/great-lakes-pilotage-rates-2027-annual-review-and-revisions-to-methodology"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-09-18",
+   "k": "Proposed Rule",
+   "n": "2026-19160",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 16, 17, and 35",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19160/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-16-17-and"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-09-18",
+   "k": "Proposed Rule",
+   "n": "2026-19159",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 9, 27, and 47",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19159/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-9-27-and"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Justice Department"
+   ],
+   "d": "2026-07-06",
+   "k": "Rule",
+   "n": "2026-13609",
+   "t": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13609/counter-uas-authority-for-state-local-tribal-and-territorial-law-enforcement-and-correctional"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12826",
+   "t": "Defense Federal Acquisition Regulation Supplement: Certification Requirement for Military Recruitment Advertising (DFARS Case 2024-D022)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12826/defense-federal-acquisition-regulation-supplement-certification-requirement-for-military-recruitment"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12825",
+   "t": "Defense Federal Acquisition Regulation Supplement: Small Purchase Exception for the Acquisition of U.S. Flags (DFARS Case 2024-D013)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12825/defense-federal-acquisition-regulation-supplement-small-purchase-exception-for-the-acquisition-of-us"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-06-23",
+   "k": "Proposed Rule",
+   "n": "2026-12560",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 6, 7, 10, 18, 26, 37, and 41",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12560/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-6-7-10-18"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-06-23",
+   "k": "Proposed Rule",
+   "n": "2026-12559",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 1, 2, 4, 33, 39, 40, and 53",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12559/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-1-2-4-33"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Coast Guard"
+   ],
+   "d": "2026-06-08",
+   "k": "Proposed Rule",
+   "n": "2026-11434",
+   "t": "Anchorages; Port of New York",
+   "u": "https://www.federalregister.gov/documents/2026/06/08/2026-11434/anchorages-port-of-new-york"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-06-01",
+   "k": "Rule",
+   "n": "2026-10916",
+   "t": "Holding Foreign Insiders Accountable Act Disclosure; Correction",
+   "u": "https://www.federalregister.gov/documents/2026/06/01/2026-10916/holding-foreign-insiders-accountable-act-disclosure-correction"
+  },
+  {
+   "a": [
+    "Commerce Department"
+   ],
+   "d": "2026-05-04",
+   "k": "Rule",
+   "n": "2026-08622",
+   "t": "Amending the Department of Commerce's Regulations Implementing the HAVANA Act",
+   "u": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-03-03",
+   "k": "Rule",
+   "n": "2026-04202",
+   "t": "Holding Foreign Insiders Accountable Act Disclosure",
+   "u": "https://www.federalregister.gov/documents/2026/03/03/2026-04202/holding-foreign-insiders-accountable-act-disclosure"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-60%22+%7C+%22Pub.+L.+119-60%22+%7C+%22P.L.+119-60%22&order=newest",
+ "term": "\"Public Law 119-60\" | \"Pub. L. 119-60\" | \"P.L. 119-60\"",
+ "total": 20
+}

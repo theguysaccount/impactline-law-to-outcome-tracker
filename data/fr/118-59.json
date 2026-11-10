@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "State Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-08-10",
+ "last": "2026-08-10",
+ "latest": [
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-08-10",
+   "k": "Rule",
+   "n": "2026-16207",
+   "t": "Implementation of the Administrative False Claims Act",
+   "u": "https://www.federalregister.gov/documents/2026/08/10/2026-16207/implementation-of-the-administrative-false-claims-act"
+  }
+ ],
+ "law": "118-59",
+ "rules": [
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-08-10",
+   "k": "Rule",
+   "n": "2026-16207",
+   "t": "Implementation of the Administrative False Claims Act",
+   "u": "https://www.federalregister.gov/documents/2026/08/10/2026-16207/implementation-of-the-administrative-false-claims-act"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-59%22+%7C+%22Pub.+L.+118-59%22+%7C+%22P.L.+118-59%22&order=newest",
+ "term": "\"Public Law 118-59\" | \"Pub. L. 118-59\" | \"P.L. 118-59\"",
+ "total": 1
+}

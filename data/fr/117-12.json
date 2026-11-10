@@ -1,0 +1,44 @@
+{
+ "agencies": [
+  [
+   "Small Business Administration",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2026-09-03",
+ "last": "2026-09-03",
+ "latest": [
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2026-09-03",
+   "k": "Notice",
+   "n": "2026-18009",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/09/03/2026-18009/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2026-09-03",
+   "k": "Notice",
+   "n": "2026-17995",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/09/03/2026-17995/privacy-act-of-1974-system-of-records"
+  }
+ ],
+ "law": "117-12",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-12%22+%7C+%22Pub.+L.+117-12%22+%7C+%22P.L.+117-12%22&order=newest",
+ "term": "\"Public Law 117-12\" | \"Pub. L. 117-12\" | \"P.L. 117-12\"",
+ "total": 2
+}

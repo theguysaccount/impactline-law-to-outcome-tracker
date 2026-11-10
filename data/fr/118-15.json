@@ -1,0 +1,360 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   9
+  ],
+  [
+   "Labor Department",
+   6
+  ],
+  [
+   "Food and Drug Administration",
+   4
+  ],
+  [
+   "Homeland Security Department",
+   4
+  ],
+  [
+   "Employment and Training Administration",
+   3
+  ],
+  [
+   "Office of the Secretary",
+   3
+  ],
+  [
+   "Indian Health Service",
+   3
+  ],
+  [
+   "Children and Families Administration",
+   2
+  ],
+  [
+   "Interior Department",
+   2
+  ],
+  [
+   "Indian Affairs Bureau",
+   2
+  ],
+  [
+   "Defense Department",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 10,
+  "Proposed Rule": 5,
+  "Rule": 6
+ },
+ "by_year": {
+  "2023": 6,
+  "2024": 10,
+  "2025": 2,
+  "2026": 3
+ },
+ "complete": true,
+ "first": "2023-06-16",
+ "last": "2026-05-11",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-05-11",
+   "k": "Notice",
+   "n": "2026-09284",
+   "t": "Animal Generic Drug User Fee Act; Stakeholder Consultation Meetings on the Animal Generic Drug User Fee Act Reauthorization; Request for Notification of Stakeholder Intent To Participate",
+   "u": "https://www.federalregister.gov/documents/2026/05/11/2026-09284/animal-generic-drug-user-fee-act-stakeholder-consultation-meetings-on-the-animal-generic-drug-user"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-05-11",
+   "k": "Notice",
+   "n": "2026-09283",
+   "t": "Animal Drug User Fee Act; Stakeholder Consultation Meetings on the Animal Drug User Fee Act Reauthorization; Request for Notification of Stakeholder Intent To Participate",
+   "u": "https://www.federalregister.gov/documents/2026/05/11/2026-09283/animal-drug-user-fee-act-stakeholder-consultation-meetings-on-the-animal-drug-user-fee-act"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2026-02-03",
+   "k": "Rule",
+   "n": "2026-02131",
+   "t": "Exercise of Time-Limited Authority To Increase the Fiscal Year 2026 Numerical Limitation for the H-2B Temporary Nonagricultural Worker Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/03/2026-02131/exercise-of-time-limited-authority-to-increase-the-fiscal-year-2026-numerical-limitation-for-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2025-11-20",
+   "k": "Notice",
+   "n": "2025-20397",
+   "t": "Submission for Office of Management and Budget Review; Caseload Reduction Documentation Process",
+   "u": "https://www.federalregister.gov/documents/2025/11/20/2025-20397/submission-for-office-of-management-and-budget-review-caseload-reduction-documentation-process"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2025-08-14",
+   "k": "Notice",
+   "n": "2025-15471",
+   "t": "Proposed Information Collection Activity; Caseload Reduction Documentation Process",
+   "u": "https://www.federalregister.gov/documents/2025/08/14/2025-15471/proposed-information-collection-activity-caseload-reduction-documentation-process"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29353",
+   "t": "Modernizing H-2 Program Requirements, Oversight, and Worker Protections",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Indian Affairs Bureau"
+   ],
+   "d": "2024-12-11",
+   "k": "Rule",
+   "n": "2024-28302",
+   "t": "Self-Governance PROGRESS Act Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/12/11/2024-28302/self-governance-progress-act-regulations"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2024-12-02",
+   "k": "Rule",
+   "n": "2024-28017",
+   "t": "Exercise of Time-Limited Authority To Increase the Numerical Limitation for FY 2025 for the H-2B Temporary Nonagricultural Worker Program and Portability Flexibility for H-2B Workers Seeking To Change Employers",
+   "u": "https://www.federalregister.gov/documents/2024/12/02/2024-28017/exercise-of-time-limited-authority-to-increase-the-numerical-limitation-for-fy-2025-for-the-h-2b"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-10-01",
+   "k": "Proposed Rule",
+   "n": "2024-22584",
+   "t": "Medical Billing for Healthcare Services Provided by Department of Defense Military Medical Treatment Facilities to Civilian Non-Beneficiaries",
+   "u": "https://www.federalregister.gov/documents/2024/10/01/2024-22584/medical-billing-for-healthcare-services-provided-by-department-of-defense-military-medical-treatment"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-08-16",
+   "k": "Proposed Rule",
+   "n": "2024-16455",
+   "t": "Semiannual Agenda of Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/08/16/2024-16455/semiannual-agenda-of-regulations"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Indian Affairs Bureau"
+   ],
+   "d": "2024-07-15",
+   "k": "Proposed Rule",
+   "n": "2024-14862",
+   "t": "Self-Governance PROGRESS Act Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/07/15/2024-14862/self-governance-progress-act-regulations"
+  },
+  {
+   "a": [
+    "Labor Department"
+   ],
+   "d": "2024-04-16",
+   "k": "Notice",
+   "n": "2024-07969",
+   "t": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Attestation for Employers Seeking To Employ H-2B Nonimmigrant Workers Under the Consolidated Appropriations Act, 2023, as Extended by the Continuing Appropriations Act, 2024 and Other Extensions Act",
+   "u": "https://www.federalregister.gov/documents/2024/04/16/2024-07969/agency-information-collection-activities-submission-for-omb-review-comment-request-attestation-for"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-03-14",
+   "k": "Proposed Rule",
+   "n": "2024-05428",
+   "t": "Semiannual Agenda of Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/03/14/2024-05428/semiannual-agenda-of-regulations"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2024-01-29",
+   "k": "Notice",
+   "n": "2024-01706",
+   "t": "Notice; 2023 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2024/01/29/2024-01706/notice-2023-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Indian Health Service"
+   ],
+   "d": "2024-01-08",
+   "k": "Proposed Rule",
+   "n": "2023-28948",
+   "t": "Removal of Outdated Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/01/08/2023-28948/removal-of-outdated-regulations"
+  }
+ ],
+ "law": "118-15",
+ "rules": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2026-02-03",
+   "k": "Rule",
+   "n": "2026-02131",
+   "t": "Exercise of Time-Limited Authority To Increase the Fiscal Year 2026 Numerical Limitation for the H-2B Temporary Nonagricultural Worker Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/03/2026-02131/exercise-of-time-limited-authority-to-increase-the-fiscal-year-2026-numerical-limitation-for-the"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29353",
+   "t": "Modernizing H-2 Program Requirements, Oversight, and Worker Protections",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Indian Affairs Bureau"
+   ],
+   "d": "2024-12-11",
+   "k": "Rule",
+   "n": "2024-28302",
+   "t": "Self-Governance PROGRESS Act Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/12/11/2024-28302/self-governance-progress-act-regulations"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2024-12-02",
+   "k": "Rule",
+   "n": "2024-28017",
+   "t": "Exercise of Time-Limited Authority To Increase the Numerical Limitation for FY 2025 for the H-2B Temporary Nonagricultural Worker Program and Portability Flexibility for H-2B Workers Seeking To Change Employers",
+   "u": "https://www.federalregister.gov/documents/2024/12/02/2024-28017/exercise-of-time-limited-authority-to-increase-the-numerical-limitation-for-fy-2025-for-the-h-2b"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-10-01",
+   "k": "Proposed Rule",
+   "n": "2024-22584",
+   "t": "Medical Billing for Healthcare Services Provided by Department of Defense Military Medical Treatment Facilities to Civilian Non-Beneficiaries",
+   "u": "https://www.federalregister.gov/documents/2024/10/01/2024-22584/medical-billing-for-healthcare-services-provided-by-department-of-defense-military-medical-treatment"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-08-16",
+   "k": "Proposed Rule",
+   "n": "2024-16455",
+   "t": "Semiannual Agenda of Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/08/16/2024-16455/semiannual-agenda-of-regulations"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Indian Affairs Bureau"
+   ],
+   "d": "2024-07-15",
+   "k": "Proposed Rule",
+   "n": "2024-14862",
+   "t": "Self-Governance PROGRESS Act Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/07/15/2024-14862/self-governance-progress-act-regulations"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-03-14",
+   "k": "Proposed Rule",
+   "n": "2024-05428",
+   "t": "Semiannual Agenda of Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/03/14/2024-05428/semiannual-agenda-of-regulations"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Indian Health Service"
+   ],
+   "d": "2024-01-08",
+   "k": "Proposed Rule",
+   "n": "2023-28948",
+   "t": "Removal of Outdated Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/01/08/2023-28948/removal-of-outdated-regulations"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2023-11-17",
+   "k": "Rule",
+   "n": "2023-25493",
+   "t": "Exercise of Time-Limited Authority To Increase the Numerical Limitation for FY 2024 for the H-2B Temporary Nonagricultural Worker Program and Portability Flexibility for H-2B Workers Seeking To Change Employers",
+   "u": "https://www.federalregister.gov/documents/2023/11/17/2023-25493/exercise-of-time-limited-authority-to-increase-the-numerical-limitation-for-fy-2024-for-the-h-2b"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2023-06-16",
+   "k": "Rule",
+   "n": "2023-12977",
+   "t": "Federal Student Aid Programs (Student Assistance General Provisions, Federal Perkins Loan Program, Federal Family Education Loan Program, and William D. Ford Federal Direct Loan Program)",
+   "u": "https://www.federalregister.gov/documents/2023/06/16/2023-12977/federal-student-aid-programs-student-assistance-general-provisions-federal-perkins-loan-program"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-15%22+%7C+%22Pub.+L.+118-15%22+%7C+%22P.L.+118-15%22&order=newest",
+ "term": "\"Public Law 118-15\" | \"Pub. L. 118-15\" | \"P.L. 118-15\"",
+ "total": 21
+}

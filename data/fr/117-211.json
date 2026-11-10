@@ -1,0 +1,57 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   1
+  ],
+  [
+   "General Services Administration",
+   1
+  ],
+  [
+   "National Aeronautics and Space Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-07-18",
+ "last": "2024-07-18",
+ "latest": [
+  {
+   "a": [
+    "Defense Department",
+    "General Services Administration",
+    "National Aeronautics and Space Administration"
+   ],
+   "d": "2024-07-18",
+   "k": "Proposed Rule",
+   "n": "2024-15565",
+   "t": "Federal Acquisition Regulation: Combating Trafficking in Persons-Definition and Agency Responsibilities",
+   "u": "https://www.federalregister.gov/documents/2024/07/18/2024-15565/federal-acquisition-regulation-combating-trafficking-in-persons-definition-and-agency"
+  }
+ ],
+ "law": "117-211",
+ "rules": [
+  {
+   "a": [
+    "Defense Department",
+    "General Services Administration",
+    "National Aeronautics and Space Administration"
+   ],
+   "d": "2024-07-18",
+   "k": "Proposed Rule",
+   "n": "2024-15565",
+   "t": "Federal Acquisition Regulation: Combating Trafficking in Persons-Definition and Agency Responsibilities",
+   "u": "https://www.federalregister.gov/documents/2024/07/18/2024-15565/federal-acquisition-regulation-combating-trafficking-in-persons-definition-and-agency"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-211%22+%7C+%22Pub.+L.+117-211%22+%7C+%22P.L.+117-211%22&order=newest",
+ "term": "\"Public Law 117-211\" | \"Pub. L. 117-211\" | \"P.L. 117-211\"",
+ "total": 1
+}

@@ -1,0 +1,122 @@
+{
+ "agencies": [
+  [
+   "Personnel Management Office",
+   4
+  ],
+  [
+   "Regulatory Information Service Center",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 1,
+  "Rule": 3
+ },
+ "by_year": {
+  "2025": 1,
+  "2026": 4
+ },
+ "complete": true,
+ "first": "2025-09-08",
+ "last": "2026-09-15",
+ "latest": [
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-09-15",
+   "k": "Rule",
+   "n": "2026-18828",
+   "t": "Shared Certificates and Pooled Hiring Actions",
+   "u": "https://www.federalregister.gov/documents/2026/09/15/2026-18828/shared-certificates-and-pooled-hiring-actions"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16603",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-08-03",
+   "k": "Rule",
+   "n": "2026-15665",
+   "t": "Reduction in Force",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15665/reduction-in-force"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-03-05",
+   "k": "Proposed Rule",
+   "n": "2026-04377",
+   "t": "Reduction in Force",
+   "u": "https://www.federalregister.gov/documents/2026/03/05/2026-04377/reduction-in-force"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2025-09-08",
+   "k": "Rule",
+   "n": "2025-17125",
+   "t": "Reinvigorating Merit-Based Hiring Through Candidate Ranking in the Competitive and Excepted Service (Rule of Many)",
+   "u": "https://www.federalregister.gov/documents/2025/09/08/2025-17125/reinvigorating-merit-based-hiring-through-candidate-ranking-in-the-competitive-and-excepted-service"
+  }
+ ],
+ "law": "118-188",
+ "rules": [
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-09-15",
+   "k": "Rule",
+   "n": "2026-18828",
+   "t": "Shared Certificates and Pooled Hiring Actions",
+   "u": "https://www.federalregister.gov/documents/2026/09/15/2026-18828/shared-certificates-and-pooled-hiring-actions"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-08-03",
+   "k": "Rule",
+   "n": "2026-15665",
+   "t": "Reduction in Force",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15665/reduction-in-force"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-03-05",
+   "k": "Proposed Rule",
+   "n": "2026-04377",
+   "t": "Reduction in Force",
+   "u": "https://www.federalregister.gov/documents/2026/03/05/2026-04377/reduction-in-force"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2025-09-08",
+   "k": "Rule",
+   "n": "2025-17125",
+   "t": "Reinvigorating Merit-Based Hiring Through Candidate Ranking in the Competitive and Excepted Service (Rule of Many)",
+   "u": "https://www.federalregister.gov/documents/2025/09/08/2025-17125/reinvigorating-merit-based-hiring-through-candidate-ranking-in-the-competitive-and-excepted-service"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-188%22+%7C+%22Pub.+L.+118-188%22+%7C+%22P.L.+118-188%22&order=newest",
+ "term": "\"Public Law 118-188\" | \"Pub. L. 118-188\" | \"P.L. 118-188\"",
+ "total": 5
+}

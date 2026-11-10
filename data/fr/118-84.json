@@ -1,0 +1,65 @@
+{
+ "agencies": [
+  [
+   "Personnel Management Office",
+   4
+  ]
+ ],
+ "by_type": {
+  "Notice": 4
+ },
+ "by_year": {
+  "2022": 2,
+  "2025": 2
+ },
+ "complete": true,
+ "first": "2022-05-27",
+ "last": "2025-11-26",
+ "latest": [
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2025-11-26",
+   "k": "Notice",
+   "n": "2025-21209",
+   "t": "Submission for Review: 3206-0268, RI 20-126, Certification of Qualifying District of Columbia Service Under Section 1905 of Public Law 111-84",
+   "u": "https://www.federalregister.gov/documents/2025/11/26/2025-21209/submission-for-review-3206-0268-ri-20-126-certification-of-qualifying-district-of-columbia-service"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2025-06-02",
+   "k": "Notice",
+   "n": "2025-09975",
+   "t": "Submission for Review: 3206-0268, RI 20-126, Certification of Qualifying District of Columbia Service",
+   "u": "https://www.federalregister.gov/documents/2025/06/02/2025-09975/submission-for-review-3206-0268-ri-20-126-certification-of-qualifying-district-of-columbia-service"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2022-11-10",
+   "k": "Notice",
+   "n": "2022-24547",
+   "t": "Agency Information Collection Activities; Submission for Review: RI 20-126, Certification of Qualifying District of Columbia Service",
+   "u": "https://www.federalregister.gov/documents/2022/11/10/2022-24547/agency-information-collection-activities-submission-for-review-ri-20-126-certification-of-qualifying"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2022-05-27",
+   "k": "Notice",
+   "n": "2022-11466",
+   "t": "Submission for Review: RI 20-126, Certification of Qualifying District of Columbia Service Under Section 1905 of Public Law 111-84 (OMB No. 3206-0268)",
+   "u": "https://www.federalregister.gov/documents/2022/05/27/2022-11466/submission-for-review-ri-20-126-certification-of-qualifying-district-of-columbia-service-under"
+  }
+ ],
+ "law": "118-84",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-84%22+%7C+%22Pub.+L.+118-84%22+%7C+%22P.L.+118-84%22&order=newest",
+ "term": "\"Public Law 118-84\" | \"Pub. L. 118-84\" | \"P.L. 118-84\"",
+ "total": 4
+}

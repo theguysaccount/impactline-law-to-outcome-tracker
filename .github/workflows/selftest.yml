@@ -1,0 +1,56 @@
+# Weekly: run the tests, check that every source was read in time, and check the live site,
+# including that sampled evidence packets still match the manifest. If the live build is stale
+# (GitHub skipped the nightly runs), start "Refresh and deploy".
+# Reads only this project's own site and data. A failure emails the repository owner.
+name: Weekly self-test
+
+on:
+  schedule:
+    - cron: "23 9 * * 3"   # Wednesday 09:23 UTC
+    - cron: "9,29,49 * * * *"   # TEMPORARY: proves the schedule trigger end to end; removed after one passing run
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+env:
+  SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+  SITE_INDEXABLE: ${{ vars.SITE_INDEXABLE }}
+
+jobs:
+  selftest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Tests
+        run: python3 -m unittest discover -s tests -t .
+      - name: Every source read successfully in time
+        run: python3 -m impactline.refresh --check-fresh
+      - name: Live site, sampled law pages and evidence packets
+        id: live
+        run: |
+          set +e
+          python3 -m impactline.selftest --site-url "$SITE_URL" | tee selftest.log
+          code=${PIPESTATUS[0]}
+          grep -q '^stale=true' selftest.log && echo "stale=true" >> "$GITHUB_OUTPUT"
+          exit $code
+      - name: Start a refresh if the live build is stale
+        if: always() && steps.live.outputs.stale == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          busy=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow refresh.yml --limit 5 --json status -q '[.[] | select(.status != "completed")] | length')
+          if [ "$busy" = "0" ]; then
+            gh workflow run refresh.yml --repo "$GITHUB_REPOSITORY" --ref main
+            echo "::warning::The live build was stale; started Refresh and deploy."
+          fi
+      - name: Keep the schedules alive
+        if: always() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: .github/scripts/keepalive.sh refresh.yml selftest.yml linkcheck.yml

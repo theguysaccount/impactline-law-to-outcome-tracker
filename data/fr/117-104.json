@@ -1,0 +1,67 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-10-04",
+ "last": "2024-12-04",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2024-12-04",
+   "k": "Rule",
+   "n": "2024-28082",
+   "t": "National Institute on Minority Health and Health Disparities Research Endowment Programs",
+   "u": "https://www.federalregister.gov/documents/2024/12/04/2024-28082/national-institute-on-minority-health-and-health-disparities-research-endowment-programs"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2023-10-04",
+   "k": "Proposed Rule",
+   "n": "2023-21750",
+   "t": "National Institute on Minority Health and Health Disparities Research Endowment Programs",
+   "u": "https://www.federalregister.gov/documents/2023/10/04/2023-21750/national-institute-on-minority-health-and-health-disparities-research-endowment-programs"
+  }
+ ],
+ "law": "117-104",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2024-12-04",
+   "k": "Rule",
+   "n": "2024-28082",
+   "t": "National Institute on Minority Health and Health Disparities Research Endowment Programs",
+   "u": "https://www.federalregister.gov/documents/2024/12/04/2024-28082/national-institute-on-minority-health-and-health-disparities-research-endowment-programs"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2023-10-04",
+   "k": "Proposed Rule",
+   "n": "2023-21750",
+   "t": "National Institute on Minority Health and Health Disparities Research Endowment Programs",
+   "u": "https://www.federalregister.gov/documents/2023/10/04/2023-21750/national-institute-on-minority-health-and-health-disparities-research-endowment-programs"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-104%22+%7C+%22Pub.+L.+117-104%22+%7C+%22P.L.+117-104%22&order=newest",
+ "term": "\"Public Law 117-104\" | \"Pub. L. 117-104\" | \"P.L. 117-104\"",
+ "total": 2
+}

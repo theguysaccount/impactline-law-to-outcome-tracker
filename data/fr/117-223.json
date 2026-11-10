@@ -1,0 +1,290 @@
+{
+ "agencies": [
+  [
+   "Federal Communications Commission",
+   19
+  ]
+ ],
+ "by_type": {
+  "Notice": 8,
+  "Proposed Rule": 5,
+  "Rule": 6
+ },
+ "by_year": {
+  "2023": 4,
+  "2024": 9,
+  "2025": 1,
+  "2026": 5
+ },
+ "complete": true,
+ "first": "2023-03-13",
+ "last": "2026-10-19",
+ "latest": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Notice",
+   "n": "2026-21381",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21381/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Notice",
+   "n": "2026-21314",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21314/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16615",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16615/unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-02-25",
+   "k": "Notice",
+   "n": "2026-03741",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/02/25/2026-03741/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-02-25",
+   "k": "Notice",
+   "n": "2026-03740",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/02/25/2026-03740/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-09-22",
+   "k": "Notice",
+   "n": "2025-18318",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2025",
+   "u": "https://www.federalregister.gov/documents/2025/09/22/2025-18318/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2025"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-08-16",
+   "k": "Proposed Rule",
+   "n": "2024-16467",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2024",
+   "u": "https://www.federalregister.gov/documents/2024/08/16/2024-16467/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2024"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-06-04",
+   "k": "Rule",
+   "n": "2024-12220",
+   "t": "Supporting Survivors of Domestic and Sexual Violence; Lifeline and Link Up Reform Modernization",
+   "u": "https://www.federalregister.gov/documents/2024/06/04/2024-12220/supporting-survivors-of-domestic-and-sexual-violence-lifeline-and-link-up-reform-modernization"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-04-23",
+   "k": "Proposed Rule",
+   "n": "2024-08642",
+   "t": "Supporting Survivors of Domestic and Sexual Violence",
+   "u": "https://www.federalregister.gov/documents/2024/04/23/2024-08642/supporting-survivors-of-domestic-and-sexual-violence"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-04-19",
+   "k": "Notice",
+   "n": "2024-08378",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2024/04/19/2024-08378/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-04-19",
+   "k": "Notice",
+   "n": "2024-08376",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2024/04/19/2024-08376/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-03-21",
+   "k": "Rule",
+   "n": "2024-05942",
+   "t": "Video Relay Service Improvements",
+   "u": "https://www.federalregister.gov/documents/2024/03/21/2024-05942/video-relay-service-improvements"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-03-05",
+   "k": "Rule",
+   "n": "2024-04587",
+   "t": "Strengthening the Ability of Consumers To Stop Robocalls",
+   "u": "https://www.federalregister.gov/documents/2024/03/05/2024-04587/strengthening-the-ability-of-consumers-to-stop-robocalls"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00466",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00466/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-02-08",
+   "k": "Rule",
+   "n": "2024-02384",
+   "t": "VRS and IP CTS-Commencement of Pending User Registration; Rates for Interstate Inmate Calling Services; Correction",
+   "u": "https://www.federalregister.gov/documents/2024/02/08/2024-02384/vrs-and-ip-cts-commencement-of-pending-user-registration-rates-for-interstate-inmate-calling"
+  }
+ ],
+ "law": "117-223",
+ "rules": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-08-16",
+   "k": "Proposed Rule",
+   "n": "2024-16467",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2024",
+   "u": "https://www.federalregister.gov/documents/2024/08/16/2024-16467/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2024"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-06-04",
+   "k": "Rule",
+   "n": "2024-12220",
+   "t": "Supporting Survivors of Domestic and Sexual Violence; Lifeline and Link Up Reform Modernization",
+   "u": "https://www.federalregister.gov/documents/2024/06/04/2024-12220/supporting-survivors-of-domestic-and-sexual-violence-lifeline-and-link-up-reform-modernization"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-04-23",
+   "k": "Proposed Rule",
+   "n": "2024-08642",
+   "t": "Supporting Survivors of Domestic and Sexual Violence",
+   "u": "https://www.federalregister.gov/documents/2024/04/23/2024-08642/supporting-survivors-of-domestic-and-sexual-violence"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-03-21",
+   "k": "Rule",
+   "n": "2024-05942",
+   "t": "Video Relay Service Improvements",
+   "u": "https://www.federalregister.gov/documents/2024/03/21/2024-05942/video-relay-service-improvements"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-03-05",
+   "k": "Rule",
+   "n": "2024-04587",
+   "t": "Strengthening the Ability of Consumers To Stop Robocalls",
+   "u": "https://www.federalregister.gov/documents/2024/03/05/2024-04587/strengthening-the-ability-of-consumers-to-stop-robocalls"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00466",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00466/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-02-08",
+   "k": "Rule",
+   "n": "2024-02384",
+   "t": "VRS and IP CTS-Commencement of Pending User Registration; Rates for Interstate Inmate Calling Services; Correction",
+   "u": "https://www.federalregister.gov/documents/2024/02/08/2024-02384/vrs-and-ip-cts-commencement-of-pending-user-registration-rates-for-interstate-inmate-calling"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2023-12-08",
+   "k": "Rule",
+   "n": "2023-26338",
+   "t": "Protecting Consumers from SIM-Swap and Port-Out Fraud",
+   "u": "https://www.federalregister.gov/documents/2023/12/08/2023-26338/protecting-consumers-from-sim-swap-and-port-out-fraud"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2023-12-05",
+   "k": "Rule",
+   "n": "2023-25835",
+   "t": "Supporting Survivors of Domestic and Sexual Violence; Lifeline and Link Up Reform Modernization",
+   "u": "https://www.federalregister.gov/documents/2023/12/05/2023-25835/supporting-survivors-of-domestic-and-sexual-violence-lifeline-and-link-up-reform-modernization"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2023-07-27",
+   "k": "Proposed Rule",
+   "n": "2023-14555",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2023",
+   "u": "https://www.federalregister.gov/documents/2023/07/27/2023-14555/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2023"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2023-03-13",
+   "k": "Proposed Rule",
+   "n": "2023-04489",
+   "t": "Supporting Survivors of Domestic and Sexual Violence, Lifeline and Link Up Reform and Modernization, Affordable Connectivity Program",
+   "u": "https://www.federalregister.gov/documents/2023/03/13/2023-04489/supporting-survivors-of-domestic-and-sexual-violence-lifeline-and-link-up-reform-and-modernization"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-223%22+%7C+%22Pub.+L.+117-223%22+%7C+%22P.L.+117-223%22&order=newest",
+ "term": "\"Public Law 117-223\" | \"Pub. L. 117-223\" | \"P.L. 117-223\"",
+ "total": 19
+}

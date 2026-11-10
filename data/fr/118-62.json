@@ -1,0 +1,61 @@
+{
+ "agencies": [
+  [
+   "Energy Department",
+   1
+  ],
+  [
+   "Nuclear Regulatory Commission",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2024": 1,
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2024-05-24",
+ "last": "2025-08-25",
+ "latest": [
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2025-08-25",
+   "k": "Rule",
+   "n": "2025-16235",
+   "t": "Implementing Voluntary Agreements Under the Defense Production Act",
+   "u": "https://www.federalregister.gov/documents/2025/08/25/2025-16235/implementing-voluntary-agreements-under-the-defense-production-act"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2024-05-24",
+   "k": "Notice",
+   "n": "2024-11164",
+   "t": "Effect of Statutory Prohibition on Uranium Imports From the Russian Federation",
+   "u": "https://www.federalregister.gov/documents/2024/05/24/2024-11164/effect-of-statutory-prohibition-on-uranium-imports-from-the-russian-federation"
+  }
+ ],
+ "law": "118-62",
+ "rules": [
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2025-08-25",
+   "k": "Rule",
+   "n": "2025-16235",
+   "t": "Implementing Voluntary Agreements Under the Defense Production Act",
+   "u": "https://www.federalregister.gov/documents/2025/08/25/2025-16235/implementing-voluntary-agreements-under-the-defense-production-act"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-62%22+%7C+%22Pub.+L.+118-62%22+%7C+%22P.L.+118-62%22&order=newest",
+ "term": "\"Public Law 118-62\" | \"Pub. L. 118-62\" | \"P.L. 118-62\"",
+ "total": 2
+}

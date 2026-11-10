@@ -1,0 +1,123 @@
+{
+ "agencies": [
+  [
+   "Agriculture Department",
+   3
+  ],
+  [
+   "Forest Service",
+   2
+  ],
+  [
+   "Interior Department",
+   2
+  ],
+  [
+   "Fish and Wildlife Service",
+   1
+  ],
+  [
+   "National Park Service",
+   1
+  ],
+  [
+   "Office of the Secretary",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 3,
+  "Rule": 2
+ },
+ "by_year": {
+  "2026": 5
+ },
+ "complete": true,
+ "first": "2026-03-19",
+ "last": "2026-06-18",
+ "latest": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Forest Service"
+   ],
+   "d": "2026-06-18",
+   "k": "Notice",
+   "n": "2026-12326",
+   "t": "Forest Service Manual 2300-Recreation, Wilderness, and Related Resource Management, Chapter 2350-Trail, River, and Similar Recreation Opportunities, Section 2355-Climbing Opportunities",
+   "u": "https://www.federalregister.gov/documents/2026/06/18/2026-12326/forest-service-manual-2300-recreation-wilderness-and-related-resource-management-chapter-2350-trail"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2026-06-15",
+   "k": "Notice",
+   "n": "2026-11970",
+   "t": "Wilderness Administration and Resource Stewardship; Managing Climbing Activities in Wilderness",
+   "u": "https://www.federalregister.gov/documents/2026/06/15/2026-11970/wilderness-administration-and-resource-stewardship-managing-climbing-activities-in-wilderness"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "National Park Service"
+   ],
+   "d": "2026-06-15",
+   "k": "Notice",
+   "n": "2026-11959",
+   "t": "EXPLORE Act Mandated Wilderness Climbing Guidance for National Park Service",
+   "u": "https://www.federalregister.gov/documents/2026/06/15/2026-11959/explore-act-mandated-wilderness-climbing-guidance-for-national-park-service"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-04-13",
+   "k": "Rule",
+   "n": "2026-07088",
+   "t": "Delegations of Authority",
+   "u": "https://www.federalregister.gov/documents/2026/04/13/2026-07088/delegations-of-authority"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Forest Service"
+   ],
+   "d": "2026-03-19",
+   "k": "Rule",
+   "n": "2026-05457",
+   "t": "Land Uses; Special Uses",
+   "u": "https://www.federalregister.gov/documents/2026/03/19/2026-05457/land-uses-special-uses"
+  }
+ ],
+ "law": "118-234",
+ "rules": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-04-13",
+   "k": "Rule",
+   "n": "2026-07088",
+   "t": "Delegations of Authority",
+   "u": "https://www.federalregister.gov/documents/2026/04/13/2026-07088/delegations-of-authority"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Forest Service"
+   ],
+   "d": "2026-03-19",
+   "k": "Rule",
+   "n": "2026-05457",
+   "t": "Land Uses; Special Uses",
+   "u": "https://www.federalregister.gov/documents/2026/03/19/2026-05457/land-uses-special-uses"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-234%22+%7C+%22Pub.+L.+118-234%22+%7C+%22P.L.+118-234%22&order=newest",
+ "term": "\"Public Law 118-234\" | \"Pub. L. 118-234\" | \"P.L. 118-234\"",
+ "total": 5
+}

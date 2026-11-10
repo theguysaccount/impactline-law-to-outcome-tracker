@@ -1,0 +1,334 @@
+{
+ "agencies": [
+  [
+   "Federal Communications Commission",
+   21
+  ],
+  [
+   "Energy Department",
+   4
+  ],
+  [
+   "Federal Energy Regulatory Commission",
+   4
+  ]
+ ],
+ "by_type": {
+  "Notice": 11,
+  "Proposed Rule": 8,
+  "Rule": 6
+ },
+ "by_year": {
+  "2022": 1,
+  "2023": 5,
+  "2024": 4,
+  "2025": 8,
+  "2026": 7
+ },
+ "complete": true,
+ "first": "2022-10-06",
+ "last": "2026-08-24",
+ "latest": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-24",
+   "k": "Notice",
+   "n": "2026-17193",
+   "t": "Comment Sought on Prohibiting the Importation and Marketing of Certain Covered UAS and UAS Critical Components and Equipment Listed in Section 1709 of FY2025 NDAA",
+   "u": "https://www.federalregister.gov/documents/2026/08/24/2026-17193/comment-sought-on-prohibiting-the-importation-and-marketing-of-certain-covered-uas-and-uas-critical"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16615",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16615/unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-07",
+   "k": "Proposed Rule",
+   "n": "2026-16197",
+   "t": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2026/08/07/2026-16197/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-03",
+   "k": "Notice",
+   "n": "2026-15659",
+   "t": "Seeking Comment on Prohibiting the Importation and Marketing of Certain Foreign-Produced Military-Grade Uncrewed Aircraft Systems (UAS) and UAS Critical Components for Non-U.S. Government, Including Those With Swarming Capabilities",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15659/seeking-comment-on-prohibiting-the-importation-and-marketing-of-certain-foreign-produced"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-07-30",
+   "k": "Notice",
+   "n": "2026-15418",
+   "t": "Seeking Comment on Prohibiting the Importation and Marketing of Certain Covered UAS and UAS Critical Components and Equipment Listed in Section 1709 of FY2025 NDAA.",
+   "u": "https://www.federalregister.gov/documents/2026/07/30/2026-15418/seeking-comment-on-prohibiting-the-importation-and-marketing-of-certain-covered-uas-and-uas-critical"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-05-15",
+   "k": "Rule",
+   "n": "2026-09822",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2026/05/15/2026-09822/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-05-15",
+   "k": "Proposed Rule",
+   "n": "2026-09821",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2026/05/15/2026-09821/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-12-04",
+   "k": "Proposed Rule",
+   "n": "2025-21928",
+   "t": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2025/12/04/2025-21928/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-11-25",
+   "k": "Rule",
+   "n": "2025-21001",
+   "t": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2025/11/25/2025-21001/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2025-09-23",
+   "k": "Rule",
+   "n": "2025-18394",
+   "t": "Supply Chain Risk Management Reliability Standards Revisions; Equipment and Services Produced or Provided by Certain Entities Identified as Risks to National Security",
+   "u": "https://www.federalregister.gov/documents/2025/09/23/2025-18394/supply-chain-risk-management-reliability-standards-revisions-equipment-and-services-produced-or"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-09-22",
+   "k": "Notice",
+   "n": "2025-18318",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2025",
+   "u": "https://www.federalregister.gov/documents/2025/09/22/2025-18318/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2025"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-08-07",
+   "k": "Rule",
+   "n": "2025-14970",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2025/08/07/2025-14970/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-08-05",
+   "k": "Notice",
+   "n": "2025-14734",
+   "t": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+   "u": "https://www.federalregister.gov/documents/2025/08/05/2025-14734/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-07-16",
+   "k": "Proposed Rule",
+   "n": "2025-13308",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2025/07/16/2025-13308/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-05-28",
+   "k": "Notice",
+   "n": "2025-09532",
+   "t": "Information Collection Being Reviewed by the Federal Communications Commission",
+   "u": "https://www.federalregister.gov/documents/2025/05/28/2025-09532/information-collection-being-reviewed-by-the-federal-communications-commission"
+  }
+ ],
+ "law": "117-55",
+ "rules": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-07",
+   "k": "Proposed Rule",
+   "n": "2026-16197",
+   "t": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2026/08/07/2026-16197/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-05-15",
+   "k": "Rule",
+   "n": "2026-09822",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2026/05/15/2026-09822/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-05-15",
+   "k": "Proposed Rule",
+   "n": "2026-09821",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2026/05/15/2026-09821/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-12-04",
+   "k": "Proposed Rule",
+   "n": "2025-21928",
+   "t": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2025/12/04/2025-21928/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-11-25",
+   "k": "Rule",
+   "n": "2025-21001",
+   "t": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2025/11/25/2025-21001/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2025-09-23",
+   "k": "Rule",
+   "n": "2025-18394",
+   "t": "Supply Chain Risk Management Reliability Standards Revisions; Equipment and Services Produced or Provided by Certain Entities Identified as Risks to National Security",
+   "u": "https://www.federalregister.gov/documents/2025/09/23/2025-18394/supply-chain-risk-management-reliability-standards-revisions-equipment-and-services-produced-or"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-08-07",
+   "k": "Rule",
+   "n": "2025-14970",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2025/08/07/2025-14970/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-07-16",
+   "k": "Proposed Rule",
+   "n": "2025-13308",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2025/07/16/2025-13308/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2024-10-01",
+   "k": "Proposed Rule",
+   "n": "2024-22230",
+   "t": "Supply Chain Risk Management Reliability Standards",
+   "u": "https://www.federalregister.gov/documents/2024/10/01/2024-22230/supply-chain-risk-management-reliability-standards"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-07-05",
+   "k": "Proposed Rule",
+   "n": "2024-14491",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2024/07/05/2024-14491/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2023-05-03",
+   "k": "Rule",
+   "n": "2023-08929",
+   "t": "Incentives for Advanced Cybersecurity Investment",
+   "u": "https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2023-03-08",
+   "k": "Proposed Rule",
+   "n": "2023-04608",
+   "t": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program and the Competitive Bidding Program",
+   "u": "https://www.federalregister.gov/documents/2023/03/08/2023-04608/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2023-02-06",
+   "k": "Rule",
+   "n": "2022-28263",
+   "t": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2023/02/06/2022-28263/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2022-10-06",
+   "k": "Proposed Rule",
+   "n": "2022-21003",
+   "t": "Incentives for Advanced Cybersecurity Investment; Cybersecurity Incentives",
+   "u": "https://www.federalregister.gov/documents/2022/10/06/2022-21003/incentives-for-advanced-cybersecurity-investment-cybersecurity-incentives"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-55%22+%7C+%22Pub.+L.+117-55%22+%7C+%22P.L.+117-55%22&order=newest",
+ "term": "\"Public Law 117-55\" | \"Pub. L. 117-55\" | \"P.L. 117-55\"",
+ "total": 25
+}

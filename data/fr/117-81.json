@@ -1,0 +1,396 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   39
+  ],
+  [
+   "Defense Acquisition Regulations System",
+   25
+  ],
+  [
+   "Transportation Department",
+   8
+  ],
+  [
+   "Small Business Administration",
+   8
+  ],
+  [
+   "General Services Administration",
+   8
+  ],
+  [
+   "National Aeronautics and Space Administration",
+   8
+  ],
+  [
+   "Federal Transit Administration",
+   5
+  ],
+  [
+   "Executive Office of the President",
+   5
+  ],
+  [
+   "Personnel Management Office",
+   4
+  ],
+  [
+   "Treasury Department",
+   3
+  ],
+  [
+   "Financial Crimes Enforcement Network",
+   3
+  ],
+  [
+   "Maritime Administration",
+   3
+  ]
+ ],
+ "by_type": {
+  "Notice": 19,
+  "Presidential Document": 5,
+  "Proposed Rule": 19,
+  "Rule": 36
+ },
+ "by_year": {
+  "2022": 19,
+  "2023": 31,
+  "2024": 21,
+  "2025": 4,
+  "2026": 4
+ },
+ "complete": true,
+ "first": "2022-01-26",
+ "last": "2026-10-05",
+ "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-10-05",
+   "k": "Proposed Rule",
+   "n": "2026-20371",
+   "t": "Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents",
+   "u": "https://www.federalregister.gov/documents/2026/10/05/2026-20371/proposal-of-special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-07-02",
+   "k": "Proposed Rule",
+   "n": "2026-13375",
+   "t": "Defense Federal Acquisition Regulation Supplement: Modifications to Printed Circuit Board Acquisition Restrictions (DFARS Case 2022-D011)",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13375/defense-federal-acquisition-regulation-supplement-modifications-to-printed-circuit-board-acquisition"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-06-23",
+   "k": "Rule",
+   "n": "2026-12547",
+   "t": "Tanker Security Program",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12547/tanker-security-program"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-02-06",
+   "k": "Rule",
+   "n": "2026-02375",
+   "t": "Improving Performance, Accountability and Responsiveness in the Civil Service",
+   "u": "https://www.federalregister.gov/documents/2026/02/06/2026-02375/improving-performance-accountability-and-responsiveness-in-the-civil-service"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2025-06-16",
+   "k": "Notice",
+   "n": "2025-11002",
+   "t": "Unified Facilities Criteria Revision Impacting Variable Refrigerant Flow Systems",
+   "u": "https://www.federalregister.gov/documents/2025/06/16/2025-11002/unified-facilities-criteria-revision-impacting-variable-refrigerant-flow-systems"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2025-05-07",
+   "k": "Notice",
+   "n": "2025-07966",
+   "t": "Notice of Charter Renewal for the U.S. Advisory Commission on Public Diplomacy",
+   "u": "https://www.federalregister.gov/documents/2025/05/07/2025-07966/notice-of-charter-renewal-for-the-us-advisory-commission-on-public-diplomacy"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2025-04-23",
+   "k": "Proposed Rule",
+   "n": "2025-06904",
+   "t": "Improving Performance, Accountability and Responsiveness in the Civil Service",
+   "u": "https://www.federalregister.gov/documents/2025/04/23/2025-06904/improving-performance-accountability-and-responsiveness-in-the-civil-service"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2025-01-03",
+   "k": "Rule",
+   "n": "2024-30636",
+   "t": "Update and Relocation of the Department of Energy Technology Investment Agreement Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/01/03/2024-30636/update-and-relocation-of-the-department-of-energy-technology-investment-agreement-regulations"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2024-12-17",
+   "k": "Rule",
+   "n": "2024-29393",
+   "t": "HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs",
+   "u": "https://www.federalregister.gov/documents/2024/12/17/2024-29393/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "General Services Administration",
+    "National Aeronautics and Space Administration"
+   ],
+   "d": "2024-12-16",
+   "k": "Rule",
+   "n": "2024-29374",
+   "t": "Federal Acquisition Regulation: Certification of Service-Disabled Veteran-Owned Small Businesses",
+   "u": "https://www.federalregister.gov/documents/2024/12/16/2024-29374/federal-acquisition-regulation-certification-of-service-disabled-veteran-owned-small-businesses"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2024-12-04",
+   "k": "Rule",
+   "n": "2024-28200",
+   "t": "Women-Owned Small Business Federal Contract Program Updates and Clarifications",
+   "u": "https://www.federalregister.gov/documents/2024/12/04/2024-28200/women-owned-small-business-federal-contract-program-updates-and-clarifications"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-10-18",
+   "k": "Notice",
+   "n": "2024-24143",
+   "t": "Submission for OMB Review; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2024/10/18/2024-24143/submission-for-omb-review-comment-request"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2024-10-11",
+   "k": "Rule",
+   "n": "2024-23430",
+   "t": "Imposition of Special Measure Prohibiting the Transmittal of Funds Involving PM2BTC",
+   "u": "https://www.federalregister.gov/documents/2024/10/11/2024-23430/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2btc"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2024-10-10",
+   "k": "Rule",
+   "n": "2024-23226",
+   "t": "Defense Federal Acquisition Regulation Supplement: Pilot Program To Incentivize Contracting With Employee-Owned Businesses (DFARS Case 2024-D004)",
+   "u": "https://www.federalregister.gov/documents/2024/10/10/2024-23226/defense-federal-acquisition-regulation-supplement-pilot-program-to-incentivize-contracting-with"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2024-09-30",
+   "k": "Notice",
+   "n": "2024-22389",
+   "t": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 270, Defense Contracting Programs; Pilot Program To Incentivize Contracting With Employee-Owned Businesses",
+   "u": "https://www.federalregister.gov/documents/2024/09/30/2024-22389/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-270"
+  }
+ ],
+ "law": "117-81",
+ "rules": [
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-10-05",
+   "k": "Proposed Rule",
+   "n": "2026-20371",
+   "t": "Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents",
+   "u": "https://www.federalregister.gov/documents/2026/10/05/2026-20371/proposal-of-special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-07-02",
+   "k": "Proposed Rule",
+   "n": "2026-13375",
+   "t": "Defense Federal Acquisition Regulation Supplement: Modifications to Printed Circuit Board Acquisition Restrictions (DFARS Case 2022-D011)",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13375/defense-federal-acquisition-regulation-supplement-modifications-to-printed-circuit-board-acquisition"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-06-23",
+   "k": "Rule",
+   "n": "2026-12547",
+   "t": "Tanker Security Program",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12547/tanker-security-program"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-02-06",
+   "k": "Rule",
+   "n": "2026-02375",
+   "t": "Improving Performance, Accountability and Responsiveness in the Civil Service",
+   "u": "https://www.federalregister.gov/documents/2026/02/06/2026-02375/improving-performance-accountability-and-responsiveness-in-the-civil-service"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2025-04-23",
+   "k": "Proposed Rule",
+   "n": "2025-06904",
+   "t": "Improving Performance, Accountability and Responsiveness in the Civil Service",
+   "u": "https://www.federalregister.gov/documents/2025/04/23/2025-06904/improving-performance-accountability-and-responsiveness-in-the-civil-service"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2025-01-03",
+   "k": "Rule",
+   "n": "2024-30636",
+   "t": "Update and Relocation of the Department of Energy Technology Investment Agreement Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/01/03/2024-30636/update-and-relocation-of-the-department-of-energy-technology-investment-agreement-regulations"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2024-12-17",
+   "k": "Rule",
+   "n": "2024-29393",
+   "t": "HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs",
+   "u": "https://www.federalregister.gov/documents/2024/12/17/2024-29393/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "General Services Administration",
+    "National Aeronautics and Space Administration"
+   ],
+   "d": "2024-12-16",
+   "k": "Rule",
+   "n": "2024-29374",
+   "t": "Federal Acquisition Regulation: Certification of Service-Disabled Veteran-Owned Small Businesses",
+   "u": "https://www.federalregister.gov/documents/2024/12/16/2024-29374/federal-acquisition-regulation-certification-of-service-disabled-veteran-owned-small-businesses"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2024-12-04",
+   "k": "Rule",
+   "n": "2024-28200",
+   "t": "Women-Owned Small Business Federal Contract Program Updates and Clarifications",
+   "u": "https://www.federalregister.gov/documents/2024/12/04/2024-28200/women-owned-small-business-federal-contract-program-updates-and-clarifications"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2024-10-11",
+   "k": "Rule",
+   "n": "2024-23430",
+   "t": "Imposition of Special Measure Prohibiting the Transmittal of Funds Involving PM2BTC",
+   "u": "https://www.federalregister.gov/documents/2024/10/11/2024-23430/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2btc"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2024-10-10",
+   "k": "Rule",
+   "n": "2024-23226",
+   "t": "Defense Federal Acquisition Regulation Supplement: Pilot Program To Incentivize Contracting With Employee-Owned Businesses (DFARS Case 2024-D004)",
+   "u": "https://www.federalregister.gov/documents/2024/10/10/2024-23226/defense-federal-acquisition-regulation-supplement-pilot-program-to-incentivize-contracting-with"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2024-09-26",
+   "k": "Proposed Rule",
+   "n": "2024-21098",
+   "t": "Defense Federal Acquisition Regulation Supplement: DoD Cost or Pricing Data Requirements (DFARS Case 2022-D004)",
+   "u": "https://www.federalregister.gov/documents/2024/09/26/2024-21098/defense-federal-acquisition-regulation-supplement-dod-cost-or-pricing-data-requirements-dfars-case"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2024-09-26",
+   "k": "Rule",
+   "n": "2024-21094",
+   "t": "Defense Federal Acquisition Regulation Supplement: Modification of Prize Authority for Advanced Technology Achievements (DFARS Case 2022-D014)",
+   "u": "https://www.federalregister.gov/documents/2024/09/26/2024-21094/defense-federal-acquisition-regulation-supplement-modification-of-prize-authority-for-advanced"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2024-09-26",
+   "k": "Rule",
+   "n": "2024-21093",
+   "t": "Defense Federal Acquisition Regulation Supplement: Assuring Integrity of Overseas Fuel Supplies (DFARS Case 2022-D013)",
+   "u": "https://www.federalregister.gov/documents/2024/09/26/2024-21093/defense-federal-acquisition-regulation-supplement-assuring-integrity-of-overseas-fuel-supplies-dfars"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2024-08-23",
+   "k": "Proposed Rule",
+   "n": "2024-18325",
+   "t": "HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs",
+   "u": "https://www.federalregister.gov/documents/2024/08/23/2024-18325/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-81%22+%7C+%22Pub.+L.+117-81%22+%7C+%22P.L.+117-81%22&order=newest",
+ "term": "\"Public Law 117-81\" | \"Pub. L. 117-81\" | \"P.L. 117-81\"",
+ "total": 79
+}

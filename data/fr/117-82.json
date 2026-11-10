@@ -1,0 +1,54 @@
+{
+ "agencies": [
+  [
+   "Management and Budget Office",
+   1
+  ],
+  [
+   "Defense Department",
+   1
+  ],
+  [
+   "Office of the Secretary",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2022": 1,
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2022-12-16",
+ "last": "2023-01-30",
+ "latest": [
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-01-30",
+   "k": "Notice",
+   "n": "2023-01771",
+   "t": "Notice; 2022 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2023/01/30/2023-01771/notice-2022-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2022-12-16",
+   "k": "Notice",
+   "n": "2022-27145",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2022/12/16/2022-27145/privacy-act-of-1974-system-of-records"
+  }
+ ],
+ "law": "117-82",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-82%22+%7C+%22Pub.+L.+117-82%22+%7C+%22P.L.+117-82%22&order=newest",
+ "term": "\"Public Law 117-82\" | \"Pub. L. 117-82\" | \"P.L. 117-82\"",
+ "total": 2
+}

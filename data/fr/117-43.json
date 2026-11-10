@@ -1,0 +1,403 @@
+{
+ "agencies": [
+  [
+   "Agriculture Department",
+   24
+  ],
+  [
+   "Housing and Urban Development Department",
+   20
+  ],
+  [
+   "Farm Service Agency",
+   16
+  ],
+  [
+   "Homeland Security Department",
+   15
+  ],
+  [
+   "Health and Human Services Department",
+   7
+  ],
+  [
+   "Labor Department",
+   6
+  ],
+  [
+   "Employment and Training Administration",
+   6
+  ],
+  [
+   "Children and Families Administration",
+   5
+  ],
+  [
+   "Office of the Secretary",
+   4
+  ],
+  [
+   "Food and Nutrition Service",
+   4
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   2
+  ],
+  [
+   "Commodity Credit Corporation",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 38,
+  "Proposed Rule": 6,
+  "Rule": 24
+ },
+ "by_year": {
+  "2022": 24,
+  "2023": 17,
+  "2024": 6,
+  "2025": 13,
+  "2026": 8
+ },
+ "complete": true,
+ "first": "2022-01-26",
+ "last": "2026-10-27",
+ "latest": [
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Notice",
+   "n": "2026-21886",
+   "t": "Notice of Regulatory Waiver Requests Granted for the First Quarter of Calendar Year 2026",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21886/notice-of-regulatory-waiver-requests-granted-for-the-first-quarter-of-calendar-year-2026"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16661",
+   "t": "Notice; Emergency Relief Program 2022 (ERP 2022)",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16661/notice-emergency-relief-program-2022-erp-2022"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-07-06",
+   "k": "Notice",
+   "n": "2026-13539",
+   "t": "Notice of Regulatory Waiver Requests Granted for the Fourth Quarter of Calendar Year 2025",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13539/notice-of-regulatory-waiver-requests-granted-for-the-fourth-quarter-of-calendar-year-2025"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-07-06",
+   "k": "Notice",
+   "n": "2026-13537",
+   "t": "Notice of Regulatory Waiver Requests Granted for the Third Quarter of Calendar Year 2025",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13537/notice-of-regulatory-waiver-requests-granted-for-the-third-quarter-of-calendar-year-2025"
+  },
+  {
+   "a": [
+    "Agriculture Department"
+   ],
+   "d": "2026-03-18",
+   "k": "Notice",
+   "n": "2026-05248",
+   "t": "Submission for OMB Review; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2026/03/18/2026-05248/submission-for-omb-review-comment-request"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency",
+    "Commodity Credit Corporation"
+   ],
+   "d": "2026-03-09",
+   "k": "Rule",
+   "n": "2026-04531",
+   "t": "Supplemental Disaster Relief Program and Dairy Margin Coverage Program; Correction",
+   "u": "https://www.federalregister.gov/documents/2026/03/09/2026-04531/supplemental-disaster-relief-program-and-dairy-margin-coverage-program-correction"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2026-02-03",
+   "k": "Rule",
+   "n": "2026-02131",
+   "t": "Exercise of Time-Limited Authority To Increase the Fiscal Year 2026 Numerical Limitation for the H-2B Temporary Nonagricultural Worker Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/03/2026-02131/exercise-of-time-limited-authority-to-increase-the-fiscal-year-2026-numerical-limitation-for-the"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-01-29",
+   "k": "Notice",
+   "n": "2026-01781",
+   "t": "Notice of Regulatory Waiver Requests Granted for the Second Quarter of Calendar Year 2025",
+   "u": "https://www.federalregister.gov/documents/2026/01/29/2026-01781/notice-of-regulatory-waiver-requests-granted-for-the-second-quarter-of-calendar-year-2025"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-12-05",
+   "k": "Notice",
+   "n": "2025-21992",
+   "t": "Information Collection Request; Emergency Relief Program (ERP) Phase 1 and Phase 2",
+   "u": "https://www.federalregister.gov/documents/2025/12/05/2025-21992/information-collection-request-emergency-relief-program-erp-phase-1-and-phase-2"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-11-19",
+   "k": "Proposed Rule",
+   "n": "2025-20278",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-11-18",
+   "k": "Rule",
+   "n": "2025-20132",
+   "t": "Agricultural Disaster Indemnity Programs",
+   "u": "https://www.federalregister.gov/documents/2025/11/18/2025-20132/agricultural-disaster-indemnity-programs"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Southeastern Power Administration"
+   ],
+   "d": "2025-09-16",
+   "k": "Notice",
+   "n": "2025-17843",
+   "t": "Notice of Interim Approval of Rate Schedules for Cumberland System of Projects",
+   "u": "https://www.federalregister.gov/documents/2025/09/16/2025-17843/notice-of-interim-approval-of-rate-schedules-for-cumberland-system-of-projects"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-09-15",
+   "k": "Rule",
+   "n": "2025-17742",
+   "t": "Emergency Livestock Relief Programs",
+   "u": "https://www.federalregister.gov/documents/2025/09/15/2025-17742/emergency-livestock-relief-programs"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2025-08-05",
+   "k": "Notice",
+   "n": "2025-14742",
+   "t": "Waivers and Alternative Requirements for Community Development Block Grant Disaster Recovery (CDBG-DR) and Community Development Block Grant Mitigation (CDBG-MIT) Grantees",
+   "u": "https://www.federalregister.gov/documents/2025/08/05/2025-14742/waivers-and-alternative-requirements-for-community-development-block-grant-disaster-recovery-cdbg-dr"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary",
+    "Federal Crop Insurance Corporation"
+   ],
+   "d": "2025-07-10",
+   "k": "Rule",
+   "n": "2025-12877",
+   "t": "Removal of Unconstitutional Preferences Based on Race and Sex in Response to Court Ruling",
+   "u": "https://www.federalregister.gov/documents/2025/07/10/2025-12877/removal-of-unconstitutional-preferences-based-on-race-and-sex-in-response-to-court-ruling"
+  }
+ ],
+ "law": "117-43",
+ "rules": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency",
+    "Commodity Credit Corporation"
+   ],
+   "d": "2026-03-09",
+   "k": "Rule",
+   "n": "2026-04531",
+   "t": "Supplemental Disaster Relief Program and Dairy Margin Coverage Program; Correction",
+   "u": "https://www.federalregister.gov/documents/2026/03/09/2026-04531/supplemental-disaster-relief-program-and-dairy-margin-coverage-program-correction"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2026-02-03",
+   "k": "Rule",
+   "n": "2026-02131",
+   "t": "Exercise of Time-Limited Authority To Increase the Fiscal Year 2026 Numerical Limitation for the H-2B Temporary Nonagricultural Worker Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/03/2026-02131/exercise-of-time-limited-authority-to-increase-the-fiscal-year-2026-numerical-limitation-for-the"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-11-19",
+   "k": "Proposed Rule",
+   "n": "2025-20278",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-11-18",
+   "k": "Rule",
+   "n": "2025-20132",
+   "t": "Agricultural Disaster Indemnity Programs",
+   "u": "https://www.federalregister.gov/documents/2025/11/18/2025-20132/agricultural-disaster-indemnity-programs"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-09-15",
+   "k": "Rule",
+   "n": "2025-17742",
+   "t": "Emergency Livestock Relief Programs",
+   "u": "https://www.federalregister.gov/documents/2025/09/15/2025-17742/emergency-livestock-relief-programs"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary",
+    "Federal Crop Insurance Corporation"
+   ],
+   "d": "2025-07-10",
+   "k": "Rule",
+   "n": "2025-12877",
+   "t": "Removal of Unconstitutional Preferences Based on Race and Sex in Response to Court Ruling",
+   "u": "https://www.federalregister.gov/documents/2025/07/10/2025-12877/removal-of-unconstitutional-preferences-based-on-race-and-sex-in-response-to-court-ruling"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-07-10",
+   "k": "Rule",
+   "n": "2025-12803",
+   "t": "Supplemental Disaster Relief Program (SDRP) Stage 1",
+   "u": "https://www.federalregister.gov/documents/2025/07/10/2025-12803/supplemental-disaster-relief-program-sdrp-stage-1"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-06-18",
+   "k": "Rule",
+   "n": "2025-11204",
+   "t": "Removal of Obsolete Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/06/18/2025-11204/removal-of-obsolete-regulations"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-05-29",
+   "k": "Rule",
+   "n": "2025-09617",
+   "t": "Removal of Obsolete Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/05/29/2025-09617/removal-of-obsolete-regulations"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-05-29",
+   "k": "Rule",
+   "n": "2025-09581",
+   "t": "Emergency Livestock Relief Program (ELRP) 2023 and 2024",
+   "u": "https://www.federalregister.gov/documents/2025/05/29/2025-09581/emergency-livestock-relief-program-elrp-2023-and-2024"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-05-13",
+   "k": "Rule",
+   "n": "2025-08298",
+   "t": "Removal of Obsolete Crop Assistance Program Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/05/13/2025-08298/removal-of-obsolete-crop-assistance-program-regulations"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29353",
+   "t": "Modernizing H-2 Program Requirements, Oversight, and Worker Protections",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2024-12-02",
+   "k": "Rule",
+   "n": "2024-28017",
+   "t": "Exercise of Time-Limited Authority To Increase the Numerical Limitation for FY 2025 for the H-2B Temporary Nonagricultural Worker Program and Portability Flexibility for H-2B Workers Seeking To Change Employers",
+   "u": "https://www.federalregister.gov/documents/2024/12/02/2024-28017/exercise-of-time-limited-authority-to-increase-the-numerical-limitation-for-fy-2025-for-the-h-2b"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2024-05-08",
+   "k": "Rule",
+   "n": "2024-09661",
+   "t": "Clarifying the Eligibility of Deferred Action for Childhood Arrivals (DACA) Recipients and Certain Other Noncitizens for a Qualified Health Plan through an Exchange, Advance Payments of the Premium Tax Credit, Cost-Sharing Reductions, and a Basic Health Program",
+   "u": "https://www.federalregister.gov/documents/2024/05/08/2024-09661/clarifying-the-eligibility-of-deferred-action-for-childhood-arrivals-daca-recipients-and-certain"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-01-31",
+   "k": "Rule",
+   "n": "2024-01427",
+   "t": "U.S. Citizenship and Immigration Services Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements",
+   "u": "https://www.federalregister.gov/documents/2024/01/31/2024-01427/us-citizenship-and-immigration-services-fee-schedule-and-changes-to-certain-other-immigration"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-43%22+%7C+%22Pub.+L.+117-43%22+%7C+%22P.L.+117-43%22&order=newest",
+ "term": "\"Public Law 117-43\" | \"Pub. L. 117-43\" | \"P.L. 117-43\"",
+ "total": 68
+}

@@ -1,0 +1,74 @@
+{
+ "agencies": [
+  [
+   "Commerce Department",
+   4
+  ],
+  [
+   "National Oceanic and Atmospheric Administration",
+   4
+  ]
+ ],
+ "by_type": {
+  "Notice": 4
+ },
+ "by_year": {
+  "2022": 1,
+  "2024": 1,
+  "2025": 2
+ },
+ "complete": true,
+ "first": "2022-08-10",
+ "last": "2025-06-16",
+ "latest": [
+  {
+   "a": [
+    "Commerce Department",
+    "National Oceanic and Atmospheric Administration"
+   ],
+   "d": "2025-06-16",
+   "k": "Notice",
+   "n": "2025-10923",
+   "t": "Applications for Membership to the American Fisheries Advisory Committee",
+   "u": "https://www.federalregister.gov/documents/2025/06/16/2025-10923/applications-for-membership-to-the-american-fisheries-advisory-committee"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "National Oceanic and Atmospheric Administration"
+   ],
+   "d": "2025-05-06",
+   "k": "Notice",
+   "n": "2025-07840",
+   "t": "Applications for Membership to the American Fisheries Advisory Committee",
+   "u": "https://www.federalregister.gov/documents/2025/05/06/2025-07840/applications-for-membership-to-the-american-fisheries-advisory-committee"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "National Oceanic and Atmospheric Administration"
+   ],
+   "d": "2024-05-07",
+   "k": "Notice",
+   "n": "2024-09878",
+   "t": "Applications for Membership to the American Fisheries Advisory Committee",
+   "u": "https://www.federalregister.gov/documents/2024/05/07/2024-09878/applications-for-membership-to-the-american-fisheries-advisory-committee"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "National Oceanic and Atmospheric Administration"
+   ],
+   "d": "2022-08-10",
+   "k": "Notice",
+   "n": "2022-17162",
+   "t": "Nominations to the American Fisheries Advisory Committee",
+   "u": "https://www.federalregister.gov/documents/2022/08/10/2022-17162/nominations-to-the-american-fisheries-advisory-committee"
+  }
+ ],
+ "law": "117-121",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-121%22+%7C+%22Pub.+L.+117-121%22+%7C+%22P.L.+117-121%22&order=newest",
+ "term": "\"Public Law 117-121\" | \"Pub. L. 117-121\" | \"P.L. 117-121\"",
+ "total": 4
+}

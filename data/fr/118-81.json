@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Land Management Bureau",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-06-24",
+ "last": "2026-06-24",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Land Management Bureau"
+   ],
+   "d": "2026-06-24",
+   "k": "Proposed Rule",
+   "n": "2026-12734",
+   "t": "Oil and Gas Leasing",
+   "u": "https://www.federalregister.gov/documents/2026/06/24/2026-12734/oil-and-gas-leasing"
+  }
+ ],
+ "law": "118-81",
+ "rules": [
+  {
+   "a": [
+    "Interior Department",
+    "Land Management Bureau"
+   ],
+   "d": "2026-06-24",
+   "k": "Proposed Rule",
+   "n": "2026-12734",
+   "t": "Oil and Gas Leasing",
+   "u": "https://www.federalregister.gov/documents/2026/06/24/2026-12734/oil-and-gas-leasing"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-81%22+%7C+%22Pub.+L.+118-81%22+%7C+%22P.L.+118-81%22&order=newest",
+ "term": "\"Public Law 118-81\" | \"Pub. L. 118-81\" | \"P.L. 118-81\"",
+ "total": 1
+}

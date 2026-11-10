@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2023-07-28",
+ "last": "2023-07-28",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-07-28",
+   "k": "Notice",
+   "n": "2023-15928",
+   "t": "Implementation of the Dr. Kate Hendricks Thomas Supporting Expanded Review for Veterans in Combat Environments (SERVICE) Act",
+   "u": "https://www.federalregister.gov/documents/2023/07/28/2023-15928/implementation-of-the-dr-kate-hendricks-thomas-supporting-expanded-review-for-veterans-in-combat"
+  }
+ ],
+ "law": "117-133",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-133%22+%7C+%22Pub.+L.+117-133%22+%7C+%22P.L.+117-133%22&order=newest",
+ "term": "\"Public Law 117-133\" | \"Pub. L. 117-133\" | \"P.L. 117-133\"",
+ "total": 1
+}

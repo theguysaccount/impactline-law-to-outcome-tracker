@@ -1,0 +1,77 @@
+{
+ "agencies": [
+  [
+   "Environmental Protection Agency",
+   1
+  ],
+  [
+   "Transportation Department",
+   1
+  ],
+  [
+   "Pipeline and Hazardous Materials Safety Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-05-18",
+ "last": "2024-03-08",
+ "latest": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2024-03-08",
+   "k": "Rule",
+   "n": "2024-00366",
+   "t": "Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "u": "https://www.federalregister.gov/documents/2024/03/08/2024-00366/standards-of-performance-for-new-reconstructed-and-modified-sources-and-emissions-guidelines-for"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Pipeline and Hazardous Materials Safety Administration"
+   ],
+   "d": "2023-05-18",
+   "k": "Proposed Rule",
+   "n": "2023-09918",
+   "t": "Pipeline Safety: Gas Pipeline Leak Detection and Repair",
+   "u": "https://www.federalregister.gov/documents/2023/05/18/2023-09918/pipeline-safety-gas-pipeline-leak-detection-and-repair"
+  }
+ ],
+ "law": "117-23",
+ "rules": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2024-03-08",
+   "k": "Rule",
+   "n": "2024-00366",
+   "t": "Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "u": "https://www.federalregister.gov/documents/2024/03/08/2024-00366/standards-of-performance-for-new-reconstructed-and-modified-sources-and-emissions-guidelines-for"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Pipeline and Hazardous Materials Safety Administration"
+   ],
+   "d": "2023-05-18",
+   "k": "Proposed Rule",
+   "n": "2023-09918",
+   "t": "Pipeline Safety: Gas Pipeline Leak Detection and Repair",
+   "u": "https://www.federalregister.gov/documents/2023/05/18/2023-09918/pipeline-safety-gas-pipeline-leak-detection-and-repair"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-23%22+%7C+%22Pub.+L.+117-23%22+%7C+%22P.L.+117-23%22&order=newest",
+ "term": "\"Public Law 117-23\" | \"Pub. L. 117-23\" | \"P.L. 117-23\"",
+ "total": 2
+}

@@ -1,0 +1,355 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   14
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   14
+  ],
+  [
+   "Office of the Secretary",
+   5
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 7,
+  "Rule": 7
+ },
+ "by_year": {
+  "2022": 4,
+  "2023": 6,
+  "2024": 2,
+  "2025": 2
+ },
+ "complete": true,
+ "first": "2022-07-26",
+ "last": "2025-11-25",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-11-25",
+   "k": "Rule",
+   "n": "2025-20907",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Overall Hospital Quality Star Rating; Hospital Price Transparency; and Notice of Closure of a Teaching Hospital and Opportunity To Apply for Available Slots",
+   "u": "https://www.federalregister.gov/documents/2025/11/25/2025-20907/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-07-17",
+   "k": "Proposed Rule",
+   "n": "2025-13360",
+   "t": "Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Overall Hospital Quality Star Ratings; and Hospital Price Transparency",
+   "u": "https://www.federalregister.gov/documents/2025/07/17/2025-13360/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-11-27",
+   "k": "Rule",
+   "n": "2024-25521",
+   "t": "Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs, Including the Hospital Inpatient Quality Reporting Program; Health and Safety Standards for Obstetrical Services in Hospitals and Critical Access Hospit",
+   "u": "https://www.federalregister.gov/documents/2024/11/27/2024-25521/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2024-07-22",
+   "k": "Proposed Rule",
+   "n": "2024-15087",
+   "t": "Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs, Including the Hospital Inpatient Quality Reporting Program; Health and Safety Standards for Obstetrical Services in Hospitals and Critical Access Hospit",
+   "u": "https://www.federalregister.gov/documents/2024/07/22/2024-15087/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2023-11-22",
+   "k": "Rule",
+   "n": "2023-24293",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Payment for Intensive Outpatient Services in Hospital Outpatient Departments, Community Mental Health Centers, Rural Health Clinics, Federally Qualified Health Center",
+   "u": "https://www.federalregister.gov/documents/2023/11/22/2023-24293/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-11-16",
+   "k": "Rule",
+   "n": "2023-24184",
+   "t": "Medicare and Medicaid Programs; CY 2024 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; Medicare Advantage; Medicare and Medicaid Provider and Supplier Enrollment Policies; and Basic Health Pro",
+   "u": "https://www.federalregister.gov/documents/2023/11/16/2023-24184/medicare-and-medicaid-programs-cy-2024-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-11-06",
+   "k": "Rule",
+   "n": "2023-23915",
+   "t": "Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, and End-Stage Renal Disease Treatment Choices Model",
+   "u": "https://www.federalregister.gov/documents/2023/11/06/2023-23915/medicare-program-end-stage-renal-disease-prospective-payment-system-payment-for-renal-dialysis"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-08-07",
+   "k": "Proposed Rule",
+   "n": "2023-14624",
+   "t": "Medicare and Medicaid Programs; CY 2024 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; Medicare Advantage; Medicare and Medicaid Provider and Supplier Enrollment Policies; and Basic Health Pro",
+   "u": "https://www.federalregister.gov/documents/2023/08/07/2023-14624/medicare-and-medicaid-programs-cy-2024-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2023-07-31",
+   "k": "Proposed Rule",
+   "n": "2023-14768",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Payment for Intensive Outpatient Services in Rural Health Clinics, Federally Qualified Health Centers, and Opioid Treatment Programs; Hospital Price Transparency; Cha",
+   "u": "https://www.federalregister.gov/documents/2023/07/31/2023-14768/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-06-30",
+   "k": "Proposed Rule",
+   "n": "2023-13748",
+   "t": "Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, and End-Stage Renal Disease Treatment Choices Model",
+   "u": "https://www.federalregister.gov/documents/2023/06/30/2023-13748/medicare-program-end-stage-renal-disease-prospective-payment-system-payment-for-renal-dialysis"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-11-23",
+   "k": "Rule",
+   "n": "2022-23918",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Organ Acquisition; Rural Emergency Hospitals: Payment Policies, Conditions of Participation, Provider Enrollment, Physician Self-Referral; New Service Category for",
+   "u": "https://www.federalregister.gov/documents/2022/11/23/2022-23918/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-11-18",
+   "k": "Rule",
+   "n": "2022-23873",
+   "t": "Medicare and Medicaid Programs; CY 2023 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; Implementing Requirements for Manufacturers of Certain Single-dose Container or Single-use Package Drugs ",
+   "u": "https://www.federalregister.gov/documents/2022/11/18/2022-23873/medicare-and-medicaid-programs-cy-2023-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-07-29",
+   "k": "Proposed Rule",
+   "n": "2022-14562",
+   "t": "Medicare and Medicaid Programs; CY 2023 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; Medicare and Medicaid Provider Enrollment Policies, Including for Skilled Nursing Facilities; Conditions of Payment fo",
+   "u": "https://www.federalregister.gov/documents/2022/07/29/2022-14562/medicare-and-medicaid-programs-cy-2023-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-07-26",
+   "k": "Proposed Rule",
+   "n": "2022-15372",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Organ Acquisition; Rural Emergency Hospitals: Payment Policies, Conditions of Participation, Provider Enrollment, Physician Self-Referral; New Service Category for",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15372/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  }
+ ],
+ "law": "117-9",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-11-25",
+   "k": "Rule",
+   "n": "2025-20907",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Overall Hospital Quality Star Rating; Hospital Price Transparency; and Notice of Closure of a Teaching Hospital and Opportunity To Apply for Available Slots",
+   "u": "https://www.federalregister.gov/documents/2025/11/25/2025-20907/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-07-17",
+   "k": "Proposed Rule",
+   "n": "2025-13360",
+   "t": "Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Overall Hospital Quality Star Ratings; and Hospital Price Transparency",
+   "u": "https://www.federalregister.gov/documents/2025/07/17/2025-13360/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-11-27",
+   "k": "Rule",
+   "n": "2024-25521",
+   "t": "Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs, Including the Hospital Inpatient Quality Reporting Program; Health and Safety Standards for Obstetrical Services in Hospitals and Critical Access Hospit",
+   "u": "https://www.federalregister.gov/documents/2024/11/27/2024-25521/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2024-07-22",
+   "k": "Proposed Rule",
+   "n": "2024-15087",
+   "t": "Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs, Including the Hospital Inpatient Quality Reporting Program; Health and Safety Standards for Obstetrical Services in Hospitals and Critical Access Hospit",
+   "u": "https://www.federalregister.gov/documents/2024/07/22/2024-15087/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2023-11-22",
+   "k": "Rule",
+   "n": "2023-24293",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Payment for Intensive Outpatient Services in Hospital Outpatient Departments, Community Mental Health Centers, Rural Health Clinics, Federally Qualified Health Center",
+   "u": "https://www.federalregister.gov/documents/2023/11/22/2023-24293/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-11-16",
+   "k": "Rule",
+   "n": "2023-24184",
+   "t": "Medicare and Medicaid Programs; CY 2024 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; Medicare Advantage; Medicare and Medicaid Provider and Supplier Enrollment Policies; and Basic Health Pro",
+   "u": "https://www.federalregister.gov/documents/2023/11/16/2023-24184/medicare-and-medicaid-programs-cy-2024-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-11-06",
+   "k": "Rule",
+   "n": "2023-23915",
+   "t": "Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, and End-Stage Renal Disease Treatment Choices Model",
+   "u": "https://www.federalregister.gov/documents/2023/11/06/2023-23915/medicare-program-end-stage-renal-disease-prospective-payment-system-payment-for-renal-dialysis"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-08-07",
+   "k": "Proposed Rule",
+   "n": "2023-14624",
+   "t": "Medicare and Medicaid Programs; CY 2024 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; Medicare Advantage; Medicare and Medicaid Provider and Supplier Enrollment Policies; and Basic Health Pro",
+   "u": "https://www.federalregister.gov/documents/2023/08/07/2023-14624/medicare-and-medicaid-programs-cy-2024-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2023-07-31",
+   "k": "Proposed Rule",
+   "n": "2023-14768",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Payment for Intensive Outpatient Services in Rural Health Clinics, Federally Qualified Health Centers, and Opioid Treatment Programs; Hospital Price Transparency; Cha",
+   "u": "https://www.federalregister.gov/documents/2023/07/31/2023-14768/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-06-30",
+   "k": "Proposed Rule",
+   "n": "2023-13748",
+   "t": "Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, and End-Stage Renal Disease Treatment Choices Model",
+   "u": "https://www.federalregister.gov/documents/2023/06/30/2023-13748/medicare-program-end-stage-renal-disease-prospective-payment-system-payment-for-renal-dialysis"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-11-23",
+   "k": "Rule",
+   "n": "2022-23918",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Organ Acquisition; Rural Emergency Hospitals: Payment Policies, Conditions of Participation, Provider Enrollment, Physician Self-Referral; New Service Category for",
+   "u": "https://www.federalregister.gov/documents/2022/11/23/2022-23918/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-11-18",
+   "k": "Rule",
+   "n": "2022-23873",
+   "t": "Medicare and Medicaid Programs; CY 2023 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; Implementing Requirements for Manufacturers of Certain Single-dose Container or Single-use Package Drugs ",
+   "u": "https://www.federalregister.gov/documents/2022/11/18/2022-23873/medicare-and-medicaid-programs-cy-2023-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-07-29",
+   "k": "Proposed Rule",
+   "n": "2022-14562",
+   "t": "Medicare and Medicaid Programs; CY 2023 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; Medicare and Medicaid Provider Enrollment Policies, Including for Skilled Nursing Facilities; Conditions of Payment fo",
+   "u": "https://www.federalregister.gov/documents/2022/07/29/2022-14562/medicare-and-medicaid-programs-cy-2023-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-07-26",
+   "k": "Proposed Rule",
+   "n": "2022-15372",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Organ Acquisition; Rural Emergency Hospitals: Payment Policies, Conditions of Participation, Provider Enrollment, Physician Self-Referral; New Service Category for",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15372/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-9%22+%7C+%22Pub.+L.+117-9%22+%7C+%22P.L.+117-9%22&order=newest",
+ "term": "\"Public Law 117-9\" | \"Pub. L. 117-9\" | \"P.L. 117-9\"",
+ "total": 14
+}

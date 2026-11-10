@@ -1,0 +1,96 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   6
+  ],
+  [
+   "Health Resources and Services Administration",
+   6
+  ]
+ ],
+ "by_type": {
+  "Notice": 6
+ },
+ "by_year": {
+  "2022": 2,
+  "2023": 2,
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2022-03-18",
+ "last": "2026-09-29",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-09-29",
+   "k": "Notice",
+   "n": "2026-19883",
+   "t": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; National Marrow Donor Program Patient Support Center Survey",
+   "u": "https://www.federalregister.gov/documents/2026/09/29/2026-19883/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-07-01",
+   "k": "Notice",
+   "n": "2026-13221",
+   "t": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: National Marrow Donor Program Patient Support Center Survey",
+   "u": "https://www.federalregister.gov/documents/2026/07/01/2026-13221/agency-information-collection-activities-proposed-collection-public-comment-request-information"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2023-06-14",
+   "k": "Notice",
+   "n": "2023-12666",
+   "t": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Be The Match® Patient Support Center Survey-Revision",
+   "u": "https://www.federalregister.gov/documents/2023/06/14/2023-12666/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2023-03-02",
+   "k": "Notice",
+   "n": "2023-04235",
+   "t": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Be The Match® Patient Support Center Survey",
+   "u": "https://www.federalregister.gov/documents/2023/03/02/2023-04235/agency-information-collection-activities-proposed-collection-public-comment-request-information"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2022-06-07",
+   "k": "Notice",
+   "n": "2022-12225",
+   "t": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; The Stem Cell Therapeutic Outcomes Database OMB No. 0915-0310-Revision",
+   "u": "https://www.federalregister.gov/documents/2022/06/07/2022-12225/agency-information-collection-activities-proposed-collection-public-comment-request-the-stem-cell"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2022-03-18",
+   "k": "Notice",
+   "n": "2022-05718",
+   "t": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; The Stem Cell Therapeutic Outcomes Database OMB No. 0915-0310-Revision",
+   "u": "https://www.federalregister.gov/documents/2022/03/18/2022-05718/agency-information-collection-activities-proposed-collection-public-comment-request-the-stem-cell"
+  }
+ ],
+ "law": "117-15",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-15%22+%7C+%22Pub.+L.+117-15%22+%7C+%22P.L.+117-15%22&order=newest",
+ "term": "\"Public Law 117-15\" | \"Pub. L. 117-15\" | \"P.L. 117-15\"",
+ "total": 6
+}

@@ -1,0 +1,402 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   78
+  ],
+  [
+   "Federal Aviation Administration",
+   63
+  ],
+  [
+   "Office of the Secretary",
+   13
+  ],
+  [
+   "Pipeline and Hazardous Materials Safety Administration",
+   2
+  ],
+  [
+   "Homeland Security Department",
+   2
+  ],
+  [
+   "Regulatory Information Service Center",
+   1
+  ],
+  [
+   "Council on Environmental Quality",
+   1
+  ],
+  [
+   "Coast Guard",
+   1
+  ],
+  [
+   "Transportation Security Administration",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ],
+  [
+   "Defense Department",
+   1
+  ],
+  [
+   "General Services Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 34,
+  "Proposed Rule": 22,
+  "Rule": 27
+ },
+ "by_year": {
+  "2024": 20,
+  "2025": 23,
+  "2026": 40
+ },
+ "complete": true,
+ "first": "2024-06-11",
+ "last": "2026-11-04",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-11-04",
+   "k": "Proposed Rule",
+   "n": "2026-22450",
+   "t": "Update and Clarification of the Passenger Facility Charge Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/11/04/2026-22450/update-and-clarification-of-the-passenger-facility-charge-regulations"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-11-03",
+   "k": "Notice",
+   "n": "2026-22436",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/11/03/2026-22436/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-09-24",
+   "k": "Proposed Rule",
+   "n": "2026-19584",
+   "t": "Flight Operations: Pilot requirements; Use of oxygen",
+   "u": "https://www.federalregister.gov/documents/2026/09/24/2026-19584/flight-operations-pilot-requirements-use-of-oxygen"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Pipeline and Hazardous Materials Safety Administration"
+   ],
+   "d": "2026-09-21",
+   "k": "Notice",
+   "n": "2026-19276",
+   "t": "Hazardous Materials: Information Collection Activities",
+   "u": "https://www.federalregister.gov/documents/2026/09/21/2026-19276/hazardous-materials-information-collection-activities"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-09-14",
+   "k": "Proposed Rule",
+   "n": "2026-18799",
+   "t": "Use of Certain Restricted Category Aircraft for the Transport of Firefighters for Wildfire Suppression",
+   "u": "https://www.federalregister.gov/documents/2026/09/14/2026-18799/use-of-certain-restricted-category-aircraft-for-the-transport-of-firefighters-for-wildfire"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-09-14",
+   "k": "Rule",
+   "n": "2026-18776",
+   "t": "Sport Pilot Practical Test Standards Alignment",
+   "u": "https://www.federalregister.gov/documents/2026/09/14/2026-18776/sport-pilot-practical-test-standards-alignment"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-09-03",
+   "k": "Rule",
+   "n": "2026-18040",
+   "t": "Cause of Airline Delay and Cancellation Categories Under Section 511(b) of the FAA Reauthorization Act of 2024",
+   "u": "https://www.federalregister.gov/documents/2026/09/03/2026-18040/cause-of-airline-delay-and-cancellation-categories-under-section-511b-of-the-faa-reauthorization-act"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16603",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-08-05",
+   "k": "Proposed Rule",
+   "n": "2026-15929",
+   "t": "Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations",
+   "u": "https://www.federalregister.gov/documents/2026/08/05/2026-15929/improving-emergency-medical-kit-efficacy-and-flexibility-in-commercial-airline-operations"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-07-31",
+   "k": "Rule",
+   "n": "2026-15585",
+   "t": "Requirements for Interference-Tolerant Radio Altimeter Systems",
+   "u": "https://www.federalregister.gov/documents/2026/07/31/2026-15585/requirements-for-interference-tolerant-radio-altimeter-systems"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-07-21",
+   "k": "Notice",
+   "n": "2026-14617",
+   "t": "Bessie Coleman Women in Aviation (BCWA) Advisory Committee",
+   "u": "https://www.federalregister.gov/documents/2026/07/21/2026-14617/bessie-coleman-women-in-aviation-bcwa-advisory-committee"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-07-10",
+   "k": "Notice",
+   "n": "2026-13935",
+   "t": "Aircraft Noise Advisory Committee",
+   "u": "https://www.federalregister.gov/documents/2026/07/10/2026-13935/aircraft-noise-advisory-committee"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-07-06",
+   "k": "Proposed Rule",
+   "n": "2026-13546",
+   "t": "Ensuring Passenger Safety by Preempting Duty and Rest Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13546/ensuring-passenger-safety-by-preempting-duty-and-rest-requirements"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-07-02",
+   "k": "Rule",
+   "n": "2026-13450",
+   "t": "Increasing Flexibility on Disclosure of Airline Ancillary Fees",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13450/increasing-flexibility-on-disclosure-of-airline-ancillary-fees"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-07-02",
+   "k": "Proposed Rule",
+   "n": "2026-13440",
+   "t": "Enabling Supersonic Overland Flight",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13440/enabling-supersonic-overland-flight"
+  }
+ ],
+ "law": "118-63",
+ "rules": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-11-04",
+   "k": "Proposed Rule",
+   "n": "2026-22450",
+   "t": "Update and Clarification of the Passenger Facility Charge Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/11/04/2026-22450/update-and-clarification-of-the-passenger-facility-charge-regulations"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-09-24",
+   "k": "Proposed Rule",
+   "n": "2026-19584",
+   "t": "Flight Operations: Pilot requirements; Use of oxygen",
+   "u": "https://www.federalregister.gov/documents/2026/09/24/2026-19584/flight-operations-pilot-requirements-use-of-oxygen"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-09-14",
+   "k": "Proposed Rule",
+   "n": "2026-18799",
+   "t": "Use of Certain Restricted Category Aircraft for the Transport of Firefighters for Wildfire Suppression",
+   "u": "https://www.federalregister.gov/documents/2026/09/14/2026-18799/use-of-certain-restricted-category-aircraft-for-the-transport-of-firefighters-for-wildfire"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-09-14",
+   "k": "Rule",
+   "n": "2026-18776",
+   "t": "Sport Pilot Practical Test Standards Alignment",
+   "u": "https://www.federalregister.gov/documents/2026/09/14/2026-18776/sport-pilot-practical-test-standards-alignment"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-09-03",
+   "k": "Rule",
+   "n": "2026-18040",
+   "t": "Cause of Airline Delay and Cancellation Categories Under Section 511(b) of the FAA Reauthorization Act of 2024",
+   "u": "https://www.federalregister.gov/documents/2026/09/03/2026-18040/cause-of-airline-delay-and-cancellation-categories-under-section-511b-of-the-faa-reauthorization-act"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-08-05",
+   "k": "Proposed Rule",
+   "n": "2026-15929",
+   "t": "Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations",
+   "u": "https://www.federalregister.gov/documents/2026/08/05/2026-15929/improving-emergency-medical-kit-efficacy-and-flexibility-in-commercial-airline-operations"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-07-31",
+   "k": "Rule",
+   "n": "2026-15585",
+   "t": "Requirements for Interference-Tolerant Radio Altimeter Systems",
+   "u": "https://www.federalregister.gov/documents/2026/07/31/2026-15585/requirements-for-interference-tolerant-radio-altimeter-systems"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-07-06",
+   "k": "Proposed Rule",
+   "n": "2026-13546",
+   "t": "Ensuring Passenger Safety by Preempting Duty and Rest Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13546/ensuring-passenger-safety-by-preempting-duty-and-rest-requirements"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-07-02",
+   "k": "Rule",
+   "n": "2026-13450",
+   "t": "Increasing Flexibility on Disclosure of Airline Ancillary Fees",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13450/increasing-flexibility-on-disclosure-of-airline-ancillary-fees"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-07-02",
+   "k": "Proposed Rule",
+   "n": "2026-13440",
+   "t": "Enabling Supersonic Overland Flight",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13440/enabling-supersonic-overland-flight"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-07-01",
+   "k": "Proposed Rule",
+   "n": "2026-13282",
+   "t": "Mechanic Certification: Inspection Rating and Recent Experience Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/07/01/2026-13282/mechanic-certification-inspection-rating-and-recent-experience-requirements"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-06-26",
+   "k": "Proposed Rule",
+   "n": "2026-13003",
+   "t": "Removing Obsolete References to Twentieth-Century Airman Certificates",
+   "u": "https://www.federalregister.gov/documents/2026/06/26/2026-13003/removing-obsolete-references-to-twentieth-century-airman-certificates"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-06-26",
+   "k": "Proposed Rule",
+   "n": "2026-12922",
+   "t": "Transport Airplane and Propulsion Certification Modernization",
+   "u": "https://www.federalregister.gov/documents/2026/06/26/2026-12922/transport-airplane-and-propulsion-certification-modernization"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-05-22",
+   "k": "Proposed Rule",
+   "n": "2026-10293",
+   "t": "Prohibition of Remote Dispatching",
+   "u": "https://www.federalregister.gov/documents/2026/05/22/2026-10293/prohibition-of-remote-dispatching"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-05-22",
+   "k": "Proposed Rule",
+   "n": "2026-10286",
+   "t": "Flexibility Enhancements of Weather Reporting Systems",
+   "u": "https://www.federalregister.gov/documents/2026/05/22/2026-10286/flexibility-enhancements-of-weather-reporting-systems"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-63%22+%7C+%22Pub.+L.+118-63%22+%7C+%22P.L.+118-63%22&order=newest",
+ "term": "\"Public Law 118-63\" | \"Pub. L. 118-63\" | \"P.L. 118-63\"",
+ "total": 83
+}

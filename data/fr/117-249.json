@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Small Business Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2023-04-19",
+ "last": "2023-04-19",
+ "latest": [
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2023-04-19",
+   "k": "Rule",
+   "n": "2023-08010",
+   "t": "Disaster Assistance Loan Program Statutory Updates",
+   "u": "https://www.federalregister.gov/documents/2023/04/19/2023-08010/disaster-assistance-loan-program-statutory-updates"
+  }
+ ],
+ "law": "117-249",
+ "rules": [
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2023-04-19",
+   "k": "Rule",
+   "n": "2023-08010",
+   "t": "Disaster Assistance Loan Program Statutory Updates",
+   "u": "https://www.federalregister.gov/documents/2023/04/19/2023-08010/disaster-assistance-loan-program-statutory-updates"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-249%22+%7C+%22Pub.+L.+117-249%22+%7C+%22P.L.+117-249%22&order=newest",
+ "term": "\"Public Law 117-249\" | \"Pub. L. 117-249\" | \"P.L. 117-249\"",
+ "total": 1
+}

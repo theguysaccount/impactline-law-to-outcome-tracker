@@ -1,0 +1,50 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   1
+  ],
+  [
+   "Executive Office of the President",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Presidential Document": 1
+ },
+ "by_year": {
+  "2021": 1,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2021-07-14",
+ "last": "2026-02-24",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department"
+   ],
+   "d": "2026-02-24",
+   "k": "Notice",
+   "n": "2026-03648",
+   "t": "Guidance on Multimodal State Freight Plans and State Freight Advisory Committees",
+   "u": "https://www.federalregister.gov/documents/2026/02/24/2026-03648/guidance-on-multimodal-state-freight-plans-and-state-freight-advisory-committees"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2021-07-14",
+   "k": "Presidential Document",
+   "n": "2021-15069",
+   "t": "Promoting Competition in the American Economy",
+   "u": "https://www.federalregister.gov/documents/2021/07/14/2021-15069/promoting-competition-in-the-american-economy"
+  }
+ ],
+ "law": "117-8",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-8%22+%7C+%22Pub.+L.+117-8%22+%7C+%22P.L.+117-8%22&order=newest",
+ "term": "\"Public Law 117-8\" | \"Pub. L. 117-8\" | \"P.L. 117-8\"",
+ "total": 2
+}

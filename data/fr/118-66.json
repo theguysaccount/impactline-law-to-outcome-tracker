@@ -1,0 +1,73 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   4
+  ],
+  [
+   "National Institutes of Health",
+   4
+  ]
+ ],
+ "by_type": {
+  "Notice": 4
+ },
+ "by_year": {
+  "2025": 1,
+  "2026": 3
+ },
+ "complete": true,
+ "first": "2025-01-13",
+ "last": "2026-10-08",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2026-10-08",
+   "k": "Notice",
+   "n": "2026-20618",
+   "t": "National Institute of Neurological Disorders and Stroke; Notice of Meeting",
+   "u": "https://www.federalregister.gov/documents/2026/10/08/2026-20618/national-institute-of-neurological-disorders-and-stroke-notice-of-meeting"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2026-07-21",
+   "k": "Notice",
+   "n": "2026-14666",
+   "t": "National Institute of Neurological Disorders and Stroke; Notice of Meeting",
+   "u": "https://www.federalregister.gov/documents/2026/07/21/2026-14666/national-institute-of-neurological-disorders-and-stroke-notice-of-meeting"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2026-05-20",
+   "k": "Notice",
+   "n": "2026-10117",
+   "t": "National Institute of Neurological Disorders and Stroke; Notice of Meeting",
+   "u": "https://www.federalregister.gov/documents/2026/05/20/2026-10117/national-institute-of-neurological-disorders-and-stroke-notice-of-meeting"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2025-01-13",
+   "k": "Notice",
+   "n": "2025-00432",
+   "t": "Statement of Delegation of Authority",
+   "u": "https://www.federalregister.gov/documents/2025/01/13/2025-00432/statement-of-delegation-of-authority"
+  }
+ ],
+ "law": "118-66",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-66%22+%7C+%22Pub.+L.+118-66%22+%7C+%22P.L.+118-66%22&order=newest",
+ "term": "\"Public Law 118-66\" | \"Pub. L. 118-66\" | \"P.L. 118-66\"",
+ "total": 4
+}

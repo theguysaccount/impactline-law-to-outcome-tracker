@@ -1,0 +1,227 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   2
+  ],
+  [
+   "Children and Families Administration",
+   2
+  ],
+  [
+   "Defense Department",
+   2
+  ],
+  [
+   "Office of the Secretary",
+   2
+  ],
+  [
+   "Homeland Security Department",
+   1
+  ],
+  [
+   "U.S. Customs and Border Protection",
+   1
+  ],
+  [
+   "Veterans Affairs Department",
+   1
+  ],
+  [
+   "Consumer Financial Protection Bureau",
+   1
+  ],
+  [
+   "Library of Congress",
+   1
+  ],
+  [
+   "Copyright Office, Library of Congress",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 1,
+  "Rule": 6
+ },
+ "by_year": {
+  "2023": 3,
+  "2024": 1,
+  "2025": 2,
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2023-06-01",
+ "last": "2026-10-13",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "U.S. Customs and Border Protection"
+   ],
+   "d": "2026-10-13",
+   "k": "Proposed Rule",
+   "n": "2026-20884",
+   "t": "Advance Traveler Information for Rail",
+   "u": "https://www.federalregister.gov/documents/2026/10/13/2026-20884/advance-traveler-information-for-rail"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-02-13",
+   "k": "Rule",
+   "n": "2026-02978",
+   "t": "Home Visits in Program of Comprehensive Assistance for Family Caregivers During COVID-19 National Emergency",
+   "u": "https://www.federalregister.gov/documents/2026/02/13/2026-02978/home-visits-in-program-of-comprehensive-assistance-for-family-caregivers-during-covid-19-national"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2025-12-19",
+   "k": "Rule",
+   "n": "2025-23452",
+   "t": "COVID-19 Mitigation Policy Requirement in Head Start Programs; Recission",
+   "u": "https://www.federalregister.gov/documents/2025/12/19/2025-23452/covid-19-mitigation-policy-requirement-in-head-start-programs-recission"
+  },
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-05-16",
+   "k": "Rule",
+   "n": "2025-08643",
+   "t": "Protections for Borrowers Affected by the COVID-19 Emergency Under the Real Estate Settlement Procedures Act (RESPA), Regulation X; Rescission",
+   "u": "https://www.federalregister.gov/documents/2025/05/16/2025-08643/protections-for-borrowers-affected-by-the-covid-19-emergency-under-the-real-estate-settlement"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-05-24",
+   "k": "Rule",
+   "n": "2024-11219",
+   "t": "TRICARE; Removal of Certain Temporary Regulation Changes Made in Response to COVID-19",
+   "u": "https://www.federalregister.gov/documents/2024/05/24/2024-11219/tricare-removal-of-certain-temporary-regulation-changes-made-in-response-to-covid-19"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2023-06-26",
+   "k": "Rule",
+   "n": "2023-13423",
+   "t": "Removal of the Vaccine Requirements for Head Start Programs",
+   "u": "https://www.federalregister.gov/documents/2023/06/26/2023-13423/removal-of-the-vaccine-requirements-for-head-start-programs"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2023-06-12",
+   "k": "Notice",
+   "n": "2023-12479",
+   "t": "Expiration of Temporary Changes to TRICARE Regulations During the Coronavirus Disease 2019 (COVID-19) Pandemic",
+   "u": "https://www.federalregister.gov/documents/2023/06/12/2023-12479/expiration-of-temporary-changes-to-tricare-regulations-during-the-coronavirus-disease-2019-covid-19"
+  },
+  {
+   "a": [
+    "Library of Congress",
+    "Copyright Office, Library of Congress"
+   ],
+   "d": "2023-06-01",
+   "k": "Rule",
+   "n": "2023-11299",
+   "t": "Secure Tests",
+   "u": "https://www.federalregister.gov/documents/2023/06/01/2023-11299/secure-tests"
+  }
+ ],
+ "law": "118-3",
+ "rules": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "U.S. Customs and Border Protection"
+   ],
+   "d": "2026-10-13",
+   "k": "Proposed Rule",
+   "n": "2026-20884",
+   "t": "Advance Traveler Information for Rail",
+   "u": "https://www.federalregister.gov/documents/2026/10/13/2026-20884/advance-traveler-information-for-rail"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-02-13",
+   "k": "Rule",
+   "n": "2026-02978",
+   "t": "Home Visits in Program of Comprehensive Assistance for Family Caregivers During COVID-19 National Emergency",
+   "u": "https://www.federalregister.gov/documents/2026/02/13/2026-02978/home-visits-in-program-of-comprehensive-assistance-for-family-caregivers-during-covid-19-national"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2025-12-19",
+   "k": "Rule",
+   "n": "2025-23452",
+   "t": "COVID-19 Mitigation Policy Requirement in Head Start Programs; Recission",
+   "u": "https://www.federalregister.gov/documents/2025/12/19/2025-23452/covid-19-mitigation-policy-requirement-in-head-start-programs-recission"
+  },
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-05-16",
+   "k": "Rule",
+   "n": "2025-08643",
+   "t": "Protections for Borrowers Affected by the COVID-19 Emergency Under the Real Estate Settlement Procedures Act (RESPA), Regulation X; Rescission",
+   "u": "https://www.federalregister.gov/documents/2025/05/16/2025-08643/protections-for-borrowers-affected-by-the-covid-19-emergency-under-the-real-estate-settlement"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-05-24",
+   "k": "Rule",
+   "n": "2024-11219",
+   "t": "TRICARE; Removal of Certain Temporary Regulation Changes Made in Response to COVID-19",
+   "u": "https://www.federalregister.gov/documents/2024/05/24/2024-11219/tricare-removal-of-certain-temporary-regulation-changes-made-in-response-to-covid-19"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2023-06-26",
+   "k": "Rule",
+   "n": "2023-13423",
+   "t": "Removal of the Vaccine Requirements for Head Start Programs",
+   "u": "https://www.federalregister.gov/documents/2023/06/26/2023-13423/removal-of-the-vaccine-requirements-for-head-start-programs"
+  },
+  {
+   "a": [
+    "Library of Congress",
+    "Copyright Office, Library of Congress"
+   ],
+   "d": "2023-06-01",
+   "k": "Rule",
+   "n": "2023-11299",
+   "t": "Secure Tests",
+   "u": "https://www.federalregister.gov/documents/2023/06/01/2023-11299/secure-tests"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-3%22+%7C+%22Pub.+L.+118-3%22+%7C+%22P.L.+118-3%22&order=newest",
+ "term": "\"Public Law 118-3\" | \"Pub. L. 118-3\" | \"P.L. 118-3\"",
+ "total": 8
+}

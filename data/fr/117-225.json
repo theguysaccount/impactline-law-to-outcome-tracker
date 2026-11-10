@@ -1,0 +1,61 @@
+{
+ "agencies": [
+  [
+   "Personnel Management Office",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2023": 1,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2023-01-30",
+ "last": "2026-07-22",
+ "latest": [
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-07-22",
+   "k": "Proposed Rule",
+   "n": "2026-14751",
+   "t": "First Responder Fair RETIRE Act",
+   "u": "https://www.federalregister.gov/documents/2026/07/22/2026-14751/first-responder-fair-retire-act"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-01-30",
+   "k": "Notice",
+   "n": "2023-01771",
+   "t": "Notice; 2022 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2023/01/30/2023-01771/notice-2022-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "117-225",
+ "rules": [
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-07-22",
+   "k": "Proposed Rule",
+   "n": "2026-14751",
+   "t": "First Responder Fair RETIRE Act",
+   "u": "https://www.federalregister.gov/documents/2026/07/22/2026-14751/first-responder-fair-retire-act"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-225%22+%7C+%22Pub.+L.+117-225%22+%7C+%22P.L.+117-225%22&order=newest",
+ "term": "\"Public Law 117-225\" | \"Pub. L. 117-225\" | \"P.L. 117-225\"",
+ "total": 2
+}

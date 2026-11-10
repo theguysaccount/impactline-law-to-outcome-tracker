@@ -1,0 +1,105 @@
+{
+ "agencies": [
+  [
+   "Consumer Financial Protection Bureau",
+   4
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 4
+ },
+ "by_year": {
+  "2025": 4
+ },
+ "complete": true,
+ "first": "2025-08-08",
+ "last": "2025-08-08",
+ "latest": [
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-08-08",
+   "k": "Proposed Rule",
+   "n": "2025-15091",
+   "t": "Defining Larger Participants of the Consumer Debt Collection Market",
+   "u": "https://www.federalregister.gov/documents/2025/08/08/2025-15091/defining-larger-participants-of-the-consumer-debt-collection-market"
+  },
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-08-08",
+   "k": "Proposed Rule",
+   "n": "2025-15090",
+   "t": "Defining Larger Participants of the International Money Transfer Market",
+   "u": "https://www.federalregister.gov/documents/2025/08/08/2025-15090/defining-larger-participants-of-the-international-money-transfer-market"
+  },
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-08-08",
+   "k": "Proposed Rule",
+   "n": "2025-15089",
+   "t": "Defining Larger Participants of the Automobile Financing Market",
+   "u": "https://www.federalregister.gov/documents/2025/08/08/2025-15089/defining-larger-participants-of-the-automobile-financing-market"
+  },
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-08-08",
+   "k": "Proposed Rule",
+   "n": "2025-15088",
+   "t": "Defining Larger Participants of the Consumer Reporting Market",
+   "u": "https://www.federalregister.gov/documents/2025/08/08/2025-15088/defining-larger-participants-of-the-consumer-reporting-market"
+  }
+ ],
+ "law": "119-11",
+ "rules": [
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-08-08",
+   "k": "Proposed Rule",
+   "n": "2025-15091",
+   "t": "Defining Larger Participants of the Consumer Debt Collection Market",
+   "u": "https://www.federalregister.gov/documents/2025/08/08/2025-15091/defining-larger-participants-of-the-consumer-debt-collection-market"
+  },
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-08-08",
+   "k": "Proposed Rule",
+   "n": "2025-15090",
+   "t": "Defining Larger Participants of the International Money Transfer Market",
+   "u": "https://www.federalregister.gov/documents/2025/08/08/2025-15090/defining-larger-participants-of-the-international-money-transfer-market"
+  },
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-08-08",
+   "k": "Proposed Rule",
+   "n": "2025-15089",
+   "t": "Defining Larger Participants of the Automobile Financing Market",
+   "u": "https://www.federalregister.gov/documents/2025/08/08/2025-15089/defining-larger-participants-of-the-automobile-financing-market"
+  },
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2025-08-08",
+   "k": "Proposed Rule",
+   "n": "2025-15088",
+   "t": "Defining Larger Participants of the Consumer Reporting Market",
+   "u": "https://www.federalregister.gov/documents/2025/08/08/2025-15088/defining-larger-participants-of-the-consumer-reporting-market"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-11%22+%7C+%22Pub.+L.+119-11%22+%7C+%22P.L.+119-11%22&order=newest",
+ "term": "\"Public Law 119-11\" | \"Pub. L. 119-11\" | \"P.L. 119-11\"",
+ "total": 4
+}

@@ -1,0 +1,392 @@
+{
+ "agencies": [
+  [
+   "Federal Communications Commission",
+   5
+  ],
+  [
+   "Defense Department",
+   4
+  ],
+  [
+   "Management and Budget Office",
+   3
+  ],
+  [
+   "State Department",
+   3
+  ],
+  [
+   "Office of the Secretary",
+   2
+  ],
+  [
+   "Energy Department",
+   2
+  ],
+  [
+   "Defense Acquisition Regulations System",
+   2
+  ],
+  [
+   "Railroad Retirement Board",
+   2
+  ],
+  [
+   "Justice Department",
+   2
+  ],
+  [
+   "Alcohol, Tobacco, Firearms, and Explosives Bureau",
+   2
+  ],
+  [
+   "Federal Labor Relations Authority",
+   2
+  ],
+  [
+   "General Services Administration",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 6,
+  "Presidential Document": 1,
+  "Proposed Rule": 13,
+  "Rule": 12
+ },
+ "by_year": {
+  "2025": 11,
+  "2026": 21
+ },
+ "complete": true,
+ "first": "2025-01-30",
+ "last": "2026-09-18",
+ "latest": [
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-09-18",
+   "k": "Proposed Rule",
+   "n": "2026-19162",
+   "t": "Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19162/federal-acquisition-regulation-revolutionary-far-overhaul-parts-8-12-13-15-38-44-and-51"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16615",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16615/unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16603",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-08-13",
+   "k": "Notice",
+   "n": "2026-16533",
+   "t": "Demonstration Project on Reimbursement for the Cryopreservation and Storage of Gametes of Certain Members of the Armed Forces; Department of Defense (DoD)",
+   "u": "https://www.federalregister.gov/documents/2026/08/13/2026-16533/demonstration-project-on-reimbursement-for-the-cryopreservation-and-storage-of-gametes-of-certain"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-08-10",
+   "k": "Rule",
+   "n": "2026-16207",
+   "t": "Implementation of the Administrative False Claims Act",
+   "u": "https://www.federalregister.gov/documents/2026/08/10/2026-16207/implementation-of-the-administrative-false-claims-act"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-08-05",
+   "k": "Notice",
+   "n": "2026-15850",
+   "t": "60-Day Notice of Proposed Information Collection: Department of State Acquisition Regulation (DOSAR)",
+   "u": "https://www.federalregister.gov/documents/2026/08/05/2026-15850/60-day-notice-of-proposed-information-collection-department-of-state-acquisition-regulation-dosar"
+  },
+  {
+   "a": [
+    "Export-Import Bank"
+   ],
+   "d": "2026-07-23",
+   "k": "Proposed Rule",
+   "n": "2026-14959",
+   "t": "Implementation of the Administrative False Claims Act",
+   "u": "https://www.federalregister.gov/documents/2026/07/23/2026-14959/implementation-of-the-administrative-false-claims-act"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2026-07-13",
+   "k": "Rule",
+   "n": "2026-14043",
+   "t": "Administrative False Claims and Procedures",
+   "u": "https://www.federalregister.gov/documents/2026/07/13/2026-14043/administrative-false-claims-and-procedures"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12826",
+   "t": "Defense Federal Acquisition Regulation Supplement: Certification Requirement for Military Recruitment Advertising (DFARS Case 2024-D022)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12826/defense-federal-acquisition-regulation-supplement-certification-requirement-for-military-recruitment"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12825",
+   "t": "Defense Federal Acquisition Regulation Supplement: Small Purchase Exception for the Acquisition of U.S. Flags (DFARS Case 2024-D013)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12825/defense-federal-acquisition-regulation-supplement-small-purchase-exception-for-the-acquisition-of-us"
+  },
+  {
+   "a": [
+    "Railroad Retirement Board"
+   ],
+   "d": "2026-06-25",
+   "k": "Rule",
+   "n": "2026-12805",
+   "t": "Civil Monetary Penalty Inflation Adjustment",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12805/civil-monetary-penalty-inflation-adjustment"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-06-23",
+   "k": "Rule",
+   "n": "2026-12547",
+   "t": "Tanker Security Program",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12547/tanker-security-program"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-08",
+   "k": "Proposed Rule",
+   "n": "2026-09182",
+   "t": "Revising Firearms Transaction Record, “Form 4473”",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09182/revising-firearms-transaction-record-form-4473"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-08",
+   "k": "Proposed Rule",
+   "n": "2026-09157",
+   "t": "Revising Non-Over-the-Counter Firearms Transaction Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09157/revising-non-over-the-counter-firearms-transaction-requirements"
+  }
+ ],
+ "law": "118-159",
+ "rules": [
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-09-18",
+   "k": "Proposed Rule",
+   "n": "2026-19162",
+   "t": "Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19162/federal-acquisition-regulation-revolutionary-far-overhaul-parts-8-12-13-15-38-44-and-51"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-08-10",
+   "k": "Rule",
+   "n": "2026-16207",
+   "t": "Implementation of the Administrative False Claims Act",
+   "u": "https://www.federalregister.gov/documents/2026/08/10/2026-16207/implementation-of-the-administrative-false-claims-act"
+  },
+  {
+   "a": [
+    "Export-Import Bank"
+   ],
+   "d": "2026-07-23",
+   "k": "Proposed Rule",
+   "n": "2026-14959",
+   "t": "Implementation of the Administrative False Claims Act",
+   "u": "https://www.federalregister.gov/documents/2026/07/23/2026-14959/implementation-of-the-administrative-false-claims-act"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2026-07-13",
+   "k": "Rule",
+   "n": "2026-14043",
+   "t": "Administrative False Claims and Procedures",
+   "u": "https://www.federalregister.gov/documents/2026/07/13/2026-14043/administrative-false-claims-and-procedures"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12826",
+   "t": "Defense Federal Acquisition Regulation Supplement: Certification Requirement for Military Recruitment Advertising (DFARS Case 2024-D022)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12826/defense-federal-acquisition-regulation-supplement-certification-requirement-for-military-recruitment"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12825",
+   "t": "Defense Federal Acquisition Regulation Supplement: Small Purchase Exception for the Acquisition of U.S. Flags (DFARS Case 2024-D013)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12825/defense-federal-acquisition-regulation-supplement-small-purchase-exception-for-the-acquisition-of-us"
+  },
+  {
+   "a": [
+    "Railroad Retirement Board"
+   ],
+   "d": "2026-06-25",
+   "k": "Rule",
+   "n": "2026-12805",
+   "t": "Civil Monetary Penalty Inflation Adjustment",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12805/civil-monetary-penalty-inflation-adjustment"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-06-23",
+   "k": "Rule",
+   "n": "2026-12547",
+   "t": "Tanker Security Program",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12547/tanker-security-program"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-08",
+   "k": "Proposed Rule",
+   "n": "2026-09182",
+   "t": "Revising Firearms Transaction Record, “Form 4473”",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09182/revising-firearms-transaction-record-form-4473"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-08",
+   "k": "Proposed Rule",
+   "n": "2026-09157",
+   "t": "Revising Non-Over-the-Counter Firearms Transaction Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09157/revising-non-over-the-counter-firearms-transaction-requirements"
+  },
+  {
+   "a": [
+    "Federal Labor Relations Authority"
+   ],
+   "d": "2026-04-23",
+   "k": "Rule",
+   "n": "2026-07877",
+   "t": "Implementation of the Administrative False Claims Act",
+   "u": "https://www.federalregister.gov/documents/2026/04/23/2026-07877/implementation-of-the-administrative-false-claims-act"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-04-13",
+   "k": "Rule",
+   "n": "2026-07087",
+   "t": "Final Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education",
+   "u": "https://www.federalregister.gov/documents/2026/04/13/2026-07087/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2026-03-19",
+   "k": "Rule",
+   "n": "2026-05459",
+   "t": "Program Fraud Civil Remedies Act Regulations Statutory Updates",
+   "u": "https://www.federalregister.gov/documents/2026/03/19/2026-05459/program-fraud-civil-remedies-act-regulations-statutory-updates"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2026-02-18",
+   "k": "Proposed Rule",
+   "n": "2026-03159",
+   "t": "General Policy for Pricing and Charging for Materials and Services Sold by the Department of Energy",
+   "u": "https://www.federalregister.gov/documents/2026/02/18/2026-03159/general-policy-for-pricing-and-charging-for-materials-and-services-sold-by-the-department-of-energy"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-159%22+%7C+%22Pub.+L.+118-159%22+%7C+%22P.L.+118-159%22&order=newest",
+ "term": "\"Public Law 118-159\" | \"Pub. L. 118-159\" | \"P.L. 118-159\"",
+ "total": 32
+}

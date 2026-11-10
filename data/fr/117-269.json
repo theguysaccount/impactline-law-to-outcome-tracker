@@ -1,0 +1,109 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   6
+  ],
+  [
+   "Maritime Administration",
+   6
+  ]
+ ],
+ "by_type": {
+  "Notice": 5,
+  "Rule": 1
+ },
+ "by_year": {
+  "2022": 2,
+  "2023": 3,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2022-12-07",
+ "last": "2024-04-30",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2024-04-30",
+   "k": "Notice",
+   "n": "2024-09232",
+   "t": "Extended Application Period; Solicitation of Application for the Award of One Tanker Security Program Operating Agreement",
+   "u": "https://www.federalregister.gov/documents/2024/04/30/2024-09232/extended-application-period-solicitation-of-application-for-the-award-of-one-tanker-security-program"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2023-08-16",
+   "k": "Notice",
+   "n": "2023-17566",
+   "t": "Extended Application Period; Solicitation of Application for the Award of One Tanker Security Program Operating Agreement",
+   "u": "https://www.federalregister.gov/documents/2023/08/16/2023-17566/extended-application-period-solicitation-of-application-for-the-award-of-one-tanker-security-program"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2023-07-25",
+   "k": "Notice",
+   "n": "2023-15507",
+   "t": "Solicitation of Application for the Award of One Tanker Security Program Operating Agreement",
+   "u": "https://www.federalregister.gov/documents/2023/07/25/2023-15507/solicitation-of-application-for-the-award-of-one-tanker-security-program-operating-agreement"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2023-02-06",
+   "k": "Notice",
+   "n": "2023-02373",
+   "t": "Extended Application Period; Tanker Security Program Application Solicitation",
+   "u": "https://www.federalregister.gov/documents/2023/02/06/2023-02373/extended-application-period-tanker-security-program-application-solicitation"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2022-12-09",
+   "k": "Notice",
+   "n": "2022-26848",
+   "t": "Tanker Security Program Application Solicitation",
+   "u": "https://www.federalregister.gov/documents/2022/12/09/2022-26848/tanker-security-program-application-solicitation"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2022-12-07",
+   "k": "Rule",
+   "n": "2022-26358",
+   "t": "Tanker Security Program",
+   "u": "https://www.federalregister.gov/documents/2022/12/07/2022-26358/tanker-security-program"
+  }
+ ],
+ "law": "117-269",
+ "rules": [
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2022-12-07",
+   "k": "Rule",
+   "n": "2022-26358",
+   "t": "Tanker Security Program",
+   "u": "https://www.federalregister.gov/documents/2022/12/07/2022-26358/tanker-security-program"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-269%22+%7C+%22Pub.+L.+117-269%22+%7C+%22P.L.+117-269%22&order=newest",
+ "term": "\"Public Law 117-269\" | \"Pub. L. 117-269\" | \"P.L. 117-269\"",
+ "total": 6
+}

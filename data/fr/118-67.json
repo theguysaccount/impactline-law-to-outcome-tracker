@@ -1,0 +1,292 @@
+{
+ "agencies": [
+  [
+   "Nuclear Regulatory Commission",
+   11
+  ],
+  [
+   "Executive Office of the President",
+   1
+  ],
+  [
+   "Treasury Department",
+   1
+  ],
+  [
+   "Internal Revenue Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Presidential Document": 1,
+  "Proposed Rule": 5,
+  "Rule": 7
+ },
+ "by_year": {
+  "2025": 5,
+  "2026": 8
+ },
+ "complete": true,
+ "first": "2025-01-15",
+ "last": "2026-11-03",
+ "latest": [
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-11-03",
+   "k": "Rule",
+   "n": "2026-22443",
+   "t": "Streamlining Contested Adjudications in Licensing Proceedings",
+   "u": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-06-26",
+   "k": "Proposed Rule",
+   "n": "2026-12989",
+   "t": "Modernizing Security Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/06/26/2026-12989/modernizing-security-requirements"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-05-01",
+   "k": "Proposed Rule",
+   "n": "2026-08550",
+   "t": "Licensing Requirements for Microreactors and Other Reactors With Comparable Risk Profiles",
+   "u": "https://www.federalregister.gov/documents/2026/05/01/2026-08550/licensing-requirements-for-microreactors-and-other-reactors-with-comparable-risk-profiles"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-04-24",
+   "k": "Rule",
+   "n": "2026-08024",
+   "t": "Cost Expenditure Criteria for Research and Development Utilization Facilities",
+   "u": "https://www.federalregister.gov/documents/2026/04/24/2026-08024/cost-expenditure-criteria-for-research-and-development-utilization-facilities"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-04-24",
+   "k": "Rule",
+   "n": "2026-08015",
+   "t": "Generic Environmental Impact Statement for Licensing of New Nuclear Reactors",
+   "u": "https://www.federalregister.gov/documents/2026/04/24/2026-08015/generic-environmental-impact-statement-for-licensing-of-new-nuclear-reactors"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-03-30",
+   "k": "Rule",
+   "n": "2026-06049",
+   "t": "Categorical Exclusions From Environmental Review",
+   "u": "https://www.federalregister.gov/documents/2026/03/30/2026-06049/categorical-exclusions-from-environmental-review"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-03-03",
+   "k": "Proposed Rule",
+   "n": "2026-04187",
+   "t": "Streamlining Contested Adjudications in Licensing Proceedings",
+   "u": "https://www.federalregister.gov/documents/2026/03/03/2026-04187/streamlining-contested-adjudications-in-licensing-proceedings"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-02-26",
+   "k": "Proposed Rule",
+   "n": "2026-03865",
+   "t": "Regulatory Framework for Fusion Machines",
+   "u": "https://www.federalregister.gov/documents/2026/02/26/2026-03865/regulatory-framework-for-fusion-machines"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2025-12-03",
+   "k": "Rule",
+   "n": "2025-21784",
+   "t": "The Sunset Rule",
+   "u": "https://www.federalregister.gov/documents/2025/12/03/2025-21784/the-sunset-rule"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2025-06-24",
+   "k": "Rule",
+   "n": "2025-11544",
+   "t": "Fee Schedules; Fee Recovery for Fiscal Year 2025",
+   "u": "https://www.federalregister.gov/documents/2025/06/24/2025-11544/fee-schedules-fee-recovery-for-fiscal-year-2025"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2025-05-29",
+   "k": "Presidential Document",
+   "n": "2025-09798",
+   "t": "Ordering the Reform of the Nuclear Regulatory Commission",
+   "u": "https://www.federalregister.gov/documents/2025/05/29/2025-09798/ordering-the-reform-of-the-nuclear-regulatory-commission"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2025-02-19",
+   "k": "Proposed Rule",
+   "n": "2025-02779",
+   "t": "Fee Schedules; Fee Recovery for Fiscal Year 2025",
+   "u": "https://www.federalregister.gov/documents/2025/02/19/2025-02779/fee-schedules-fee-recovery-for-fiscal-year-2025"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2025-01-15",
+   "k": "Rule",
+   "n": "2025-00196",
+   "t": "Section 45Y Clean Electricity Production Credit and Section 48E Clean Electricity Investment Credit",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2025-00196/section-45y-clean-electricity-production-credit-and-section-48e-clean-electricity-investment-credit"
+  }
+ ],
+ "law": "118-67",
+ "rules": [
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-11-03",
+   "k": "Rule",
+   "n": "2026-22443",
+   "t": "Streamlining Contested Adjudications in Licensing Proceedings",
+   "u": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-06-26",
+   "k": "Proposed Rule",
+   "n": "2026-12989",
+   "t": "Modernizing Security Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/06/26/2026-12989/modernizing-security-requirements"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-05-01",
+   "k": "Proposed Rule",
+   "n": "2026-08550",
+   "t": "Licensing Requirements for Microreactors and Other Reactors With Comparable Risk Profiles",
+   "u": "https://www.federalregister.gov/documents/2026/05/01/2026-08550/licensing-requirements-for-microreactors-and-other-reactors-with-comparable-risk-profiles"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-04-24",
+   "k": "Rule",
+   "n": "2026-08024",
+   "t": "Cost Expenditure Criteria for Research and Development Utilization Facilities",
+   "u": "https://www.federalregister.gov/documents/2026/04/24/2026-08024/cost-expenditure-criteria-for-research-and-development-utilization-facilities"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-04-24",
+   "k": "Rule",
+   "n": "2026-08015",
+   "t": "Generic Environmental Impact Statement for Licensing of New Nuclear Reactors",
+   "u": "https://www.federalregister.gov/documents/2026/04/24/2026-08015/generic-environmental-impact-statement-for-licensing-of-new-nuclear-reactors"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-03-30",
+   "k": "Rule",
+   "n": "2026-06049",
+   "t": "Categorical Exclusions From Environmental Review",
+   "u": "https://www.federalregister.gov/documents/2026/03/30/2026-06049/categorical-exclusions-from-environmental-review"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-03-03",
+   "k": "Proposed Rule",
+   "n": "2026-04187",
+   "t": "Streamlining Contested Adjudications in Licensing Proceedings",
+   "u": "https://www.federalregister.gov/documents/2026/03/03/2026-04187/streamlining-contested-adjudications-in-licensing-proceedings"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-02-26",
+   "k": "Proposed Rule",
+   "n": "2026-03865",
+   "t": "Regulatory Framework for Fusion Machines",
+   "u": "https://www.federalregister.gov/documents/2026/02/26/2026-03865/regulatory-framework-for-fusion-machines"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2025-12-03",
+   "k": "Rule",
+   "n": "2025-21784",
+   "t": "The Sunset Rule",
+   "u": "https://www.federalregister.gov/documents/2025/12/03/2025-21784/the-sunset-rule"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2025-06-24",
+   "k": "Rule",
+   "n": "2025-11544",
+   "t": "Fee Schedules; Fee Recovery for Fiscal Year 2025",
+   "u": "https://www.federalregister.gov/documents/2025/06/24/2025-11544/fee-schedules-fee-recovery-for-fiscal-year-2025"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2025-02-19",
+   "k": "Proposed Rule",
+   "n": "2025-02779",
+   "t": "Fee Schedules; Fee Recovery for Fiscal Year 2025",
+   "u": "https://www.federalregister.gov/documents/2025/02/19/2025-02779/fee-schedules-fee-recovery-for-fiscal-year-2025"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2025-01-15",
+   "k": "Rule",
+   "n": "2025-00196",
+   "t": "Section 45Y Clean Electricity Production Credit and Section 48E Clean Electricity Investment Credit",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2025-00196/section-45y-clean-electricity-production-credit-and-section-48e-clean-electricity-investment-credit"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-67%22+%7C+%22Pub.+L.+118-67%22+%7C+%22P.L.+118-67%22&order=newest",
+ "term": "\"Public Law 118-67\" | \"Pub. L. 118-67\" | \"P.L. 118-67\"",
+ "total": 13
+}

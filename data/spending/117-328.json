@@ -1,0 +1,285 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 27874072000.0,
+   "name": "Department of Defense",
+   "obligations": 27021588161.25,
+   "outlays": 20807459992.04
+  },
+  {
+   "budgetary_resources": 26553332651.0,
+   "name": "Department of Homeland Security",
+   "obligations": 26519398147.58,
+   "outlays": 22750490456.33
+  },
+  {
+   "budgetary_resources": 14190178000.0,
+   "name": "Agency for International Development",
+   "obligations": 13694658858.89,
+   "outlays": 12271253588.74
+  },
+  {
+   "budgetary_resources": 5415644257.27,
+   "name": "Department of Agriculture",
+   "obligations": 7246841466.36,
+   "outlays": 7021600597.96
+  },
+  {
+   "budgetary_resources": 6622987438.81,
+   "name": "Department of Housing and Urban Development",
+   "obligations": 6615759404.72,
+   "outlays": 4236649749.93
+  },
+  {
+   "budgetary_resources": 6650258373.57,
+   "name": "Department of Health and Human Services",
+   "obligations": 6046480009.85,
+   "outlays": 5443404213.06
+  },
+  {
+   "budgetary_resources": 2012539000.0,
+   "name": "Department of Commerce",
+   "obligations": 2978343667.66,
+   "outlays": 784478150.22
+  },
+  {
+   "budgetary_resources": 1946300000.0,
+   "name": "Department of Energy",
+   "obligations": 1889110467.48,
+   "outlays": 1359927956.47
+  },
+  {
+   "budgetary_resources": 2789465956.13,
+   "name": "Department of the Interior",
+   "obligations": 1648749321.11,
+   "outlays": 1387643969.24
+  },
+  {
+   "budgetary_resources": 1027000000.0,
+   "name": "Small Business Administration",
+   "obligations": 1022854416.17,
+   "outlays": 1022836331.98
+  },
+  {
+   "budgetary_resources": 1037662000.0,
+   "name": "National Science Foundation",
+   "obligations": 1011807543.51,
+   "outlays": 872875135.25
+  },
+  {
+   "budgetary_resources": 1480000000.0,
+   "name": "Corps of Engineers - Civil Works",
+   "obligations": 879296079.37,
+   "outlays": 718272183.91
+  },
+  {
+   "budgetary_resources": 1016905338.0,
+   "name": "Department of Transportation",
+   "obligations": 832155064.62,
+   "outlays": 692216311.88
+  },
+  {
+   "budgetary_resources": 556400000.0,
+   "name": "National Aeronautics and Space Administration",
+   "obligations": 525443460.98,
+   "outlays": 340569657.49
+  },
+  {
+   "budgetary_resources": 36788390.0,
+   "name": "General Services Administration",
+   "obligations": 23708070.98,
+   "outlays": 9631554.77
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1980374214.55,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4499DRORP00000001",
+   "kind": "grants",
+   "outlays": 1251658113.63,
+   "recipient": "OREGON MILITARY DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
+  },
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 1107881000.0,
+   "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
+   "id": "B-23-UN-12-0002",
+   "kind": "grants",
+   "outlays": 210212778.2,
+   "recipient": "COUNTY OF LEE",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-23-UN-12-0002_086"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1063462203.7,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4500DRCTP00000001",
+   "kind": "grants",
+   "outlays": 359763529.87,
+   "recipient": "EMERGENCY SERVICES AND PUBLIC PROTECTION, DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4500DRCTP00000001_070"
+  },
+  {
+   "agency": "National Science Foundation",
+   "amount": 1012598088.0,
+   "description": "THE MANAGEMENT AND OPERATION OF THE NATIONAL CENTER FOR ATMOSPHERIC RESEARCH",
+   "id": "1755088",
+   "kind": "grants",
+   "outlays": 647455228.8,
+   "recipient": "UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH",
+   "url": "https://www.usaspending.gov/award/ASST_NON_1755088_049"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 921717024.0,
+   "description": "COMPETITIVE COOPERATIVE AGREEMENT: ADVANCED REACTOR DEMONSTRATION FOA# DE-FOA-0002271 PATHWAY 1 ADVANCED REACTOR DEMONSTRATIONS (DEMOS) AWARD TO X ENERGY, LLC THIS PROGRAM IS INTENDED TO FACILITATE THE DEVELOPMENT OF U.S. PRIVATE INDUSTRY A",
+   "id": "DENE0009040",
+   "kind": "grants",
+   "outlays": 581350171.29,
+   "recipient": "X ENERGY, LLC",
+   "url": "https://www.usaspending.gov/award/ASST_NON_DENE0009040_089"
+  },
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 910624000.0,
+   "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
+   "id": "B-23-DN-12-0001",
+   "kind": "grants",
+   "outlays": 357236561.48,
+   "recipient": "FLORIDA DEPARTMENT OF COMMERCE",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-23-DN-12-0001_086"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 660572955.78,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "1603DRLAP0000005",
+   "kind": "grants",
+   "outlays": 51696224.27,
+   "recipient": "HOMELAND SECURITY & EMERGENCY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 554787734.86,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4531DRMNP00000001",
+   "kind": "grants",
+   "outlays": 184366399.73,
+   "recipient": "PUBLIC SAFETY, MINNESOTA DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4531DRMNP00000001_070"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 44093914875.26,
+   "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SANDIA, LLC (NTESS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S SANDIA NATIONAL LAB",
+   "id": "DENA0003525",
+   "kind": "contracts",
+   "outlays": 27227349900.77,
+   "recipient": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0003525_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 42970738616.89,
+   "description": "MANAGEMENT AND OPERATION OF THE OAK RIDGE NATIONAL LABORATORY",
+   "id": "DEAC0500OR22725",
+   "kind": "contracts",
+   "outlays": 15219165243.21,
+   "recipient": "UT-BATTELLE LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0500OR22725_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 42157425910.2,
+   "description": "TAS::89 0240::TAS THIS PERFORMANCE-BASED MANAGEMENT CONTRACT (PBMC) IS FOR THE MANAGEMENT AND OPERATION OF THE LAWRENCE LIVERMORE NATIONAL LABORATORY (LLNL). THE CONTRACTOR SHALL, IN ACCORDANCE WITH THE PROVISIONS OF THIS CONTRACT, ACCOMPLI",
+   "id": "DEAC5207NA27344",
+   "kind": "contracts",
+   "outlays": 17719717071.97,
+   "recipient": "LAWRENCE LIVERMORE NATIONAL SECURITY, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC5207NA27344_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 36289094015.26,
+   "description": "IGF::CL::IGF COMPETITION FOR MANAGEMENT AND OPERATION OF LOS ALAMOS NATIONAL LABORATORY",
+   "id": "89233218CNA000001",
+   "kind": "contracts",
+   "outlays": 25919724127.01,
+   "recipient": "TRIAD NATIONAL SECURITY, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_89233218CNA000001_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 35151184369.83,
+   "description": "IGF::CL,CT::IGF MANAGEMENT AND OPERATING CONTRACT FOR Y-12 NATIONAL SECURITY COMPLEX, PANTEX PLANT, WITH AN OPTION FOR SAVANNAH RIVER TRITIUM OPERATIONS",
+   "id": "DENA0001942",
+   "kind": "contracts",
+   "outlays": 18671780536.91,
+   "recipient": "CONSOLIDATED NUCLEAR SECURITY, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0001942_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 31194334447.95,
+   "description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY OPERATING AND MANAGING CONTRACT",
+   "id": "DEAC0576RL01830",
+   "kind": "contracts",
+   "outlays": 8436700652.4,
+   "recipient": "BATTELLE MEMORIAL INSTITUTE",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 27995864149.1,
+   "description": "MANAGEMENT AND OPERATING CONTRACT FOR THE SAVANNAH RIVER SITE.",
+   "id": "DEAC0908SR22470",
+   "kind": "contracts",
+   "outlays": 11769910195.3,
+   "recipient": "SAVANNAH RIVER NUCLEAR SOLUTIONS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0908SR22470_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 26808905230.95,
+   "description": "MANAGEMENT AND OPERATIONS OF THE INL",
+   "id": "DEAC0705ID14517",
+   "kind": "contracts",
+   "outlays": 10167654779.26,
+   "recipient": "BATTELLE ENERGY ALLIANCE, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0705ID14517_8900_-NONE-_-NONE-"
+  }
+ ],
+ "codes": [
+  {
+   "code": "AAB",
+   "designation": "Emergency"
+  },
+  {
+   "code": "AAC",
+   "designation": "Wildfire Suppression"
+  },
+  {
+   "code": "AAD",
+   "designation": "Disaster"
+  }
+ ],
+ "funding_by_code": {
+  "AAB": 82008341940.53,
+  "AAC": 3951722657.27,
+  "AAD": 20114000000.0
+ },
+ "law": "117-328",
+ "overview": {
+  "award_obligations": 58679234556.85,
+  "award_outlays": 50667110431.32,
+  "budget_authority": 106074064597.8,
+  "total_obligations": 102589245666.61,
+  "total_outlays": 83601843037.43
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAB,AAC,AAD"
+}

@@ -1,0 +1,203 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 2050000000.0,
+   "name": "Department of Education",
+   "obligations": 2046233252.44,
+   "outlays": 1430436859.99
+  },
+  {
+   "budgetary_resources": 1500000000.0,
+   "name": "Department of Justice",
+   "obligations": 1214336110.7,
+   "outlays": 506461337.71
+  },
+  {
+   "budgetary_resources": 937664079.45,
+   "name": "Department of Health and Human Services",
+   "obligations": 931440699.3,
+   "outlays": 695282468.85
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Education",
+   "amount": 159198642.0,
+   "description": "21ST CENTURY COMMUNITY LEARNING CENTERS PROGRAM",
+   "id": "S287C220005",
+   "kind": "grants",
+   "outlays": 159198642.0,
+   "recipient": "DEPARTMENT OF EDUCATION CALIFORNIA",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S287C220005_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 124864027.0,
+   "description": "21ST CENTURY COMMUNITY LEARNING CENTERS PROGRAM",
+   "id": "S287C220044",
+   "kind": "grants",
+   "outlays": 124864027.0,
+   "recipient": "TX EDUCATION AGENCY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S287C220044_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 120202952.0,
+   "description": "STRONGER CONNECTIONS GRANT (SCG) PROGRAM",
+   "id": "S424F220005",
+   "kind": "grants",
+   "outlays": 99615117.69,
+   "recipient": "DEPARTMENT OF EDUCATION CALIFORNIA",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S424F220005_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 96349979.0,
+   "description": "21ST CENTURY COMMUNITY LEARNING CENTERS PROGRAM",
+   "id": "S287C220032",
+   "kind": "grants",
+   "outlays": 96349979.0,
+   "recipient": "NEW YORK STATE EDUCATION DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S287C220032_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 94278597.0,
+   "description": "STRONGER CONNECTIONS GRANT (SCG) PROGRAM",
+   "id": "S424F220045",
+   "kind": "grants",
+   "outlays": 70996277.17,
+   "recipient": "TX EDUCATION AGENCY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S424F220045_091"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 79874598.0,
+   "description": "988 SUICIDE AND CRISIS LIFELINE OPERATIONS - THE 988 SUICIDE AND CRISIS LIFELINE OPERATIONS GRANT IS AIMED AT SUPPORTING THE CONTINUOUS PROVISION OF CALL, CHAT, AND TEXT SERVICES FOR ANYONE IN THE U.S. WHO IS EXPERIENCING A MENTAL HEALTH OR",
+   "id": "H79SM087602",
+   "kind": "grants",
+   "outlays": 79874598.0,
+   "recipient": "THE MENTAL HEALTH ASSOCIATION OF NEW YORK CITY, INC.",
+   "url": "https://www.usaspending.gov/award/ASST_NON_H79SM087602_075"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 72749063.0,
+   "description": "STRONGER CONNECTIONS GRANT (SCG) PROGRAM",
+   "id": "S424F220033",
+   "kind": "grants",
+   "outlays": 48181544.59,
+   "recipient": "NEW YORK STATE EDUCATION DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S424F220033_091"
+  },
+  {
+   "agency": "Department of Education",
+   "amount": 71393341.0,
+   "description": "21ST CENTURY COMMUNITY LEARNING CENTERS PROGRAM",
+   "id": "S287C220009",
+   "kind": "grants",
+   "outlays": 71393341.0,
+   "recipient": "FLORIDA DEPARTMENT OF EDUCATION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_S287C220009_091"
+  },
+  {
+   "agency": "Department of Justice",
+   "amount": 241848117.9,
+   "description": "COMPSCONTRACT",
+   "id": "15F06722C0000304",
+   "kind": "contracts",
+   "outlays": 241534190.57,
+   "recipient": "MANTECH ADVANCED SYSTEMS INTERNATIONAL, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15F06722C0000304_1549_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 220989089.0,
+   "description": "REF. NO. 283-22-00568, \"2023-2027 NATIONAL SURVEY ON DRUG USE AND HEALTH (NSDUH)\"",
+   "id": "75S20322C00001",
+   "kind": "contracts",
+   "outlays": 165614699.31,
+   "recipient": "RESEARCH TRIANGLE INSTITUTE",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75S20322C00001_7522_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Justice",
+   "amount": 55267102.4,
+   "description": "CJIS OPERATIONAL SERVICES",
+   "id": "15F06724F0000128",
+   "kind": "contracts",
+   "outlays": 42956059.03,
+   "recipient": "ACCENTURE FEDERAL SERVICES LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15F06724F0000128_1549_GS35F540GA_4732"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 28566476.25,
+   "description": "HELPDESK SERVICES",
+   "id": "75R60220F80032",
+   "kind": "contracts",
+   "outlays": 21218823.51,
+   "recipient": "LCG SYSTEMS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75R60220F80032_7526_HHSN316201200155W_7529"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 23561613.0,
+   "description": "THE OBJECTIVES OF THIS TASK ORDER ARE TO PROVIDE LOGISTICAL, ADMINISTRATIVE, CONSULTANT, AND MATERIALS DEVELOPMENT SUPPORT SERVICES NECESSARY TO CONDUCT MEETINGS AND TO PRODUCE WRITTEN AND GRAPHIC MEETING SUPPORT MATERIALS.",
+   "id": "75S20321F42002",
+   "kind": "contracts",
+   "outlays": 11158292.72,
+   "recipient": "CAPITAL CONSULTING CORP",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75S20321F42002_7522_HHSS283201700075I_7522"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 19569287.73,
+   "description": "SERVICES40 C 7389 EHBS AND PPRS ENTERPRISE O&M SUPPORT",
+   "id": "75R60226F80004",
+   "kind": "contracts",
+   "outlays": 0.0,
+   "recipient": "DIGITAL MANAGEMENT LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75R60226F80004_7526_75R60226A00014_7526"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 17734166.56,
+   "description": "OIT-SERVICES40 C 6828 - EHB OPERATIONS & MAINTENANCE (O&M) ENTERPRISE SUPPORT",
+   "id": "75R60224F34004",
+   "kind": "contracts",
+   "outlays": 17734166.46,
+   "recipient": "DIGITAL MANAGEMENT LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75R60224F34004_7526_75R60224A00036_7526"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 17325650.99,
+   "description": "EHB O&M ENTERPRISE",
+   "id": "75R60223F34020",
+   "kind": "contracts",
+   "outlays": 17325650.99,
+   "recipient": "DIGITAL MANAGEMENT LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75R60223F34020_7526_75R60220A00017_7526"
+  }
+ ],
+ "codes": [
+  {
+   "code": "7",
+   "designation": "Emergency"
+  }
+ ],
+ "funding_by_code": {
+  "7": 4487664079.45
+ },
+ "law": "117-159",
+ "overview": {
+  "award_obligations": 4054108775.1,
+  "award_outlays": 2509159629.52,
+  "budget_authority": 4487664079.45,
+  "total_obligations": 3991938632.75,
+  "total_outlays": 2632656304.54
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=7"
+}

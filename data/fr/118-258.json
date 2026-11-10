@@ -1,0 +1,147 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   5
+  ],
+  [
+   "Children and Families Administration",
+   5
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ],
+  [
+   "Treasury Department",
+   1
+  ],
+  [
+   "Office of the Secretary",
+   1
+  ],
+  [
+   "Fiscal Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 5,
+  "Proposed Rule": 2
+ },
+ "by_year": {
+  "2025": 3,
+  "2026": 4
+ },
+ "complete": true,
+ "first": "2025-06-13",
+ "last": "2026-10-05",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2026-10-05",
+   "k": "Proposed Rule",
+   "n": "2026-20329",
+   "t": "Reforming Federal Reporting and Assessments in Child Welfare",
+   "u": "https://www.federalregister.gov/documents/2026/10/05/2026-20329/reforming-federal-reporting-and-assessments-in-child-welfare"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2026-07-16",
+   "k": "Notice",
+   "n": "2026-14304",
+   "t": "Submission for Office of Management and Budget Review; Child and Family Services Plan, Annual Progress and Services Report, and Annual Budget Expenses Request and Estimated Expenditures (Child and Family Services-101)",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14304/submission-for-office-of-management-and-budget-review-child-and-family-services-plan-annual-progress"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2026-05-13",
+   "k": "Notice",
+   "n": "2026-09512",
+   "t": "Proposed Information Collection Activity; Child and Family Services Plan, Annual Progress and Services Report, and Annual Budget Expenses Request and Estimated Expenditures (Child and Family Services-101)",
+   "u": "https://www.federalregister.gov/documents/2026/05/13/2026-09512/proposed-information-collection-activity-child-and-family-services-plan-annual-progress-and-services"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2026-01-28",
+   "k": "Notice",
+   "n": "2026-01651",
+   "t": "Notice; 2025 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2026/01/28/2026-01651/notice-2025-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Office of the Secretary",
+    "Fiscal Service"
+   ],
+   "d": "2025-12-23",
+   "k": "Proposed Rule",
+   "n": "2025-23704",
+   "t": "Debt Collection Authorities Under the Debt Collection Improvement Act of 1996",
+   "u": "https://www.federalregister.gov/documents/2025/12/23/2025-23704/debt-collection-authorities-under-the-debt-collection-improvement-act-of-1996"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2025-07-22",
+   "k": "Notice",
+   "n": "2025-13790",
+   "t": "Providing Technical Assistance Related to the Indian Child Welfare Act",
+   "u": "https://www.federalregister.gov/documents/2025/07/22/2025-13790/providing-technical-assistance-related-to-the-indian-child-welfare-act"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2025-06-13",
+   "k": "Notice",
+   "n": "2025-10835",
+   "t": "Submission for Office of Management and Budget Review; Regional Partnership Grants National Cross-Site Evaluation and Evaluation Technical Assistance (Office of Management and Budget #0970-0527)",
+   "u": "https://www.federalregister.gov/documents/2025/06/13/2025-10835/submission-for-office-of-management-and-budget-review-regional-partnership-grants-national"
+  }
+ ],
+ "law": "118-258",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2026-10-05",
+   "k": "Proposed Rule",
+   "n": "2026-20329",
+   "t": "Reforming Federal Reporting and Assessments in Child Welfare",
+   "u": "https://www.federalregister.gov/documents/2026/10/05/2026-20329/reforming-federal-reporting-and-assessments-in-child-welfare"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Office of the Secretary",
+    "Fiscal Service"
+   ],
+   "d": "2025-12-23",
+   "k": "Proposed Rule",
+   "n": "2025-23704",
+   "t": "Debt Collection Authorities Under the Debt Collection Improvement Act of 1996",
+   "u": "https://www.federalregister.gov/documents/2025/12/23/2025-23704/debt-collection-authorities-under-the-debt-collection-improvement-act-of-1996"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-258%22+%7C+%22Pub.+L.+118-258%22+%7C+%22P.L.+118-258%22&order=newest",
+ "term": "\"Public Law 118-258\" | \"Pub. L. 118-258\" | \"P.L. 118-258\"",
+ "total": 7
+}

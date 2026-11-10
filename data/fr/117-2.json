@@ -1,0 +1,399 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   126
+  ],
+  [
+   "Treasury Department",
+   54
+  ],
+  [
+   "Agriculture Department",
+   48
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   40
+  ],
+  [
+   "Health Resources and Services Administration",
+   35
+  ],
+  [
+   "Education Department",
+   31
+  ],
+  [
+   "Small Business Administration",
+   29
+  ],
+  [
+   "Office of the Secretary",
+   14
+  ],
+  [
+   "Internal Revenue Service",
+   14
+  ],
+  [
+   "Food and Nutrition Service",
+   14
+  ],
+  [
+   "Community Living Administration",
+   14
+  ],
+  [
+   "Children and Families Administration",
+   11
+  ]
+ ],
+ "by_type": {
+  "Notice": 241,
+  "Presidential Document": 4,
+  "Proposed Rule": 42,
+  "Rule": 62
+ },
+ "by_year": {
+  "2021": 121,
+  "2022": 98,
+  "2023": 46,
+  "2024": 50,
+  "2025": 21,
+  "2026": 13
+ },
+ "complete": true,
+ "first": "2021-03-22",
+ "last": "2026-11-06",
+ "latest": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-06",
+   "k": "Rule",
+   "n": "2026-22679",
+   "t": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/06/2026-22679/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Rural Business-Cooperative Service"
+   ],
+   "d": "2026-10-27",
+   "k": "Notice",
+   "n": "2026-21858",
+   "t": "Notice of Funding Opportunity for the Strengthening Processing for US Ranchers (SPUR) Guaranteed Loan Program for Fiscal Year 2027 and Guarantee Fee Rates/Loan Guarantee Percentage and Fee for Issuance of Loan Note Guarantee Prior to Construction Completion",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21858/notice-of-funding-opportunity-for-the-strengthening-processing-for-us-ranchers-spur-guaranteed-loan"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2026-08-04",
+   "k": "Rule",
+   "n": "2026-15833",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of",
+   "u": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Agricultural Marketing Service"
+   ],
+   "d": "2026-07-02",
+   "k": "Notice",
+   "n": "2026-13404",
+   "t": "Request for Extension of a Currently Approved Information Collection",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13404/request-for-extension-of-a-currently-approved-information-collection"
+  },
+  {
+   "a": [
+    "Pension Benefit Guaranty Corporation"
+   ],
+   "d": "2026-06-16",
+   "k": "Proposed Rule",
+   "n": "2026-12100",
+   "t": "Technical Amendments: Special Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/06/16/2026-12100/technical-amendments-special-financial-assistance"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2026-05-20",
+   "k": "Rule",
+   "n": "2026-10050",
+   "t": "Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program",
+   "u": "https://www.federalregister.gov/documents/2026/05/20/2026-10050/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-04-14",
+   "k": "Proposed Rule",
+   "n": "2026-07203",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; and Other Policy Changes",
+   "u": "https://www.federalregister.gov/documents/2026/04/14/2026-07203/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-04-09",
+   "k": "Proposed Rule",
+   "n": "2026-06863",
+   "t": "Modernizing Suspension and Debarment Rules",
+   "u": "https://www.federalregister.gov/documents/2026/04/09/2026-06863/modernizing-suspension-and-debarment-rules"
+  },
+  {
+   "a": [
+    "Treasury Department"
+   ],
+   "d": "2026-03-31",
+   "k": "Notice",
+   "n": "2026-06191",
+   "t": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Multiple Departmental Offices Information Collection Requests",
+   "u": "https://www.federalregister.gov/documents/2026/03/31/2026-06191/agency-information-collection-activities-submission-for-omb-review-comment-request-multiple"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2026-01-29",
+   "k": "Notice",
+   "n": "2026-01779",
+   "t": "Reporting and Recordkeeping Requirements Under Office of Management and Budget Review",
+   "u": "https://www.federalregister.gov/documents/2026/01/29/2026-01779/reporting-and-recordkeeping-requirements-under-office-of-management-and-budget-review"
+  },
+  {
+   "a": [
+    "Treasury Department"
+   ],
+   "d": "2026-01-29",
+   "k": "Notice",
+   "n": "2026-01731",
+   "t": "Agency Information Collection Activities; Proposed Collection; Comment Request; Emergency Rental Assistance Program (ERA2)",
+   "u": "https://www.federalregister.gov/documents/2026/01/29/2026-01731/agency-information-collection-activities-proposed-collection-comment-request-emergency-rental"
+  },
+  {
+   "a": [
+    "Agriculture Department"
+   ],
+   "d": "2026-01-14",
+   "k": "Notice",
+   "n": "2026-00583",
+   "t": "Submission for OMB Review; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2026/01/14/2026-00583/submission-for-omb-review-comment-request"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-01-09",
+   "k": "Proposed Rule",
+   "n": "2026-00254",
+   "t": "Backup Withholding on Third Party Network Transactions",
+   "u": "https://www.federalregister.gov/documents/2026/01/09/2026-00254/backup-withholding-on-third-party-network-transactions"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2025-11-28",
+   "k": "Notice",
+   "n": "2025-21332",
+   "t": "Federal Financial Participation in State Assistance Expenditures; Federal Matching Shares for Medicaid, the Children's Health Insurance Program, and Aid to Needy Aged, Blind, or Disabled Persons for October 1, 2026, Through September 30, 2027",
+   "u": "https://www.federalregister.gov/documents/2025/11/28/2025-21332/federal-financial-participation-in-state-assistance-expenditures-federal-matching-shares-for"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2025-11-26",
+   "k": "Notice",
+   "n": "2025-21129",
+   "t": "Data Collection Available for Public Comments",
+   "u": "https://www.federalregister.gov/documents/2025/11/26/2025-21129/data-collection-available-for-public-comments"
+  }
+ ],
+ "law": "117-2",
+ "rules": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-06",
+   "k": "Rule",
+   "n": "2026-22679",
+   "t": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/06/2026-22679/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2026-08-04",
+   "k": "Rule",
+   "n": "2026-15833",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of",
+   "u": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Pension Benefit Guaranty Corporation"
+   ],
+   "d": "2026-06-16",
+   "k": "Proposed Rule",
+   "n": "2026-12100",
+   "t": "Technical Amendments: Special Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/06/16/2026-12100/technical-amendments-special-financial-assistance"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2026-05-20",
+   "k": "Rule",
+   "n": "2026-10050",
+   "t": "Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program",
+   "u": "https://www.federalregister.gov/documents/2026/05/20/2026-10050/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-04-14",
+   "k": "Proposed Rule",
+   "n": "2026-07203",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; and Other Policy Changes",
+   "u": "https://www.federalregister.gov/documents/2026/04/14/2026-07203/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-04-09",
+   "k": "Proposed Rule",
+   "n": "2026-06863",
+   "t": "Modernizing Suspension and Debarment Rules",
+   "u": "https://www.federalregister.gov/documents/2026/04/09/2026-06863/modernizing-suspension-and-debarment-rules"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-01-09",
+   "k": "Proposed Rule",
+   "n": "2026-00254",
+   "t": "Backup Withholding on Third Party Network Transactions",
+   "u": "https://www.federalregister.gov/documents/2026/01/09/2026-00254/backup-withholding-on-third-party-network-transactions"
+  },
+  {
+   "a": [
+    "Pension Benefit Guaranty Corporation"
+   ],
+   "d": "2025-08-15",
+   "k": "Rule",
+   "n": "2025-15610",
+   "t": "Miscellaneous Corrections, Clarifications, and Improvements",
+   "u": "https://www.federalregister.gov/documents/2025/08/15/2025-15610/miscellaneous-corrections-clarifications-and-improvements"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-04",
+   "k": "Rule",
+   "n": "2025-14681",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; ",
+   "u": "https://www.federalregister.gov/documents/2025/08/04/2025-14681/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2025-06-25",
+   "k": "Rule",
+   "n": "2025-11606",
+   "t": "Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability",
+   "u": "https://www.federalregister.gov/documents/2025/06/25/2025-11606/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-04-30",
+   "k": "Proposed Rule",
+   "n": "2025-06271",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2026 Rates; Requirements for Quality Programs; and Other Policy Changes",
+   "u": "https://www.federalregister.gov/documents/2025/04/30/2025-06271/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2025-03-19",
+   "k": "Proposed Rule",
+   "n": "2025-04083",
+   "t": "Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability",
+   "u": "https://www.federalregister.gov/documents/2025/03/19/2025-04083/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability"
+  },
+  {
+   "a": [
+    "Pension Benefit Guaranty Corporation"
+   ],
+   "d": "2025-01-21",
+   "k": "Proposed Rule",
+   "n": "2025-00726",
+   "t": "Miscellaneous Corrections, Clarifications, and Improvements",
+   "u": "https://www.federalregister.gov/documents/2025/01/21/2025-00726/miscellaneous-corrections-clarifications-and-improvements"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2025-01-16",
+   "k": "Proposed Rule",
+   "n": "2025-00728",
+   "t": "Certain Employee Remuneration in Excess of $1,000,000 Under Internal Revenue Code Section 162(m)",
+   "u": "https://www.federalregister.gov/documents/2025/01/16/2025-00728/certain-employee-remuneration-in-excess-of-1000000-under-internal-revenue-code-section-162m"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2025-01-15",
+   "k": "Rule",
+   "n": "2025-00640",
+   "t": "Patient Protection and Affordable Care Act; HHS Notice of Benefit and Payment Parameters for 2026; and Basic Health Program",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2025-00640/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2026-and"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-2%22+%7C+%22Pub.+L.+117-2%22+%7C+%22P.L.+117-2%22&order=newest",
+ "term": "\"Public Law 117-2\" | \"Pub. L. 117-2\" | \"P.L. 117-2\"",
+ "total": 349
+}

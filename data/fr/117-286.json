@@ -1,0 +1,246 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   96
+  ],
+  [
+   "Coast Guard",
+   57
+  ],
+  [
+   "Health and Human Services Department",
+   13
+  ],
+  [
+   "Centers for Disease Control and Prevention",
+   11
+  ],
+  [
+   "Defense Department",
+   8
+  ],
+  [
+   "Federal Emergency Management Agency",
+   7
+  ],
+  [
+   "Air Force Department",
+   7
+  ],
+  [
+   "Education Department",
+   3
+  ],
+  [
+   "Office of the Secretary",
+   1
+  ],
+  [
+   "Food and Drug Administration",
+   1
+  ],
+  [
+   "Health Resources and Services Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 118,
+  "Rule": 2
+ },
+ "by_year": {
+  "2023": 67,
+  "2024": 38,
+  "2025": 9,
+  "2026": 6
+ },
+ "complete": true,
+ "first": "2023-01-18",
+ "last": "2026-10-30",
+ "latest": [
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-10-30",
+   "k": "Rule",
+   "n": "2026-22174",
+   "t": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies; Institutional Eligibility Under the Higher Education Act of 1965, as Amended; Student Assistance General Provisions",
+   "u": "https://www.federalregister.gov/documents/2026/10/30/2026-22174/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-05-11",
+   "k": "Notice",
+   "n": "2026-09307",
+   "t": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Rehabilitation Services Administration (RSA) Rehabilitation Long-Term Training (RLTT) Program Payback Information Management System (PIMS)",
+   "u": "https://www.federalregister.gov/documents/2026/05/11/2026-09307/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-04-29",
+   "k": "Notice",
+   "n": "2026-08265",
+   "t": "Federal Emergency Management Agency Review Council; Notice of Meeting",
+   "u": "https://www.federalregister.gov/documents/2026/04/29/2026-08265/federal-emergency-management-agency-review-council-notice-of-meeting"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-04-10",
+   "k": "Notice",
+   "n": "2026-06950",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/04/10/2026-06950/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-03-06",
+   "k": "Notice",
+   "n": "2026-04469",
+   "t": "Agency Information Collection Activities; Comment Request; Rehabilitation Services Administration (RSA) Rehabilitation Long-Term Training (RLTT) Program Payback Information Management System (PIMS)",
+   "u": "https://www.federalregister.gov/documents/2026/03/06/2026-04469/agency-information-collection-activities-comment-request-rehabilitation-services-administration-rsa"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Coast Guard"
+   ],
+   "d": "2026-01-21",
+   "k": "Notice",
+   "n": "2026-01062",
+   "t": "Great Lakes Pilotage Advisory Committee Meeting; February 2026 Meeting",
+   "u": "https://www.federalregister.gov/documents/2026/01/21/2026-01062/great-lakes-pilotage-advisory-committee-meeting-february-2026-meeting"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-11-26",
+   "k": "Notice",
+   "n": "2025-21216",
+   "t": "Federal Emergency Management Agency Review Council; Notice of Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/11/26/2025-21216/federal-emergency-management-agency-review-council-notice-of-meeting"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-08-13",
+   "k": "Notice",
+   "n": "2025-15354",
+   "t": "Federal Emergency Management Agency Review Council; Notice of Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/08/13/2025-15354/federal-emergency-management-agency-review-council-notice-of-meeting"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-06-23",
+   "k": "Notice",
+   "n": "2025-11506",
+   "t": "Federal Emergency Management Agency Review Council; Notice of Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/06/23/2025-11506/federal-emergency-management-agency-review-council-notice-of-meeting"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Coast Guard"
+   ],
+   "d": "2025-06-23",
+   "k": "Notice",
+   "n": "2025-11452",
+   "t": "Great Lakes Pilotage Advisory Committee Meeting; July 2025 Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/06/23/2025-11452/great-lakes-pilotage-advisory-committee-meeting-july-2025-meeting"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-05-13",
+   "k": "Notice",
+   "n": "2025-08369",
+   "t": "Federal Emergency Management Agency Review Council Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/05/13/2025-08369/federal-emergency-management-agency-review-council-meeting"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Coast Guard"
+   ],
+   "d": "2025-04-21",
+   "k": "Notice",
+   "n": "2025-06815",
+   "t": "Great Lakes Pilotage Advisory Committee; Vacancy",
+   "u": "https://www.federalregister.gov/documents/2025/04/21/2025-06815/great-lakes-pilotage-advisory-committee-vacancy"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2025-01-17",
+   "k": "Notice",
+   "n": "2025-01158",
+   "t": "Technical Mapping Advisory Council; Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/01/17/2025-01158/technical-mapping-advisory-council-meeting"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Coast Guard"
+   ],
+   "d": "2025-01-14",
+   "k": "Notice",
+   "n": "2025-00591",
+   "t": "National Boating Safety Advisory Committee; January 2025 Virtual Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/01/14/2025-00591/national-boating-safety-advisory-committee-january-2025-virtual-meeting"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-01-07",
+   "k": "Notice",
+   "n": "2025-00009",
+   "t": "Technical Mapping Advisory Council; Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/01/07/2025-00009/technical-mapping-advisory-council-meeting"
+  }
+ ],
+ "law": "117-286",
+ "rules": [
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-10-30",
+   "k": "Rule",
+   "n": "2026-22174",
+   "t": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies; Institutional Eligibility Under the Higher Education Act of 1965, as Amended; Student Assistance General Provisions",
+   "u": "https://www.federalregister.gov/documents/2026/10/30/2026-22174/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2023-09-19",
+   "k": "Rule",
+   "n": "2023-20012",
+   "t": "Advisory Committee; Board of Tea Experts; Termination and Technical Amendment to the Citation for the Federal Advisory Committee Act",
+   "u": "https://www.federalregister.gov/documents/2023/09/19/2023-20012/advisory-committee-board-of-tea-experts-termination-and-technical-amendment-to-the-citation-for-the"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-286%22+%7C+%22Pub.+L.+117-286%22+%7C+%22P.L.+117-286%22&order=newest",
+ "term": "\"Public Law 117-286\" | \"Pub. L. 117-286\" | \"P.L. 117-286\"",
+ "total": 120
+}

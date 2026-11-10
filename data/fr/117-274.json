@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2022": 1
+ },
+ "complete": true,
+ "first": "2022-09-09",
+ "last": "2022-09-09",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2022-09-09",
+   "k": "Rule",
+   "n": "2022-18867",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2022/09/09/2022-18867/public-charge-ground-of-inadmissibility"
+  }
+ ],
+ "law": "117-274",
+ "rules": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2022-09-09",
+   "k": "Rule",
+   "n": "2022-18867",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2022/09/09/2022-18867/public-charge-ground-of-inadmissibility"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-274%22+%7C+%22Pub.+L.+117-274%22+%7C+%22P.L.+117-274%22&order=newest",
+ "term": "\"Public Law 117-274\" | \"Pub. L. 117-274\" | \"P.L. 117-274\"",
+ "total": 1
+}

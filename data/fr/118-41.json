@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   1
+  ],
+  [
+   "Federal Aviation Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-04-03",
+ "last": "2024-04-03",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2024-04-03",
+   "k": "Notice",
+   "n": "2024-07001",
+   "t": "Deadline for Notification of Intent To Use the Airport Improvement Program (AIP) Primary, Cargo, and Nonprimary Entitlement Funds Available to Date for Fiscal Year 2024",
+   "u": "https://www.federalregister.gov/documents/2024/04/03/2024-07001/deadline-for-notification-of-intent-to-use-the-airport-improvement-program-aip-primary-cargo-and"
+  }
+ ],
+ "law": "118-41",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-41%22+%7C+%22Pub.+L.+118-41%22+%7C+%22P.L.+118-41%22&order=newest",
+ "term": "\"Public Law 118-41\" | \"Pub. L. 118-41\" | \"P.L. 118-41\"",
+ "total": 1
+}

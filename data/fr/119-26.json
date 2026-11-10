@@ -1,0 +1,133 @@
+{
+ "agencies": [
+  [
+   "Justice Department",
+   4
+  ],
+  [
+   "Drug Enforcement Administration",
+   4
+  ],
+  [
+   "United States Sentencing Commission",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 3,
+  "Proposed Rule": 1,
+  "Rule": 2
+ },
+ "by_year": {
+  "2025": 3,
+  "2026": 3
+ },
+ "complete": true,
+ "first": "2025-09-18",
+ "last": "2026-07-09",
+ "latest": [
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-07-09",
+   "k": "Proposed Rule",
+   "n": "2026-13825",
+   "t": "Designation of Phenethyl Halides as List I Chemicals",
+   "u": "https://www.federalregister.gov/documents/2026/07/09/2026-13825/designation-of-phenethyl-halides-as-list-i-chemicals"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-06-09",
+   "k": "Rule",
+   "n": "2026-11526",
+   "t": "Implementation of the Substance Use-Disorder Prevention That Promotes Opioid Recovery and Treatment for Patients and Communities Act of 2018: Dispensing and Administering Controlled Substances for Medication-Assisted Treatment",
+   "u": "https://www.federalregister.gov/documents/2026/06/09/2026-11526/implementation-of-the-substance-use-disorder-prevention-that-promotes-opioid-recovery-and-treatment"
+  },
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2026-05-04",
+   "k": "Notice",
+   "n": "2026-08647",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2026/05/04/2026-08647/sentencing-guidelines-for-united-states-courts"
+  },
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2025-12-19",
+   "k": "Notice",
+   "n": "2025-23473",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2025/12/19/2025-23473/sentencing-guidelines-for-united-states-courts"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2025-10-21",
+   "k": "Notice",
+   "n": "2025-19613",
+   "t": "MCRGC, LLC; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2025/10/21/2025-19613/mcrgc-llc-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2025-09-18",
+   "k": "Rule",
+   "n": "2025-18103",
+   "t": "Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I",
+   "u": "https://www.federalregister.gov/documents/2025/09/18/2025-18103/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in"
+  }
+ ],
+ "law": "119-26",
+ "rules": [
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-07-09",
+   "k": "Proposed Rule",
+   "n": "2026-13825",
+   "t": "Designation of Phenethyl Halides as List I Chemicals",
+   "u": "https://www.federalregister.gov/documents/2026/07/09/2026-13825/designation-of-phenethyl-halides-as-list-i-chemicals"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-06-09",
+   "k": "Rule",
+   "n": "2026-11526",
+   "t": "Implementation of the Substance Use-Disorder Prevention That Promotes Opioid Recovery and Treatment for Patients and Communities Act of 2018: Dispensing and Administering Controlled Substances for Medication-Assisted Treatment",
+   "u": "https://www.federalregister.gov/documents/2026/06/09/2026-11526/implementation-of-the-substance-use-disorder-prevention-that-promotes-opioid-recovery-and-treatment"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2025-09-18",
+   "k": "Rule",
+   "n": "2025-18103",
+   "t": "Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I",
+   "u": "https://www.federalregister.gov/documents/2025/09/18/2025-18103/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-26%22+%7C+%22Pub.+L.+119-26%22+%7C+%22P.L.+119-26%22&order=newest",
+ "term": "\"Public Law 119-26\" | \"Pub. L. 119-26\" | \"P.L. 119-26\"",
+ "total": 6
+}

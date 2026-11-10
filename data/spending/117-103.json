@@ -1,0 +1,261 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 18656373413.69,
+   "name": "Department of Homeland Security",
+   "obligations": 21252025173.86,
+   "outlays": 21252025173.53
+  },
+  {
+   "budgetary_resources": 7298090000.0,
+   "name": "Department of Defense",
+   "obligations": 5870842532.62,
+   "outlays": 5258827853.02
+  },
+  {
+   "budgetary_resources": 4473357539.67,
+   "name": "Agency for International Development",
+   "obligations": 4238005030.48,
+   "outlays": 4234798787.78
+  },
+  {
+   "budgetary_resources": 1591200000.0,
+   "name": "Department of State",
+   "obligations": 1551425567.95,
+   "outlays": 1537908396.0
+  },
+  {
+   "budgetary_resources": 330000000.0,
+   "name": "Department of the Interior",
+   "obligations": 329416402.18,
+   "outlays": 318697272.66
+  },
+  {
+   "budgetary_resources": 168000000.0,
+   "name": "Small Business Administration",
+   "obligations": 168000000.0,
+   "outlays": 168000000.0
+  },
+  {
+   "budgetary_resources": 134973255.28,
+   "name": "Department of Agriculture",
+   "obligations": 134973255.28,
+   "outlays": 134973255.28
+  },
+  {
+   "budgetary_resources": 59400000.0,
+   "name": "Department of Justice",
+   "obligations": 60672673.85,
+   "outlays": 60570194.7
+  },
+  {
+   "budgetary_resources": 61000000.0,
+   "name": "Department of the Treasury",
+   "obligations": 58722923.15,
+   "outlays": 50308038.17
+  },
+  {
+   "budgetary_resources": 22100000.0,
+   "name": "Department of Commerce",
+   "obligations": 21552984.94,
+   "outlays": 20783516.44
+  },
+  {
+   "budgetary_resources": 0.0,
+   "name": "Department of Energy",
+   "obligations": 17029934.54,
+   "outlays": 20191085.13
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1980374214.55,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4499DRORP00000001",
+   "kind": "grants",
+   "outlays": 1251658113.63,
+   "recipient": "OREGON MILITARY DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 1457601224.03,
+   "description": "THIS AWARD FUNDS RESEARCH FOR MAINTENANCE AND SUSTAINMENT OF MILITARY AND CIVILIAN EQUIPMENT.",
+   "id": "HQ00342420008",
+   "kind": "grants",
+   "outlays": 59725101.91,
+   "recipient": "NATIONAL CENTER FOR MANUFACTURING SCIENCES INC",
+   "url": "https://www.usaspending.gov/award/ASST_NON_HQ00342420008_097"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1063462203.7,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4500DRCTP00000001",
+   "kind": "grants",
+   "outlays": 359763529.87,
+   "recipient": "EMERGENCY SERVICES AND PUBLIC PROTECTION, DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4500DRCTP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 660572955.78,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "1603DRLAP0000005",
+   "kind": "grants",
+   "outlays": 51696224.27,
+   "recipient": "HOMELAND SECURITY & EMERGENCY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 554787734.86,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4531DRMNP00000001",
+   "kind": "grants",
+   "outlays": 184366399.73,
+   "recipient": "PUBLIC SAFETY, MINNESOTA DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4531DRMNP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 542881187.54,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4483DRIAP00000001",
+   "kind": "grants",
+   "outlays": 270375414.33,
+   "recipient": "IOWA HOMELAND SECURITY AND EMERGENCY MANAGEMENT DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4483DRIAP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 524461882.66,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4504DRKSP00000001",
+   "kind": "grants",
+   "outlays": 198995609.18,
+   "recipient": "KANSAS ADJUTANT GENERAL DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4504DRKSP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 470850100.11,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4533DRAKP00000001",
+   "kind": "grants",
+   "outlays": 319018303.61,
+   "recipient": "ALASKA DEPARTMENT OF MILITARY AND VETERAN'S AFFAIRS",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4533DRAKP00000001_070"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 31194334447.95,
+   "description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY OPERATING AND MANAGING CONTRACT",
+   "id": "DEAC0576RL01830",
+   "kind": "contracts",
+   "outlays": 8436700652.4,
+   "recipient": "BATTELLE MEMORIAL INSTITUTE",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 26808905230.95,
+   "description": "MANAGEMENT AND OPERATIONS OF THE INL",
+   "id": "DEAC0705ID14517",
+   "kind": "contracts",
+   "outlays": 10167654779.26,
+   "recipient": "BATTELLE ENERGY ALLIANCE, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0705ID14517_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 17730321030.51,
+   "description": "PERFORMANCE-BASED CONTRACT FOR MANAGEMENT AND OPERATION OF ARGONNE NATIONAL LABORATORY",
+   "id": "DEAC0206CH11357",
+   "kind": "contracts",
+   "outlays": 7298151885.39,
+   "recipient": "UCHICAGO ARGONNE, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0206CH11357_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 2318321852.92,
+   "description": "199812!2100!0747!AA09 !U.S. ARMY INDUSTRIAL OPERATIONS !DAAA0998E0006 !A!*!P00001 !19980929!19991231!289954943!770087872!217304393!N!40381!ROYAL ORDNANCE PLC !EUXTON LA !CHORLEY !UK!PR7 6!03000!013!51!ARLINGTON !ARLINGTON !VIRGINIA !0001!+0",
+   "id": "DAAA0998E0006",
+   "kind": "contracts",
+   "outlays": 72599243.52,
+   "recipient": "BAE SYSTEMS ORDNANCE SYSTEMS INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DAAA0998E0006_9700_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Agency for International Development",
+   "amount": 919999999.93,
+   "description": "OVERSEAS CONTRACT",
+   "id": "72012118C00003",
+   "kind": "contracts",
+   "outlays": 665562296.41,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_72012118C00003_7200_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 580425327.83,
+   "description": "EADIS SOFTWARE DEVELOPMENT",
+   "id": "HSFEHQ08J2009",
+   "kind": "contracts",
+   "outlays": -23548.72,
+   "recipient": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_HSFEHQ08J2009_7022_HSHQDC06D00019_7001"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 535095274.04,
+   "description": "THIS EFFORT IS TO SUPPORT THE U.S. ARMY COMMUNICATIONS-ELECTRONICS COMMAND (CECOM), SOFTWARE ENGINEERING CENTER (SEC), AND TOBYHANNA ARMY DEPOT (TYAD) REQUIREMENT TO PROVIDE WORLDWIDE FIELD SUPPORT",
+   "id": "W56JSR21F0043",
+   "kind": "contracts",
+   "outlays": 53599438.05,
+   "recipient": "GENERAL DYNAMICS GLOBAL FORCE, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W56JSR21F0043_9700_W15P7T17D0148_9700"
+  },
+  {
+   "agency": "Agency for International Development",
+   "amount": 470511408.97,
+   "description": "THIS IS TO ESTABLISH FUNDING FOR THE NEW O&M CONTRACT IN THE AMOUNT OF $4,254,495.93 FROM MAY 1, 2019 - JULY 31, 2019.",
+   "id": "72MC1019M00011",
+   "kind": "contracts",
+   "outlays": 457711585.13,
+   "recipient": "NTT DATA FEDERAL SERVICES, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_72MC1019M00011_7200_GS35F518GA_4732"
+  }
+ ],
+ "codes": [
+  {
+   "code": "3",
+   "designation": "Emergency"
+  },
+  {
+   "code": "4",
+   "designation": "Disaster"
+  },
+  {
+   "code": "5",
+   "designation": "Wildfire Suppression"
+  }
+ ],
+ "funding_by_code": {
+  "3": 13640120794.95,
+  "4": 18824373413.69,
+  "5": 330000000.0
+ },
+ "law": "117-103",
+ "overview": {
+  "award_obligations": 21143268789.66,
+  "award_outlays": 23415763326.09,
+  "budget_authority": 32794494208.64,
+  "total_obligations": 34816734806.94,
+  "total_outlays": 33673154853.58
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=3,4,5"
+}

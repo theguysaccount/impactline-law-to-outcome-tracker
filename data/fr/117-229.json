@@ -1,0 +1,185 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   6
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   6
+  ],
+  [
+   "Office of the Secretary",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 3,
+  "Rule": 3
+ },
+ "by_year": {
+  "2023": 3,
+  "2024": 2,
+  "2025": 2
+ },
+ "complete": true,
+ "first": "2023-01-30",
+ "last": "2025-08-04",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-04",
+   "k": "Rule",
+   "n": "2025-14681",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; ",
+   "u": "https://www.federalregister.gov/documents/2025/08/04/2025-14681/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-04-30",
+   "k": "Proposed Rule",
+   "n": "2025-06271",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2026 Rates; Requirements for Quality Programs; and Other Policy Changes",
+   "u": "https://www.federalregister.gov/documents/2025/04/30/2025-06271/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-08-28",
+   "k": "Rule",
+   "n": "2024-17021",
+   "t": "Medicare and Medicaid Programs and the Children's Health Insurance Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2025 Rates; Quality Programs Requirements; and Other Polic",
+   "u": "https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-and-medicaid-programs-and-the-childrens-health-insurance-program-hospital-inpatient"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-05-02",
+   "k": "Proposed Rule",
+   "n": "2024-07567",
+   "t": "Medicare and Medicaid Programs and the Children's Health Insurance Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2025 Rates; Quality Programs Requirements; and Other Polic",
+   "u": "https://www.federalregister.gov/documents/2024/05/02/2024-07567/medicare-and-medicaid-programs-and-the-childrens-health-insurance-program-hospital-inpatient"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-08-28",
+   "k": "Rule",
+   "n": "2023-16252",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2024 Rates; Quality Programs and Medicare Promoting Interoperability Program Requirements for Eligible Hospitals and",
+   "u": "https://www.federalregister.gov/documents/2023/08/28/2023-16252/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-05-01",
+   "k": "Proposed Rule",
+   "n": "2023-07389",
+   "t": "Medicare Program; Proposed Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2024 Rates; Quality Programs and Medicare Promoting Interoperability Program Requirements for Eligible Hosp",
+   "u": "https://www.federalregister.gov/documents/2023/05/01/2023-07389/medicare-program-proposed-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-01-30",
+   "k": "Notice",
+   "n": "2023-01771",
+   "t": "Notice; 2022 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2023/01/30/2023-01771/notice-2022-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "117-229",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-04",
+   "k": "Rule",
+   "n": "2025-14681",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; ",
+   "u": "https://www.federalregister.gov/documents/2025/08/04/2025-14681/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-04-30",
+   "k": "Proposed Rule",
+   "n": "2025-06271",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2026 Rates; Requirements for Quality Programs; and Other Policy Changes",
+   "u": "https://www.federalregister.gov/documents/2025/04/30/2025-06271/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-08-28",
+   "k": "Rule",
+   "n": "2024-17021",
+   "t": "Medicare and Medicaid Programs and the Children's Health Insurance Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2025 Rates; Quality Programs Requirements; and Other Polic",
+   "u": "https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-and-medicaid-programs-and-the-childrens-health-insurance-program-hospital-inpatient"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-05-02",
+   "k": "Proposed Rule",
+   "n": "2024-07567",
+   "t": "Medicare and Medicaid Programs and the Children's Health Insurance Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2025 Rates; Quality Programs Requirements; and Other Polic",
+   "u": "https://www.federalregister.gov/documents/2024/05/02/2024-07567/medicare-and-medicaid-programs-and-the-childrens-health-insurance-program-hospital-inpatient"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-08-28",
+   "k": "Rule",
+   "n": "2023-16252",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2024 Rates; Quality Programs and Medicare Promoting Interoperability Program Requirements for Eligible Hospitals and",
+   "u": "https://www.federalregister.gov/documents/2023/08/28/2023-16252/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2023-05-01",
+   "k": "Proposed Rule",
+   "n": "2023-07389",
+   "t": "Medicare Program; Proposed Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2024 Rates; Quality Programs and Medicare Promoting Interoperability Program Requirements for Eligible Hosp",
+   "u": "https://www.federalregister.gov/documents/2023/05/01/2023-07389/medicare-program-proposed-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-229%22+%7C+%22Pub.+L.+117-229%22+%7C+%22P.L.+117-229%22&order=newest",
+ "term": "\"Public Law 117-229\" | \"Pub. L. 117-229\" | \"P.L. 117-229\"",
+ "total": 7
+}

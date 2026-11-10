@@ -1,0 +1,65 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Rule": 2
+ },
+ "by_year": {
+  "2024": 2
+ },
+ "complete": true,
+ "first": "2024-04-25",
+ "last": "2024-07-17",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-07-17",
+   "k": "Rule",
+   "n": "2024-15532",
+   "t": "Reconsideration of Prior Interment and Memorialization Decisions",
+   "u": "https://www.federalregister.gov/documents/2024/07/17/2024-15532/reconsideration-of-prior-interment-and-memorialization-decisions"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-04-25",
+   "k": "Rule",
+   "n": "2024-08023",
+   "t": "Expansion of Prohibition of Interment or Memorialization of Persons Who Committed Certain Crimes",
+   "u": "https://www.federalregister.gov/documents/2024/04/25/2024-08023/expansion-of-prohibition-of-interment-or-memorialization-of-persons-who-committed-certain-crimes"
+  }
+ ],
+ "law": "117-355",
+ "rules": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-07-17",
+   "k": "Rule",
+   "n": "2024-15532",
+   "t": "Reconsideration of Prior Interment and Memorialization Decisions",
+   "u": "https://www.federalregister.gov/documents/2024/07/17/2024-15532/reconsideration-of-prior-interment-and-memorialization-decisions"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-04-25",
+   "k": "Rule",
+   "n": "2024-08023",
+   "t": "Expansion of Prohibition of Interment or Memorialization of Persons Who Committed Certain Crimes",
+   "u": "https://www.federalregister.gov/documents/2024/04/25/2024-08023/expansion-of-prohibition-of-interment-or-memorialization-of-persons-who-committed-certain-crimes"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-355%22+%7C+%22Pub.+L.+117-355%22+%7C+%22P.L.+117-355%22&order=newest",
+ "term": "\"Public Law 117-355\" | \"Pub. L. 117-355\" | \"P.L. 117-355\"",
+ "total": 2
+}

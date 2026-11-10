@@ -1,0 +1,44 @@
+{
+ "agencies": [
+  [
+   "Environmental Protection Agency",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2026-03-05",
+ "last": "2026-07-16",
+ "latest": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-07-16",
+   "k": "Notice",
+   "n": "2026-14361",
+   "t": "Good Samaritan Remediation Permit for the Bodie Mine Project",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14361/good-samaritan-remediation-permit-for-the-bodie-mine-project"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-03-05",
+   "k": "Notice",
+   "n": "2026-04386",
+   "t": "Financial Assurance Guidance for the Good Samaritan Remediation of Abandoned Hardrock Mines Act of 2024",
+   "u": "https://www.federalregister.gov/documents/2026/03/05/2026-04386/financial-assurance-guidance-for-the-good-samaritan-remediation-of-abandoned-hardrock-mines-act-of"
+  }
+ ],
+ "law": "118-155",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-155%22+%7C+%22Pub.+L.+118-155%22+%7C+%22P.L.+118-155%22&order=newest",
+ "term": "\"Public Law 118-155\" | \"Pub. L. 118-155\" | \"P.L. 118-155\"",
+ "total": 2
+}

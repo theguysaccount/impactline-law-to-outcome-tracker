@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Environmental Protection Agency",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-01-02",
+ "last": "2026-01-02",
+ "latest": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-01-02",
+   "k": "Rule",
+   "n": "2025-24202",
+   "t": "Congressional Review Act Revocation of 2024 Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act",
+   "u": "https://www.federalregister.gov/documents/2026/01/02/2025-24202/congressional-review-act-revocation-of-2024-review-of-final-rule-reclassification-of-major-sources"
+  }
+ ],
+ "law": "119-20",
+ "rules": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-01-02",
+   "k": "Rule",
+   "n": "2025-24202",
+   "t": "Congressional Review Act Revocation of 2024 Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act",
+   "u": "https://www.federalregister.gov/documents/2026/01/02/2025-24202/congressional-review-act-revocation-of-2024-review-of-final-rule-reclassification-of-major-sources"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-20%22+%7C+%22Pub.+L.+119-20%22+%7C+%22P.L.+119-20%22&order=newest",
+ "term": "\"Public Law 119-20\" | \"Pub. L. 119-20\" | \"P.L. 119-20\"",
+ "total": 1
+}

@@ -1,0 +1,398 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   25
+  ],
+  [
+   "Defense Acquisition Regulations System",
+   17
+  ],
+  [
+   "Health and Human Services Department",
+   12
+  ],
+  [
+   "Centers for Disease Control and Prevention",
+   9
+  ],
+  [
+   "Executive Office of the President",
+   9
+  ],
+  [
+   "State Department",
+   6
+  ],
+  [
+   "Office of the Secretary",
+   4
+  ],
+  [
+   "Personnel Management Office",
+   3
+  ],
+  [
+   "Management and Budget Office",
+   3
+  ],
+  [
+   "Homeland Security Department",
+   3
+  ],
+  [
+   "General Services Administration",
+   3
+  ],
+  [
+   "National Aeronautics and Space Administration",
+   3
+  ]
+ ],
+ "by_type": {
+  "Notice": 21,
+  "Presidential Document": 9,
+  "Proposed Rule": 14,
+  "Rule": 24
+ },
+ "by_year": {
+  "2024": 37,
+  "2025": 13,
+  "2026": 18
+ },
+ "complete": true,
+ "first": "2024-01-29",
+ "last": "2026-11-05",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-11-05",
+   "k": "Proposed Rule",
+   "n": "2026-22617",
+   "t": "Deepwater Port Application Processing and Licensing",
+   "u": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-10-15",
+   "k": "Rule",
+   "n": "2026-21104",
+   "t": "Family and Medical Leave Act",
+   "u": "https://www.federalregister.gov/documents/2026/10/15/2026-21104/family-and-medical-leave-act"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Disease Control and Prevention"
+   ],
+   "d": "2026-09-15",
+   "k": "Notice",
+   "n": "2026-18901",
+   "t": "World Trade Center Health Program; Petition 048a-Peripheral Artery Disease; Finding of Insufficient Evidence",
+   "u": "https://www.federalregister.gov/documents/2026/09/15/2026-18901/world-trade-center-health-program-petition-048a-peripheral-artery-disease-finding-of-insufficient"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Disease Control and Prevention"
+   ],
+   "d": "2026-09-15",
+   "k": "Notice",
+   "n": "2026-18900",
+   "t": "World Trade Center Health Program; Petitions 048 and 051a-Stroke; Finding of Insufficient Evidence",
+   "u": "https://www.federalregister.gov/documents/2026/09/15/2026-18900/world-trade-center-health-program-petitions-048-and-051a-stroke-finding-of-insufficient-evidence"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-08-06",
+   "k": "Notice",
+   "n": "2026-15919",
+   "t": "Delegation of Authority to the Assistant Secretary for Emerging Threats",
+   "u": "https://www.federalregister.gov/documents/2026/08/06/2026-15919/delegation-of-authority-to-the-assistant-secretary-for-emerging-threats"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Disease Control and Prevention"
+   ],
+   "d": "2026-06-30",
+   "k": "Notice",
+   "n": "2026-13176",
+   "t": "World Trade Center Health Program; Petitions 024, 042, 046, 047, 051, 056, 058, and 067-Ischemic Heart Disease; Finding of Insufficient Evidence",
+   "u": "https://www.federalregister.gov/documents/2026/06/30/2026-13176/world-trade-center-health-program-petitions-024-042-046-047-051-056-058-and-067-ischemic-heart"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12826",
+   "t": "Defense Federal Acquisition Regulation Supplement: Certification Requirement for Military Recruitment Advertising (DFARS Case 2024-D022)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12826/defense-federal-acquisition-regulation-supplement-certification-requirement-for-military-recruitment"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12825",
+   "t": "Defense Federal Acquisition Regulation Supplement: Small Purchase Exception for the Acquisition of U.S. Flags (DFARS Case 2024-D013)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12825/defense-federal-acquisition-regulation-supplement-small-purchase-exception-for-the-acquisition-of-us"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-06-23",
+   "k": "Proposed Rule",
+   "n": "2026-12559",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 1, 2, 4, 33, 39, 40, and 53",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12559/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-1-2-4-33"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Disease Control and Prevention"
+   ],
+   "d": "2026-05-11",
+   "k": "Notice",
+   "n": "2026-09245",
+   "t": "World Trade Center Health Program; Petitions 032, 033, and 068-Peripheral Neuropathy; Finding of Insufficient Evidence",
+   "u": "https://www.federalregister.gov/documents/2026/05/11/2026-09245/world-trade-center-health-program-petitions-032-033-and-068-peripheral-neuropathy-finding-of"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-05-07",
+   "k": "Rule",
+   "n": "2026-09038",
+   "t": "Defense Federal Acquisition Regulation Supplement: Disclosure of Greenhouse Gas Emissions (DFARS Case 2024-D021)",
+   "u": "https://www.federalregister.gov/documents/2026/05/07/2026-09038/defense-federal-acquisition-regulation-supplement-disclosure-of-greenhouse-gas-emissions-dfars-case"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Disease Control and Prevention"
+   ],
+   "d": "2026-04-07",
+   "k": "Notice",
+   "n": "2026-06728",
+   "t": "World Trade Center Health Program; Petitions 029, 034, 035, and 062-Hepatic Steatosis; Finding of Insufficient Evidence",
+   "u": "https://www.federalregister.gov/documents/2026/04/07/2026-06728/world-trade-center-health-program-petitions-029-034-035-and-062-hepatic-steatosis-finding-of"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Disease Control and Prevention"
+   ],
+   "d": "2026-03-19",
+   "k": "Notice",
+   "n": "2026-05421",
+   "t": "World Trade Center (WTC) Health Program; Petition 026-Anti-Glomerular Basement Membrane (Anti-GBM) Glomerulonephritis; Finding of Insufficient Evidence",
+   "u": "https://www.federalregister.gov/documents/2026/03/19/2026-05421/world-trade-center-wtc-health-program-petition-026-anti-glomerular-basement-membrane-anti-gbm"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2026-03-13",
+   "k": "Presidential Document",
+   "n": "2026-05053",
+   "t": "U.S. Hostage and Wrongful Detainee Day, 2026",
+   "u": "https://www.federalregister.gov/documents/2026/03/13/2026-05053/us-hostage-and-wrongful-detainee-day-2026"
+  }
+ ],
+ "law": "118-31",
+ "rules": [
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-11-05",
+   "k": "Proposed Rule",
+   "n": "2026-22617",
+   "t": "Deepwater Port Application Processing and Licensing",
+   "u": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-10-15",
+   "k": "Rule",
+   "n": "2026-21104",
+   "t": "Family and Medical Leave Act",
+   "u": "https://www.federalregister.gov/documents/2026/10/15/2026-21104/family-and-medical-leave-act"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12826",
+   "t": "Defense Federal Acquisition Regulation Supplement: Certification Requirement for Military Recruitment Advertising (DFARS Case 2024-D022)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12826/defense-federal-acquisition-regulation-supplement-certification-requirement-for-military-recruitment"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12825",
+   "t": "Defense Federal Acquisition Regulation Supplement: Small Purchase Exception for the Acquisition of U.S. Flags (DFARS Case 2024-D013)",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12825/defense-federal-acquisition-regulation-supplement-small-purchase-exception-for-the-acquisition-of-us"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-06-23",
+   "k": "Proposed Rule",
+   "n": "2026-12559",
+   "t": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 1, 2, 4, 33, 39, 40, and 53",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12559/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-1-2-4-33"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2026-05-07",
+   "k": "Rule",
+   "n": "2026-09038",
+   "t": "Defense Federal Acquisition Regulation Supplement: Disclosure of Greenhouse Gas Emissions (DFARS Case 2024-D021)",
+   "u": "https://www.federalregister.gov/documents/2026/05/07/2026-09038/defense-federal-acquisition-regulation-supplement-disclosure-of-greenhouse-gas-emissions-dfars-case"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-03-11",
+   "k": "Rule",
+   "n": "2026-04737",
+   "t": "Visas: Enhancing Vetting and Combatting Fraud in the Diversity Immigrant Visa Program",
+   "u": "https://www.federalregister.gov/documents/2026/03/11/2026-04737/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-02-20",
+   "k": "Rule",
+   "n": "2026-03354",
+   "t": "Hiring Authority for College Graduates",
+   "u": "https://www.federalregister.gov/documents/2026/02/20/2026-03354/hiring-authority-for-college-graduates"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-02-19",
+   "k": "Rule",
+   "n": "2026-03242",
+   "t": "Hiring Authority for Post-Secondary Students",
+   "u": "https://www.federalregister.gov/documents/2026/02/19/2026-03242/hiring-authority-for-post-secondary-students"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2025-12-30",
+   "k": "Rule",
+   "n": "2025-23998",
+   "t": "International Traffic in Arms Regulations: Exemption for Defense Trade and Cooperation Among Australia, the United Kingdom, and the United States",
+   "u": "https://www.federalregister.gov/documents/2025/12/30/2025-23998/international-traffic-in-arms-regulations-exemption-for-defense-trade-and-cooperation-among"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2025-08-25",
+   "k": "Rule",
+   "n": "2025-16207",
+   "t": "Defense Federal Acquisition Regulation Supplement: Limitation on Certain Institutes of Higher Education (DFARS Case 2024-D023)",
+   "u": "https://www.federalregister.gov/documents/2025/08/25/2025-16207/defense-federal-acquisition-regulation-supplement-limitation-on-certain-institutes-of-higher"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Defense Acquisition Regulations System"
+   ],
+   "d": "2025-08-25",
+   "k": "Rule",
+   "n": "2025-16206",
+   "t": "Defense Federal Acquisition Regulation Supplement: Preventing Conflicts of Interest for Certain Consulting Services (DFARS Case 2024-D007)",
+   "u": "https://www.federalregister.gov/documents/2025/08/25/2025-16206/defense-federal-acquisition-regulation-supplement-preventing-conflicts-of-interest-for-certain"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2025-08-05",
+   "k": "Proposed Rule",
+   "n": "2025-14784",
+   "t": "Visas: Enhancing Vetting and Combatting Fraud in the Diversity Immigrant Visa Program",
+   "u": "https://www.federalregister.gov/documents/2025/08/05/2025-14784/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-07-16",
+   "k": "Proposed Rule",
+   "n": "2025-13308",
+   "t": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+   "u": "https://www.federalregister.gov/documents/2025/07/16/2025-13308/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-31%22+%7C+%22Pub.+L.+118-31%22+%7C+%22P.L.+118-31%22&order=newest",
+ "term": "\"Public Law 118-31\" | \"Pub. L. 118-31\" | \"P.L. 118-31\"",
+ "total": 68
+}

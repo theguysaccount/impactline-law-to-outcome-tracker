@@ -1,0 +1,388 @@
+{
+ "agencies": [
+  [
+   "Energy Department",
+   46
+  ],
+  [
+   "Federal Energy Regulatory Commission",
+   42
+  ],
+  [
+   "Treasury Department",
+   41
+  ],
+  [
+   "Internal Revenue Service",
+   32
+  ],
+  [
+   "Health and Human Services Department",
+   28
+  ],
+  [
+   "Homeland Security Department",
+   28
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   21
+  ],
+  [
+   "Interior Department",
+   20
+  ],
+  [
+   "Agriculture Department",
+   17
+  ],
+  [
+   "Land Management Bureau",
+   14
+  ],
+  [
+   "Justice Department",
+   12
+  ],
+  [
+   "Education Department",
+   10
+  ]
+ ],
+ "by_type": {
+  "Notice": 120,
+  "Proposed Rule": 60,
+  "Rule": 60
+ },
+ "by_year": {
+  "2025": 49,
+  "2026": 191
+ },
+ "complete": true,
+ "first": "2025-07-22",
+ "last": "2026-11-09",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22792",
+   "t": "Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22792/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22781",
+   "t": "Technical Corrections of Commercial Space Transportation Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22781/technical-corrections-of-commercial-space-transportation-regulations"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-11-05",
+   "k": "Proposed Rule",
+   "n": "2026-22615",
+   "t": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions",
+   "u": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-29",
+   "k": "Rule",
+   "n": "2026-22037",
+   "t": "Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band",
+   "u": "https://www.federalregister.gov/documents/2026/10/29/2026-22037/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Proposed Rule",
+   "n": "2026-21891",
+   "t": "Patient Protection and Affordable Care Act, Exchange Pre-Eligibility Verification",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21891/patient-protection-and-affordable-care-act-exchange-pre-eligibility-verification"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-10-27",
+   "k": "Notice",
+   "n": "2026-21843",
+   "t": "Official Release of the MOVES6 Motor Vehicle Emissions Model for SIPs and Transportation Conformity",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21843/official-release-of-the-moves6-motor-vehicle-emissions-model-for-sips-and-transportation-conformity"
+  },
+  {
+   "a": [
+    "Treasury Department"
+   ],
+   "d": "2026-10-23",
+   "k": "Notice",
+   "n": "2026-21643",
+   "t": "Agency Information Collection Activities; Proposed Collection; Comment Request; Trump Accounts Qualified Class Contribution Application",
+   "u": "https://www.federalregister.gov/documents/2026/10/23/2026-21643/agency-information-collection-activities-proposed-collection-comment-request-trump-accounts"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-10-19",
+   "k": "Notice",
+   "n": "2026-21380",
+   "t": "Agency Information Collection Request: FEHB Protection Act Portal, OMB Control Number (3206-NEW)",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21380/agency-information-collection-request-fehb-protection-act-portal-omb-control-number-3206-new"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Notice",
+   "n": "2026-21328",
+   "t": "Information Collection Being Reviewed by the Federal Communications Commission",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21328/information-collection-being-reviewed-by-the-federal-communications-commission"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Rule",
+   "n": "2026-21324",
+   "t": "Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21324/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Notice",
+   "n": "2026-21323",
+   "t": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21323/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2026-10-16",
+   "k": "Notice",
+   "n": "2026-21217",
+   "t": "Emissions Value Request Process; Notice of Availability",
+   "u": "https://www.federalregister.gov/documents/2026/10/16/2026-21217/emissions-value-request-process-notice-of-availability"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-10-15",
+   "k": "Notice",
+   "n": "2026-21073",
+   "t": "Southern Star Central Gas Pipeline, Inc.; Notice of Availability of the Environmental Assessment for the Proposed Viola Project",
+   "u": "https://www.federalregister.gov/documents/2026/10/15/2026-21073/southern-star-central-gas-pipeline-inc-notice-of-availability-of-the-environmental-assessment-for"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-10-15",
+   "k": "Proposed Rule",
+   "n": "2026-21056",
+   "t": "Premium Tax Credit",
+   "u": "https://www.federalregister.gov/documents/2026/10/15/2026-21056/premium-tax-credit"
+  }
+ ],
+ "law": "119-21",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22792",
+   "t": "Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22792/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22781",
+   "t": "Technical Corrections of Commercial Space Transportation Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22781/technical-corrections-of-commercial-space-transportation-regulations"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-11-05",
+   "k": "Proposed Rule",
+   "n": "2026-22615",
+   "t": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions",
+   "u": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-29",
+   "k": "Rule",
+   "n": "2026-22037",
+   "t": "Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band",
+   "u": "https://www.federalregister.gov/documents/2026/10/29/2026-22037/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Proposed Rule",
+   "n": "2026-21891",
+   "t": "Patient Protection and Affordable Care Act, Exchange Pre-Eligibility Verification",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21891/patient-protection-and-affordable-care-act-exchange-pre-eligibility-verification"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Rule",
+   "n": "2026-21324",
+   "t": "Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21324/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-10-15",
+   "k": "Proposed Rule",
+   "n": "2026-21056",
+   "t": "Premium Tax Credit",
+   "u": "https://www.federalregister.gov/documents/2026/10/15/2026-21056/premium-tax-credit"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Justice Department",
+    "Executive Office for Immigration Review"
+   ],
+   "d": "2026-10-14",
+   "k": "Rule",
+   "n": "2026-21024",
+   "t": "Imposition and Collection of Civil Penalties for Certain Immigration-Related Violations",
+   "u": "https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-10-14",
+   "k": "Rule",
+   "n": "2026-20955",
+   "t": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
+   "u": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "U.S. Customs and Border Protection"
+   ],
+   "d": "2026-10-08",
+   "k": "Proposed Rule",
+   "n": "2026-20650",
+   "t": "Low-Value Shipments",
+   "u": "https://www.federalregister.gov/documents/2026/10/08/2026-20650/low-value-shipments"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-10-02",
+   "k": "Rule",
+   "n": "2026-20281",
+   "t": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model",
+   "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20281/global-benchmark-for-efficient-drug-pricing-globe-model"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-10-02",
+   "k": "Proposed Rule",
+   "n": "2026-20277",
+   "t": "Federal Scholarship Tax Credit",
+   "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20277/federal-scholarship-tax-credit"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-10-02",
+   "k": "Rule",
+   "n": "2026-20264",
+   "t": "Federal Scholarship Tax Credit",
+   "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20264/federal-scholarship-tax-credit"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-20026",
+   "t": "Trump Accounts",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20026/trump-accounts"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-21%22+%7C+%22Pub.+L.+119-21%22+%7C+%22P.L.+119-21%22&order=newest",
+ "term": "\"Public Law 119-21\" | \"Pub. L. 119-21\" | \"P.L. 119-21\"",
+ "total": 240
+}

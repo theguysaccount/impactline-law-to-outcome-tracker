@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Treasury Department",
+   1
+  ],
+  [
+   "United States Mint",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2025-01-08",
+ "last": "2025-01-08",
+ "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "United States Mint"
+   ],
+   "d": "2025-01-08",
+   "k": "Notice",
+   "n": "2025-00203",
+   "t": "Pricing for the 2025 United States Marine Corps 250th Anniversary Commemorative Coin Program and the 2025 Precious Metals Grid",
+   "u": "https://www.federalregister.gov/documents/2025/01/08/2025-00203/pricing-for-the-2025-united-states-marine-corps-250th-anniversary-commemorative-coin-program-and-the"
+  }
+ ],
+ "law": "118-10",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-10%22+%7C+%22Pub.+L.+118-10%22+%7C+%22P.L.+118-10%22&order=newest",
+ "term": "\"Public Law 118-10\" | \"Pub. L. 118-10\" | \"P.L. 118-10\"",
+ "total": 1
+}

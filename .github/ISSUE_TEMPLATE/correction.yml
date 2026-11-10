@@ -1,0 +1,24 @@
+name: Report an error in a record
+description: A law's page shows something that an official source contradicts.
+title: "Correction: Public Law "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ImpactLine shows what official sources report. If a page misstates a source, or an automatic match is wrong, say so here.
+        Please do not include personal data.
+  - type: input
+    id: law
+    attributes:
+      label: Public law number
+      placeholder: "117-58"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong, and what does the official source say?
+      description: Link the official source (GovInfo, Federal Register, USAspending.gov or an agency page).
+    validations:
+      required: true

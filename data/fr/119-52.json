@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Land Management Bureau",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-04-20",
+ "last": "2026-04-20",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Land Management Bureau"
+   ],
+   "d": "2026-04-20",
+   "k": "Notice",
+   "n": "2026-07667",
+   "t": "Notice of 2026 Coastal Plain Oil and Gas Lease Sale",
+   "u": "https://www.federalregister.gov/documents/2026/04/20/2026-07667/notice-of-2026-coastal-plain-oil-and-gas-lease-sale"
+  }
+ ],
+ "law": "119-52",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-52%22+%7C+%22Pub.+L.+119-52%22+%7C+%22P.L.+119-52%22&order=newest",
+ "term": "\"Public Law 119-52\" | \"Pub. L. 119-52\" | \"P.L. 119-52\"",
+ "total": 1
+}

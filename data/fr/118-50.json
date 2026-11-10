@@ -1,0 +1,394 @@
+{
+ "agencies": [
+  [
+   "Treasury Department",
+   13
+  ],
+  [
+   "Executive Office of the President",
+   10
+  ],
+  [
+   "Foreign Assets Control Office",
+   7
+  ],
+  [
+   "Financial Crimes Enforcement Network",
+   5
+  ],
+  [
+   "Commerce Department",
+   3
+  ],
+  [
+   "Industry and Security Bureau",
+   3
+  ],
+  [
+   "United States Sentencing Commission",
+   2
+  ],
+  [
+   "Justice Department",
+   2
+  ],
+  [
+   "State Department",
+   1
+  ],
+  [
+   "Homeland Security Department",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ],
+  [
+   "Federal Trade Commission",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 5,
+  "Presidential Document": 10,
+  "Proposed Rule": 3,
+  "Rule": 16
+ },
+ "by_year": {
+  "2024": 12,
+  "2025": 18,
+  "2026": 4
+ },
+ "complete": true,
+ "first": "2024-07-05",
+ "last": "2026-09-30",
+ "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-20007",
+   "t": "Removing Duplicative Penalties Information and Reorganizing Certain Parts",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20007/removing-duplicative-penalties-information-and-reorganizing-certain-parts"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2026-07-27",
+   "k": "Rule",
+   "n": "2026-15112",
+   "t": "Updating Website and Contact Information, and Authorizations for Payments for Legal Services",
+   "u": "https://www.federalregister.gov/documents/2026/07/27/2026-15112/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services"
+  },
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2026-05-04",
+   "k": "Notice",
+   "n": "2026-08647",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2026/05/04/2026-08647/sentencing-guidelines-for-united-states-courts"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-04-16",
+   "k": "Rule",
+   "n": "2026-07416",
+   "t": "Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving CIBanco S.A., Institución de Banca Multiple; Amendment",
+   "u": "https://www.federalregister.gov/documents/2026/04/16/2026-07416/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-cibanco-sa"
+  },
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2025-12-19",
+   "k": "Notice",
+   "n": "2025-23473",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2025/12/19/2025-23473/sentencing-guidelines-for-united-states-courts"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2025-11-25",
+   "k": "Notice",
+   "n": "2025-20978",
+   "t": "Delegation of Authority; Cyberspace and Digital Policy",
+   "u": "https://www.federalregister.gov/documents/2025/11/25/2025-20978/delegation-of-authority-cyberspace-and-digital-policy"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-11-19",
+   "k": "Proposed Rule",
+   "n": "2025-20278",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2025-09-30",
+   "k": "Presidential Document",
+   "n": "2025-19139",
+   "t": "Saving TikTok While Protecting National Security",
+   "u": "https://www.federalregister.gov/documents/2025/09/30/2025-19139/saving-tiktok-while-protecting-national-security"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2025-09-25",
+   "k": "Rule",
+   "n": "2025-18618",
+   "t": "Amendment to the Syria-Related Sanctions Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/09/25/2025-18618/amendment-to-the-syria-related-sanctions-regulations"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2025-09-23",
+   "k": "Presidential Document",
+   "n": "2025-18482",
+   "t": "Further Extending the TikTok Enforcement Delay",
+   "u": "https://www.federalregister.gov/documents/2025/09/23/2025-18482/further-extending-the-tiktok-enforcement-delay"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "Industry and Security Bureau"
+   ],
+   "d": "2025-09-02",
+   "k": "Rule",
+   "n": "2025-16724",
+   "t": "Relaxing Export Controls for Syria",
+   "u": "https://www.federalregister.gov/documents/2025/09/02/2025-16724/relaxing-export-controls-for-syria"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2025-07-03",
+   "k": "Presidential Document",
+   "n": "2025-12506",
+   "t": "Providing for the Revocation of Syria Sanctions",
+   "u": "https://www.federalregister.gov/documents/2025/07/03/2025-12506/providing-for-the-revocation-of-syria-sanctions"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2025-06-30",
+   "k": "Rule",
+   "n": "2025-11993",
+   "t": "Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving CIBanco S.A., Institución De Banca Multiple",
+   "u": "https://www.federalregister.gov/documents/2025/06/30/2025-11993/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-cibanco-sa"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2025-06-30",
+   "k": "Rule",
+   "n": "2025-11991",
+   "t": "Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Vector Casa de Bolsa, S.A. de C.V.",
+   "u": "https://www.federalregister.gov/documents/2025/06/30/2025-11991/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-vector-casa-de"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2025-06-30",
+   "k": "Rule",
+   "n": "2025-11990",
+   "t": "Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Intercam Banco S.A., Institución de Banca Multiple",
+   "u": "https://www.federalregister.gov/documents/2025/06/30/2025-11990/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-intercam-banco-sa"
+  }
+ ],
+ "law": "118-50",
+ "rules": [
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-20007",
+   "t": "Removing Duplicative Penalties Information and Reorganizing Certain Parts",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20007/removing-duplicative-penalties-information-and-reorganizing-certain-parts"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2026-07-27",
+   "k": "Rule",
+   "n": "2026-15112",
+   "t": "Updating Website and Contact Information, and Authorizations for Payments for Legal Services",
+   "u": "https://www.federalregister.gov/documents/2026/07/27/2026-15112/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-04-16",
+   "k": "Rule",
+   "n": "2026-07416",
+   "t": "Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving CIBanco S.A., Institución de Banca Multiple; Amendment",
+   "u": "https://www.federalregister.gov/documents/2026/04/16/2026-07416/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-cibanco-sa"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-11-19",
+   "k": "Proposed Rule",
+   "n": "2025-20278",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2025-09-25",
+   "k": "Rule",
+   "n": "2025-18618",
+   "t": "Amendment to the Syria-Related Sanctions Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/09/25/2025-18618/amendment-to-the-syria-related-sanctions-regulations"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "Industry and Security Bureau"
+   ],
+   "d": "2025-09-02",
+   "k": "Rule",
+   "n": "2025-16724",
+   "t": "Relaxing Export Controls for Syria",
+   "u": "https://www.federalregister.gov/documents/2025/09/02/2025-16724/relaxing-export-controls-for-syria"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2025-06-30",
+   "k": "Rule",
+   "n": "2025-11993",
+   "t": "Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving CIBanco S.A., Institución De Banca Multiple",
+   "u": "https://www.federalregister.gov/documents/2025/06/30/2025-11993/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-cibanco-sa"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2025-06-30",
+   "k": "Rule",
+   "n": "2025-11991",
+   "t": "Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Vector Casa de Bolsa, S.A. de C.V.",
+   "u": "https://www.federalregister.gov/documents/2025/06/30/2025-11991/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-vector-casa-de"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2025-06-30",
+   "k": "Rule",
+   "n": "2025-11990",
+   "t": "Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Intercam Banco S.A., Institución de Banca Multiple",
+   "u": "https://www.federalregister.gov/documents/2025/06/30/2025-11990/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-intercam-banco-sa"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2025-03-21",
+   "k": "Rule",
+   "n": "2025-04864",
+   "t": "Reporting, Procedures and Penalties Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/03/21/2025-04864/reporting-procedures-and-penalties-regulations"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "Industry and Security Bureau"
+   ],
+   "d": "2025-01-15",
+   "k": "Rule",
+   "n": "2025-00636",
+   "t": "Framework for Artificial Intelligence Diffusion",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2025-01-08",
+   "k": "Rule",
+   "n": "2024-31486",
+   "t": "Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons",
+   "u": "https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-10-29",
+   "k": "Proposed Rule",
+   "n": "2024-24582",
+   "t": "Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons",
+   "u": "https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2024-10-08",
+   "k": "Rule",
+   "n": "2024-23217",
+   "t": "Reporting, Procedures and Penalties Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/10/08/2024-23217/reporting-procedures-and-penalties-regulations"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2024-09-13",
+   "k": "Rule",
+   "n": "2024-20674",
+   "t": "Reporting, Procedures and Penalties",
+   "u": "https://www.federalregister.gov/documents/2024/09/13/2024-20674/reporting-procedures-and-penalties"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-50%22+%7C+%22Pub.+L.+118-50%22+%7C+%22P.L.+118-50%22&order=newest",
+ "term": "\"Public Law 118-50\" | \"Pub. L. 118-50\" | \"P.L. 118-50\"",
+ "total": 34
+}

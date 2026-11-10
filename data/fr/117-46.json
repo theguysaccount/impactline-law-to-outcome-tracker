@@ -1,0 +1,344 @@
+{
+ "agencies": [
+  [
+   "Office of the Secretary",
+   9
+  ],
+  [
+   "Commerce Department",
+   8
+  ],
+  [
+   "State Department",
+   7
+  ],
+  [
+   "Justice Department",
+   5
+  ],
+  [
+   "Defense Department",
+   2
+  ],
+  [
+   "Agency for International Development",
+   2
+  ],
+  [
+   "Agriculture Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 12,
+  "Rule": 13
+ },
+ "by_year": {
+  "2022": 3,
+  "2023": 7,
+  "2024": 8,
+  "2025": 1,
+  "2026": 6
+ },
+ "complete": true,
+ "first": "2022-06-30",
+ "last": "2026-10-30",
+ "latest": [
+  {
+   "a": [
+    "Commerce Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-10-30",
+   "k": "Notice",
+   "n": "2026-22210",
+   "t": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Eligibility Questionnaire for HAVANA Act Payments",
+   "u": "https://www.federalregister.gov/documents/2026/10/30/2026-22210/agency-information-collection-activities-submission-for-omb-review-comment-request-eligibility"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Rule",
+   "n": "2026-21923",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Commerce Department"
+   ],
+   "d": "2026-05-04",
+   "k": "Rule",
+   "n": "2026-08622",
+   "t": "Amending the Department of Commerce's Regulations Implementing the HAVANA Act",
+   "u": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-03-16",
+   "k": "Rule",
+   "n": "2026-05113",
+   "t": "Amendments to HAVANA Act of 2021 Implementation Rules",
+   "u": "https://www.federalregister.gov/documents/2026/03/16/2026-05113/amendments-to-havana-act-of-2021-implementation-rules"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-01-27",
+   "k": "Notice",
+   "n": "2026-01551",
+   "t": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Eligibility Questionnaire for HAVANA Act Payments",
+   "u": "https://www.federalregister.gov/documents/2026/01/27/2026-01551/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-01-15",
+   "k": "Notice",
+   "n": "2026-00652",
+   "t": "30-Day Notice of Proposed Information Collection: Eligibility Questionnaire for HAVANA Act Payments",
+   "u": "https://www.federalregister.gov/documents/2026/01/15/2026-00652/30-day-notice-of-proposed-information-collection-eligibility-questionnaire-for-havana-act-payments"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2025-08-19",
+   "k": "Notice",
+   "n": "2025-15801",
+   "t": "60-Day Notice of Proposed Information Collection: Eligibility Questionnaire for HAVANA Act Payments",
+   "u": "https://www.federalregister.gov/documents/2025/08/19/2025-15801/60-day-notice-of-proposed-information-collection-eligibility-questionnaire-for-havana-act-payments"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29993",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29993/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-11-20",
+   "k": "Rule",
+   "n": "2024-27112",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/11/20/2024-27112/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-10-17",
+   "k": "Rule",
+   "n": "2024-23760",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/10/17/2024-23760/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-10-03",
+   "k": "Rule",
+   "n": "2024-22795",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/10/03/2024-22795/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-09-23",
+   "k": "Notice",
+   "n": "2024-21715",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2024/09/23/2024-21715/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-05-03",
+   "k": "Rule",
+   "n": "2024-09593",
+   "t": "Implementation of HAVANA Act of 2021; Correction",
+   "u": "https://www.federalregister.gov/documents/2024/05/03/2024-09593/implementation-of-havana-act-of-2021-correction"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-04-19",
+   "k": "Rule",
+   "n": "2024-08336",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/04/19/2024-08336/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Agency for International Development"
+   ],
+   "d": "2024-03-05",
+   "k": "Notice",
+   "n": "2024-04609",
+   "t": "60-Day Notice of Proposed Information Collection: USAID Eligibility Questionnaire for HAVANA Act Payments",
+   "u": "https://www.federalregister.gov/documents/2024/03/05/2024-04609/60-day-notice-of-proposed-information-collection-usaid-eligibility-questionnaire-for-havana-act"
+  }
+ ],
+ "law": "117-46",
+ "rules": [
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Rule",
+   "n": "2026-21923",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Commerce Department"
+   ],
+   "d": "2026-05-04",
+   "k": "Rule",
+   "n": "2026-08622",
+   "t": "Amending the Department of Commerce's Regulations Implementing the HAVANA Act",
+   "u": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-03-16",
+   "k": "Rule",
+   "n": "2026-05113",
+   "t": "Amendments to HAVANA Act of 2021 Implementation Rules",
+   "u": "https://www.federalregister.gov/documents/2026/03/16/2026-05113/amendments-to-havana-act-of-2021-implementation-rules"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29993",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29993/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-11-20",
+   "k": "Rule",
+   "n": "2024-27112",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/11/20/2024-27112/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-10-17",
+   "k": "Rule",
+   "n": "2024-23760",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/10/17/2024-23760/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-10-03",
+   "k": "Rule",
+   "n": "2024-22795",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/10/03/2024-22795/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-05-03",
+   "k": "Rule",
+   "n": "2024-09593",
+   "t": "Implementation of HAVANA Act of 2021; Correction",
+   "u": "https://www.federalregister.gov/documents/2024/05/03/2024-09593/implementation-of-havana-act-of-2021-correction"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-04-19",
+   "k": "Rule",
+   "n": "2024-08336",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2024/04/19/2024-08336/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Agency for International Development"
+   ],
+   "d": "2023-06-26",
+   "k": "Rule",
+   "n": "2023-13328",
+   "t": "Implementation of the HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2023/06/26/2023-13328/implementation-of-the-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "Office of the Secretary"
+   ],
+   "d": "2023-04-19",
+   "k": "Rule",
+   "n": "2023-08284",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2023/04/19/2023-08284/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2023-01-25",
+   "k": "Rule",
+   "n": "2023-01410",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2023/01/25/2023-01410/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2022-06-30",
+   "k": "Rule",
+   "n": "2022-13887",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2022/06/30/2022-13887/implementation-of-havana-act-of-2021"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-46%22+%7C+%22Pub.+L.+117-46%22+%7C+%22P.L.+117-46%22&order=newest",
+ "term": "\"Public Law 117-46\" | \"Pub. L. 117-46\" | \"P.L. 117-46\"",
+ "total": 25
+}

@@ -1,0 +1,99 @@
+{
+ "agencies": [
+  [
+   "Treasury Department",
+   2
+  ],
+  [
+   "Internal Revenue Service",
+   2
+  ],
+  [
+   "Veterans Affairs Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1,
+  "Rule": 2
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 2
+ },
+ "complete": true,
+ "first": "2023-07-26",
+ "last": "2024-08-19",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-08-19",
+   "k": "Rule",
+   "n": "2024-18345",
+   "t": "Bar to Approval",
+   "u": "https://www.federalregister.gov/documents/2024/08/19/2024-18345/bar-to-approval"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2024-07-02",
+   "k": "Proposed Rule",
+   "n": "2024-14167",
+   "t": "Recapture of Interest on Excess Credits Under the Families First Act, CARES Act, and ARP",
+   "u": "https://www.federalregister.gov/documents/2024/07/02/2024-14167/recapture-of-interest-on-excess-credits-under-the-families-first-act-cares-act-and-arp"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2023-07-26",
+   "k": "Rule",
+   "n": "2023-15690",
+   "t": "Recapture of Certain Excess Employment Tax Credits Under COVID-19 Legislation",
+   "u": "https://www.federalregister.gov/documents/2023/07/26/2023-15690/recapture-of-certain-excess-employment-tax-credits-under-covid-19-legislation"
+  }
+ ],
+ "law": "117-68",
+ "rules": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-08-19",
+   "k": "Rule",
+   "n": "2024-18345",
+   "t": "Bar to Approval",
+   "u": "https://www.federalregister.gov/documents/2024/08/19/2024-18345/bar-to-approval"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2024-07-02",
+   "k": "Proposed Rule",
+   "n": "2024-14167",
+   "t": "Recapture of Interest on Excess Credits Under the Families First Act, CARES Act, and ARP",
+   "u": "https://www.federalregister.gov/documents/2024/07/02/2024-14167/recapture-of-interest-on-excess-credits-under-the-families-first-act-cares-act-and-arp"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2023-07-26",
+   "k": "Rule",
+   "n": "2023-15690",
+   "t": "Recapture of Certain Excess Employment Tax Credits Under COVID-19 Legislation",
+   "u": "https://www.federalregister.gov/documents/2023/07/26/2023-15690/recapture-of-certain-excess-employment-tax-credits-under-covid-19-legislation"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-68%22+%7C+%22Pub.+L.+117-68%22+%7C+%22P.L.+117-68%22&order=newest",
+ "term": "\"Public Law 117-68\" | \"Pub. L. 117-68\" | \"P.L. 117-68\"",
+ "total": 3
+}

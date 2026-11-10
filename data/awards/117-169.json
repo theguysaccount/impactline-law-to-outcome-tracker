@@ -1,0 +1,78 @@
+{
+ "law": "117-169",
+ "period_start": "2022-08-16",
+ "phrases": [
+  {
+   "counts": {
+    "direct_payments": 215,
+    "grants": 92
+   },
+   "match": "citation",
+   "phrase": "Public Law 117-169",
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20117-169",
+   "top": [
+    {
+     "agency": "Department of Housing and Urban Development",
+     "amount": 2500.0,
+     "description": "PURPOSE: THE MULTIFAMILY BENCHMARKING INITIATIVE WAS ESTABLISHED BY SECTION 30002 OF THE INFLATION REDUCTION ACT OF 2022, (PUBLIC LAW 117-169) (THE “IRA”), TITLED “IMPROVING ENERGY EFFICIENCY OR WATER EFFICIENCY OR CLIMATE RESILIENCE OF AFF",
+     "id": "GRRPC24000988",
+     "kind": "direct_payments",
+     "outlays": null,
+     "recipient": "LIH WILKES-BARRE LP",
+     "url": "https://www.usaspending.gov/award/ASST_NON_GRRPC24000988_086"
+    },
+    {
+     "agency": "Department of Housing and Urban Development",
+     "amount": 2500.0,
+     "description": "PURPOSE: THE MULTIFAMILY BENCHMARKING INITIATIVE WAS ESTABLISHED BY SECTION 30002 OF THE INFLATION REDUCTION ACT OF 2022, (PUBLIC LAW 117-169) (THE “IRA”), TITLED “IMPROVING ENERGY EFFICIENCY OR WATER EFFICIENCY OR CLIMATE RESILIENCE OF AFF",
+     "id": "GRRPC24000970",
+     "kind": "direct_payments",
+     "outlays": null,
+     "recipient": "THE HOUSING AUTHORITY OF THE CITY OF BLUE RIDGE",
+     "url": "https://www.usaspending.gov/award/ASST_NON_GRRPC24000970_086"
+    },
+    {
+     "agency": "Department of Housing and Urban Development",
+     "amount": 2500.0,
+     "description": "PURPOSE: THE MULTIFAMILY BENCHMARKING INITIATIVE WAS ESTABLISHED BY SECTION 30002 OF THE INFLATION REDUCTION ACT OF 2022, (PUBLIC LAW 117-169) (THE “IRA”), TITLED “IMPROVING ENERGY EFFICIENCY OR WATER EFFICIENCY OR CLIMATE RESILIENCE OF AFF",
+     "id": "GRRPC24000959",
+     "kind": "direct_payments",
+     "outlays": null,
+     "recipient": "BRIARWOOD FORT SMITH PARTNERSHIP LP",
+     "url": "https://www.usaspending.gov/award/ASST_NON_GRRPC24000959_086"
+    },
+    {
+     "agency": "Department of Housing and Urban Development",
+     "amount": 2500.0,
+     "description": "PURPOSE: THE MULTIFAMILY BENCHMARKING INITIATIVE WAS ESTABLISHED BY SECTION 30002 OF THE INFLATION REDUCTION ACT OF 2022, (PUBLIC LAW 117-169) (THE “IRA”), TITLED “IMPROVING ENERGY EFFICIENCY OR WATER EFFICIENCY OR CLIMATE RESILIENCE OF AFF",
+     "id": "GRRPC24000949",
+     "kind": "direct_payments",
+     "outlays": null,
+     "recipient": "LIH COLUMBIA PARK, LP",
+     "url": "https://www.usaspending.gov/award/ASST_NON_GRRPC24000949_086"
+    },
+    {
+     "agency": "Department of Housing and Urban Development",
+     "amount": 2500.0,
+     "description": "PURPOSE: THE MULTIFAMILY BENCHMARKING INITIATIVE WAS ESTABLISHED BY SECTION 30002 OF THE INFLATION REDUCTION ACT OF 2022, (PUBLIC LAW 117-169) (THE “IRA”), TITLED “IMPROVING ENERGY EFFICIENCY OR WATER EFFICIENCY OR CLIMATE RESILIENCE OF AFF",
+     "id": "GRRPC24000948",
+     "kind": "direct_payments",
+     "outlays": null,
+     "recipient": "PCL ABOUSSIE, LP",
+     "url": "https://www.usaspending.gov/award/ASST_NON_GRRPC24000948_086"
+    },
+    {
+     "agency": "Department of Housing and Urban Development",
+     "amount": 2500.0,
+     "description": "PURPOSE: THE MULTIFAMILY BENCHMARKING INITIATIVE WAS ESTABLISHED BY SECTION 30002 OF THE INFLATION REDUCTION ACT OF 2022, (PUBLIC LAW 117-169) (THE “IRA”), TITLED “IMPROVING ENERGY EFFICIENCY OR WATER EFFICIENCY OR CLIMATE RESILIENCE OF AFF",
+     "id": "GRRPC24000906",
+     "kind": "direct_payments",
+     "outlays": null,
+     "recipient": "BAYOU GALION LP",
+     "url": "https://www.usaspending.gov/award/ASST_NON_GRRPC24000906_086"
+    }
+   ]
+  }
+ ],
+ "total": 307
+}

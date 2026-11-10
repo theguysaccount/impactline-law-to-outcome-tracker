@@ -1,0 +1,171 @@
+# Nightly: read new public laws (GovInfo), Federal Register citations and USAspending records within
+# a request budget, then test, build, guard, attest the evidence manifest, publish, and commit data.
+#
+# Safe to re-run at any time: each law has its own check date, so a second run only reads what is
+# still due. Fails safe: a source that cannot be read keeps its last good data (pages show each
+# record's own check date); a failed test, guard or browser check stops before deploy, so the last
+# good site stays live.
+name: Refresh and deploy
+
+on:
+  schedule:
+    - cron: "17 7 * * *"    # nightly, 07:17 UTC
+    - cron: "47 15 * * *"   # backstop, 15:47 UTC: reads only what the first run did not reach
+  push:
+    branches: [main]
+    paths-ignore: ["data/**", "**.md", "docs/**", "LICENSE", ".github/ISSUE_TEMPLATE/**"]
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: Read the sources before building (off = rebuild and deploy only)
+        type: boolean
+        default: true
+      budget:
+        description: Laws to read per source this run (blank = the nightly budget)
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  actions: write
+  attestations: write
+  artifact-metadata: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+env:
+  # Cutover settings (repository variables). SITE_URL is the one base-URL setting.
+  SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+  SITE_INDEXABLE: ${{ vars.SITE_INDEXABLE }}     # "true" at cutover; unset = staged (noindex, no sitemap, no IndexNow)
+  GOATCOUNTER_URL: ${{ vars.GOATCOUNTER_URL }}
+  ALERTS_URL: ${{ vars.ALERTS_URL }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    outputs:
+      indexnow: ${{ steps.ping.outputs.indexnow }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Read the sources (each fails on its own and keeps its last good data)
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        env:
+          BUDGET: ${{ inputs.budget }}
+        run: |
+          case "$BUDGET" in ''|*[!0-9]*) ARG="" ;; *) ARG="--budget $BUDGET" ;; esac
+          python3 -m impactline.refresh $ARG
+
+      - name: Tests
+        run: python3 -m unittest discover -s tests -t .
+
+      - name: Build the site and the evidence packets
+        run: python3 -m impactline.build --site _site
+
+      - name: Share cards
+        run: python3 -m impactline.og --site _site
+
+      - name: Guard the build
+        run: python3 -m impactline.guard _site
+
+      - name: Browser check (headless Chrome against the build)
+        run: python3 -m impactline.e2e _site
+
+      - name: Attest the evidence manifest (Sigstore, tied to this workflow)
+        id: attest
+        continue-on-error: true
+        uses: actions/attest@v4
+        with:
+          subject-path: _site/evidence/manifest.json
+
+      - name: Record whether the manifest was attested
+        run: |
+          printf '{"attested": %s, "attestation_url": "%s", "run": "%s"}\n' \
+            "${{ steps.attest.outcome == 'success' && 'true' || 'false' }}" "${{ steps.attest.outputs.attestation-url }}" "$GITHUB_RUN_ID" \
+            > _site/evidence/attestation.json
+          cat _site/evidence/attestation.json
+          if [ "${{ steps.attest.outcome }}" != "success" ]; then echo "::warning::The evidence manifest was not attested in this run."; fi
+
+      - name: Decide whether search engines need telling
+        id: ping
+        run: |
+          curl -fsS "$SITE_URL/urls.txt" -o prev-urls.txt || : > prev-urls.txt
+          if [ -s _site/urls.txt ] && { [ "$GITHUB_EVENT_NAME" != "schedule" ] || ! cmp -s prev-urls.txt _site/urls.txt; }; then
+            echo "indexnow=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "indexnow=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit the data snapshot
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No data changes."; exit 0; fi
+          git commit -q -m "data: refresh $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            if git pull -q --rebase origin main && git push -q origin HEAD:main; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 5))
+          done
+          echo "::warning::Could not push the data snapshot; the next run will read the sources again."
+
+      - name: Keep the schedules alive
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: .github/scripts/keepalive.sh refresh.yml selftest.yml linkcheck.yml
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: urls
+          path: _site/urls.txt
+          retention-days: 7
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
+
+  after:
+    needs: [build, deploy]
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - uses: actions/download-artifact@v8
+        with:
+          name: urls
+          path: urls
+      - name: Check the live site
+        run: |
+          for i in 1 2 3 4 5; do
+            if python3 -m impactline.selftest --site-url "$SITE_URL"; then exit 0; fi
+            echo "Live site not consistent yet; retrying in 30 s"; sleep 30
+          done
+          exit 1
+      - name: Tell IndexNow (skipped while staged; never fails the run)
+        if: always() && needs.build.outputs.indexnow == 'true'
+        run: python3 -m impactline.indexnow --urls urls/urls.txt || true

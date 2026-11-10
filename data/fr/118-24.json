@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   1
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-06-03",
+ "last": "2026-06-03",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-06-03",
+   "k": "Rule",
+   "n": "2026-11094",
+   "t": "Medicaid Program; Community Engagement Requirement for Certain Individuals",
+   "u": "https://www.federalregister.gov/documents/2026/06/03/2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals"
+  }
+ ],
+ "law": "118-24",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-06-03",
+   "k": "Rule",
+   "n": "2026-11094",
+   "t": "Medicaid Program; Community Engagement Requirement for Certain Individuals",
+   "u": "https://www.federalregister.gov/documents/2026/06/03/2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-24%22+%7C+%22Pub.+L.+118-24%22+%7C+%22P.L.+118-24%22&order=newest",
+ "term": "\"Public Law 118-24\" | \"Pub. L. 118-24\" | \"P.L. 118-24\"",
+ "total": 1
+}

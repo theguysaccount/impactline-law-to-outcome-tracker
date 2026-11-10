@@ -1,0 +1,109 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   2
+  ],
+  [
+   "Office of the Secretary",
+   2
+  ],
+  [
+   "Health and Human Services Department",
+   2
+  ],
+  [
+   "National Institutes of Health",
+   2
+  ],
+  [
+   "Energy Department",
+   1
+  ],
+  [
+   "Small Business Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 6
+ },
+ "by_year": {
+  "2023": 3,
+  "2024": 3
+ },
+ "complete": true,
+ "first": "2023-02-24",
+ "last": "2024-09-12",
+ "latest": [
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-09-12",
+   "k": "Notice",
+   "n": "2024-20650",
+   "t": "Submission for OMB Review; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2024/09/12/2024-20650/submission-for-omb-review-comment-request"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2024-09-10",
+   "k": "Notice",
+   "n": "2024-20376",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2024/09/10/2024-20376/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2024-04-22",
+   "k": "Notice",
+   "n": "2024-08476",
+   "t": "Proposed Collection; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2024/04/22/2024-08476/proposed-collection-comment-request"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2023-06-16",
+   "k": "Notice",
+   "n": "2023-12854",
+   "t": "Implementation of the NIH SBIR and STTR Foreign Disclosure Pre-Award and Post-Award Requirements",
+   "u": "https://www.federalregister.gov/documents/2023/06/16/2023-12854/implementation-of-the-nih-sbir-and-sttr-foreign-disclosure-pre-award-and-post-award-requirements"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2023-04-03",
+   "k": "Notice",
+   "n": "2023-06870",
+   "t": "Small Business Innovation Research Program and Small Business Technology Transfer Program Policy Directive",
+   "u": "https://www.federalregister.gov/documents/2023/04/03/2023-06870/small-business-innovation-research-program-and-small-business-technology-transfer-program-policy"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2023-02-24",
+   "k": "Notice",
+   "n": "2023-03798",
+   "t": "Notice To Announce Updated Minimum Performance Standards for Experienced Firms That Receive Funding Through the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Programs",
+   "u": "https://www.federalregister.gov/documents/2023/02/24/2023-03798/notice-to-announce-updated-minimum-performance-standards-for-experienced-firms-that-receive-funding"
+  }
+ ],
+ "law": "117-183",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-183%22+%7C+%22Pub.+L.+117-183%22+%7C+%22P.L.+117-183%22&order=newest",
+ "term": "\"Public Law 117-183\" | \"Pub. L. 117-183\" | \"P.L. 117-183\"",
+ "total": 6
+}

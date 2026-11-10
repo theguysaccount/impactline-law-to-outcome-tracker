@@ -1,0 +1,111 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 0.0,
+   "name": "Department of Justice",
+   "obligations": 3058167.26,
+   "outlays": 3058167.26
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Justice",
+   "amount": 251600.0,
+   "description": "FY22 OPO COMMAND POST TRAILER",
+   "id": "15M10522FA4700160",
+   "kind": "contracts",
+   "outlays": 251600.0,
+   "recipient": "MIDWAY TRAILERS, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15M10522FA4700160_1544_GS30F014DA_4732"
+  },
+  {
+   "agency": "Department of Justice",
+   "amount": 72640.0,
+   "description": "DSO GUARD SUPPORT FY2022 D62",
+   "id": "15M10221PA4701377",
+   "kind": "contracts",
+   "outlays": 12745.76,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15M10221PA4701377_1544_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Justice",
+   "amount": 68510.0,
+   "description": "DSO GUARD SUPPORT FY2022 D50",
+   "id": "15M10221PA4701215",
+   "kind": "contracts",
+   "outlays": 18408.15,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15M10221PA4701215_1544_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Justice",
+   "amount": 63185.0,
+   "description": "FY22 DISTRICT OF NEW JERSEY D50 GUARD SUPPORT",
+   "id": "15M10221PA4700025",
+   "kind": "contracts",
+   "outlays": 6545.12,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15M10221PA4700025_1544_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Justice",
+   "amount": 45360.0,
+   "description": "DSO GUARD SUPPORT FY2022 D98",
+   "id": "15M10221PA4701914",
+   "kind": "contracts",
+   "outlays": 11471.18,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15M10221PA4701914_1544_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Justice",
+   "amount": 44625.0,
+   "description": "DSO GUARD SUPPORT FY2022 D66",
+   "id": "15M10221PA4701410",
+   "kind": "contracts",
+   "outlays": 8251.4,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15M10221PA4701410_1544_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Justice",
+   "amount": 44340.0,
+   "description": "DSO GUARD SUPPORT FY2022 D98",
+   "id": "15M10221PA4701921",
+   "kind": "contracts",
+   "outlays": 12530.44,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15M10221PA4701921_1544_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Justice",
+   "amount": 42360.0,
+   "description": "DSO GUARD SUPPORT FY2022 D19",
+   "id": "15M10221PA4700800",
+   "kind": "contracts",
+   "outlays": 2411.36,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_15M10221PA4700800_1544_-NONE-_-NONE-"
+  }
+ ],
+ "codes": [
+  {
+   "code": "8",
+   "designation": "Emergency"
+  }
+ ],
+ "funding_by_code": {
+  "8": 0.0
+ },
+ "law": "117-167",
+ "overview": {
+  "award_obligations": -1950919.36,
+  "award_outlays": 0.0,
+  "budget_authority": 0.0,
+  "total_obligations": 3058167.26,
+  "total_outlays": 3058167.26
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=8"
+}

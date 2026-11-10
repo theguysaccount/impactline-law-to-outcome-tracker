@@ -1,0 +1,221 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 23606581331.0,
+   "name": "Department of Defense",
+   "obligations": 18726883417.59,
+   "outlays": 16636212080.8
+  },
+  {
+   "budgetary_resources": 13104000100.0,
+   "name": "Agency for International Development",
+   "obligations": 12955956848.27,
+   "outlays": 12826009361.24
+  },
+  {
+   "budgetary_resources": 954000000.0,
+   "name": "Department of Health and Human Services",
+   "obligations": 869504700.84,
+   "outlays": 722526799.51
+  },
+  {
+   "budgetary_resources": 702000000.0,
+   "name": "Department of the Treasury",
+   "obligations": 695756623.8,
+   "outlays": 693600419.07
+  },
+  {
+   "budgetary_resources": 67000000.0,
+   "name": "Department of Justice",
+   "obligations": 52681502.01,
+   "outlays": 46296280.11
+  },
+  {
+   "budgetary_resources": 0.0,
+   "name": "Nuclear Regulatory Commission",
+   "obligations": 2000000.0,
+   "outlays": 2000000.0
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Agency for International Development",
+   "amount": 494213752.0,
+   "description": "BREAKTHROUGH ACTION",
+   "id": "AIDOAAA1700017",
+   "kind": "grants",
+   "outlays": 417608578.5,
+   "recipient": "THE JOHNS HOPKINS UNIVERSITY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_AIDOAAA1700017_072"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 288269396.0,
+   "description": "COOPERATIVE AGREEMENT ON IMMUNIZATION WITH THE WORLD HEALTH ORGANIZATION",
+   "id": "NU2GGH002145",
+   "kind": "grants",
+   "outlays": 151916047.0,
+   "recipient": "WORLD HEALTH ORGANIZATION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_NU2GGH002145_075"
+  },
+  {
+   "agency": "Agency for International Development",
+   "amount": 272479451.0,
+   "description": "TO PROVIDE EMERGENCY FOOD ASSISTANCE TO PEOPLE FACING SEVERE ACUTE FOOD INSECURITY IN ETHIOPIA",
+   "id": "720BHA23CA00003",
+   "kind": "grants",
+   "outlays": 284620968.71,
+   "recipient": "CATHOLIC RELIEF SERVICES - UNITED STATES CONFERENCE OF CATHOLIC BISHOPS",
+   "url": "https://www.usaspending.gov/award/ASST_NON_720BHA23CA00003_072"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 242072245.0,
+   "description": "GY2023 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "2301CARSSS",
+   "kind": "grants",
+   "outlays": 213929094.41,
+   "recipient": "DEPARTMENT OF SOCIAL SERVICES CALIFORNIA",
+   "url": "https://www.usaspending.gov/award/ASST_NON_2301CARSSS_075"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 217721131.0,
+   "description": "GY2023 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "23ABTXRSSS",
+   "kind": "grants",
+   "outlays": 184174923.1,
+   "recipient": "CATHOLIC CHARITIES DIOCESE OF FORT WORTH ENDOWMENT, INC.",
+   "url": "https://www.usaspending.gov/award/ASST_NON_23ABTXRSSS_075"
+  },
+  {
+   "agency": "Agency for International Development",
+   "amount": 205000000.0,
+   "description": "OVERSEAS ASSISTANCE",
+   "id": "72012120CA00001",
+   "kind": "grants",
+   "outlays": 198453702.0,
+   "recipient": "MISCELLANEOUS FOREIGN AWARDEES",
+   "url": "https://www.usaspending.gov/award/ASST_NON_72012120CA00001_072"
+  },
+  {
+   "agency": "Agency for International Development",
+   "amount": 192675000.0,
+   "description": "NEW FY23 SOMALIA IDA AWARD",
+   "id": "720BHA23IO00022",
+   "kind": "grants",
+   "outlays": 192675000.0,
+   "recipient": "UNITED NATIONS WORLD FOOD PROGRAMME",
+   "url": "https://www.usaspending.gov/award/ASST_NON_720BHA23IO00022_072"
+  },
+  {
+   "agency": "Agency for International Development",
+   "amount": 184172919.0,
+   "description": "MOMENTUM ROUND 1: STRENGTHEN QUALITY MATERNAL, NEWBORN, AND CHILD HEALTH, VOLUNTARY FAMILY PLANNING AND REPRODUCTIVE HEALTH SERVICE DELIVERY IN FRAGILE SETTINGS; AND 2) ADVANCE GLOBAL KNOWLEDGE ON STRENGTHENING MNCH/FP/RH SERVICE DELIVERY A",
+   "id": "7200AA20CA00005",
+   "kind": "grants",
+   "outlays": 195732678.4,
+   "recipient": "INTERCHURCH MEDICAL ASSISTANCE, INC.",
+   "url": "https://www.usaspending.gov/award/ASST_NON_7200AA20CA00005_072"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 4131410696.62,
+   "description": "CONTRACT W56HZV-20-C-0050 IS ISSUED TO PROVIDE CONTINUATION OF CONTRACT W56HZV-15-C-0095.",
+   "id": "W56HZV20C0050",
+   "kind": "contracts",
+   "outlays": 229375099.93,
+   "recipient": "OSHKOSH DEFENSE LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV20C0050_9700_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 3974074221.15,
+   "description": "IGF::OT::IGF",
+   "id": "M6785416C0006",
+   "kind": "contracts",
+   "outlays": 1219874811.45,
+   "recipient": "BAE SYSTEMS LAND AND ARMAMENTS L.P.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_M6785416C0006_9700_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 2508806460.04,
+   "description": "GUIDED MULTIPLE LAUNCH ROCKET SYSTEM (GMLRS) AND LOW COST REDUCED RANGE PRACTICE ROCKET (LCRRPR) FY24 FULL RATE PRODUCTION LOT 19 DELIVERY ORDER - UKRAINE",
+   "id": "W31P4Q23F0024",
+   "kind": "contracts",
+   "outlays": 398.43,
+   "recipient": "LOCKHEED MARTIN CORPORATION",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q23F0024_9700_W31P4Q23D0003_9700"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 2318321852.92,
+   "description": "199812!2100!0747!AA09 !U.S. ARMY INDUSTRIAL OPERATIONS !DAAA0998E0006 !A!*!P00001 !19980929!19991231!289954943!770087872!217304393!N!40381!ROYAL ORDNANCE PLC !EUXTON LA !CHORLEY !UK!PR7 6!03000!013!51!ARLINGTON !ARLINGTON !VIRGINIA !0001!+0",
+   "id": "DAAA0998E0006",
+   "kind": "contracts",
+   "outlays": 72599243.52,
+   "recipient": "BAE SYSTEMS ORDNANCE SYSTEMS INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DAAA0998E0006_9700_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 1511353721.66,
+   "description": "G/ATOR GAN FRP LOT 1 QTY 4",
+   "id": "M6785419C0043",
+   "kind": "contracts",
+   "outlays": 558074861.35,
+   "recipient": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_M6785419C0043_9700_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 1160967972.78,
+   "description": "JOINT LIGHT TACTICAL VEHCILE (JLTV) FAMILY OF VEHICLES PRICED DELIVERY ORDER FOR 513 TRUCKS AND 273 TRAILERS TO SUPPORT UKRAINE TRANCHE PRESIDENTIAL DRAWDOWN.",
+   "id": "W56HZV23F0294",
+   "kind": "contracts",
+   "outlays": 0.0,
+   "recipient": "AM GENERAL LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV23F0294_9700_W56HZV23D0008_9700"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 1120073217.62,
+   "description": "CONTRACT W56HZV-23-C-0081 IS ISSUED AS AN ADDITIONAL CONTINUATION CONTRACT FOR JLTV PRODUCTION WITH OSK UNDER W56HZV-15-C-0095. THIS ACTION ALSO FUNDS A LEGACY JLTV ASL BUY.",
+   "id": "W56HZV23C0081",
+   "kind": "contracts",
+   "outlays": 4398259.12,
+   "recipient": "OSHKOSH DEFENSE LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV23C0081_9700_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Agency for International Development",
+   "amount": 919999999.93,
+   "description": "OVERSEAS CONTRACT",
+   "id": "72012118C00003",
+   "kind": "contracts",
+   "outlays": 665562296.41,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_72012118C00003_7200_-NONE-_-NONE-"
+  }
+ ],
+ "codes": [
+  {
+   "code": "6",
+   "designation": "Emergency"
+  }
+ ],
+ "funding_by_code": {
+  "6": 39597581431.0
+ },
+ "law": "117-128",
+ "overview": {
+  "award_obligations": 13257665616.94,
+  "award_outlays": 13602901165.16,
+  "budget_authority": 39597581431.0,
+  "total_obligations": 38263246113.27,
+  "total_outlays": 34990498546.12
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=6"
+}

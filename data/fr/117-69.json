@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Environmental Protection Agency",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2023-11-20",
+ "last": "2023-11-20",
+ "latest": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2023-11-20",
+   "k": "Notice",
+   "n": "2023-25515",
+   "t": "Request for Information Regarding Products and Categories of Products Used in Water Infrastructure Programs",
+   "u": "https://www.federalregister.gov/documents/2023/11/20/2023-25515/request-for-information-regarding-products-and-categories-of-products-used-in-water-infrastructure"
+  }
+ ],
+ "law": "117-69",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-69%22+%7C+%22Pub.+L.+117-69%22+%7C+%22P.L.+117-69%22&order=newest",
+ "term": "\"Public Law 117-69\" | \"Pub. L. 117-69\" | \"P.L. 117-69\"",
+ "total": 1
+}

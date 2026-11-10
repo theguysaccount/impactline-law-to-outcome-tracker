@@ -1,0 +1,169 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   13
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 14
+ },
+ "by_year": {
+  "2025": 3,
+  "2026": 11
+ },
+ "complete": true,
+ "first": "2025-01-30",
+ "last": "2026-09-23",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-09-23",
+   "k": "Notice",
+   "n": "2026-19412",
+   "t": "Agency Information Collection Activity Under OMB Review: Veterans Employment Through High Technology Education Courses (VET TEC 2.0) Employment or Further Educational Pursuit Certification",
+   "u": "https://www.federalregister.gov/documents/2026/09/23/2026-19412/agency-information-collection-activity-under-omb-review-veterans-employment-through-high-technology"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-09-23",
+   "k": "Notice",
+   "n": "2026-19410",
+   "t": "Agency Information Collection Activity: VA Reimbursement Claim Forms",
+   "u": "https://www.federalregister.gov/documents/2026/09/23/2026-19410/agency-information-collection-activity-va-reimbursement-claim-forms"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-09-15",
+   "k": "Notice",
+   "n": "2026-18904",
+   "t": "Recognition of Organizations and Individuals To Assist Veterans, Family Members, and Caregivers Navigating Programs and Services of Veterans Health Administration",
+   "u": "https://www.federalregister.gov/documents/2026/09/15/2026-18904/recognition-of-organizations-and-individuals-to-assist-veterans-family-members-and-caregivers"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-07-29",
+   "k": "Notice",
+   "n": "2026-15313",
+   "t": "Agency Information Collection Activity Under OMB Review: Healthcare Advancement and Partnerships (HAP) Recognition Application",
+   "u": "https://www.federalregister.gov/documents/2026/07/29/2026-15313/agency-information-collection-activity-under-omb-review-healthcare-advancement-and-partnerships-hap"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-07-29",
+   "k": "Notice",
+   "n": "2026-15301",
+   "t": "Implementation of Section 403 of the Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act",
+   "u": "https://www.federalregister.gov/documents/2026/07/29/2026-15301/implementation-of-section-403-of-the-senator-elizabeth-dole-21st-century-veterans-healthcare-and"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-07-10",
+   "k": "Notice",
+   "n": "2026-13952",
+   "t": "Agency Information Collection Activity: Veterans Employment Through High Technology Education Courses (VET TEC 2.0) Employment or Further Educational Pursuit Certification",
+   "u": "https://www.federalregister.gov/documents/2026/07/10/2026-13952/agency-information-collection-activity-veterans-employment-through-high-technology-education-courses"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-05-13",
+   "k": "Notice",
+   "n": "2026-09515",
+   "t": "Agency Information Collection Activity: Healthcare Advancement and Partnerships (HAP) Recognition Application",
+   "u": "https://www.federalregister.gov/documents/2026/05/13/2026-09515/agency-information-collection-activity-healthcare-advancement-and-partnerships-hap-recognition"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-03-27",
+   "k": "Notice",
+   "n": "2026-05982",
+   "t": "Agency Information Collection Activity Under OMB Review: Application for High-Technology Veterans Education, Training and Skills (VET TEC 2.0) Program",
+   "u": "https://www.federalregister.gov/documents/2026/03/27/2026-05982/agency-information-collection-activity-under-omb-review-application-for-high-technology-veterans"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-02-06",
+   "k": "Notice",
+   "n": "2026-02341",
+   "t": "Implementation of Section 402 of Title IV (HOME Act of 2024) of the Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act",
+   "u": "https://www.federalregister.gov/documents/2026/02/06/2026-02341/implementation-of-section-402-of-title-iv-home-act-of-2024-of-the-senator-elizabeth-dole-21st"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-01-12",
+   "k": "Notice",
+   "n": "2026-00380",
+   "t": "Implementation of Section 120 of the Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act",
+   "u": "https://www.federalregister.gov/documents/2026/01/12/2026-00380/implementation-of-section-120-of-the-senator-elizabeth-dole-21st-century-veterans-healthcare-and"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-01-12",
+   "k": "Notice",
+   "n": "2026-00373",
+   "t": "Agency Information Collection Activity: Application for High-Technology Veterans Education, Training and Skills (VET TEC 2.0) Program",
+   "u": "https://www.federalregister.gov/documents/2026/01/12/2026-00373/agency-information-collection-activity-application-for-high-technology-veterans-education-training"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-12-16",
+   "k": "Notice",
+   "n": "2025-22954",
+   "t": "Agency Information Collection Activity: Application for High-Technology Veterans Education, Training and Skills (VET TEC 2.0) Program",
+   "u": "https://www.federalregister.gov/documents/2025/12/16/2025-22954/agency-information-collection-activity-application-for-high-technology-veterans-education-training"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-10-24",
+   "k": "Notice",
+   "n": "2025-19651",
+   "t": "Annual Pay Ranges for Physicians, Dentists, Podiatrists, and Optometrists of the Veterans Health Administration (VHA)",
+   "u": "https://www.federalregister.gov/documents/2025/10/24/2025-19651/annual-pay-ranges-for-physicians-dentists-podiatrists-and-optometrists-of-the-veterans-health"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2025-01-30",
+   "k": "Notice",
+   "n": "2025-01937",
+   "t": "Notice; 2024 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2025/01/30/2025-01937/notice-2024-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "118-210",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-210%22+%7C+%22Pub.+L.+118-210%22+%7C+%22P.L.+118-210%22&order=newest",
+ "term": "\"Public Law 118-210\" | \"Pub. L. 118-210\" | \"P.L. 118-210\"",
+ "total": 14
+}

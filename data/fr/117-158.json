@@ -1,0 +1,113 @@
+{
+ "agencies": [
+  [
+   "Agriculture Department",
+   4
+  ],
+  [
+   "Food and Nutrition Service",
+   4
+  ],
+  [
+   "Regulatory Information Service Center",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 5,
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2022": 2,
+  "2023": 4
+ },
+ "complete": true,
+ "first": "2022-07-26",
+ "last": "2023-07-07",
+ "latest": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2023-07-07",
+   "k": "Notice",
+   "n": "2023-14317",
+   "t": "Child and Adult Care Food Program: National Average Payment Rates, Day Care Home Food Service Payment Rates, and Administrative Reimbursement Rates for Sponsoring Organizations of Day Care Homes for the Period July 1, 2023 Through June 30, 2024",
+   "u": "https://www.federalregister.gov/documents/2023/07/07/2023-14317/child-and-adult-care-food-program-national-average-payment-rates-day-care-home-food-service-payment"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2023-07-07",
+   "k": "Notice",
+   "n": "2023-14313",
+   "t": "National School Lunch, Special Milk, and School Breakfast Programs, National Average Payments/Maximum Reimbursement Rates",
+   "u": "https://www.federalregister.gov/documents/2023/07/07/2023-14313/national-school-lunch-special-milk-and-school-breakfast-programs-national-average-paymentsmaximum"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2023-02-22",
+   "k": "Proposed Rule",
+   "n": "2023-02113",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+   "u": "https://www.federalregister.gov/documents/2023/02/22/2023-02113/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2022"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-01-30",
+   "k": "Notice",
+   "n": "2023-01771",
+   "t": "Notice; 2022 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2023/01/30/2023-01771/notice-2022-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2022-07-26",
+   "k": "Notice",
+   "n": "2022-15893",
+   "t": "Child and Adult Care Food Program: National Average Payment Rates, Day Care Home Food Service Payment Rates, and Administrative Reimbursement Rates for Sponsoring Organizations of Day Care Homes for the Period July 1, 2022 Through June 30, 2023",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15893/child-and-adult-care-food-program-national-average-payment-rates-day-care-home-food-service-payment"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2022-07-26",
+   "k": "Notice",
+   "n": "2022-15892",
+   "t": "National School Lunch, Special Milk, and School Breakfast Programs, National Average Payments/Maximum Reimbursement Rates",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15892/national-school-lunch-special-milk-and-school-breakfast-programs-national-average-paymentsmaximum"
+  }
+ ],
+ "law": "117-158",
+ "rules": [
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2023-02-22",
+   "k": "Proposed Rule",
+   "n": "2023-02113",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+   "u": "https://www.federalregister.gov/documents/2023/02/22/2023-02113/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2022"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-158%22+%7C+%22Pub.+L.+117-158%22+%7C+%22P.L.+117-158%22&order=newest",
+ "term": "\"Public Law 117-158\" | \"Pub. L. 117-158\" | \"P.L. 117-158\"",
+ "total": 6
+}

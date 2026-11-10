@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-12-12",
+ "last": "2024-02-15",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-02-15",
+   "k": "Notice",
+   "n": "2024-03148",
+   "t": "Agency Information Collection Activity Under OMB Review: Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event(s)",
+   "u": "https://www.federalregister.gov/documents/2024/02/15/2024-03148/agency-information-collection-activity-under-omb-review-statement-in-support-of-claimed-mental"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-12-12",
+   "k": "Notice",
+   "n": "2023-27210",
+   "t": "Agency Information Collection Activity: Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event(s)",
+   "u": "https://www.federalregister.gov/documents/2023/12/12/2023-27210/agency-information-collection-activity-statement-in-support-of-claimed-mental-health-disorders-due"
+  }
+ ],
+ "law": "117-271",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-271%22+%7C+%22Pub.+L.+117-271%22+%7C+%22P.L.+117-271%22&order=newest",
+ "term": "\"Public Law 117-271\" | \"Pub. L. 117-271\" | \"P.L. 117-271\"",
+ "total": 2
+}

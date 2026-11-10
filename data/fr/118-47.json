@@ -1,0 +1,390 @@
+{
+ "agencies": [
+  [
+   "Education Department",
+   23
+  ],
+  [
+   "Health and Human Services Department",
+   18
+  ],
+  [
+   "Labor Department",
+   15
+  ],
+  [
+   "State Department",
+   11
+  ],
+  [
+   "Health Resources and Services Administration",
+   9
+  ],
+  [
+   "Homeland Security Department",
+   8
+  ],
+  [
+   "Employment and Training Administration",
+   8
+  ],
+  [
+   "Agriculture Department",
+   5
+  ],
+  [
+   "Office of the Secretary",
+   4
+  ],
+  [
+   "Executive Office of the President",
+   4
+  ],
+  [
+   "Rural Housing Service",
+   3
+  ],
+  [
+   "Personnel Management Office",
+   3
+  ]
+ ],
+ "by_type": {
+  "Notice": 61,
+  "Presidential Document": 4,
+  "Proposed Rule": 13,
+  "Rule": 17
+ },
+ "by_year": {
+  "2024": 62,
+  "2025": 22,
+  "2026": 11
+ },
+ "complete": true,
+ "first": "2024-04-02",
+ "last": "2026-09-18",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-09-18",
+   "k": "Notice",
+   "n": "2026-19145",
+   "t": "Infant-Toddler Court Program-National Resource Center",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19145/infant-toddler-court-program-national-resource-center"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-09-11",
+   "k": "Notice",
+   "n": "2026-18568",
+   "t": "Notice of Supplemental Funding, Infant-Toddler Court Program-State Awards",
+   "u": "https://www.federalregister.gov/documents/2026/09/11/2026-18568/notice-of-supplemental-funding-infant-toddler-court-program-state-awards"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16599",
+   "t": "Agenda of Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16599/agenda-of-regulations"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-08-13",
+   "k": "Rule",
+   "n": "2026-16508",
+   "t": "Medicaid Program; Prohibition on Federal Medicaid and Children's Health Insurance Program Funding for Sex-Rejecting Procedures Furnished to Children",
+   "u": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2026-08-07",
+   "k": "Proposed Rule",
+   "n": "2026-16134",
+   "t": "Reducing Federal Burden for Head Start Programs",
+   "u": "https://www.federalregister.gov/documents/2026/08/07/2026-16134/reducing-federal-burden-for-head-start-programs"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-08-06",
+   "k": "Notice",
+   "n": "2026-15950",
+   "t": "Certification Under Section 7045(b)(2)(A) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2024 (SFOAA) (Div. F, P.L. 118-47), as carried forward by the Full-Year Continuing Appropriations Act, 2025 (Div. A, P.L. 119-4)",
+   "u": "https://www.federalregister.gov/documents/2026/08/06/2026-15950/certification-under-section-7045b2a-of-the-department-of-state-foreign-operations-and-related"
+  },
+  {
+   "a": [
+    "Labor Department"
+   ],
+   "d": "2026-07-30",
+   "k": "Notice",
+   "n": "2026-15424",
+   "t": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Attestation for Employers Seeking To Employ H-2B Nonimmigrant Workers Under Section 105 of Division G, Title I of the Further Consolidated Appropriations Act, 2024, Public Law 118-47, as Extended by Public Law 119-",
+   "u": "https://www.federalregister.gov/documents/2026/07/30/2026-15424/agency-information-collection-activities-submission-for-omb-review-comment-request-attestation-for"
+  },
+  {
+   "a": [
+    "Committee for Purchase From People Who Are Blind or Severely Disabled"
+   ],
+   "d": "2026-04-30",
+   "k": "Proposed Rule",
+   "n": "2026-08392",
+   "t": "Revising Central Nonprofit Agencies' Requirements To Charge Fees and Clarifying the Permissibility of Subcontracting Within the AbilityOne Program",
+   "u": "https://www.federalregister.gov/documents/2026/04/30/2026-08392/revising-central-nonprofit-agencies-requirements-to-charge-fees-and-clarifying-the-permissibility-of"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-04-29",
+   "k": "Rule",
+   "n": "2026-08333",
+   "t": "USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill",
+   "u": "https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2026-02-17",
+   "k": "Notice",
+   "n": "2026-03003",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/02/17/2026-03003/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2026-02-03",
+   "k": "Rule",
+   "n": "2026-02131",
+   "t": "Exercise of Time-Limited Authority To Increase the Fiscal Year 2026 Numerical Limitation for the H-2B Temporary Nonagricultural Worker Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/03/2026-02131/exercise-of-time-limited-authority-to-increase-the-fiscal-year-2026-numerical-limitation-for-the"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2025-11-25",
+   "k": "Notice",
+   "n": "2025-20979",
+   "t": "Certification Related to Foreign Military Financing for Colombia Under Section 7045(c)(3)(B) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2024 (Div. F, Pub. L. 118-47), as Carried Forward by the Full-Year Continuing Appropriations Act, 2025 (Div. A, Pub. L",
+   "u": "https://www.federalregister.gov/documents/2025/11/25/2025-20979/certification-related-to-foreign-military-financing-for-colombia-under-section-7045c3b-of-the"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Office of the Secretary"
+   ],
+   "d": "2025-09-22",
+   "k": "Notice",
+   "n": "2025-18336",
+   "t": "Semiannual Agenda of Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/09/22/2025-18336/semiannual-agenda-of-regulations"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2025-09-10",
+   "k": "Presidential Document",
+   "n": "2025-17509",
+   "t": "Strengthening Efforts To Protect U.S. Nationals From Wrongful Detention Abroad",
+   "u": "https://www.federalregister.gov/documents/2025/09/10/2025-17509/strengthening-efforts-to-protect-us-nationals-from-wrongful-detention-abroad"
+  },
+  {
+   "a": [
+    "Millennium Challenge Corporation"
+   ],
+   "d": "2025-09-03",
+   "k": "Notice",
+   "n": "2025-16827",
+   "t": "Millennium Challenge Corporation Candidate Country Report for Fiscal Year 2026",
+   "u": "https://www.federalregister.gov/documents/2025/09/03/2025-16827/millennium-challenge-corporation-candidate-country-report-for-fiscal-year-2026"
+  }
+ ],
+ "law": "118-47",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-08-13",
+   "k": "Rule",
+   "n": "2026-16508",
+   "t": "Medicaid Program; Prohibition on Federal Medicaid and Children's Health Insurance Program Funding for Sex-Rejecting Procedures Furnished to Children",
+   "u": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2026-08-07",
+   "k": "Proposed Rule",
+   "n": "2026-16134",
+   "t": "Reducing Federal Burden for Head Start Programs",
+   "u": "https://www.federalregister.gov/documents/2026/08/07/2026-16134/reducing-federal-burden-for-head-start-programs"
+  },
+  {
+   "a": [
+    "Committee for Purchase From People Who Are Blind or Severely Disabled"
+   ],
+   "d": "2026-04-30",
+   "k": "Proposed Rule",
+   "n": "2026-08392",
+   "t": "Revising Central Nonprofit Agencies' Requirements To Charge Fees and Clarifying the Permissibility of Subcontracting Within the AbilityOne Program",
+   "u": "https://www.federalregister.gov/documents/2026/04/30/2026-08392/revising-central-nonprofit-agencies-requirements-to-charge-fees-and-clarifying-the-permissibility-of"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-04-29",
+   "k": "Rule",
+   "n": "2026-08333",
+   "t": "USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill",
+   "u": "https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2026-02-03",
+   "k": "Rule",
+   "n": "2026-02131",
+   "t": "Exercise of Time-Limited Authority To Increase the Fiscal Year 2026 Numerical Limitation for the H-2B Temporary Nonagricultural Worker Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/03/2026-02131/exercise-of-time-limited-authority-to-increase-the-fiscal-year-2026-numerical-limitation-for-the"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Occupational Safety and Health Administration"
+   ],
+   "d": "2025-07-01",
+   "k": "Proposed Rule",
+   "n": "2025-11635",
+   "t": "Cadmium",
+   "u": "https://www.federalregister.gov/documents/2025/07/01/2025-11635/cadmium"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2025-06-25",
+   "k": "Rule",
+   "n": "2025-11608",
+   "t": "Technical Assistance on State Data Collection-IDEA Data Management Center",
+   "u": "https://www.federalregister.gov/documents/2025/06/25/2025-11608/technical-assistance-on-state-data-collection-idea-data-management-center"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2025-06-25",
+   "k": "Rule",
+   "n": "2025-11599",
+   "t": "Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate IDEA Part B and Part C Fiscal Data",
+   "u": "https://www.federalregister.gov/documents/2025/06/25/2025-11599/technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2025-01-21",
+   "k": "Proposed Rule",
+   "n": "2025-00985",
+   "t": "Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate IDEA Part B and Part C Fiscal Data",
+   "u": "https://www.federalregister.gov/documents/2025/01/21/2025-00985/technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2025-01-21",
+   "k": "Rule",
+   "n": "2025-00555",
+   "t": "Prevailing Rate Systems; Change in Criteria for Defining Appropriated Fund Federal Wage System Wage Areas",
+   "u": "https://www.federalregister.gov/documents/2025/01/21/2025-00555/prevailing-rate-systems-change-in-criteria-for-defining-appropriated-fund-federal-wage-system-wage"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29353",
+   "t": "Modernizing H-2 Program Requirements, Oversight, and Worker Protections",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2024-12-02",
+   "k": "Rule",
+   "n": "2024-28017",
+   "t": "Exercise of Time-Limited Authority To Increase the Numerical Limitation for FY 2025 for the H-2B Temporary Nonagricultural Worker Program and Portability Flexibility for H-2B Workers Seeking To Change Employers",
+   "u": "https://www.federalregister.gov/documents/2024/12/02/2024-28017/exercise-of-time-limited-authority-to-increase-the-numerical-limitation-for-fy-2025-for-the-h-2b"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2024-11-18",
+   "k": "Rule",
+   "n": "2024-26909",
+   "t": "Increase Flexibility for Tribes in Child Care and Development Fund (CCDF) Eligibility",
+   "u": "https://www.federalregister.gov/documents/2024/11/18/2024-26909/increase-flexibility-for-tribes-in-child-care-and-development-fund-ccdf-eligibility"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2024-11-18",
+   "k": "Proposed Rule",
+   "n": "2024-26481",
+   "t": "Employer-Provided Survey Wage Methodology for the Temporary Non-Agricultural Employment H-2B Program",
+   "u": "https://www.federalregister.gov/documents/2024/11/18/2024-26481/employer-provided-survey-wage-methodology-for-the-temporary-non-agricultural-employment-h-2b-program"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2024-11-13",
+   "k": "Rule",
+   "n": "2024-23817",
+   "t": "Department of Energy Acquisition Regulation (DEAR)",
+   "u": "https://www.federalregister.gov/documents/2024/11/13/2024-23817/department-of-energy-acquisition-regulation-dear"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-47%22+%7C+%22Pub.+L.+118-47%22+%7C+%22P.L.+118-47%22&order=newest",
+ "term": "\"Public Law 118-47\" | \"Pub. L. 118-47\" | \"P.L. 118-47\"",
+ "total": 95
+}

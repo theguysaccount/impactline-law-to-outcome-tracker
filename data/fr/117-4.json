@@ -1,0 +1,67 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-07-05",
+ "last": "2024-05-13",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-05-13",
+   "k": "Rule",
+   "n": "2024-09862",
+   "t": "Veteran and Spouse Transitional Assistance Grant Program",
+   "u": "https://www.federalregister.gov/documents/2024/05/13/2024-09862/veteran-and-spouse-transitional-assistance-grant-program"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-07-05",
+   "k": "Proposed Rule",
+   "n": "2023-13819",
+   "t": "Veteran and Spouse Transitional Assistance Grant Program",
+   "u": "https://www.federalregister.gov/documents/2023/07/05/2023-13819/veteran-and-spouse-transitional-assistance-grant-program"
+  }
+ ],
+ "law": "117-4",
+ "rules": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-05-13",
+   "k": "Rule",
+   "n": "2024-09862",
+   "t": "Veteran and Spouse Transitional Assistance Grant Program",
+   "u": "https://www.federalregister.gov/documents/2024/05/13/2024-09862/veteran-and-spouse-transitional-assistance-grant-program"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-07-05",
+   "k": "Proposed Rule",
+   "n": "2023-13819",
+   "t": "Veteran and Spouse Transitional Assistance Grant Program",
+   "u": "https://www.federalregister.gov/documents/2023/07/05/2023-13819/veteran-and-spouse-transitional-assistance-grant-program"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-4%22+%7C+%22Pub.+L.+117-4%22+%7C+%22P.L.+117-4%22&order=newest",
+ "term": "\"Public Law 117-4\" | \"Pub. L. 117-4\" | \"P.L. 117-4\"",
+ "total": 2
+}

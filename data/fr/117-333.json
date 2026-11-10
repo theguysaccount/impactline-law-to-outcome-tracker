@@ -1,0 +1,82 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   3
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 3,
+  "Rule": 1
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 2,
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2023-12-27",
+ "last": "2025-01-16",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-01-16",
+   "k": "Rule",
+   "n": "2024-29907",
+   "t": "Post-9/11 Improvements, Fry Scholarship, and Interval Payments Amendments",
+   "u": "https://www.federalregister.gov/documents/2025/01/16/2024-29907/post-911-improvements-fry-scholarship-and-interval-payments-amendments"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-02-28",
+   "k": "Notice",
+   "n": "2024-04136",
+   "t": "Agency Information Collection Activity Under OMB Review: Application for Approval of an Institution of Higher Learning Facility; Institution of Higher Learning-Program Submission List; Application for Approval of Organizations Other Than Institutions of Higher Learning; Non-Institution of Higher Lea",
+   "u": "https://www.federalregister.gov/documents/2024/02/28/2024-04136/agency-information-collection-activity-under-omb-review-application-for-approval-of-an-institution"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2024-01-29",
+   "k": "Notice",
+   "n": "2024-01706",
+   "t": "Notice; 2023 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2024/01/29/2024-01706/notice-2023-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-12-27",
+   "k": "Notice",
+   "n": "2023-28364",
+   "t": "Agency Information Collection Activity: Application for Approval of an Institution of Higher Learning Facility; Institution of Higher Learning-Program Submission List; Application for Approval of Organizations Other Than Institutions of Higher Learning; Non-Institution of Higher Learning-Program Sub",
+   "u": "https://www.federalregister.gov/documents/2023/12/27/2023-28364/agency-information-collection-activity-application-for-approval-of-an-institution-of-higher-learning"
+  }
+ ],
+ "law": "117-333",
+ "rules": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2025-01-16",
+   "k": "Rule",
+   "n": "2024-29907",
+   "t": "Post-9/11 Improvements, Fry Scholarship, and Interval Payments Amendments",
+   "u": "https://www.federalregister.gov/documents/2025/01/16/2024-29907/post-911-improvements-fry-scholarship-and-interval-payments-amendments"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-333%22+%7C+%22Pub.+L.+117-333%22+%7C+%22P.L.+117-333%22&order=newest",
+ "term": "\"Public Law 117-333\" | \"Pub. L. 117-333\" | \"P.L. 117-333\"",
+ "total": 4
+}

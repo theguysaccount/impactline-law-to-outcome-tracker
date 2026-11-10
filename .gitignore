@@ -1,0 +1,11 @@
+_site/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
+.claude/
+*.tmp
+prev-urls.txt
+selftest.log

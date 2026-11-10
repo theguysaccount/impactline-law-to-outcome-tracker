@@ -1,0 +1,21 @@
+{
+  "name": "ImpactLine",
+  "tagline": "The public delivery record: follow an enacted law to its Federal Register trail and its spending, with the gaps left visible.",
+  "repo": "theguysaccount/impactline-law-to-outcome-tracker",
+  "default_url": "https://theguysaccount.github.io/impactline-law-to-outcome-tracker",
+  "indexable": false,
+  "original_url": "https://app.impactline.org",
+  "user_agent": "ImpactLineStatic/1.0 (+https://github.com/theguysaccount/impactline-law-to-outcome-tracker)",
+  "window_years": 5,
+  "min_laws_to_publish": 300,
+  "max_law_drop_share": 0.1,
+  "pace": {
+    "www.govinfo.gov": 1.0,
+    "www.federalregister.gov": 0.35,
+    "api.usaspending.gov": 0.6
+  },
+  "budget": {
+    "fedreg_per_run": 320,
+    "awards_per_run": 140
+  }
+}

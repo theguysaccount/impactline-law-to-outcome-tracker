@@ -1,0 +1,191 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 15990340000.0,
+   "name": "Department of Homeland Security",
+   "obligations": 15746245699.74,
+   "outlays": 11454191093.48
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1980374214.55,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4499DRORP00000001",
+   "kind": "grants",
+   "outlays": 1251658113.63,
+   "recipient": "OREGON MILITARY DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1063462203.7,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4500DRCTP00000001",
+   "kind": "grants",
+   "outlays": 359763529.87,
+   "recipient": "EMERGENCY SERVICES AND PUBLIC PROTECTION, DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4500DRCTP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 660572955.78,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "1603DRLAP0000005",
+   "kind": "grants",
+   "outlays": 51696224.27,
+   "recipient": "HOMELAND SECURITY & EMERGENCY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 554787734.86,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4531DRMNP00000001",
+   "kind": "grants",
+   "outlays": 184366399.73,
+   "recipient": "PUBLIC SAFETY, MINNESOTA DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4531DRMNP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 542881187.54,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4483DRIAP00000001",
+   "kind": "grants",
+   "outlays": 270375414.33,
+   "recipient": "IOWA HOMELAND SECURITY AND EMERGENCY MANAGEMENT DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4483DRIAP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 524461882.66,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4504DRKSP00000001",
+   "kind": "grants",
+   "outlays": 198995609.18,
+   "recipient": "KANSAS ADJUTANT GENERAL DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4504DRKSP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 470850100.11,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4533DRAKP00000001",
+   "kind": "grants",
+   "outlays": 319018303.61,
+   "recipient": "ALASKA DEPARTMENT OF MILITARY AND VETERAN'S AFFAIRS",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4533DRAKP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 459186499.76,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4532DRVTP00000001",
+   "kind": "grants",
+   "outlays": 72006669.01,
+   "recipient": "VERMONT DEPARTMENT OF PUBLIC SAFETY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4532DRVTP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 115969886.24,
+   "description": "FEMA PUBLIC ASSISTANCE (PA) TECHNICAL ASSISTANCE CONTRACT IV (PATAC IV) TASK ORDER IN SUPPORT OF DR-4673-FL (HURRICANE IAN) AND DR-4680-FL (HURRICANE NICOLE).",
+   "id": "70FBR423F00000123",
+   "kind": "contracts",
+   "outlays": 110900546.04,
+   "recipient": "FLUOR FEDERAL SERVICES INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR423F00000123_7022_70FB8018D00000001_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 115542591.92,
+   "description": "PA-TAC V - FLORIDA MULTIPLE DISASTERS (EAST ZONE) - FEMA PUBLIC ASSISTANCE (PA) DISASTER OPERATIONS SUPPORT FOR DR-4337-FL HURRICANE IRMA 4399-FL HURRICANE MICHAEL 4468-FL HURRICANE DORIAN 4564-FL, HURRICANE SALLY 4673-FL HURRICANE IAN 4709",
+   "id": "70FB8024F00000079",
+   "kind": "contracts",
+   "outlays": 115542591.92,
+   "recipient": "FLUOR FEDERAL SERVICES INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FB8024F00000079_7022_70FB8024D00000003_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 106719430.59,
+   "description": "RESPONDER SUPPORT CAMP TASK ORDER FOR 350 BEDS IN THE STATES OF GEORGIA OR NORTH CAROLINA IN RESPONSE TO HURRICANE HELENE.",
+   "id": "70FBR424F00000106",
+   "kind": "contracts",
+   "outlays": 106719430.59,
+   "recipient": "COTTON COMMERCIAL USA, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR424F00000106_7022_70FB8023D00000007_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 103318637.03,
+   "description": "THE PURPOSE OF THIS TASK ORDER IS TO PROCURE VOICE AND DATA (V&D) SERVICES FOR FEMA. THIS IS A FIRM FIXED PRICE TASK ORDER",
+   "id": "70FA3021F00000470",
+   "kind": "contracts",
+   "outlays": 44278756.09,
+   "recipient": "AT&T ENTERPRISES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3021F00000470_7022_GS00Q17NSD3000_4732"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 67046520.05,
+   "description": "THIS TASK ORDER 70FA3024F000000100 REPLACED TASK ORDER 70FA3024F0000001.",
+   "id": "70FA3024F00000100",
+   "kind": "contracts",
+   "outlays": 44531524.67,
+   "recipient": "WIDEPOINT INTEGRATED SOLUTIONS CORP",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3024F00000100_7022_70RTAC21D00000001_7001"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 58246199.6,
+   "description": "LOGISTICS HOUSING OPERATIONS UNIT INSTALLATION, MAINTENANCE AND DEACTIVATION - LOGHOUSE HAULING AND INSTALLING (H&I) AND MAINTENANCE AND DEACTIVATION (M&D) SERVICES UP TO 5,000 UNITS, CONSTRUCTION IN SUPPORT OF DR-4673-FL IN FLORIDA",
+   "id": "70FBR423F00000030",
+   "kind": "contracts",
+   "outlays": 16578347.79,
+   "recipient": "MLU SERVICES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR423F00000030_7022_70FB8018D00000013_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 55817538.9,
+   "description": "THE DEPARTMENT OF HOMELAND SECURITY (DHS) FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA) PUBLIC ASSISTANCE DIVISION HAS A REQUIREMENT TO ACQUIRE SUBJECT MATTER EXPERTS THROUGH THE FEDERALLY FUNDED RESEARCH AND DEVELOPMENT CENTER (FFRDC) HOMELAN",
+   "id": "70FB8023F00000047",
+   "kind": "contracts",
+   "outlays": 50902935.51,
+   "recipient": "THE RAND CORPORATION",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FB8023F00000047_7022_70RSAT22D00000001_7001"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 55334198.68,
+   "description": "CLC 1000 ROOM SUBSISTENCE-SUPPORT/LODGING IN SUPPORT OF DR-4724-HI.",
+   "id": "70FB7023F00000024",
+   "kind": "contracts",
+   "outlays": 55334198.68,
+   "recipient": "CORPORATE LODGING CONSULTANTS, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FB7023F00000024_7022_47QMCB21A0003_4732"
+  }
+ ],
+ "codes": [
+  {
+   "code": "AAE",
+   "designation": "Emergency"
+  }
+ ],
+ "funding_by_code": {
+  "AAE": 15990340000.0
+ },
+ "law": "118-15",
+ "overview": {
+  "award_obligations": 12026390075.93,
+  "award_outlays": 9172045163.68,
+  "budget_authority": 15990340000.0,
+  "total_obligations": 15746245699.74,
+  "total_outlays": 11454191093.48
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=AAE"
+}

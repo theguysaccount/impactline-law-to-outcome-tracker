@@ -1,0 +1,71 @@
+{
+ "agencies": [
+  [
+   "Justice Department",
+   1
+  ],
+  [
+   "Drug Enforcement Administration",
+   1
+  ],
+  [
+   "Health and Human Services Department",
+   1
+  ],
+  [
+   "Food and Drug Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2026-03-06",
+ "last": "2026-06-09",
+ "latest": [
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-06-09",
+   "k": "Rule",
+   "n": "2026-11526",
+   "t": "Implementation of the Substance Use-Disorder Prevention That Promotes Opioid Recovery and Treatment for Patients and Communities Act of 2018: Dispensing and Administering Controlled Substances for Medication-Assisted Treatment",
+   "u": "https://www.federalregister.gov/documents/2026/06/09/2026-11526/implementation-of-the-substance-use-disorder-prevention-that-promotes-opioid-recovery-and-treatment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-03-06",
+   "k": "Notice",
+   "n": "2026-04479",
+   "t": "Developing Specifications for In-Home Disposal Systems for Opioid Analgesics Dispensed in an Outpatient Setting; Establishment of a Public Docket; Request for Comments",
+   "u": "https://www.federalregister.gov/documents/2026/03/06/2026-04479/developing-specifications-for-in-home-disposal-systems-for-opioid-analgesics-dispensed-in-an"
+  }
+ ],
+ "law": "119-44",
+ "rules": [
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-06-09",
+   "k": "Rule",
+   "n": "2026-11526",
+   "t": "Implementation of the Substance Use-Disorder Prevention That Promotes Opioid Recovery and Treatment for Patients and Communities Act of 2018: Dispensing and Administering Controlled Substances for Medication-Assisted Treatment",
+   "u": "https://www.federalregister.gov/documents/2026/06/09/2026-11526/implementation-of-the-substance-use-disorder-prevention-that-promotes-opioid-recovery-and-treatment"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-44%22+%7C+%22Pub.+L.+119-44%22+%7C+%22P.L.+119-44%22&order=newest",
+ "term": "\"Public Law 119-44\" | \"Pub. L. 119-44\" | \"P.L. 119-44\"",
+ "total": 2
+}

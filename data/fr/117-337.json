@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   1
+  ],
+  [
+   "Children and Families Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-03-08",
+ "last": "2024-03-08",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2024-03-08",
+   "k": "Notice",
+   "n": "2024-04935",
+   "t": "Notice for Public Comment on Administration for Native Americans' Survey To Measure Native American Language Vitality",
+   "u": "https://www.federalregister.gov/documents/2024/03/08/2024-04935/notice-for-public-comment-on-administration-for-native-americans-survey-to-measure-native-american"
+  }
+ ],
+ "law": "117-337",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-337%22+%7C+%22Pub.+L.+117-337%22+%7C+%22P.L.+117-337%22&order=newest",
+ "term": "\"Public Law 117-337\" | \"Pub. L. 117-337\" | \"P.L. 117-337\"",
+ "total": 1
+}

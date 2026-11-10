@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-01-16",
+ "last": "2024-01-16",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-01-16",
+   "k": "Rule",
+   "n": "2024-00629",
+   "t": "85/15 Rule Calculations, Waiver Criteria, and Reports",
+   "u": "https://www.federalregister.gov/documents/2024/01/16/2024-00629/8515-rule-calculations-waiver-criteria-and-reports"
+  }
+ ],
+ "law": "117-174",
+ "rules": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-01-16",
+   "k": "Rule",
+   "n": "2024-00629",
+   "t": "85/15 Rule Calculations, Waiver Criteria, and Reports",
+   "u": "https://www.federalregister.gov/documents/2024/01/16/2024-00629/8515-rule-calculations-waiver-criteria-and-reports"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-174%22+%7C+%22Pub.+L.+117-174%22+%7C+%22P.L.+117-174%22&order=newest",
+ "term": "\"Public Law 117-174\" | \"Pub. L. 117-174\" | \"P.L. 117-174\"",
+ "total": 1
+}

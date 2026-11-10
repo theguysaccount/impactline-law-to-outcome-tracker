@@ -1,0 +1,97 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   6
+  ],
+  [
+   "Food and Drug Administration",
+   6
+  ]
+ ],
+ "by_type": {
+  "Notice": 6
+ },
+ "by_year": {
+  "2022": 2,
+  "2023": 2,
+  "2024": 1,
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2022-04-19",
+ "last": "2025-01-07",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2025-01-07",
+   "k": "Notice",
+   "n": "2024-31533",
+   "t": "Questions and Answers Regarding Food Allergens, Including the Food Allergen Labeling Requirements of the Federal Food, Drug, and Cosmetic Act (Edition 5): Guidance for Industry; Availability",
+   "u": "https://www.federalregister.gov/documents/2025/01/07/2024-31533/questions-and-answers-regarding-food-allergens-including-the-food-allergen-labeling-requirements-of"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2024-04-11",
+   "k": "Notice",
+   "n": "2024-07663",
+   "t": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Food Allergen Labeling and Reporting",
+   "u": "https://www.federalregister.gov/documents/2024/04/11/2024-07663/agency-information-collection-activities-submission-for-office-of-management-and-budget-review"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2023-12-08",
+   "k": "Notice",
+   "n": "2023-27018",
+   "t": "Agency Information Collection Activities; Proposed Collection; Comment Request; Food Allergen Labeling and Reporting",
+   "u": "https://www.federalregister.gov/documents/2023/12/08/2023-27018/agency-information-collection-activities-proposed-collection-comment-request-food-allergen-labeling"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2023-04-24",
+   "k": "Notice",
+   "n": "2023-08543",
+   "t": "Food Labeling in Online Grocery Shopping; Request for Information",
+   "u": "https://www.federalregister.gov/documents/2023/04/24/2023-08543/food-labeling-in-online-grocery-shopping-request-for-information"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2022-11-30",
+   "k": "Notice",
+   "n": "2022-26110",
+   "t": "Questions and Answers Regarding Food Allergens, Including the Food Allergen Labeling Requirements of the Federal Food, Drug, and Cosmetic Act (Edition 5): Draft Guidance for Industry; Availability; Agency Information Collection Activities; Proposed Collection; Comment Request; and Questions and Answ",
+   "u": "https://www.federalregister.gov/documents/2022/11/30/2022-26110/questions-and-answers-regarding-food-allergens-including-the-food-allergen-labeling-requirements-of"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2022-04-19",
+   "k": "Notice",
+   "n": "2022-08303",
+   "t": "Evaluating the Public Health Importance of Food Allergens Other Than the Major Food Allergens Listed in the Federal Food, Drug, and Cosmetic Act; Draft Guidance for FDA Staff and Stakeholders; Availability; Agency Information Collection Activities; Proposed Collection; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2022/04/19/2022-08303/evaluating-the-public-health-importance-of-food-allergens-other-than-the-major-food-allergens-listed"
+  }
+ ],
+ "law": "117-11",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-11%22+%7C+%22Pub.+L.+117-11%22+%7C+%22P.L.+117-11%22&order=newest",
+ "term": "\"Public Law 117-11\" | \"Pub. L. 117-11\" | \"P.L. 117-11\"",
+ "total": 6
+}

@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Federal Maritime Commission",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2025-12-29",
+ "last": "2025-12-29",
+ "latest": [
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2025-12-29",
+   "k": "Rule",
+   "n": "2025-23920",
+   "t": "Demurrage and Detention Billing Requirements Properly Issued Invoices Provision Set Aside by Court",
+   "u": "https://www.federalregister.gov/documents/2025/12/29/2025-23920/demurrage-and-detention-billing-requirements-properly-issued-invoices-provision-set-aside-by-court"
+  }
+ ],
+ "law": "117-14",
+ "rules": [
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2025-12-29",
+   "k": "Rule",
+   "n": "2025-23920",
+   "t": "Demurrage and Detention Billing Requirements Properly Issued Invoices Provision Set Aside by Court",
+   "u": "https://www.federalregister.gov/documents/2025/12/29/2025-23920/demurrage-and-detention-billing-requirements-properly-issued-invoices-provision-set-aside-by-court"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-14%22+%7C+%22Pub.+L.+117-14%22+%7C+%22P.L.+117-14%22&order=newest",
+ "term": "\"Public Law 117-14\" | \"Pub. L. 117-14\" | \"P.L. 117-14\"",
+ "total": 1
+}

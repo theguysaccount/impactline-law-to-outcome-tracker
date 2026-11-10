@@ -1,0 +1,289 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   19
+  ],
+  [
+   "Treasury Department",
+   6
+  ],
+  [
+   "Foreign Assets Control Office",
+   6
+  ],
+  [
+   "U.S. Customs and Border Protection",
+   3
+  ],
+  [
+   "Executive Office of the President",
+   1
+  ],
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Land Management Bureau",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 19,
+  "Presidential Document": 1,
+  "Proposed Rule": 1,
+  "Rule": 6
+ },
+ "by_year": {
+  "2022": 3,
+  "2023": 7,
+  "2024": 11,
+  "2025": 2,
+  "2026": 4
+ },
+ "complete": true,
+ "first": "2022-01-24",
+ "last": "2026-10-29",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-10-29",
+   "k": "Notice",
+   "n": "2026-22094",
+   "t": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+   "u": "https://www.federalregister.gov/documents/2026/10/29/2026-22094/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-20007",
+   "t": "Removing Duplicative Penalties Information and Reorganizing Certain Parts",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20007/removing-duplicative-penalties-information-and-reorganizing-certain-parts"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-08-03",
+   "k": "Notice",
+   "n": "2026-15628",
+   "t": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15628/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2026-07-27",
+   "k": "Rule",
+   "n": "2026-15112",
+   "t": "Updating Website and Contact Information, and Authorizations for Payments for Legal Services",
+   "u": "https://www.federalregister.gov/documents/2026/07/27/2026-15112/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-01-15",
+   "k": "Notice",
+   "n": "2025-00901",
+   "t": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2025-00901/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2025-01-15",
+   "k": "Rule",
+   "n": "2025-00786",
+   "t": "Inflation Adjustment of Civil Monetary Penalties",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2025-00786/inflation-adjustment-of-civil-monetary-penalties"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2024-12-19",
+   "k": "Rule",
+   "n": "2024-30344",
+   "t": "Updating Authorizations for Payments for Legal Services",
+   "u": "https://www.federalregister.gov/documents/2024/12/19/2024-30344/updating-authorizations-for-payments-for-legal-services"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-11-25",
+   "k": "Notice",
+   "n": "2024-27337",
+   "t": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+   "u": "https://www.federalregister.gov/documents/2024/11/25/2024-27337/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-11-01",
+   "k": "Notice",
+   "n": "2024-25423",
+   "t": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+   "u": "https://www.federalregister.gov/documents/2024/11/01/2024-25423/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "U.S. Customs and Border Protection"
+   ],
+   "d": "2024-10-15",
+   "k": "Notice",
+   "n": "2024-23778",
+   "t": "Agency Information Collection Activities; New Collection of Information; Forced Labor Allegation Portal/Forced Labor Portal",
+   "u": "https://www.federalregister.gov/documents/2024/10/15/2024-23778/agency-information-collection-activities-new-collection-of-information-forced-labor-allegation"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-10-03",
+   "k": "Notice",
+   "n": "2024-22539",
+   "t": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+   "u": "https://www.federalregister.gov/documents/2024/10/03/2024-22539/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2024-09-17",
+   "k": "Rule",
+   "n": "2024-20857",
+   "t": "Updating Provisions Related to Blocking and Other Actions Related to Specific Property or Interests in Property",
+   "u": "https://www.federalregister.gov/documents/2024/09/17/2024-20857/updating-provisions-related-to-blocking-and-other-actions-related-to-specific-property-or-interests"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-08-09",
+   "k": "Notice",
+   "n": "2024-17509",
+   "t": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+   "u": "https://www.federalregister.gov/documents/2024/08/09/2024-17509/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-06-12",
+   "k": "Notice",
+   "n": "2024-12631",
+   "t": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+   "u": "https://www.federalregister.gov/documents/2024/06/12/2024-12631/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-05-17",
+   "k": "Notice",
+   "n": "2024-10544",
+   "t": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+   "u": "https://www.federalregister.gov/documents/2024/05/17/2024-10544/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+  }
+ ],
+ "law": "117-78",
+ "rules": [
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-20007",
+   "t": "Removing Duplicative Penalties Information and Reorganizing Certain Parts",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20007/removing-duplicative-penalties-information-and-reorganizing-certain-parts"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2026-07-27",
+   "k": "Rule",
+   "n": "2026-15112",
+   "t": "Updating Website and Contact Information, and Authorizations for Payments for Legal Services",
+   "u": "https://www.federalregister.gov/documents/2026/07/27/2026-15112/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2025-01-15",
+   "k": "Rule",
+   "n": "2025-00786",
+   "t": "Inflation Adjustment of Civil Monetary Penalties",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2025-00786/inflation-adjustment-of-civil-monetary-penalties"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2024-12-19",
+   "k": "Rule",
+   "n": "2024-30344",
+   "t": "Updating Authorizations for Payments for Legal Services",
+   "u": "https://www.federalregister.gov/documents/2024/12/19/2024-30344/updating-authorizations-for-payments-for-legal-services"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2024-09-17",
+   "k": "Rule",
+   "n": "2024-20857",
+   "t": "Updating Provisions Related to Blocking and Other Actions Related to Specific Property or Interests in Property",
+   "u": "https://www.federalregister.gov/documents/2024/09/17/2024-20857/updating-provisions-related-to-blocking-and-other-actions-related-to-specific-property-or-interests"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office"
+   ],
+   "d": "2024-03-12",
+   "k": "Rule",
+   "n": "2024-05207",
+   "t": "Global Magnitsky Sanctions Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/03/12/2024-05207/global-magnitsky-sanctions-regulations"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Land Management Bureau"
+   ],
+   "d": "2023-06-16",
+   "k": "Proposed Rule",
+   "n": "2023-12178",
+   "t": "Rights-of-Way, Leasing, and Operations for Renewable Energy",
+   "u": "https://www.federalregister.gov/documents/2023/06/16/2023-12178/rights-of-way-leasing-and-operations-for-renewable-energy"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-78%22+%7C+%22Pub.+L.+117-78%22+%7C+%22P.L.+117-78%22&order=newest",
+ "term": "\"Public Law 117-78\" | \"Pub. L. 117-78\" | \"P.L. 117-78\"",
+ "total": 27
+}

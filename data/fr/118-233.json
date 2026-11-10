@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Geological Survey",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2025-11-07",
+ "last": "2025-11-07",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Geological Survey"
+   ],
+   "d": "2025-11-07",
+   "k": "Notice",
+   "n": "2025-19813",
+   "t": "Final 2025 List of Critical Minerals",
+   "u": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals"
+  }
+ ],
+ "law": "118-233",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-233%22+%7C+%22Pub.+L.+118-233%22+%7C+%22P.L.+118-233%22&order=newest",
+ "term": "\"Public Law 118-233\" | \"Pub. L. 118-233\" | \"P.L. 118-233\"",
+ "total": 1
+}

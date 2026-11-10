@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   1
+  ],
+  [
+   "Office of the Secretary",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-04-24",
+ "last": "2026-04-24",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-04-24",
+   "k": "Rule",
+   "n": "2026-08103",
+   "t": "One-Page Document on Passenger Rights",
+   "u": "https://www.federalregister.gov/documents/2026/04/24/2026-08103/one-page-document-on-passenger-rights"
+  }
+ ],
+ "law": "118-64",
+ "rules": [
+  {
+   "a": [
+    "Transportation Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-04-24",
+   "k": "Rule",
+   "n": "2026-08103",
+   "t": "One-Page Document on Passenger Rights",
+   "u": "https://www.federalregister.gov/documents/2026/04/24/2026-08103/one-page-document-on-passenger-rights"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-64%22+%7C+%22Pub.+L.+118-64%22+%7C+%22P.L.+118-64%22&order=newest",
+ "term": "\"Public Law 118-64\" | \"Pub. L. 118-64\" | \"P.L. 118-64\"",
+ "total": 1
+}

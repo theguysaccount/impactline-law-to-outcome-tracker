@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-08-19",
+ "last": "2024-08-19",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-08-19",
+   "k": "Rule",
+   "n": "2024-18345",
+   "t": "Bar to Approval",
+   "u": "https://www.federalregister.gov/documents/2024/08/19/2024-18345/bar-to-approval"
+  }
+ ],
+ "law": "117-297",
+ "rules": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-08-19",
+   "k": "Rule",
+   "n": "2024-18345",
+   "t": "Bar to Approval",
+   "u": "https://www.federalregister.gov/documents/2024/08/19/2024-18345/bar-to-approval"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-297%22+%7C+%22Pub.+L.+117-297%22+%7C+%22P.L.+117-297%22&order=newest",
+ "term": "\"Public Law 117-297\" | \"Pub. L. 117-297\" | \"P.L. 117-297\"",
+ "total": 1
+}

@@ -1,0 +1,74 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   2
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   2
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2026-04-07",
+ "last": "2026-07-31",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-31",
+   "k": "Rule",
+   "n": "2026-15588",
+   "t": "Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update",
+   "u": "https://www.federalregister.gov/documents/2026/07/31/2026-15588/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-04-07",
+   "k": "Proposed Rule",
+   "n": "2026-06675",
+   "t": "Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update",
+   "u": "https://www.federalregister.gov/documents/2026/04/07/2026-06675/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update"
+  }
+ ],
+ "law": "118-187",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-31",
+   "k": "Rule",
+   "n": "2026-15588",
+   "t": "Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update",
+   "u": "https://www.federalregister.gov/documents/2026/07/31/2026-15588/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-04-07",
+   "k": "Proposed Rule",
+   "n": "2026-06675",
+   "t": "Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update",
+   "u": "https://www.federalregister.gov/documents/2026/04/07/2026-06675/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-187%22+%7C+%22Pub.+L.+118-187%22+%7C+%22P.L.+118-187%22&order=newest",
+ "term": "\"Public Law 118-187\" | \"Pub. L. 118-187\" | \"P.L. 118-187\"",
+ "total": 2
+}

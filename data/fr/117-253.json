@@ -1,0 +1,65 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 2
+ },
+ "by_year": {
+  "2023": 2
+ },
+ "complete": true,
+ "first": "2023-04-14",
+ "last": "2023-09-07",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2023-09-07",
+   "k": "Proposed Rule",
+   "n": "2023-19316",
+   "t": "Homeland Security Acquisition Regulation; Limitations on Subcontracting in Emergency Acquisitions; Withdrawal",
+   "u": "https://www.federalregister.gov/documents/2023/09/07/2023-19316/homeland-security-acquisition-regulation-limitations-on-subcontracting-in-emergency-acquisitions"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2023-04-14",
+   "k": "Proposed Rule",
+   "n": "2023-07674",
+   "t": "Revision of Department of Homeland Security Acquisition Regulation; Limitations on Subcontracting in Emergency Acquisitions (HSAR Case 2009-005); Withdrawal",
+   "u": "https://www.federalregister.gov/documents/2023/04/14/2023-07674/revision-of-department-of-homeland-security-acquisition-regulation-limitations-on-subcontracting-in"
+  }
+ ],
+ "law": "117-253",
+ "rules": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2023-09-07",
+   "k": "Proposed Rule",
+   "n": "2023-19316",
+   "t": "Homeland Security Acquisition Regulation; Limitations on Subcontracting in Emergency Acquisitions; Withdrawal",
+   "u": "https://www.federalregister.gov/documents/2023/09/07/2023-19316/homeland-security-acquisition-regulation-limitations-on-subcontracting-in-emergency-acquisitions"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2023-04-14",
+   "k": "Proposed Rule",
+   "n": "2023-07674",
+   "t": "Revision of Department of Homeland Security Acquisition Regulation; Limitations on Subcontracting in Emergency Acquisitions (HSAR Case 2009-005); Withdrawal",
+   "u": "https://www.federalregister.gov/documents/2023/04/14/2023-07674/revision-of-department-of-homeland-security-acquisition-regulation-limitations-on-subcontracting-in"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-253%22+%7C+%22Pub.+L.+117-253%22+%7C+%22P.L.+117-253%22&order=newest",
+ "term": "\"Public Law 117-253\" | \"Pub. L. 117-253\" | \"P.L. 117-253\"",
+ "total": 2
+}

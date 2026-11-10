@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2023-01-30",
+ "last": "2023-01-30",
+ "latest": [
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-01-30",
+   "k": "Notice",
+   "n": "2023-01771",
+   "t": "Notice; 2022 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2023/01/30/2023-01771/notice-2022-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "117-86",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-86%22+%7C+%22Pub.+L.+117-86%22+%7C+%22P.L.+117-86%22&order=newest",
+ "term": "\"Public Law 117-86\" | \"Pub. L. 117-86\" | \"P.L. 117-86\"",
+ "total": 1
+}

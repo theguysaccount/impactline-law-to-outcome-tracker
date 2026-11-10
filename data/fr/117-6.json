@@ -1,0 +1,152 @@
+{
+ "agencies": [
+  [
+   "Small Business Administration",
+   8
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 6,
+  "Rule": 3
+ },
+ "by_year": {
+  "2021": 4,
+  "2022": 4,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2021-06-29",
+ "last": "2024-08-23",
+ "latest": [
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2024-08-23",
+   "k": "Rule",
+   "n": "2024-18083",
+   "t": "Business Loan Program Temporary Changes; Paycheck Protection Program-Extension of Lender Records Retention Requirements",
+   "u": "https://www.federalregister.gov/documents/2024/08/23/2024-18083/business-loan-program-temporary-changes-paycheck-protection-program-extension-of-lender-records"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2022-01-28",
+   "k": "Notice",
+   "n": "2022-01755",
+   "t": "Reporting and Recordkeeping Requirements Under OMB Review",
+   "u": "https://www.federalregister.gov/documents/2022/01/28/2022-01755/reporting-and-recordkeeping-requirements-under-omb-review"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2022-01-27",
+   "k": "Notice",
+   "n": "2022-01642",
+   "t": "Reporting and Recordkeeping Requirements Under OMB Review",
+   "u": "https://www.federalregister.gov/documents/2022/01/27/2022-01642/reporting-and-recordkeeping-requirements-under-omb-review"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2022-01-26",
+   "k": "Notice",
+   "n": "2022-01516",
+   "t": "Notice; 2021 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2022/01/26/2022-01516/notice-2021-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2022-01-13",
+   "k": "Notice",
+   "n": "2022-00517",
+   "t": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2022/01/13/2022-00517/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2021-09-16",
+   "k": "Rule",
+   "n": "2021-19985",
+   "t": "Borrower Appeals of Final SBA Loan Review Decisions Under the Paycheck Protection Program",
+   "u": "https://www.federalregister.gov/documents/2021/09/16/2021-19985/borrower-appeals-of-final-sba-loan-review-decisions-under-the-paycheck-protection-program"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2021-07-30",
+   "k": "Rule",
+   "n": "2021-16358",
+   "t": "Business Loan Program Temporary Changes; Paycheck Protection Program-COVID Revenue Reduction Score, Direct Borrower Forgiveness Process, and Appeals Deferment",
+   "u": "https://www.federalregister.gov/documents/2021/07/30/2021-16358/business-loan-program-temporary-changes-paycheck-protection-program-covid-revenue-reduction-score"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2021-07-01",
+   "k": "Notice",
+   "n": "2021-14118",
+   "t": "Data Collection Available for Public Comments",
+   "u": "https://www.federalregister.gov/documents/2021/07/01/2021-14118/data-collection-available-for-public-comments"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2021-06-29",
+   "k": "Notice",
+   "n": "2021-13810",
+   "t": "Data Collection Available for Public Comments",
+   "u": "https://www.federalregister.gov/documents/2021/06/29/2021-13810/data-collection-available-for-public-comments"
+  }
+ ],
+ "law": "117-6",
+ "rules": [
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2024-08-23",
+   "k": "Rule",
+   "n": "2024-18083",
+   "t": "Business Loan Program Temporary Changes; Paycheck Protection Program-Extension of Lender Records Retention Requirements",
+   "u": "https://www.federalregister.gov/documents/2024/08/23/2024-18083/business-loan-program-temporary-changes-paycheck-protection-program-extension-of-lender-records"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2021-09-16",
+   "k": "Rule",
+   "n": "2021-19985",
+   "t": "Borrower Appeals of Final SBA Loan Review Decisions Under the Paycheck Protection Program",
+   "u": "https://www.federalregister.gov/documents/2021/09/16/2021-19985/borrower-appeals-of-final-sba-loan-review-decisions-under-the-paycheck-protection-program"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2021-07-30",
+   "k": "Rule",
+   "n": "2021-16358",
+   "t": "Business Loan Program Temporary Changes; Paycheck Protection Program-COVID Revenue Reduction Score, Direct Borrower Forgiveness Process, and Appeals Deferment",
+   "u": "https://www.federalregister.gov/documents/2021/07/30/2021-16358/business-loan-program-temporary-changes-paycheck-protection-program-covid-revenue-reduction-score"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-6%22+%7C+%22Pub.+L.+117-6%22+%7C+%22P.L.+117-6%22&order=newest",
+ "term": "\"Public Law 117-6\" | \"Pub. L. 117-6\" | \"P.L. 117-6\"",
+ "total": 9
+}

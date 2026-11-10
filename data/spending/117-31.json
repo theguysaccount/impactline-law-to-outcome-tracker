@@ -1,0 +1,209 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 600000000.0,
+   "name": "Department of State",
+   "obligations": 595469255.8,
+   "outlays": 562682132.73
+  },
+  {
+   "budgetary_resources": 71400000.0,
+   "name": "Department of Defense",
+   "obligations": 455737334.36,
+   "outlays": 460296784.65
+  },
+  {
+   "budgetary_resources": 25000000.0,
+   "name": "Department of Health and Human Services",
+   "obligations": 24851638.77,
+   "outlays": 24851638.77
+  },
+  {
+   "budgetary_resources": 0.0,
+   "name": "Department of Justice",
+   "obligations": 969691.66,
+   "outlays": 969691.66
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Defense",
+   "amount": 59675001.49,
+   "description": "PACIFIC CENTER DISASTER STUDIES AND RESEARCHES",
+   "id": "HQ00342220002",
+   "kind": "grants",
+   "outlays": 15513187.03,
+   "recipient": "UNIVERSITY OF HAWAII",
+   "url": "https://www.usaspending.gov/award/ASST_NON_HQ00342220002_097"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 52361398.0,
+   "description": "PROVIDE INITIAL RELOCATION SUPPORT SERVICES FOR AFGHANS PAROLED INTO THE UNITED STATES",
+   "id": "SPRMCO21CA3293",
+   "kind": "grants",
+   "outlays": 79905848.01,
+   "recipient": "INTERNATIONAL RESCUE COMMITTEE, INC.",
+   "url": "https://www.usaspending.gov/award/ASST_NON_SPRMCO21CA3293_019"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 30905027.0,
+   "description": "TO ENSURE AFGHAN REFUGEES AND AFGHAN SIVS COMING THROUGH THE OAW/EW PIPELINE RECEIVE RECEPTION AND PLACEMENT SERVICES.",
+   "id": "SPRMCO24CA0357",
+   "kind": "grants",
+   "outlays": 0.0,
+   "recipient": "INTERNATIONAL RESCUE COMMITTEE, INC.",
+   "url": "https://www.usaspending.gov/award/ASST_NON_SPRMCO24CA0357_019"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 30892282.0,
+   "description": "TO AMEND THE BUDGET, CONSOLIDATED PLACEMENT PLAN AND PERIOD OF PERFORMANCE PER ATTACHMENT A001",
+   "id": "SPRMCO21CA3290",
+   "kind": "grants",
+   "outlays": 38332878.0,
+   "recipient": "LUTHERAN IMMIGRATION AND REFUGEE SERVICE INC",
+   "url": "https://www.usaspending.gov/award/ASST_NON_SPRMCO21CA3290_019"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 28076677.0,
+   "description": "GY2021 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "2101CARSSS",
+   "kind": "grants",
+   "outlays": 28044878.83,
+   "recipient": "DEPARTMENT OF SOCIAL SERVICES CALIFORNIA",
+   "url": "https://www.usaspending.gov/award/ASST_NON_2101CARSSS_075"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 26927996.6,
+   "description": "PROVIDE INITIAL RELOCATION SUPPORT SERVICES FOR AFGHANS PAROLED INTO THE UNITED STATES",
+   "id": "SPRMCO21CA3287",
+   "kind": "grants",
+   "outlays": 26927996.6,
+   "recipient": "ETHIOPIAN COMMUNITY DEVELOPMENT COUNCIL, INC.",
+   "url": "https://www.usaspending.gov/award/ASST_NON_SPRMCO21CA3287_019"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 22179374.05,
+   "description": "AMEND AWARD TO EXTEND PERIOD OF PERFORMANCE TO SEP 30, 2022, REFLECT REVISED BUDGET AND CONSOLIDATED PLACEMENT PLAN AS WELL AS TECHNICAL ASSISTANCE PROJECTS AND SUPPORT AT US SITES.",
+   "id": "SPRMCO21CA3286",
+   "kind": "grants",
+   "outlays": 30772340.67,
+   "recipient": "CHURCH WORLD SERVICE, INC.",
+   "url": "https://www.usaspending.gov/award/ASST_NON_SPRMCO21CA3286_019"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 21621486.34,
+   "description": "PROVIDE INITIAL RELOCATION SUPPORT SERVICES FOR AFGHANS PAROLED INTO THE UNITED STATES",
+   "id": "SPRMCO21CA3291",
+   "kind": "grants",
+   "outlays": 41247704.34,
+   "recipient": "UNITED STATES CONFERENCE OF CATHOLIC BISHOPS",
+   "url": "https://www.usaspending.gov/award/ASST_NON_SPRMCO21CA3291_019"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 4536552040.46,
+   "description": "LOGISTICS CIVIL AUGMENTATION PROGRAM (LOGCAP) V SUPPORT SERVICES IN KUWAIT",
+   "id": "W52P1J19F0400",
+   "kind": "contracts",
+   "outlays": 30172299.36,
+   "recipient": "V2X SYSTEMS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J19F0400_9700_W52P1J19D0045_9700"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 3308165690.88,
+   "description": "TASK ORDER AWARD FOR LOGCAP SUPPORT TO OPERATION ALLIES REFUGE FOR SUPPORT AT FT. BLISS, TX FT. MCCOY, WI FT. PICKETT, VA AND CAMP ATTERBURY, IN.",
+   "id": "W52P1J21F0454",
+   "kind": "contracts",
+   "outlays": 390665425.17,
+   "recipient": "KBR SERVICES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J21F0454_9700_W52P1J19D0044_9700"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 2309491422.64,
+   "description": "CARE LOGISTICAL SUPPORT SERVICES - CLSS",
+   "id": "19AQMM23F0766",
+   "kind": "contracts",
+   "outlays": 291496363.84,
+   "recipient": "XATOR LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM23F0766_1900_19AQMM19D0119_1900"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 932247928.51,
+   "description": "JBMDL - OPERATION ALLIES WELCOME (REFUGE) - O21R",
+   "id": "FA805121F0058",
+   "kind": "contracts",
+   "outlays": 888038891.58,
+   "recipient": "URS FEDERAL SERVICES INTERNATIONAL, INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_FA805121F0058_9700_FA805120D0001_9700"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 287001614.17,
+   "description": "HUMANITARIAN AFGHANISTAN REFUGEE",
+   "id": "19AQMM21F3648",
+   "kind": "contracts",
+   "outlays": 285990139.78,
+   "recipient": "CHEROKEE NATION MANAGEMENT & CONSULTING, L.L.C..",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM21F3648_1900_19AQMM21D0125_1900"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 122420121.66,
+   "description": "IGF::OT::IGF N62742-17-C-3570 NAVY EXPEDITIONARY FORCES REGIONAL SERVICE CONTRACT IN SOUTH ASIA, ASIA AND OCEANIA",
+   "id": "N6274217C3570",
+   "kind": "contracts",
+   "outlays": 4786592.85,
+   "recipient": "AMENTUM SERVICES, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_N6274217C3570_9700_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 20974104.59,
+   "description": "BASE YEAR FOR CONTRACTOR SERVICES TO PROVIDE ALL-INCLUSIVE MEDICAL SUPPORT SERVICES (MSS-D) FOR THE CARE PLATFORM IN DOHA, QATAR.",
+   "id": "19AQMM24F1859",
+   "kind": "contracts",
+   "outlays": 0.0,
+   "recipient": "V2X SYSTEMS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM24F1859_1900_19AQMM19D0118_1900"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 20133398.88,
+   "description": "SERVICE CPFF BASE - DEMINING DEPARTMENT OF DEFENSE HUMANITARIAN DEMINING TRAINING CENTER (HDTC)",
+   "id": "W911NF21F0036",
+   "kind": "contracts",
+   "outlays": 4136487.22,
+   "recipient": "SHOULDER 2 SHOULDER INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W911NF21F0036_9700_W911NF17D0010_9700"
+  }
+ ],
+ "codes": [
+  {
+   "code": "W",
+   "designation": "Emergency"
+  }
+ ],
+ "funding_by_code": {
+  "W": 1018269069.0
+ },
+ "law": "117-31",
+ "overview": {
+  "award_obligations": 546115910.23,
+  "award_outlays": 443513887.06,
+  "budget_authority": 1018269069.0,
+  "total_obligations": 1079464710.51,
+  "total_outlays": 1048800247.83
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=W"
+}

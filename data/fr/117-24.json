@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Treasury Department",
+   1
+  ],
+  [
+   "Comptroller of the Currency",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2021": 1
+ },
+ "complete": true,
+ "first": "2021-08-05",
+ "last": "2021-08-05",
+ "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency"
+   ],
+   "d": "2021-08-05",
+   "k": "Rule",
+   "n": "2021-16619",
+   "t": "National Banks and Federal Savings Associations as Lenders",
+   "u": "https://www.federalregister.gov/documents/2021/08/05/2021-16619/national-banks-and-federal-savings-associations-as-lenders"
+  }
+ ],
+ "law": "117-24",
+ "rules": [
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency"
+   ],
+   "d": "2021-08-05",
+   "k": "Rule",
+   "n": "2021-16619",
+   "t": "National Banks and Federal Savings Associations as Lenders",
+   "u": "https://www.federalregister.gov/documents/2021/08/05/2021-16619/national-banks-and-federal-savings-associations-as-lenders"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-24%22+%7C+%22Pub.+L.+117-24%22+%7C+%22P.L.+117-24%22&order=newest",
+ "term": "\"Public Law 117-24\" | \"Pub. L. 117-24\" | \"P.L. 117-24\"",
+ "total": 1
+}

@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "General Services Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2023-12-14",
+ "last": "2023-12-14",
+ "latest": [
+  {
+   "a": [
+    "General Services Administration"
+   ],
+   "d": "2023-12-14",
+   "k": "Notice",
+   "n": "2023-27502",
+   "t": "Office of Federal High-Performance Green Buildings; Notice of GSA's LED and Controls Guidance for Federal Buildings; and Webinar",
+   "u": "https://www.federalregister.gov/documents/2023/12/14/2023-27502/office-of-federal-high-performance-green-buildings-notice-of-gsas-led-and-controls-guidance-for"
+  }
+ ],
+ "law": "117-202",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-202%22+%7C+%22Pub.+L.+117-202%22+%7C+%22P.L.+117-202%22&order=newest",
+ "term": "\"Public Law 117-202\" | \"Pub. L. 117-202\" | \"P.L. 117-202\"",
+ "total": 1
+}

@@ -1,0 +1,41 @@
+{
+ "fr": {
+  "checked_at": "2026-11-10T08:56:37Z",
+  "error": "",
+  "last_changed": "2026-11-10T08:56:37Z",
+  "last_success": "2026-11-10T08:56:37Z",
+  "note": "1 laws checked, 1 changed, 773 still due",
+  "ok": true,
+  "waiting": 773,
+  "warnings": []
+ },
+ "http_calls": 2,
+ "laws": {
+  "checked_at": "2026-11-10T08:56:30Z",
+  "error": "",
+  "last_changed": "2026-11-10T08:56:30Z",
+  "last_success": "2026-11-10T08:56:30Z",
+  "note": "774 laws from Congresses 117-119",
+  "ok": true,
+  "warnings": []
+ },
+ "named": {
+  "checked_at": "2026-11-10T08:56:44Z",
+  "error": "",
+  "last_changed": "2026-11-10T08:56:44Z",
+  "last_success": "2026-11-10T08:56:44Z",
+  "note": "1 laws searched, 1 changed, 0 still due",
+  "ok": true,
+  "waiting": 0,
+  "warnings": []
+ },
+ "tagged": {
+  "checked_at": "2026-11-10T08:56:38Z",
+  "error": "",
+  "last_changed": "2026-11-10T08:56:38Z",
+  "last_success": "2026-11-10T08:56:38Z",
+  "note": "20 laws carry a spending code; 1 re-read, 1 changed",
+  "ok": true,
+  "warnings": []
+ }
+}

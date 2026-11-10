@@ -1,0 +1,107 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   2
+  ],
+  [
+   "General Services Administration",
+   2
+  ],
+  [
+   "National Aeronautics and Space Administration",
+   2
+  ],
+  [
+   "Health and Human Services Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 3
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1,
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2023-07-27",
+ "last": "2025-01-15",
+ "latest": [
+  {
+   "a": [
+    "Defense Department",
+    "General Services Administration",
+    "National Aeronautics and Space Administration"
+   ],
+   "d": "2025-01-15",
+   "k": "Proposed Rule",
+   "n": "2024-31561",
+   "t": "Federal Acquisition Regulation: Preventing Organizational Conflicts of Interest in Federal Acquisition",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2024-31561/federal-acquisition-regulation-preventing-organizational-conflicts-of-interest-in-federal"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2024-10-03",
+   "k": "Proposed Rule",
+   "n": "2024-17095",
+   "t": "HHS Acquisition Regulation: Regulatory Review",
+   "u": "https://www.federalregister.gov/documents/2024/10/03/2024-17095/hhs-acquisition-regulation-regulatory-review"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "General Services Administration",
+    "National Aeronautics and Space Administration"
+   ],
+   "d": "2023-07-27",
+   "k": "Proposed Rule",
+   "n": "2023-14553",
+   "t": "Semiannual Regulatory Agenda",
+   "u": "https://www.federalregister.gov/documents/2023/07/27/2023-14553/semiannual-regulatory-agenda"
+  }
+ ],
+ "law": "117-324",
+ "rules": [
+  {
+   "a": [
+    "Defense Department",
+    "General Services Administration",
+    "National Aeronautics and Space Administration"
+   ],
+   "d": "2025-01-15",
+   "k": "Proposed Rule",
+   "n": "2024-31561",
+   "t": "Federal Acquisition Regulation: Preventing Organizational Conflicts of Interest in Federal Acquisition",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2024-31561/federal-acquisition-regulation-preventing-organizational-conflicts-of-interest-in-federal"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2024-10-03",
+   "k": "Proposed Rule",
+   "n": "2024-17095",
+   "t": "HHS Acquisition Regulation: Regulatory Review",
+   "u": "https://www.federalregister.gov/documents/2024/10/03/2024-17095/hhs-acquisition-regulation-regulatory-review"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "General Services Administration",
+    "National Aeronautics and Space Administration"
+   ],
+   "d": "2023-07-27",
+   "k": "Proposed Rule",
+   "n": "2023-14553",
+   "t": "Semiannual Regulatory Agenda",
+   "u": "https://www.federalregister.gov/documents/2023/07/27/2023-14553/semiannual-regulatory-agenda"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-324%22+%7C+%22Pub.+L.+117-324%22+%7C+%22P.L.+117-324%22&order=newest",
+ "term": "\"Public Law 117-324\" | \"Pub. L. 117-324\" | \"P.L. 117-324\"",
+ "total": 3
+}

@@ -1,0 +1,280 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 545408211336.43,
+   "name": "Department of Transportation",
+   "obligations": 424141009461.77,
+   "outlays": 262430898151.89
+  },
+  {
+   "budgetary_resources": 51088889625.0,
+   "name": "Department of Commerce",
+   "obligations": 47694058658.41,
+   "outlays": 3886142895.99
+  },
+  {
+   "budgetary_resources": 60777500000.0,
+   "name": "Environmental Protection Agency",
+   "obligations": 47480097668.25,
+   "outlays": 20388647579.57
+  },
+  {
+   "budgetary_resources": 64622277281.0,
+   "name": "Department of Energy",
+   "obligations": 33496888351.1,
+   "outlays": 6689427443.62
+  },
+  {
+   "budgetary_resources": 30129430178.4,
+   "name": "Department of the Interior",
+   "obligations": 15020766364.16,
+   "outlays": 9132039777.36
+  },
+  {
+   "budgetary_resources": 14200000000.0,
+   "name": "Federal Communications Commission",
+   "obligations": 13808555383.87,
+   "outlays": 13757045919.26
+  },
+  {
+   "budgetary_resources": 17099000000.0,
+   "name": "Corps of Engineers - Civil Works",
+   "obligations": 10907347965.46,
+   "outlays": 6763144896.24
+  },
+  {
+   "budgetary_resources": 9673007539.57,
+   "name": "Department of Agriculture",
+   "obligations": 8099679905.99,
+   "outlays": 4656327556.55
+  },
+  {
+   "budgetary_resources": 7457815000.0,
+   "name": "Department of Homeland Security",
+   "obligations": 2874898704.68,
+   "outlays": 791084822.15
+  },
+  {
+   "budgetary_resources": 2607000000.0,
+   "name": "Department of Health and Human Services",
+   "obligations": 2530860073.8,
+   "outlays": 1813508272.52
+  },
+  {
+   "budgetary_resources": 3418008000.0,
+   "name": "General Services Administration",
+   "obligations": 1620399945.98,
+   "outlays": 202820024.27
+  },
+  {
+   "budgetary_resources": 804497464.0,
+   "name": "Appalachian Regional Commission",
+   "obligations": 284830503.47,
+   "outlays": 67031576.56
+  },
+  {
+   "budgetary_resources": 350000000.0,
+   "name": "Federal Permitting Improvement Steering Council",
+   "obligations": 141088696.16,
+   "outlays": 73854000.08
+  },
+  {
+   "budgetary_resources": 0.0,
+   "name": "Delta Regional Authority",
+   "obligations": 127212461.55,
+   "outlays": 66456177.95
+  },
+  {
+   "budgetary_resources": 75000000.0,
+   "name": "Denali Commission",
+   "obligations": 74994393.0,
+   "outlays": 34156090.57
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Transportation",
+   "amount": 15642357036.58,
+   "description": "THIS FUNDING WILL PROVIDE AN OPPORTUNITY TO RESTORE, REBUILD, AND MODERNIZE AMTRAK S INTERCITY PASSENGER RAIL ROLLING STOCK, FACILITIES, STATIONS, AND INFRASTRUCTURE WITH ANTICIPATED OUTCOMES INCLUDING A SIGNIFICANT REDUCTION OR ELIMINATION",
+   "id": "69A36522503700AMTDC",
+   "kind": "grants",
+   "outlays": 2566684878.0,
+   "recipient": "NATIONAL RAILROAD PASSENGER CORPORATION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_69A36522503700AMTDC_069"
+  },
+  {
+   "agency": "Department of Transportation",
+   "amount": 5945000000.0,
+   "description": "THIS FUNDING WILL PROVIDE AN OPPORTUNITY TO RESTORE, REBUILD, AND MODERNIZE AMTRAK S INTERCITY PASSENGER RAIL ROLLING STOCK, FACILITIES, STATIONS, AND INFRASTRUCTURE WITH ANTICIPATED OUTCOMES INCLUDING A SIGNIFICANT REDUCTION OR ELIMINATION",
+   "id": "69A36522503710AMTDC",
+   "kind": "grants",
+   "outlays": 1611225296.0,
+   "recipient": "NATIONAL RAILROAD PASSENGER CORPORATION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_69A36522503710AMTDC_069"
+  },
+  {
+   "agency": "Department of Commerce",
+   "amount": 3312616455.0,
+   "description": "PURPOSE: THE PURPOSE OF THIS GRANT IS TO SUPPORT CLOSING THE BROADBAND AVAILABILITY GAP AND SUPPORT THE DEVELOPMENT OF A FIVE-YEAR ACTION PLAN.THE PROPOSED PROJECT INCLUDES THE FOLLOWING PLANNING AND PRE-DEPLOYMENT ACTIVITIES: RESEARCH AND ",
+   "id": "4820B328",
+   "kind": "grants",
+   "outlays": 0.0,
+   "recipient": "TEXAS COMPTROLLER OF PUBLIC ACCOUNTS",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4820B328_013"
+  },
+  {
+   "agency": "Department of Transportation",
+   "amount": 2673430672.0,
+   "description": "THE PROJECT INCLUDES ROW ACQUISITION, FINAL DESIGN, CONSTRUCTION, AND ROLLING STOCK FOR A NEW ALL-ELECTRIC HIGH-SPEED RAIL SYSTEM BETWEEN LAS VEGAS, NV AND RANCHO CUCAMONGA, CA. IT INCLUDES 218 MILES OF TRACK AND SYSTEMS, BRIDGES, HIGHWAY M",
+   "id": "69A36524521060FSPNV",
+   "kind": "grants",
+   "outlays": 469500713.12,
+   "recipient": "NV DEPARTMENT OF TRANSPORTATION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_69A36524521060FSPNV_069"
+  },
+  {
+   "agency": "Department of Transportation",
+   "amount": 2220089132.0,
+   "description": "APPLICATION PURPOSE: THIS AWARD WILL REIMBURSE THE MTA FOR NYCT VEHICLE NON-VEHICLE AND FACILITY PREVENTIVE MAINTENANCE.; ACTIVITIES PERFORMED: THE APPLICATION SCOPE OF WORK WILL SUPPORT THE COMPREHENSIVE SERVICING AND PREVENTIVE MAINTENANC",
+   "id": "NY-2024-057",
+   "kind": "grants",
+   "outlays": 2220089132.0,
+   "recipient": "METROPOLITAN TRANSPORTATION AUTHORITY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_NY-2024-057_069"
+  },
+  {
+   "agency": "Department of Transportation",
+   "amount": 2200000000.0,
+   "description": "APPLICATION PURPOSE: THE PURPOSE IS TO CONSTRUCT THE HUDSON TUNNEL PROJECT (HTP).; ACTIVITIES PERFORMED: THE HTP INCLUDES THREE ELEMENTS: 1) THE CONSTRUCTION OF A NEW HUDSON RIVER TUNNEL BETWEEN NEW YORK AND NEW JERSEY; 2) THE REHABILITATIO",
+   "id": "NY-2024-015",
+   "kind": "grants",
+   "outlays": 277492016.0,
+   "recipient": "GATEWAY DEVELOPMENT COMMISSION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_NY-2024-015_069"
+  },
+  {
+   "agency": "Department of Transportation",
+   "amount": 1979575353.0,
+   "description": "APPLICATION PURPOSE: THIS AWARD WILL REIMBURSE THE MTA FOR NYCT VEHICLES NON-VEHICLE AND PREVENTIVE MAINTENANCE AT THE FACILITY.; ACTIVITIES PERFORMED: THE APPLICATION SCOPE OF WORK WILL SUPPORT THE COMPREHENSIVE SERVICING AND PREVENTIVE MA",
+   "id": "NY-2024-056",
+   "kind": "grants",
+   "outlays": 1979575353.0,
+   "recipient": "METROPOLITAN TRANSPORTATION AUTHORITY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_NY-2024-056_069"
+  },
+  {
+   "agency": "Department of Commerce",
+   "amount": 1864136509.0,
+   "description": "PURPOSE: THE PURPOSE OF THIS GRANT IS TO SUPPORT CLOSING THE BROADBAND AVAILABILITY GAP AND SUPPORT THE DEVELOPMENT OF A FIVE-YEAR ACTION PLAN.THE PROPOSED PROJECT INCLUDES THE FOLLOWING PLANNING AND PRE-DEPLOYMENT ACTIVITIES: RESEARCH AND ",
+   "id": "0520B278",
+   "kind": "grants",
+   "outlays": 0.0,
+   "recipient": "CALIFORNIA PUBLIC UTILITIES COMMISSION",
+   "url": "https://www.usaspending.gov/award/ASST_NON_0520B278_013"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 44093914875.26,
+   "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SANDIA, LLC (NTESS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S SANDIA NATIONAL LAB",
+   "id": "DENA0003525",
+   "kind": "contracts",
+   "outlays": 27227349900.77,
+   "recipient": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0003525_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 42970738616.89,
+   "description": "MANAGEMENT AND OPERATION OF THE OAK RIDGE NATIONAL LABORATORY",
+   "id": "DEAC0500OR22725",
+   "kind": "contracts",
+   "outlays": 15219165243.21,
+   "recipient": "UT-BATTELLE LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0500OR22725_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 42157425910.2,
+   "description": "TAS::89 0240::TAS THIS PERFORMANCE-BASED MANAGEMENT CONTRACT (PBMC) IS FOR THE MANAGEMENT AND OPERATION OF THE LAWRENCE LIVERMORE NATIONAL LABORATORY (LLNL). THE CONTRACTOR SHALL, IN ACCORDANCE WITH THE PROVISIONS OF THIS CONTRACT, ACCOMPLI",
+   "id": "DEAC5207NA27344",
+   "kind": "contracts",
+   "outlays": 17719717071.97,
+   "recipient": "LAWRENCE LIVERMORE NATIONAL SECURITY, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC5207NA27344_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 36289094015.26,
+   "description": "IGF::CL::IGF COMPETITION FOR MANAGEMENT AND OPERATION OF LOS ALAMOS NATIONAL LABORATORY",
+   "id": "89233218CNA000001",
+   "kind": "contracts",
+   "outlays": 25919724127.01,
+   "recipient": "TRIAD NATIONAL SECURITY, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_89233218CNA000001_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 31194334447.95,
+   "description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY OPERATING AND MANAGING CONTRACT",
+   "id": "DEAC0576RL01830",
+   "kind": "contracts",
+   "outlays": 8436700652.4,
+   "recipient": "BATTELLE MEMORIAL INSTITUTE",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 26808905230.95,
+   "description": "MANAGEMENT AND OPERATIONS OF THE INL",
+   "id": "DEAC0705ID14517",
+   "kind": "contracts",
+   "outlays": 10167654779.26,
+   "recipient": "BATTELLE ENERGY ALLIANCE, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0705ID14517_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 20172696402.58,
+   "description": "THIS PERFORMANCE-BASED MANAGEMENT CONTRACT (PBMC) IS FOR THE MANAGEMENT AND OPERATION OF THE ERNEST ORLANDO LAWRENCE BERKELEY NATIONAL LABORATORY (LBNL). THE CONTRACTOR SHALL, IN ACCORDANCE WITH THE PROVISIONS OF THIS CONTRACT, ACCOMPLISH T",
+   "id": "DEAC0205CH11231",
+   "kind": "contracts",
+   "outlays": 7640561674.64,
+   "recipient": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0205CH11231_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 17730321030.51,
+   "description": "PERFORMANCE-BASED CONTRACT FOR MANAGEMENT AND OPERATION OF ARGONNE NATIONAL LABORATORY",
+   "id": "DEAC0206CH11357",
+   "kind": "contracts",
+   "outlays": 7298151885.39,
+   "recipient": "UCHICAGO ARGONNE, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0206CH11357_8900_-NONE-_-NONE-"
+  }
+ ],
+ "codes": [
+  {
+   "code": "1",
+   "designation": "Non-emergency"
+  },
+  {
+   "code": "Z",
+   "designation": "Emergency"
+  }
+ ],
+ "funding_by_code": {
+  "1": 366990613419.18,
+  "Z": 440740983451.74
+ },
+ "law": "117-58",
+ "overview": {
+  "award_obligations": 567473136746.35,
+  "award_outlays": 304341858851.41,
+  "budget_authority": 807731596870.92,
+  "total_obligations": 607509194384.14,
+  "total_outlays": 330553807346.13
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=1,Z"
+}

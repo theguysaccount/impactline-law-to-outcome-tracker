@@ -1,0 +1,405 @@
+{
+ "agencies": [
+  [
+   "Agriculture Department",
+   13
+  ],
+  [
+   "Farm Service Agency",
+   8
+  ],
+  [
+   "Health and Human Services Department",
+   6
+  ],
+  [
+   "Housing and Urban Development Department",
+   5
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   4
+  ],
+  [
+   "Commodity Credit Corporation",
+   2
+  ],
+  [
+   "Agricultural Marketing Service",
+   2
+  ],
+  [
+   "Management and Budget Office",
+   2
+  ],
+  [
+   "Federal Crop Insurance Corporation",
+   2
+  ],
+  [
+   "Office of the Secretary",
+   2
+  ],
+  [
+   "Children and Families Administration",
+   2
+  ],
+  [
+   "Personnel Management Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 12,
+  "Presidential Document": 1,
+  "Proposed Rule": 2,
+  "Rule": 14
+ },
+ "by_year": {
+  "2025": 22,
+  "2026": 7
+ },
+ "complete": true,
+ "first": "2025-01-16",
+ "last": "2026-10-27",
+ "latest": [
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Notice",
+   "n": "2026-21886",
+   "t": "Notice of Regulatory Waiver Requests Granted for the First Quarter of Calendar Year 2026",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21886/notice-of-regulatory-waiver-requests-granted-for-the-first-quarter-of-calendar-year-2026"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-07-06",
+   "k": "Notice",
+   "n": "2026-13539",
+   "t": "Notice of Regulatory Waiver Requests Granted for the Fourth Quarter of Calendar Year 2025",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13539/notice-of-regulatory-waiver-requests-granted-for-the-fourth-quarter-of-calendar-year-2025"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-07-06",
+   "k": "Notice",
+   "n": "2026-13537",
+   "t": "Notice of Regulatory Waiver Requests Granted for the Third Quarter of Calendar Year 2025",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13537/notice-of-regulatory-waiver-requests-granted-for-the-third-quarter-of-calendar-year-2025"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency",
+    "Commodity Credit Corporation"
+   ],
+   "d": "2026-03-09",
+   "k": "Rule",
+   "n": "2026-04531",
+   "t": "Supplemental Disaster Relief Program and Dairy Margin Coverage Program; Correction",
+   "u": "https://www.federalregister.gov/documents/2026/03/09/2026-04531/supplemental-disaster-relief-program-and-dairy-margin-coverage-program-correction"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Agricultural Marketing Service"
+   ],
+   "d": "2026-02-27",
+   "k": "Rule",
+   "n": "2026-03985",
+   "t": "Reauthorization of Dairy Forward Pricing Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/27/2026-03985/reauthorization-of-dairy-forward-pricing-program"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Commodity Credit Corporation"
+   ],
+   "d": "2026-02-23",
+   "k": "Rule",
+   "n": "2026-03456",
+   "t": "Farmer Bridge Assistance (FBA) Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/23/2026-03456/farmer-bridge-assistance-fba-program"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2026-01-28",
+   "k": "Notice",
+   "n": "2026-01651",
+   "t": "Notice; 2025 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2026/01/28/2026-01651/notice-2025-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-11-18",
+   "k": "Rule",
+   "n": "2025-20132",
+   "t": "Agricultural Disaster Indemnity Programs",
+   "u": "https://www.federalregister.gov/documents/2025/11/18/2025-20132/agricultural-disaster-indemnity-programs"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-11-05",
+   "k": "Rule",
+   "n": "2025-19787",
+   "t": "Medicare and Medicaid Programs; CY 2026 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2025/11/05/2025-19787/medicare-and-medicaid-programs-cy-2026-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-09-15",
+   "k": "Rule",
+   "n": "2025-17742",
+   "t": "Emergency Livestock Relief Programs",
+   "u": "https://www.federalregister.gov/documents/2025/09/15/2025-17742/emergency-livestock-relief-programs"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-08-18",
+   "k": "Notice",
+   "n": "2025-15654",
+   "t": "Notice; Emergency Commodity Assistance Program (ECAP)",
+   "u": "https://www.federalregister.gov/documents/2025/08/18/2025-15654/notice-emergency-commodity-assistance-program-ecap"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Federal Crop Insurance Corporation"
+   ],
+   "d": "2025-08-11",
+   "k": "Rule",
+   "n": "2025-15191",
+   "t": "Additional Payment II Program",
+   "u": "https://www.federalregister.gov/documents/2025/08/11/2025-15191/additional-payment-ii-program"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-04",
+   "k": "Rule",
+   "n": "2025-14681",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; ",
+   "u": "https://www.federalregister.gov/documents/2025/08/04/2025-14681/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-07-16",
+   "k": "Proposed Rule",
+   "n": "2025-13271",
+   "t": "Medicare and Medicaid Programs; CY 2026 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2025/07/16/2025-13271/medicare-and-medicaid-programs-cy-2026-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary",
+    "Federal Crop Insurance Corporation"
+   ],
+   "d": "2025-07-10",
+   "k": "Rule",
+   "n": "2025-12877",
+   "t": "Removal of Unconstitutional Preferences Based on Race and Sex in Response to Court Ruling",
+   "u": "https://www.federalregister.gov/documents/2025/07/10/2025-12877/removal-of-unconstitutional-preferences-based-on-race-and-sex-in-response-to-court-ruling"
+  }
+ ],
+ "law": "118-158",
+ "rules": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency",
+    "Commodity Credit Corporation"
+   ],
+   "d": "2026-03-09",
+   "k": "Rule",
+   "n": "2026-04531",
+   "t": "Supplemental Disaster Relief Program and Dairy Margin Coverage Program; Correction",
+   "u": "https://www.federalregister.gov/documents/2026/03/09/2026-04531/supplemental-disaster-relief-program-and-dairy-margin-coverage-program-correction"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Agricultural Marketing Service"
+   ],
+   "d": "2026-02-27",
+   "k": "Rule",
+   "n": "2026-03985",
+   "t": "Reauthorization of Dairy Forward Pricing Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/27/2026-03985/reauthorization-of-dairy-forward-pricing-program"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Commodity Credit Corporation"
+   ],
+   "d": "2026-02-23",
+   "k": "Rule",
+   "n": "2026-03456",
+   "t": "Farmer Bridge Assistance (FBA) Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/23/2026-03456/farmer-bridge-assistance-fba-program"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-11-18",
+   "k": "Rule",
+   "n": "2025-20132",
+   "t": "Agricultural Disaster Indemnity Programs",
+   "u": "https://www.federalregister.gov/documents/2025/11/18/2025-20132/agricultural-disaster-indemnity-programs"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-11-05",
+   "k": "Rule",
+   "n": "2025-19787",
+   "t": "Medicare and Medicaid Programs; CY 2026 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2025/11/05/2025-19787/medicare-and-medicaid-programs-cy-2026-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-09-15",
+   "k": "Rule",
+   "n": "2025-17742",
+   "t": "Emergency Livestock Relief Programs",
+   "u": "https://www.federalregister.gov/documents/2025/09/15/2025-17742/emergency-livestock-relief-programs"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Federal Crop Insurance Corporation"
+   ],
+   "d": "2025-08-11",
+   "k": "Rule",
+   "n": "2025-15191",
+   "t": "Additional Payment II Program",
+   "u": "https://www.federalregister.gov/documents/2025/08/11/2025-15191/additional-payment-ii-program"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-04",
+   "k": "Rule",
+   "n": "2025-14681",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; ",
+   "u": "https://www.federalregister.gov/documents/2025/08/04/2025-14681/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-07-16",
+   "k": "Proposed Rule",
+   "n": "2025-13271",
+   "t": "Medicare and Medicaid Programs; CY 2026 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2025/07/16/2025-13271/medicare-and-medicaid-programs-cy-2026-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary",
+    "Federal Crop Insurance Corporation"
+   ],
+   "d": "2025-07-10",
+   "k": "Rule",
+   "n": "2025-12877",
+   "t": "Removal of Unconstitutional Preferences Based on Race and Sex in Response to Court Ruling",
+   "u": "https://www.federalregister.gov/documents/2025/07/10/2025-12877/removal-of-unconstitutional-preferences-based-on-race-and-sex-in-response-to-court-ruling"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-07-10",
+   "k": "Rule",
+   "n": "2025-12803",
+   "t": "Supplemental Disaster Relief Program (SDRP) Stage 1",
+   "u": "https://www.federalregister.gov/documents/2025/07/10/2025-12803/supplemental-disaster-relief-program-sdrp-stage-1"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-06-18",
+   "k": "Rule",
+   "n": "2025-11204",
+   "t": "Removal of Obsolete Regulations",
+   "u": "https://www.federalregister.gov/documents/2025/06/18/2025-11204/removal-of-obsolete-regulations"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Farm Service Agency"
+   ],
+   "d": "2025-05-29",
+   "k": "Rule",
+   "n": "2025-09581",
+   "t": "Emergency Livestock Relief Program (ELRP) 2023 and 2024",
+   "u": "https://www.federalregister.gov/documents/2025/05/29/2025-09581/emergency-livestock-relief-program-elrp-2023-and-2024"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-04-30",
+   "k": "Proposed Rule",
+   "n": "2025-06271",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2026 Rates; Requirements for Quality Programs; and Other Policy Changes",
+   "u": "https://www.federalregister.gov/documents/2025/04/30/2025-06271/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Agricultural Marketing Service"
+   ],
+   "d": "2025-04-23",
+   "k": "Rule",
+   "n": "2025-06939",
+   "t": "Reauthorization of Dairy Forward Pricing Program",
+   "u": "https://www.federalregister.gov/documents/2025/04/23/2025-06939/reauthorization-of-dairy-forward-pricing-program"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-158%22+%7C+%22Pub.+L.+118-158%22+%7C+%22P.L.+118-158%22&order=newest",
+ "term": "\"Public Law 118-158\" | \"Pub. L. 118-158\" | \"P.L. 118-158\"",
+ "total": 29
+}

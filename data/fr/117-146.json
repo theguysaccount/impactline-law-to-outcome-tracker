@@ -1,0 +1,214 @@
+{
+ "agencies": [
+  [
+   "Federal Maritime Commission",
+   9
+  ],
+  [
+   "Federal Trade Commission",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 2,
+  "Proposed Rule": 4,
+  "Rule": 4
+ },
+ "by_year": {
+  "2022": 4,
+  "2023": 2,
+  "2024": 3,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2022-08-15",
+ "last": "2026-09-01",
+ "latest": [
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2026-09-01",
+   "k": "Rule",
+   "n": "2026-17876",
+   "t": "Charge Complaint Procedures",
+   "u": "https://www.federalregister.gov/documents/2026/09/01/2026-17876/charge-complaint-procedures"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2024-09-24",
+   "k": "Proposed Rule",
+   "n": "2024-21586",
+   "t": "Ocean Carrier Equipment Management Association; Denial of Petition for Delay of Effective Date of the Demurrage and Detention Billing Requirements Final Rule",
+   "u": "https://www.federalregister.gov/documents/2024/09/24/2024-21586/ocean-carrier-equipment-management-association-denial-of-petition-for-delay-of-effective-date-of-the"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2024-07-23",
+   "k": "Rule",
+   "n": "2024-16148",
+   "t": "Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier",
+   "u": "https://www.federalregister.gov/documents/2024/07/23/2024-16148/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2024-02-26",
+   "k": "Rule",
+   "n": "2024-02926",
+   "t": "Demurrage and Detention Billing Requirements",
+   "u": "https://www.federalregister.gov/documents/2024/02/26/2024-02926/demurrage-and-detention-billing-requirements"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2023-11-09",
+   "k": "Notice",
+   "n": "2023-24785",
+   "t": "Agency Information Collection Activities: 30-Day Public Comment Request",
+   "u": "https://www.federalregister.gov/documents/2023/11/09/2023-24785/agency-information-collection-activities-30-day-public-comment-request"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2023-03-20",
+   "k": "Rule",
+   "n": "2023-05393",
+   "t": "Civil Penalty Amendments to Rules of Practice and Procedure",
+   "u": "https://www.federalregister.gov/documents/2023/03/20/2023-05393/civil-penalty-amendments-to-rules-of-practice-and-procedure"
+  },
+  {
+   "a": [
+    "Federal Trade Commission"
+   ],
+   "d": "2022-11-08",
+   "k": "Proposed Rule",
+   "n": "2022-24326",
+   "t": "Unfair or Deceptive Fees Trade Regulation Rule Commission Matter No. R207011",
+   "u": "https://www.federalregister.gov/documents/2022/11/08/2022-24326/unfair-or-deceptive-fees-trade-regulation-rule-commission-matter-no-r207011"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2022-10-14",
+   "k": "Proposed Rule",
+   "n": "2022-22290",
+   "t": "Demurrage and Detention Billing Requirements",
+   "u": "https://www.federalregister.gov/documents/2022/10/14/2022-22290/demurrage-and-detention-billing-requirements"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2022-09-21",
+   "k": "Proposed Rule",
+   "n": "2022-20105",
+   "t": "Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier",
+   "u": "https://www.federalregister.gov/documents/2022/09/21/2022-20105/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2022-08-15",
+   "k": "Notice",
+   "n": "2022-17582",
+   "t": "Request for Information",
+   "u": "https://www.federalregister.gov/documents/2022/08/15/2022-17582/request-for-information"
+  }
+ ],
+ "law": "117-146",
+ "rules": [
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2026-09-01",
+   "k": "Rule",
+   "n": "2026-17876",
+   "t": "Charge Complaint Procedures",
+   "u": "https://www.federalregister.gov/documents/2026/09/01/2026-17876/charge-complaint-procedures"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2024-09-24",
+   "k": "Proposed Rule",
+   "n": "2024-21586",
+   "t": "Ocean Carrier Equipment Management Association; Denial of Petition for Delay of Effective Date of the Demurrage and Detention Billing Requirements Final Rule",
+   "u": "https://www.federalregister.gov/documents/2024/09/24/2024-21586/ocean-carrier-equipment-management-association-denial-of-petition-for-delay-of-effective-date-of-the"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2024-07-23",
+   "k": "Rule",
+   "n": "2024-16148",
+   "t": "Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier",
+   "u": "https://www.federalregister.gov/documents/2024/07/23/2024-16148/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2024-02-26",
+   "k": "Rule",
+   "n": "2024-02926",
+   "t": "Demurrage and Detention Billing Requirements",
+   "u": "https://www.federalregister.gov/documents/2024/02/26/2024-02926/demurrage-and-detention-billing-requirements"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2023-03-20",
+   "k": "Rule",
+   "n": "2023-05393",
+   "t": "Civil Penalty Amendments to Rules of Practice and Procedure",
+   "u": "https://www.federalregister.gov/documents/2023/03/20/2023-05393/civil-penalty-amendments-to-rules-of-practice-and-procedure"
+  },
+  {
+   "a": [
+    "Federal Trade Commission"
+   ],
+   "d": "2022-11-08",
+   "k": "Proposed Rule",
+   "n": "2022-24326",
+   "t": "Unfair or Deceptive Fees Trade Regulation Rule Commission Matter No. R207011",
+   "u": "https://www.federalregister.gov/documents/2022/11/08/2022-24326/unfair-or-deceptive-fees-trade-regulation-rule-commission-matter-no-r207011"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2022-10-14",
+   "k": "Proposed Rule",
+   "n": "2022-22290",
+   "t": "Demurrage and Detention Billing Requirements",
+   "u": "https://www.federalregister.gov/documents/2022/10/14/2022-22290/demurrage-and-detention-billing-requirements"
+  },
+  {
+   "a": [
+    "Federal Maritime Commission"
+   ],
+   "d": "2022-09-21",
+   "k": "Proposed Rule",
+   "n": "2022-20105",
+   "t": "Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier",
+   "u": "https://www.federalregister.gov/documents/2022/09/21/2022-20105/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-146%22+%7C+%22Pub.+L.+117-146%22+%7C+%22P.L.+117-146%22&order=newest",
+ "term": "\"Public Law 117-146\" | \"Pub. L. 117-146\" | \"P.L. 117-146\"",
+ "total": 10
+}

@@ -1,0 +1,107 @@
+{
+ "agencies": [
+  [
+   "Federal Communications Commission",
+   7
+  ]
+ ],
+ "by_type": {
+  "Notice": 6,
+  "Rule": 1
+ },
+ "by_year": {
+  "2025": 2,
+  "2026": 5
+ },
+ "complete": true,
+ "first": "2025-03-07",
+ "last": "2026-10-26",
+ "latest": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-26",
+   "k": "Notice",
+   "n": "2026-21809",
+   "t": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+   "u": "https://www.federalregister.gov/documents/2026/10/26/2026-21809/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-29",
+   "k": "Notice",
+   "n": "2026-19922",
+   "t": "Information Collections Being Submitted for Review and Approval to Office of Management and Budget",
+   "u": "https://www.federalregister.gov/documents/2026/09/29/2026-19922/information-collections-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-20",
+   "k": "Notice",
+   "n": "2026-16996",
+   "t": "Information Collection Being Reviewed by the Federal Communications Commission",
+   "u": "https://www.federalregister.gov/documents/2026/08/20/2026-16996/information-collection-being-reviewed-by-the-federal-communications-commission"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16615",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16615/unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-07-27",
+   "k": "Notice",
+   "n": "2026-15127",
+   "t": "Information Collection Being Reviewed by the Federal Communications Commission",
+   "u": "https://www.federalregister.gov/documents/2026/07/27/2026-15127/information-collection-being-reviewed-by-the-federal-communications-commission"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-09-22",
+   "k": "Notice",
+   "n": "2025-18318",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2025",
+   "u": "https://www.federalregister.gov/documents/2025/09/22/2025-18318/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2025"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-03-07",
+   "k": "Rule",
+   "n": "2025-02961",
+   "t": "Allocation of Spectrum for Non-Federal Space Launch Operations",
+   "u": "https://www.federalregister.gov/documents/2025/03/07/2025-02961/allocation-of-spectrum-for-non-federal-space-launch-operations"
+  }
+ ],
+ "law": "118-85",
+ "rules": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-03-07",
+   "k": "Rule",
+   "n": "2025-02961",
+   "t": "Allocation of Spectrum for Non-Federal Space Launch Operations",
+   "u": "https://www.federalregister.gov/documents/2025/03/07/2025-02961/allocation-of-spectrum-for-non-federal-space-launch-operations"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-85%22+%7C+%22Pub.+L.+118-85%22+%7C+%22P.L.+118-85%22&order=newest",
+ "term": "\"Public Law 118-85\" | \"Pub. L. 118-85\" | \"P.L. 118-85\"",
+ "total": 7
+}

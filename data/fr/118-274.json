@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "National Park Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-03-25",
+ "last": "2026-03-25",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "National Park Service"
+   ],
+   "d": "2026-03-25",
+   "k": "Notice",
+   "n": "2026-05790",
+   "t": "Notice of Intent To Prepare an Environmental Impact Statement for Redevelopment at the Robert F. Kennedy Memorial Stadium Campus",
+   "u": "https://www.federalregister.gov/documents/2026/03/25/2026-05790/notice-of-intent-to-prepare-an-environmental-impact-statement-for-redevelopment-at-the-robert-f"
+  }
+ ],
+ "law": "118-274",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-274%22+%7C+%22Pub.+L.+118-274%22+%7C+%22P.L.+118-274%22&order=newest",
+ "term": "\"Public Law 118-274\" | \"Pub. L. 118-274\" | \"P.L. 118-274\"",
+ "total": 1
+}

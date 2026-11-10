@@ -1,0 +1,99 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   2
+  ],
+  [
+   "National Highway Traffic Safety Administration",
+   2
+  ],
+  [
+   "Environmental Protection Agency",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 2,
+  "Rule": 1
+ },
+ "by_year": {
+  "2025": 1,
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2025-12-05",
+ "last": "2026-11-05",
+ "latest": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-11-05",
+   "k": "Proposed Rule",
+   "n": "2026-22588",
+   "t": "Air Quality Implementation Plans; California; San Joaquin Valley; 2015 8-Hour Ozone Nonattainment Area Requirements; and California Consumer Products Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/11/05/2026-22588/air-quality-implementation-plans-california-san-joaquin-valley-2015-8-hour-ozone-nonattainment-area"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-19964",
+   "t": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2025-12-05",
+   "k": "Proposed Rule",
+   "n": "2025-22014",
+   "t": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+   "u": "https://www.federalregister.gov/documents/2025/12/05/2025-22014/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
+  }
+ ],
+ "law": "119-17",
+ "rules": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-11-05",
+   "k": "Proposed Rule",
+   "n": "2026-22588",
+   "t": "Air Quality Implementation Plans; California; San Joaquin Valley; 2015 8-Hour Ozone Nonattainment Area Requirements; and California Consumer Products Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/11/05/2026-22588/air-quality-implementation-plans-california-san-joaquin-valley-2015-8-hour-ozone-nonattainment-area"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-19964",
+   "t": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2025-12-05",
+   "k": "Proposed Rule",
+   "n": "2025-22014",
+   "t": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+   "u": "https://www.federalregister.gov/documents/2025/12/05/2025-22014/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-17%22+%7C+%22Pub.+L.+119-17%22+%7C+%22P.L.+119-17%22&order=newest",
+ "term": "\"Public Law 119-17\" | \"Pub. L. 119-17\" | \"P.L. 119-17\"",
+ "total": 3
+}

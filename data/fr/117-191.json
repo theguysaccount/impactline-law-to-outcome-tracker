@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2023-02-03",
+ "last": "2023-02-03",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2023-02-03",
+   "k": "Notice",
+   "n": "2023-02243",
+   "t": "Dependency and Indemnity Compensation Cost of Living Adjustments",
+   "u": "https://www.federalregister.gov/documents/2023/02/03/2023-02243/dependency-and-indemnity-compensation-cost-of-living-adjustments"
+  }
+ ],
+ "law": "117-191",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-191%22+%7C+%22Pub.+L.+117-191%22+%7C+%22P.L.+117-191%22&order=newest",
+ "term": "\"Public Law 117-191\" | \"Pub. L. 117-191\" | \"P.L. 117-191\"",
+ "total": 1
+}

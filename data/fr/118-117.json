@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Fish and Wildlife Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-12-19",
+ "last": "2024-12-19",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2024-12-19",
+   "k": "Notice",
+   "n": "2024-29644",
+   "t": "John H. Chafee Coastal Barrier Resources System; Availability of Final Revised Maps for Florida, Georgia, Louisiana, Maine, and New York",
+   "u": "https://www.federalregister.gov/documents/2024/12/19/2024-29644/john-h-chafee-coastal-barrier-resources-system-availability-of-final-revised-maps-for-florida"
+  }
+ ],
+ "law": "118-117",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-117%22+%7C+%22Pub.+L.+118-117%22+%7C+%22P.L.+118-117%22&order=newest",
+ "term": "\"Public Law 118-117\" | \"Pub. L. 118-117\" | \"P.L. 118-117\"",
+ "total": 1
+}

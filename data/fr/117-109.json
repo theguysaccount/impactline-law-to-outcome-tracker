@@ -1,0 +1,61 @@
+{
+ "agencies": [
+  [
+   "Regulatory Information Service Center",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-01-30",
+ "last": "2024-02-09",
+ "latest": [
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00476",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00476/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-01-30",
+   "k": "Notice",
+   "n": "2023-01771",
+   "t": "Notice; 2022 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2023/01/30/2023-01771/notice-2022-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "117-109",
+ "rules": [
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00476",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00476/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-109%22+%7C+%22Pub.+L.+117-109%22+%7C+%22P.L.+117-109%22&order=newest",
+ "term": "\"Public Law 117-109\" | \"Pub. L. 117-109\" | \"P.L. 117-109\"",
+ "total": 2
+}

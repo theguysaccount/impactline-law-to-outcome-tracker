@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "National Park Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-03-18",
+ "last": "2026-03-18",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "National Park Service"
+   ],
+   "d": "2026-03-18",
+   "k": "Rule",
+   "n": "2026-05312",
+   "t": "Glen Canyon National Recreation Area; Motor Vehicles; Withdrawal",
+   "u": "https://www.federalregister.gov/documents/2026/03/18/2026-05312/glen-canyon-national-recreation-area-motor-vehicles-withdrawal"
+  }
+ ],
+ "law": "119-13",
+ "rules": [
+  {
+   "a": [
+    "Interior Department",
+    "National Park Service"
+   ],
+   "d": "2026-03-18",
+   "k": "Rule",
+   "n": "2026-05312",
+   "t": "Glen Canyon National Recreation Area; Motor Vehicles; Withdrawal",
+   "u": "https://www.federalregister.gov/documents/2026/03/18/2026-05312/glen-canyon-national-recreation-area-motor-vehicles-withdrawal"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-13%22+%7C+%22Pub.+L.+119-13%22+%7C+%22P.L.+119-13%22&order=newest",
+ "term": "\"Public Law 119-13\" | \"Pub. L. 119-13\" | \"P.L. 119-13\"",
+ "total": 1
+}

@@ -1,0 +1,86 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   3
+  ],
+  [
+   "Federal Aviation Administration",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2023": 2,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-05-17",
+ "last": "2024-11-21",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2024-11-21",
+   "k": "Rule",
+   "n": "2024-24886",
+   "t": "Integration of Powered-Lift: Pilot Certification and Operations; Miscellaneous Amendments Related to Rotorcraft and Airplanes",
+   "u": "https://www.federalregister.gov/documents/2024/11/21/2024-24886/integration-of-powered-lift-pilot-certification-and-operations-miscellaneous-amendments-related-to"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2023-06-14",
+   "k": "Proposed Rule",
+   "n": "2023-11497",
+   "t": "Integration of Powered-Lift: Pilot Certification and Operations; Miscellaneous Amendments Related to Rotorcraft and Airplanes",
+   "u": "https://www.federalregister.gov/documents/2023/06/14/2023-11497/integration-of-powered-lift-pilot-certification-and-operations-miscellaneous-amendments-related-to"
+  },
+  {
+   "a": [
+    "Transportation Department"
+   ],
+   "d": "2023-05-17",
+   "k": "Notice",
+   "n": "2023-10448",
+   "t": "Request for Information on Advanced Air Mobility",
+   "u": "https://www.federalregister.gov/documents/2023/05/17/2023-10448/request-for-information-on-advanced-air-mobility"
+  }
+ ],
+ "law": "117-203",
+ "rules": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2024-11-21",
+   "k": "Rule",
+   "n": "2024-24886",
+   "t": "Integration of Powered-Lift: Pilot Certification and Operations; Miscellaneous Amendments Related to Rotorcraft and Airplanes",
+   "u": "https://www.federalregister.gov/documents/2024/11/21/2024-24886/integration-of-powered-lift-pilot-certification-and-operations-miscellaneous-amendments-related-to"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2023-06-14",
+   "k": "Proposed Rule",
+   "n": "2023-11497",
+   "t": "Integration of Powered-Lift: Pilot Certification and Operations; Miscellaneous Amendments Related to Rotorcraft and Airplanes",
+   "u": "https://www.federalregister.gov/documents/2023/06/14/2023-11497/integration-of-powered-lift-pilot-certification-and-operations-miscellaneous-amendments-related-to"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-203%22+%7C+%22Pub.+L.+117-203%22+%7C+%22P.L.+117-203%22&order=newest",
+ "term": "\"Public Law 117-203\" | \"Pub. L. 117-203\" | \"P.L. 117-203\"",
+ "total": 3
+}

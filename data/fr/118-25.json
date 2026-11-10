@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   2
+  ],
+  [
+   "Fish and Wildlife Service",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2024": 1,
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2024-06-03",
+ "last": "2025-05-06",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2025-05-06",
+   "k": "Notice",
+   "n": "2025-07832",
+   "t": "Agency Information Collection Activities; Submission to the Office of Management and Budget; Electronic Federal Duck Stamp Program",
+   "u": "https://www.federalregister.gov/documents/2025/05/06/2025-07832/agency-information-collection-activities-submission-to-the-office-of-management-and-budget"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2024-06-03",
+   "k": "Notice",
+   "n": "2024-12089",
+   "t": "Agency Information Collection Activities; Electronic Federal Duck Stamp Program",
+   "u": "https://www.federalregister.gov/documents/2024/06/03/2024-12089/agency-information-collection-activities-electronic-federal-duck-stamp-program"
+  }
+ ],
+ "law": "118-25",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-25%22+%7C+%22Pub.+L.+118-25%22+%7C+%22P.L.+118-25%22&order=newest",
+ "term": "\"Public Law 118-25\" | \"Pub. L. 118-25\" | \"P.L. 118-25\"",
+ "total": 2
+}

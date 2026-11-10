@@ -1,0 +1,44 @@
+{
+ "agencies": [
+  [
+   "Postal Regulatory Commission",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2022": 2
+ },
+ "complete": true,
+ "first": "2022-05-20",
+ "last": "2022-07-06",
+ "latest": [
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2022-07-06",
+   "k": "Notice",
+   "n": "2022-14300",
+   "t": "Modification of Special Services Product List",
+   "u": "https://www.federalregister.gov/documents/2022/07/06/2022-14300/modification-of-special-services-product-list"
+  },
+  {
+   "a": [
+    "Postal Regulatory Commission"
+   ],
+   "d": "2022-05-20",
+   "k": "Notice",
+   "n": "2022-10899",
+   "t": "Mail Classification Schedule",
+   "u": "https://www.federalregister.gov/documents/2022/05/20/2022-10899/mail-classification-schedule"
+  }
+ ],
+ "law": "117-89",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-89%22+%7C+%22Pub.+L.+117-89%22+%7C+%22P.L.+117-89%22&order=newest",
+ "term": "\"Public Law 117-89\" | \"Pub. L. 117-89\" | \"P.L. 117-89\"",
+ "total": 2
+}

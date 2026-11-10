@@ -1,0 +1,279 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 4995405054.12,
+   "name": "Department of Housing and Urban Development",
+   "obligations": 4991778186.96,
+   "outlays": 2306656503.57
+  },
+  {
+   "budgetary_resources": 4209273000.0,
+   "name": "Department of Health and Human Services",
+   "obligations": 4001621238.85,
+   "outlays": 3823694949.24
+  },
+  {
+   "budgetary_resources": 11635000000.0,
+   "name": "Department of Agriculture",
+   "obligations": 3125303983.21,
+   "outlays": 2848729876.38
+  },
+  {
+   "budgetary_resources": 3117044437.8,
+   "name": "Department of Defense",
+   "obligations": 2557089519.33,
+   "outlays": 2726689593.81
+  },
+  {
+   "budgetary_resources": 2699940290.0,
+   "name": "Department of Transportation",
+   "obligations": 2471505517.49,
+   "outlays": 2206870528.41
+  },
+  {
+   "budgetary_resources": 5711000000.0,
+   "name": "Corps of Engineers - Civil Works",
+   "obligations": 2464723546.68,
+   "outlays": 1625370450.02
+  },
+  {
+   "budgetary_resources": 1768000000.0,
+   "name": "Department of State",
+   "obligations": 1648701904.61,
+   "outlays": 1552015425.63
+  },
+  {
+   "budgetary_resources": 1189100000.0,
+   "name": "Small Business Administration",
+   "obligations": 1140248525.23,
+   "outlays": 1125050717.08
+  },
+  {
+   "budgetary_resources": 635850000.0,
+   "name": "Department of the Interior",
+   "obligations": 545041573.59,
+   "outlays": 473623428.7
+  },
+  {
+   "budgetary_resources": 367039000.0,
+   "name": "Department of Commerce",
+   "obligations": 437709613.49,
+   "outlays": 296609159.57
+  },
+  {
+   "budgetary_resources": 400000000.0,
+   "name": "Agency for International Development",
+   "obligations": 399945432.91,
+   "outlays": 397506331.6
+  },
+  {
+   "budgetary_resources": 321400000.0,
+   "name": "National Aeronautics and Space Administration",
+   "obligations": 311021327.78,
+   "outlays": 220520090.67
+  },
+  {
+   "budgetary_resources": 50000000.0,
+   "name": "Department of Justice",
+   "obligations": 47892470.31,
+   "outlays": 47768910.36
+  },
+  {
+   "budgetary_resources": 50000000.0,
+   "name": "Department of Homeland Security",
+   "obligations": 47110276.3,
+   "outlays": 45234470.78
+  },
+  {
+   "budgetary_resources": 43300000.0,
+   "name": "Department of Energy",
+   "obligations": 43162441.46,
+   "outlays": 31326951.53
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 1272346000.0,
+   "description": "COMMUNITY DEVELOPMENT BLOCK GRANTS/STATE'S PROGRAM AND NON-ENTITLEMENT GRANTS IN HAWAII",
+   "id": "B-21-DF-22-0001",
+   "kind": "grants",
+   "outlays": 859242054.6,
+   "recipient": "ADMINISTRATION, LOUISIANA DIVISION OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-21-DF-22-0001_086"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 1063462203.7,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4500DRCTP00000001",
+   "kind": "grants",
+   "outlays": 359763529.87,
+   "recipient": "EMERGENCY SERVICES AND PUBLIC PROTECTION, DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4500DRCTP00000001_070"
+  },
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 1050267000.0,
+   "description": "COMMUNITY DEVELOPMENT BLOCK GRANTS/STATE'S PROGRAM AND NON-ENTITLEMENT GRANTS IN HAWAII",
+   "id": "B-21-DZ-22-0001",
+   "kind": "grants",
+   "outlays": 705119279.54,
+   "recipient": "ADMINISTRATION, LOUISIANA DIVISION OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-21-DZ-22-0001_086"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 554787734.86,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4531DRMNP00000001",
+   "kind": "grants",
+   "outlays": 184366399.73,
+   "recipient": "PUBLIC SAFETY, MINNESOTA DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4531DRMNP00000001_070"
+  },
+  {
+   "agency": "Department of Housing and Urban Development",
+   "amount": 501252000.0,
+   "description": "COMMUNITY DEVELOPMENT BLOCK GRANTS/STATE'S PROGRAM AND NON-ENTITLEMENT GRANTS IN HAWAII",
+   "id": "B-21-DZ-01-0001",
+   "kind": "grants",
+   "outlays": 278892320.86,
+   "recipient": "ECONOMIC AND COMMUNITY AFFAIRS, ALABAMA DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_B-21-DZ-01-0001_086"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 470850100.11,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4533DRAKP00000001",
+   "kind": "grants",
+   "outlays": 319018303.61,
+   "recipient": "ALASKA DEPARTMENT OF MILITARY AND VETERAN'S AFFAIRS",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4533DRAKP00000001_070"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 468239667.62,
+   "description": "SOUTHWEST KEY PROGRAMS' UNACCOMPANIED CHILDREN BASIC SHELTER CARE PROGRAM",
+   "id": "90ZU0253",
+   "kind": "grants",
+   "outlays": 197205236.06,
+   "recipient": "SOUTHWEST KEY PROGRAMS INC",
+   "url": "https://www.usaspending.gov/award/ASST_NON_90ZU0253_075"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 459186499.76,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4532DRVTP00000001",
+   "kind": "grants",
+   "outlays": 72006669.01,
+   "recipient": "VERMONT DEPARTMENT OF PUBLIC SAFETY",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4532DRVTP00000001_070"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 10517828993.0,
+   "description": "PROVIDE DEVELOPMENTAL HARDWARE AND TEST ARTICLES, AND MANUFACTURE AND ASSEMBLE ARES I UPPER STAGES. THE UPPER STAGE (US) ELEMENT IS AN INTEGRAL PART OF THE ARES I LAUNCH VEHICLE AND PROVIDES THE SECOND STAGE OF FLIGHT. THE US ELEMENT IS RES",
+   "id": "NNM07AB03C",
+   "kind": "contracts",
+   "outlays": 4493519571.6,
+   "recipient": "THE BOEING COMPANY",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 4536552040.46,
+   "description": "LOGISTICS CIVIL AUGMENTATION PROGRAM (LOGCAP) V SUPPORT SERVICES IN KUWAIT",
+   "id": "W52P1J19F0400",
+   "kind": "contracts",
+   "outlays": 30172299.36,
+   "recipient": "V2X SYSTEMS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J19F0400_9700_W52P1J19D0045_9700"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 3516373308.21,
+   "description": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE THE FULL COMPLEMENT OF SERVICES NECESSARY TO CARE FOR UC IN ORR CUSTODY INCLUDING FACILITIES SET-UP, MAINTENANCE, AND SUPPORT INTERNAL AND PERIMETER (IF APPLICABLE) SECURITY, DIRECT CARE AND SUPERV",
+   "id": "75ACF121C00020",
+   "kind": "contracts",
+   "outlays": 2948772104.63,
+   "recipient": "RAPID DEPLOYMENT INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_75ACF121C00020_7590_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 3308165690.88,
+   "description": "TASK ORDER AWARD FOR LOGCAP SUPPORT TO OPERATION ALLIES REFUGE FOR SUPPORT AT FT. BLISS, TX FT. MCCOY, WI FT. PICKETT, VA AND CAMP ATTERBURY, IN.",
+   "id": "W52P1J21F0454",
+   "kind": "contracts",
+   "outlays": 390665425.17,
+   "recipient": "KBR SERVICES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J21F0454_9700_W52P1J19D0044_9700"
+  },
+  {
+   "agency": "National Aeronautics and Space Administration",
+   "amount": 2844683081.0,
+   "description": "SPACE LAUNCH SYSTEM (SLS) STAGES PRODUCTION AND EVOLUTION CONTRACT (SPEC)",
+   "id": "80MSFC20C0052",
+   "kind": "contracts",
+   "outlays": 2308148030.91,
+   "recipient": "THE BOEING COMPANY",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 2309491422.64,
+   "description": "CARE LOGISTICAL SUPPORT SERVICES - CLSS",
+   "id": "19AQMM23F0766",
+   "kind": "contracts",
+   "outlays": 291496363.84,
+   "recipient": "XATOR LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM23F0766_1900_19AQMM19D0119_1900"
+  },
+  {
+   "agency": "Department of Energy",
+   "amount": 2112195603.19,
+   "description": "IGF::OT::IGF MANAGEMENT AND OPERATION OF THE STRATEGIC PETROLEUM RESERVE FACILITIES.",
+   "id": "DEFE0011020",
+   "kind": "contracts",
+   "outlays": 866453532.55,
+   "recipient": "FLUOR FEDERAL PETROLEUM OPERATIONS, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEFE0011020_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Transportation",
+   "amount": 1501103618.93,
+   "description": "THE CONTRACTOR MUST FURNISH ALL PROFESSIONAL, TECHNICAL AND SUPPORT LABOR, MATERIAL, SUPPLIES, MANAGEMENT SERVICES, DATA, AND FACILITIES REQUIRED TO ACCOMPLISH THE WORK TO BE ORDERED UNDER TECHNICAL F IGF::OT::IGF",
+   "id": "DTFAWA12C00064",
+   "kind": "contracts",
+   "outlays": 748203170.41,
+   "recipient": "PARSONS GOVERNMENT SERVICES INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFAWA12C00064_6920_-NONE-_-NONE-"
+  }
+ ],
+ "codes": [
+  {
+   "code": "X",
+   "designation": "Emergency"
+  },
+  {
+   "code": "Y",
+   "designation": "Disaster"
+  }
+ ],
+ "funding_by_code": {
+  "X": 37232351781.92
+ },
+ "law": "117-43",
+ "overview": {
+  "award_obligations": 18259903960.79,
+  "award_outlays": 12829652977.62,
+  "budget_authority": 37232351781.92,
+  "total_obligations": 32389493413.71,
+  "total_outlays": 27562873390.92
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=X,Y"
+}

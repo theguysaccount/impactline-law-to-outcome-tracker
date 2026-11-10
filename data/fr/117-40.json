@@ -1,0 +1,120 @@
+{
+ "agencies": [
+  [
+   "Management and Budget Office",
+   4
+  ],
+  [
+   "Health and Human Services Department",
+   1
+  ],
+  [
+   "Agriculture Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 2,
+  "Rule": 2
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 2,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2023-10-05",
+ "last": "2026-05-29",
+ "latest": [
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2024-10-01",
+   "k": "Rule",
+   "n": "2024-22520",
+   "t": "Guidance for Federal Financial Assistance; Corrections",
+   "u": "https://www.federalregister.gov/documents/2024/10/01/2024-22520/guidance-for-federal-financial-assistance-corrections"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2024-04-22",
+   "k": "Rule",
+   "n": "2024-07496",
+   "t": "Guidance for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2024/04/22/2024-07496/guidance-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-10-05",
+   "k": "Proposed Rule",
+   "n": "2023-21078",
+   "t": "Guidance for Grants and Agreements",
+   "u": "https://www.federalregister.gov/documents/2023/10/05/2023-21078/guidance-for-grants-and-agreements"
+  }
+ ],
+ "law": "117-40",
+ "rules": [
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2024-10-01",
+   "k": "Rule",
+   "n": "2024-22520",
+   "t": "Guidance for Federal Financial Assistance; Corrections",
+   "u": "https://www.federalregister.gov/documents/2024/10/01/2024-22520/guidance-for-federal-financial-assistance-corrections"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2024-04-22",
+   "k": "Rule",
+   "n": "2024-07496",
+   "t": "Guidance for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2024/04/22/2024-07496/guidance-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-10-05",
+   "k": "Proposed Rule",
+   "n": "2023-21078",
+   "t": "Guidance for Grants and Agreements",
+   "u": "https://www.federalregister.gov/documents/2023/10/05/2023-21078/guidance-for-grants-and-agreements"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-40%22+%7C+%22Pub.+L.+117-40%22+%7C+%22P.L.+117-40%22&order=newest",
+ "term": "\"Public Law 117-40\" | \"Pub. L. 117-40\" | \"P.L. 117-40\"",
+ "total": 4
+}

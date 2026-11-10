@@ -1,0 +1,66 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   1
+  ],
+  [
+   "Children and Families Administration",
+   1
+  ],
+  [
+   "Executive Office of the President",
+   1
+  ]
+ ],
+ "by_type": {
+  "Presidential Document": 1,
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2023": 2
+ },
+ "complete": true,
+ "first": "2023-02-22",
+ "last": "2023-09-26",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2023-09-26",
+   "k": "Proposed Rule",
+   "n": "2023-20607",
+   "t": "Parentage Establishment in the Child Support Services Program",
+   "u": "https://www.federalregister.gov/documents/2023/09/26/2023-20607/parentage-establishment-in-the-child-support-services-program"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2023-02-22",
+   "k": "Presidential Document",
+   "n": "2023-03779",
+   "t": "Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government",
+   "u": "https://www.federalregister.gov/documents/2023/02/22/2023-03779/further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal"
+  }
+ ],
+ "law": "117-228",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2023-09-26",
+   "k": "Proposed Rule",
+   "n": "2023-20607",
+   "t": "Parentage Establishment in the Child Support Services Program",
+   "u": "https://www.federalregister.gov/documents/2023/09/26/2023-20607/parentage-establishment-in-the-child-support-services-program"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-228%22+%7C+%22Pub.+L.+117-228%22+%7C+%22P.L.+117-228%22&order=newest",
+ "term": "\"Public Law 117-228\" | \"Pub. L. 117-228\" | \"P.L. 117-228\"",
+ "total": 2
+}

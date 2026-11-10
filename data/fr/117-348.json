@@ -1,0 +1,78 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   3
+  ],
+  [
+   "Children and Families Administration",
+   2
+  ],
+  [
+   "Office of the Secretary",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 2,
+  "Rule": 1
+ },
+ "by_year": {
+  "2025": 3
+ },
+ "complete": true,
+ "first": "2025-05-06",
+ "last": "2025-08-22",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-22",
+   "k": "Rule",
+   "n": "2025-16129",
+   "t": "Standards of Conduct; Revocation of Superseded Regulations; Revision of Residual Provisions",
+   "u": "https://www.federalregister.gov/documents/2025/08/22/2025-16129/standards-of-conduct-revocation-of-superseded-regulations-revision-of-residual-provisions"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2025-07-09",
+   "k": "Notice",
+   "n": "2025-12660",
+   "t": "Submission for Office of Management and Budget Review; Plan for Foster Care and Adoption Assistance-Title IV-E",
+   "u": "https://www.federalregister.gov/documents/2025/07/09/2025-12660/submission-for-office-of-management-and-budget-review-plan-for-foster-care-and-adoption"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2025-05-06",
+   "k": "Notice",
+   "n": "2025-07836",
+   "t": "Proposed Information Collection Activity; Plan for Foster Care and Adoption Assistance-Title IV-E",
+   "u": "https://www.federalregister.gov/documents/2025/05/06/2025-07836/proposed-information-collection-activity-plan-for-foster-care-and-adoption-assistance-title-iv-e"
+  }
+ ],
+ "law": "117-348",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-22",
+   "k": "Rule",
+   "n": "2025-16129",
+   "t": "Standards of Conduct; Revocation of Superseded Regulations; Revision of Residual Provisions",
+   "u": "https://www.federalregister.gov/documents/2025/08/22/2025-16129/standards-of-conduct-revocation-of-superseded-regulations-revision-of-residual-provisions"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-348%22+%7C+%22Pub.+L.+117-348%22+%7C+%22P.L.+117-348%22&order=newest",
+ "term": "\"Public Law 117-348\" | \"Pub. L. 117-348\" | \"P.L. 117-348\"",
+ "total": 3
+}

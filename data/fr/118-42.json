@@ -1,0 +1,393 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   22
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   20
+  ],
+  [
+   "Agriculture Department",
+   19
+  ],
+  [
+   "Transportation Department",
+   19
+  ],
+  [
+   "Housing and Urban Development Department",
+   11
+  ],
+  [
+   "Rural Housing Service",
+   7
+  ],
+  [
+   "Justice Department",
+   6
+  ],
+  [
+   "Federal Highway Administration",
+   6
+  ],
+  [
+   "Rural Business-Cooperative Service",
+   6
+  ],
+  [
+   "Federal Motor Carrier Safety Administration",
+   4
+  ],
+  [
+   "Homeland Security Department",
+   3
+  ],
+  [
+   "Interior Department",
+   3
+  ]
+ ],
+ "by_type": {
+  "Notice": 52,
+  "Proposed Rule": 16,
+  "Rule": 24
+ },
+ "by_year": {
+  "2024": 59,
+  "2025": 18,
+  "2026": 15
+ },
+ "complete": true,
+ "first": "2024-03-29",
+ "last": "2026-11-09",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-09-01",
+   "k": "Notice",
+   "n": "2026-17777",
+   "t": "Revision of Operations Notice for the Expansion of the Moving to Work Demonstration Program",
+   "u": "https://www.federalregister.gov/documents/2026/09/01/2026-17777/revision-of-operations-notice-for-the-expansion-of-the-moving-to-work-demonstration-program"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Children and Families Administration"
+   ],
+   "d": "2026-08-12",
+   "k": "Notice",
+   "n": "2026-16392",
+   "t": "Announcement of the Intent To Award Sole-Source Awards to the Federated States of Micronesia and the Republic of the Marshall Islands",
+   "u": "https://www.federalregister.gov/documents/2026/08/12/2026-16392/announcement-of-the-intent-to-award-sole-source-awards-to-the-federated-states-of-micronesia-and-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-08-03",
+   "k": "Rule",
+   "n": "2026-15686",
+   "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-07-20",
+   "k": "Rule",
+   "n": "2026-14539",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2026/07/20/2026-14539/public-charge-ground-of-inadmissibility"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-16",
+   "k": "Proposed Rule",
+   "n": "2026-14327",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Agriculture Department"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12808",
+   "t": "Agricultural Foreign Investment Disclosure Act of 1978",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12808/agricultural-foreign-investment-disclosure-act-of-1978"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-06-04",
+   "k": "Notice",
+   "n": "2026-11206",
+   "t": "60-Day Notice of Proposed Information Collection: Disaster Recovery Grant Reporting System (DRGR) for Community Development Disaster",
+   "u": "https://www.federalregister.gov/documents/2026/06/04/2026-11206/60-day-notice-of-proposed-information-collection-disaster-recovery-grant-reporting-system-drgr-for"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-06-03",
+   "k": "Rule",
+   "n": "2026-11094",
+   "t": "Medicaid Program; Community Engagement Requirement for Certain Individuals",
+   "u": "https://www.federalregister.gov/documents/2026/06/03/2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-05-20",
+   "k": "Proposed Rule",
+   "n": "2026-10084",
+   "t": "Expanding Access to State Prescription Drug Monitoring Programs",
+   "u": "https://www.federalregister.gov/documents/2026/05/20/2026-10084/expanding-access-to-state-prescription-drug-monitoring-programs"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-05-19",
+   "k": "Rule",
+   "n": "2026-10013",
+   "t": "Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants",
+   "u": "https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-08",
+   "k": "Proposed Rule",
+   "n": "2026-09156",
+   "t": "Revising Definitions of “Adjudicated as a Mental Defective” and “Committed to a Mental Institution”",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09156/revising-definitions-of-adjudicated-as-a-mental-defective-and-committed-to-a-mental-institution"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-04-16",
+   "k": "Notice",
+   "n": "2026-07440",
+   "t": "Medicaid and Children's Health Insurance Program (CHIP) Generic Information Collection Activities: Proposed Collection; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2026/04/16/2026-07440/medicaid-and-childrens-health-insurance-program-chip-generic-information-collection-activities"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-04-06",
+   "k": "Proposed Rule",
+   "n": "2026-06604",
+   "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/04/06/2026-06604/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Highway Administration"
+   ],
+   "d": "2026-02-06",
+   "k": "Notice",
+   "n": "2026-02332",
+   "t": "Buy America Waiver Notification",
+   "u": "https://www.federalregister.gov/documents/2026/02/06/2026-02332/buy-america-waiver-notification"
+  }
+ ],
+ "law": "118-42",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-08-03",
+   "k": "Rule",
+   "n": "2026-15686",
+   "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-07-20",
+   "k": "Rule",
+   "n": "2026-14539",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2026/07/20/2026-14539/public-charge-ground-of-inadmissibility"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-16",
+   "k": "Proposed Rule",
+   "n": "2026-14327",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Agriculture Department"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12808",
+   "t": "Agricultural Foreign Investment Disclosure Act of 1978",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12808/agricultural-foreign-investment-disclosure-act-of-1978"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-06-03",
+   "k": "Rule",
+   "n": "2026-11094",
+   "t": "Medicaid Program; Community Engagement Requirement for Certain Individuals",
+   "u": "https://www.federalregister.gov/documents/2026/06/03/2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-05-20",
+   "k": "Proposed Rule",
+   "n": "2026-10084",
+   "t": "Expanding Access to State Prescription Drug Monitoring Programs",
+   "u": "https://www.federalregister.gov/documents/2026/05/20/2026-10084/expanding-access-to-state-prescription-drug-monitoring-programs"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-05-19",
+   "k": "Rule",
+   "n": "2026-10013",
+   "t": "Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants",
+   "u": "https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-08",
+   "k": "Proposed Rule",
+   "n": "2026-09156",
+   "t": "Revising Definitions of “Adjudicated as a Mental Defective” and “Committed to a Mental Institution”",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09156/revising-definitions-of-adjudicated-as-a-mental-defective-and-committed-to-a-mental-institution"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-04-06",
+   "k": "Proposed Rule",
+   "n": "2026-06604",
+   "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/04/06/2026-06604/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2025-10-31",
+   "k": "Proposed Rule",
+   "n": "2025-19732",
+   "t": "Endangered and Threatened Wildlife and Plants; Review of Species That Are Candidates for Listing as Endangered or Threatened; Annual Notification of Findings on Resubmitted Petitions; Annual Description of Progress on Listing Actions",
+   "u": "https://www.federalregister.gov/documents/2025/10/31/2025-19732/endangered-and-threatened-wildlife-and-plants-review-of-species-that-are-candidates-for-listing-as"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-08-05",
+   "k": "Rule",
+   "n": "2025-14782",
+   "t": "Medicare Program; FY 2026 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2025/08/05/2025-14782/medicare-program-fy-2026-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2025-08-04",
+   "k": "Rule",
+   "n": "2025-14681",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; ",
+   "u": "https://www.federalregister.gov/documents/2025/08/04/2025-14681/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2025-06-30",
+   "k": "Rule",
+   "n": "2025-11446",
+   "t": "Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Other Solid Waste Incineration Units Review",
+   "u": "https://www.federalregister.gov/documents/2025/06/30/2025-11446/standards-of-performance-for-new-stationary-sources-and-emission-guidelines-for-existing-sources"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-04-30",
+   "k": "Proposed Rule",
+   "n": "2025-06317",
+   "t": "Medicare Program; FY 2026 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2025/04/30/2025-06317/medicare-program-fy-2026-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-42%22+%7C+%22Pub.+L.+118-42%22+%7C+%22P.L.+118-42%22&order=newest",
+ "term": "\"Public Law 118-42\" | \"Pub. L. 118-42\" | \"P.L. 118-42\"",
+ "total": 92
+}

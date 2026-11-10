@@ -1,0 +1,77 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   4
+  ],
+  [
+   "National Institutes of Health",
+   3
+  ],
+  [
+   "Health Resources and Services Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 4
+ },
+ "by_year": {
+  "2025": 2,
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2025-09-24",
+ "last": "2026-10-13",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2026-10-13",
+   "k": "Notice",
+   "n": "2026-20825",
+   "t": "2025-2026 IACC Summary of Advances",
+   "u": "https://www.federalregister.gov/documents/2026/10/13/2026-20825/2025-2026-iacc-summary-of-advances"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-06-04",
+   "k": "Notice",
+   "n": "2026-11167",
+   "t": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Autism CARES Initiative Evaluation, OMB No. 0915-0335-Revision",
+   "u": "https://www.federalregister.gov/documents/2026/06/04/2026-11167/agency-information-collection-activities-proposed-collection-public-comment-request-information"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2025-12-04",
+   "k": "Notice",
+   "n": "2025-21902",
+   "t": "2025 Interagency Autism Coordinating Committee Call for Nominations Announcement",
+   "u": "https://www.federalregister.gov/documents/2025/12/04/2025-21902/2025-interagency-autism-coordinating-committee-call-for-nominations-announcement"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2025-09-24",
+   "k": "Notice",
+   "n": "2025-18500",
+   "t": "National Institute of Mental Health, Interagency Autism Coordinating Committee Call for Committee Membership Nominations",
+   "u": "https://www.federalregister.gov/documents/2025/09/24/2025-18500/national-institute-of-mental-health-interagency-autism-coordinating-committee-call-for-committee"
+  }
+ ],
+ "law": "118-180",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-180%22+%7C+%22Pub.+L.+118-180%22+%7C+%22P.L.+118-180%22&order=newest",
+ "term": "\"Public Law 118-180\" | \"Pub. L. 118-180\" | \"P.L. 118-180\"",
+ "total": 4
+}

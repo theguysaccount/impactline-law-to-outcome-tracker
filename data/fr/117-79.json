@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   1
+  ],
+  [
+   "National Institutes of Health",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2022": 1
+ },
+ "complete": true,
+ "first": "2022-05-06",
+ "last": "2022-05-06",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2022-05-06",
+   "k": "Notice",
+   "n": "2022-09776",
+   "t": "Statement of Delegation of Authority",
+   "u": "https://www.federalregister.gov/documents/2022/05/06/2022-09776/statement-of-delegation-of-authority"
+  }
+ ],
+ "law": "117-79",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-79%22+%7C+%22Pub.+L.+117-79%22+%7C+%22P.L.+117-79%22&order=newest",
+ "term": "\"Public Law 117-79\" | \"Pub. L. 117-79\" | \"P.L. 117-79\"",
+ "total": 1
+}

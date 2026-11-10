@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Indian Affairs Bureau",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-01-25",
+ "last": "2024-01-25",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Indian Affairs Bureau"
+   ],
+   "d": "2024-01-25",
+   "k": "Notice",
+   "n": "2024-01467",
+   "t": "Land Acquisitions; Pascua Yaqui Tribe, Eleven Parcels, Pima County, Arizona",
+   "u": "https://www.federalregister.gov/documents/2024/01/25/2024-01467/land-acquisitions-pascua-yaqui-tribe-eleven-parcels-pima-county-arizona"
+  }
+ ],
+ "law": "117-275",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-275%22+%7C+%22Pub.+L.+117-275%22+%7C+%22P.L.+117-275%22&order=newest",
+ "term": "\"Public Law 117-275\" | \"Pub. L. 117-275\" | \"P.L. 117-275\"",
+ "total": 1
+}

@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2021": 1,
+  "2022": 1
+ },
+ "complete": true,
+ "first": "2021-12-14",
+ "last": "2022-01-14",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2022-01-14",
+   "k": "Notice",
+   "n": "2022-00694",
+   "t": "Dependency and Indemnity Compensation Cost of Living Adjustments",
+   "u": "https://www.federalregister.gov/documents/2022/01/14/2022-00694/dependency-and-indemnity-compensation-cost-of-living-adjustments"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2021-12-14",
+   "k": "Notice",
+   "n": "2021-27043",
+   "t": "Cost-of-Living Adjustments for Service-Connected Benefits",
+   "u": "https://www.federalregister.gov/documents/2021/12/14/2021-27043/cost-of-living-adjustments-for-service-connected-benefits"
+  }
+ ],
+ "law": "117-45",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-45%22+%7C+%22Pub.+L.+117-45%22+%7C+%22P.L.+117-45%22&order=newest",
+ "term": "\"Public Law 117-45\" | \"Pub. L. 117-45\" | \"P.L. 117-45\"",
+ "total": 2
+}

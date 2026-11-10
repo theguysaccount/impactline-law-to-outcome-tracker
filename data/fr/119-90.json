@@ -1,0 +1,195 @@
+{
+ "agencies": [
+  [
+   "Energy Department",
+   8
+  ],
+  [
+   "Federal Energy Regulatory Commission",
+   8
+  ],
+  [
+   "Health and Human Services Department",
+   3
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   3
+  ]
+ ],
+ "by_type": {
+  "Notice": 8,
+  "Proposed Rule": 2,
+  "Rule": 1
+ },
+ "by_year": {
+  "2009": 2,
+  "2010": 1,
+  "2026": 8
+ },
+ "complete": true,
+ "first": "2009-05-22",
+ "last": "2026-11-09",
+ "latest": [
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-09",
+   "k": "Notice",
+   "n": "2026-22808",
+   "t": "FFP Missouri 12, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22808/ffp-missouri-12-llc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-09",
+   "k": "Notice",
+   "n": "2026-22805",
+   "t": "Red River Hydro LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22805/red-river-hydro-llc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-09",
+   "k": "Notice",
+   "n": "2026-22804",
+   "t": "Northern Illinois Hydropower, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22804/northern-illinois-hydropower-llc-notice-of-request-for-extension-of-time-to-commence-and-complete"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-09",
+   "k": "Notice",
+   "n": "2026-22803",
+   "t": "Northern Illinois Hydropower, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22803/northern-illinois-hydropower-llc-notice-of-request-for-extension-of-time-to-commence-and-complete"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-09",
+   "k": "Notice",
+   "n": "2026-22801",
+   "t": "FFP Missouri 5, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22801/ffp-missouri-5-llc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-04",
+   "k": "Notice",
+   "n": "2026-22514",
+   "t": "Tygart LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/11/04/2026-22514/tygart-llc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction-accepted"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-04",
+   "k": "Notice",
+   "n": "2026-22513",
+   "t": "Lock 11 Hydro Partners, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/11/04/2026-22513/lock-11-hydro-partners-llc-notice-of-request-for-extension-of-time-to-commence-and-complete"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-09-04",
+   "k": "Notice",
+   "n": "2026-18150",
+   "t": "Juneau Hydropower, Inc.; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/09/04/2026-18150/juneau-hydropower-inc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2010-05-04",
+   "k": "Proposed Rule",
+   "n": "2010-9163",
+   "t": "Medicare Program; Proposed Changes to the Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Proposed Fiscal Year 2011 Rates; Effective Date of Provider Agreements and Supplier Approvals; and Hospital Conditions of P",
+   "u": "https://www.federalregister.gov/documents/2010/05/04/2010-9163/medicare-program-proposed-changes-to-the-hospital-inpatient-prospective-payment-systems-for-acute"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2009-08-27",
+   "k": "Rule",
+   "n": "E9-18663",
+   "t": "Medicare Program; Changes to the Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and Fiscal Year 2010 Rates; and Changes to the Long-Term Care Hospital Prospective Payment System and Rate Years 2010 and 2009 Rates",
+   "u": "https://www.federalregister.gov/documents/2009/08/27/E9-18663/medicare-program-changes-to-the-hospital-inpatient-prospective-payment-systems-for-acute-care"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2009-05-22",
+   "k": "Proposed Rule",
+   "n": "E9-10458",
+   "t": "Medicare Program; Proposed Changes to the Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and Fiscal Year 2010 Rates and to the Long-Term Care Hospital Prospective Payment System and Rate Year 2010 Rates",
+   "u": "https://www.federalregister.gov/documents/2009/05/22/E9-10458/medicare-program-proposed-changes-to-the-hospital-inpatient-prospective-payment-systems-for-acute"
+  }
+ ],
+ "law": "119-90",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2010-05-04",
+   "k": "Proposed Rule",
+   "n": "2010-9163",
+   "t": "Medicare Program; Proposed Changes to the Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Proposed Fiscal Year 2011 Rates; Effective Date of Provider Agreements and Supplier Approvals; and Hospital Conditions of P",
+   "u": "https://www.federalregister.gov/documents/2010/05/04/2010-9163/medicare-program-proposed-changes-to-the-hospital-inpatient-prospective-payment-systems-for-acute"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2009-08-27",
+   "k": "Rule",
+   "n": "E9-18663",
+   "t": "Medicare Program; Changes to the Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and Fiscal Year 2010 Rates; and Changes to the Long-Term Care Hospital Prospective Payment System and Rate Years 2010 and 2009 Rates",
+   "u": "https://www.federalregister.gov/documents/2009/08/27/E9-18663/medicare-program-changes-to-the-hospital-inpatient-prospective-payment-systems-for-acute-care"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2009-05-22",
+   "k": "Proposed Rule",
+   "n": "E9-10458",
+   "t": "Medicare Program; Proposed Changes to the Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and Fiscal Year 2010 Rates and to the Long-Term Care Hospital Prospective Payment System and Rate Year 2010 Rates",
+   "u": "https://www.federalregister.gov/documents/2009/05/22/E9-10458/medicare-program-proposed-changes-to-the-hospital-inpatient-prospective-payment-systems-for-acute"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-90%22+%7C+%22Pub.+L.+119-90%22+%7C+%22P.L.+119-90%22&order=newest",
+ "term": "\"Public Law 119-90\" | \"Pub. L. 119-90\" | \"P.L. 119-90\"",
+ "total": 11
+}

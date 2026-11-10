@@ -1,0 +1,217 @@
+{
+ "agencies": [
+  [
+   "Justice Department",
+   54
+  ],
+  [
+   "Drug Enforcement Administration",
+   54
+  ],
+  [
+   "Health and Human Services Department",
+   1
+  ],
+  [
+   "Office of the Secretary",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 54,
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2023": 34,
+  "2024": 9,
+  "2025": 5,
+  "2026": 7
+ },
+ "complete": true,
+ "first": "2023-02-02",
+ "last": "2026-10-19",
+ "latest": [
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-10-19",
+   "k": "Notice",
+   "n": "2026-21258",
+   "t": "Muhamad Aly Rifai, M.D.; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21258/muhamad-aly-rifai-md-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-10-14",
+   "k": "Notice",
+   "n": "2026-20937",
+   "t": "Katherine Curtis, N.P.; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2026/10/14/2026-20937/katherine-curtis-np-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-10-09",
+   "k": "Notice",
+   "n": "2026-20751",
+   "t": "Alexandra R. Lovec, A.P.R.N.; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2026/10/09/2026-20751/alexandra-r-lovec-aprn-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-10-09",
+   "k": "Notice",
+   "n": "2026-20749",
+   "t": "Vladimir Romaniv, P.A.; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2026/10/09/2026-20749/vladimir-romaniv-pa-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-10-07",
+   "k": "Notice",
+   "n": "2026-20552",
+   "t": "Wellwise Pharmacy Inc.; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2026/10/07/2026-20552/wellwise-pharmacy-inc-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-10-07",
+   "k": "Notice",
+   "n": "2026-20535",
+   "t": "Arenbii Pharmacy LLC; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2026/10/07/2026-20535/arenbii-pharmacy-llc-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2026-10-02",
+   "k": "Notice",
+   "n": "2026-20227",
+   "t": "St. Michael's Pharmacy; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20227/st-michaels-pharmacy-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2025-10-30",
+   "k": "Notice",
+   "n": "2025-19708",
+   "t": "Pharmacy Place, Llc; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2025/10/30/2025-19708/pharmacy-place-llc-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2025-10-21",
+   "k": "Notice",
+   "n": "2025-19603",
+   "t": "Mert Kivanc, D.O.; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2025/10/21/2025-19603/mert-kivanc-do-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2025-10-17",
+   "k": "Notice",
+   "n": "2025-19578",
+   "t": "Hovic Pharmacy; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2025/10/17/2025-19578/hovic-pharmacy-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2025-04-02",
+   "k": "Notice",
+   "n": "2025-05591",
+   "t": "Prescript Pharmaceuticals; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2025/04/02/2025-05591/prescript-pharmaceuticals-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2025-02-10",
+   "k": "Notice",
+   "n": "2025-02421",
+   "t": "David Bockoff, M.D.; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2025/02/10/2025-02421/david-bockoff-md-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2024-10-10",
+   "k": "Notice",
+   "n": "2024-23504",
+   "t": "Salman Akbar, M.D.; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2024/10/10/2024-23504/salman-akbar-md-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2024-10-10",
+   "k": "Notice",
+   "n": "2024-23482",
+   "t": "Midtown Specialty RX; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2024/10/10/2024-23482/midtown-specialty-rx-decision-and-order"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "d": "2024-07-24",
+   "k": "Notice",
+   "n": "2024-16213",
+   "t": "Carrie L. Madej, DO; Decision and Order",
+   "u": "https://www.federalregister.gov/documents/2024/07/24/2024-16213/carrie-l-madej-do-decision-and-order"
+  }
+ ],
+ "law": "117-215",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2023-02-13",
+   "k": "Proposed Rule",
+   "n": "2023-03012",
+   "t": "Medications for the Treatment of Opioid Use Disorder: Removal of the DATA-2000 Waiver Requirements",
+   "u": "https://www.federalregister.gov/documents/2023/02/13/2023-03012/medications-for-the-treatment-of-opioid-use-disorder-removal-of-the-data-2000-waiver-requirements"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-215%22+%7C+%22Pub.+L.+117-215%22+%7C+%22P.L.+117-215%22&order=newest",
+ "term": "\"Public Law 117-215\" | \"Pub. L. 117-215\" | \"P.L. 117-215\"",
+ "total": 55
+}

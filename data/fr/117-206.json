@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "National Park Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-07-23",
+ "last": "2024-07-23",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "National Park Service"
+   ],
+   "d": "2024-07-23",
+   "k": "Notice",
+   "n": "2024-16073",
+   "t": "Blackwell School National Historic Site",
+   "u": "https://www.federalregister.gov/documents/2024/07/23/2024-16073/blackwell-school-national-historic-site"
+  }
+ ],
+ "law": "117-206",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-206%22+%7C+%22Pub.+L.+117-206%22+%7C+%22P.L.+117-206%22&order=newest",
+ "term": "\"Public Law 117-206\" | \"Pub. L. 117-206\" | \"P.L. 117-206\"",
+ "total": 1
+}

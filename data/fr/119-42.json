@@ -1,0 +1,44 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2026-02-11",
+ "last": "2026-02-17",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-02-17",
+   "k": "Notice",
+   "n": "2026-02997",
+   "t": "Cost of Living Adjustments for Service-Connected Benefits",
+   "u": "https://www.federalregister.gov/documents/2026/02/17/2026-02997/cost-of-living-adjustments-for-service-connected-benefits"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-02-11",
+   "k": "Notice",
+   "n": "2026-02771",
+   "t": "Dependency and Indemnity Compensation Cost-of-Living Adjustments (COLA)",
+   "u": "https://www.federalregister.gov/documents/2026/02/11/2026-02771/dependency-and-indemnity-compensation-cost-of-living-adjustments-cola"
+  }
+ ],
+ "law": "119-42",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-42%22+%7C+%22Pub.+L.+119-42%22+%7C+%22P.L.+119-42%22&order=newest",
+ "term": "\"Public Law 119-42\" | \"Pub. L. 119-42\" | \"P.L. 119-42\"",
+ "total": 2
+}

@@ -1,0 +1,397 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   28
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   11
+  ],
+  [
+   "Education Department",
+   8
+  ],
+  [
+   "Health Resources and Services Administration",
+   7
+  ],
+  [
+   "Centers for Disease Control and Prevention",
+   6
+  ],
+  [
+   "Small Business Administration",
+   5
+  ],
+  [
+   "State Department",
+   3
+  ],
+  [
+   "Office of the Secretary",
+   3
+  ],
+  [
+   "Labor Department",
+   3
+  ],
+  [
+   "United States Sentencing Commission",
+   2
+  ],
+  [
+   "Committee for the Implementation of Textile Agreements",
+   2
+  ],
+  [
+   "Community Living Administration",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 40,
+  "Presidential Document": 1,
+  "Proposed Rule": 11,
+  "Rule": 6
+ },
+ "by_year": {
+  "2026": 58
+ },
+ "complete": true,
+ "first": "2026-02-12",
+ "last": "2026-11-09",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22750",
+   "t": "Calendar Year 2027 Home Health Prospective Payment System (HH PPS) Rate Update; Requirements for the HH Quality Reporting Program and the Expanded HH Value-Based Purchasing Model; Medicare Provider Enrollment, Durable Medical Equipment (DME), and DME, Prosthetics, Orthotics, and Supplies (DMEPOS) Po",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22750/calendar-year-2027-home-health-prospective-payment-system-hh-pps-rate-update-requirements-for-the-hh"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-06",
+   "k": "Rule",
+   "n": "2026-22739",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardi",
+   "u": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-11-04",
+   "k": "Notice",
+   "n": "2026-22472",
+   "t": "Determination With Respect to Yemen",
+   "u": "https://www.federalregister.gov/documents/2026/11/04/2026-22472/determination-with-respect-to-yemen"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-11-04",
+   "k": "Notice",
+   "n": "2026-22471",
+   "t": "Determination With Respect to Syria",
+   "u": "https://www.federalregister.gov/documents/2026/11/04/2026-22471/determination-with-respect-to-syria"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-11-03",
+   "k": "Rule",
+   "n": "2026-22380",
+   "t": "Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/11/03/2026-22380/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-10-20",
+   "k": "Proposed Rule",
+   "n": "2026-21420",
+   "t": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
+   "u": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations"
+  },
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2026-10-13",
+   "k": "Notice",
+   "n": "2026-20821",
+   "t": "Fiscal Year List of Requests From States or Tribes for a Small Business Administration Disaster Declaration",
+   "u": "https://www.federalregister.gov/documents/2026/10/13/2026-20821/fiscal-year-list-of-requests-from-states-or-tribes-for-a-small-business-administration-disaster"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-09-29",
+   "k": "Notice",
+   "n": "2026-19911",
+   "t": "Modification of Living Organ Donation Reimbursement Program Eligibility Guidelines in Response To Honor Our Living Donors Act",
+   "u": "https://www.federalregister.gov/documents/2026/09/29/2026-19911/modification-of-living-organ-donation-reimbursement-program-eligibility-guidelines-in-response-to"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-09-29",
+   "k": "Notice",
+   "n": "2026-19886",
+   "t": "AIM Incarcerated Women Resource Kit",
+   "u": "https://www.federalregister.gov/documents/2026/09/29/2026-19886/aim-incarcerated-women-resource-kit"
+  },
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2026-09-18",
+   "k": "Notice",
+   "n": "2026-19192",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19192/sentencing-guidelines-for-united-states-courts"
+  },
+  {
+   "a": [
+    "Committee for the Implementation of Textile Agreements"
+   ],
+   "d": "2026-09-18",
+   "k": "Notice",
+   "n": "2026-19191",
+   "t": "Limitations of Duty-Free Imports of Apparel Articles Assembled in Beneficiary Sub-Saharan African Countries From Regional and Third-Country Fabric",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19191/limitations-of-duty-free-imports-of-apparel-articles-assembled-in-beneficiary-sub-saharan-african"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-09-18",
+   "k": "Notice",
+   "n": "2026-19146",
+   "t": "Healthy Start Self-Measured Blood Pressure Monitoring",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19146/healthy-start-self-measured-blood-pressure-monitoring"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-09-18",
+   "k": "Notice",
+   "n": "2026-19145",
+   "t": "Infant-Toddler Court Program-National Resource Center",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19145/infant-toddler-court-program-national-resource-center"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Disease Control and Prevention"
+   ],
+   "d": "2026-09-15",
+   "k": "Notice",
+   "n": "2026-18901",
+   "t": "World Trade Center Health Program; Petition 048a-Peripheral Artery Disease; Finding of Insufficient Evidence",
+   "u": "https://www.federalregister.gov/documents/2026/09/15/2026-18901/world-trade-center-health-program-petition-048a-peripheral-artery-disease-finding-of-insufficient"
+  }
+ ],
+ "law": "119-75",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22750",
+   "t": "Calendar Year 2027 Home Health Prospective Payment System (HH PPS) Rate Update; Requirements for the HH Quality Reporting Program and the Expanded HH Value-Based Purchasing Model; Medicare Provider Enrollment, Durable Medical Equipment (DME), and DME, Prosthetics, Orthotics, and Supplies (DMEPOS) Po",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22750/calendar-year-2027-home-health-prospective-payment-system-hh-pps-rate-update-requirements-for-the-hh"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-06",
+   "k": "Rule",
+   "n": "2026-22739",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardi",
+   "u": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-11-03",
+   "k": "Rule",
+   "n": "2026-22380",
+   "t": "Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/11/03/2026-22380/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-10-20",
+   "k": "Proposed Rule",
+   "n": "2026-21420",
+   "t": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
+   "u": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2026-08-04",
+   "k": "Rule",
+   "n": "2026-15833",
+   "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of",
+   "u": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-08-03",
+   "k": "Rule",
+   "n": "2026-15686",
+   "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Employee Benefits Security Administration"
+   ],
+   "d": "2026-07-23",
+   "k": "Proposed Rule",
+   "n": "2026-14917",
+   "t": "Electronic Disclosure by Group Health Plans Under ERISA",
+   "u": "https://www.federalregister.gov/documents/2026/07/23/2026-14917/electronic-disclosure-by-group-health-plans-under-erisa"
+  },
+  {
+   "a": [
+    "Corporation for National and Community Service"
+   ],
+   "d": "2026-07-23",
+   "k": "Proposed Rule",
+   "n": "2026-14906",
+   "t": "Rescinding Portions of AmeriCorps Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281",
+   "u": "https://www.federalregister.gov/documents/2026/07/23/2026-14906/rescinding-portions-of-americorps-title-vi-regulations-to-conform-more-closely-with-the-statutory"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-16",
+   "k": "Proposed Rule",
+   "n": "2026-14327",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-07",
+   "k": "Proposed Rule",
+   "n": "2026-13656",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; Including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardi",
+   "u": "https://www.federalregister.gov/documents/2026/07/07/2026-13656/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-06",
+   "k": "Proposed Rule",
+   "n": "2026-13602",
+   "t": "Calendar Year 2027 Home Health Prospective Payment System (HH PPS) Rate Update; Requirements for the HH Quality Reporting Program and the Expanded HH Value-Based Purchasing Model; Medicare Provider Enrollment, Durable Medical Equipment (DME), and DME, Prosthetics, Orthotics, and Supplies (DMEPOS) Po",
+   "u": "https://www.federalregister.gov/documents/2026/07/06/2026-13602/calendar-year-2027-home-health-prospective-payment-system-hh-pps-rate-update-requirements-for-the-hh"
+  },
+  {
+   "a": [
+    "Personnel Management Office",
+    "Merit Systems Protection Board"
+   ],
+   "d": "2026-07-02",
+   "k": "Proposed Rule",
+   "n": "2026-13445",
+   "t": "Promoting Employee Accountability",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13445/promoting-employee-accountability"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2026-05-28",
+   "k": "Proposed Rule",
+   "n": "2026-10620",
+   "t": "Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program",
+   "u": "https://www.federalregister.gov/documents/2026/05/28/2026-10620/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service",
+    "Labor Department"
+   ],
+   "d": "2026-05-13",
+   "k": "Proposed Rule",
+   "n": "2026-09479",
+   "t": "Excepted Fertility Benefits",
+   "u": "https://www.federalregister.gov/documents/2026/05/13/2026-09479/excepted-fertility-benefits"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-75%22+%7C+%22Pub.+L.+119-75%22+%7C+%22P.L.+119-75%22&order=newest",
+ "term": "\"Public Law 119-75\" | \"Pub. L. 119-75\" | \"P.L. 119-75\"",
+ "total": 58
+}

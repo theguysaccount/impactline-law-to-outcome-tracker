@@ -1,0 +1,133 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   2
+  ],
+  [
+   "Health and Human Services Department",
+   2
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   2
+  ],
+  [
+   "Office of the Secretary",
+   2
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 2,
+  "Proposed Rule": 2,
+  "Rule": 1
+ },
+ "by_year": {
+  "2023": 2,
+  "2024": 2,
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2023-01-30",
+ "last": "2025-11-19",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-11-19",
+   "k": "Proposed Rule",
+   "n": "2025-20278",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2024-08-20",
+   "k": "Notice",
+   "n": "2024-18725",
+   "t": "Implementation of Keeping Families Together",
+   "u": "https://www.federalregister.gov/documents/2024/08/20/2024-18725/implementation-of-keeping-families-together"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2024-05-08",
+   "k": "Rule",
+   "n": "2024-09661",
+   "t": "Clarifying the Eligibility of Deferred Action for Childhood Arrivals (DACA) Recipients and Certain Other Noncitizens for a Qualified Health Plan through an Exchange, Advance Payments of the Premium Tax Credit, Cost-Sharing Reductions, and a Basic Health Program",
+   "u": "https://www.federalregister.gov/documents/2024/05/08/2024-09661/clarifying-the-eligibility-of-deferred-action-for-childhood-arrivals-daca-recipients-and-certain"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2023-04-26",
+   "k": "Proposed Rule",
+   "n": "2023-08635",
+   "t": "Clarifying Eligibility for a Qualified Health Plan Through an Exchange, Advance Payments of the Premium Tax Credit, Cost-Sharing Reductions, a Basic Health Program, and for Some Medicaid and Children's Health Insurance Programs",
+   "u": "https://www.federalregister.gov/documents/2023/04/26/2023-08635/clarifying-eligibility-for-a-qualified-health-plan-through-an-exchange-advance-payments-of-the"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2023-01-30",
+   "k": "Notice",
+   "n": "2023-01771",
+   "t": "Notice; 2022 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2023/01/30/2023-01771/notice-2022-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "117-128",
+ "rules": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-11-19",
+   "k": "Proposed Rule",
+   "n": "2025-20278",
+   "t": "Public Charge Ground of Inadmissibility",
+   "u": "https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2024-05-08",
+   "k": "Rule",
+   "n": "2024-09661",
+   "t": "Clarifying the Eligibility of Deferred Action for Childhood Arrivals (DACA) Recipients and Certain Other Noncitizens for a Qualified Health Plan through an Exchange, Advance Payments of the Premium Tax Credit, Cost-Sharing Reductions, and a Basic Health Program",
+   "u": "https://www.federalregister.gov/documents/2024/05/08/2024-09661/clarifying-the-eligibility-of-deferred-action-for-childhood-arrivals-daca-recipients-and-certain"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2023-04-26",
+   "k": "Proposed Rule",
+   "n": "2023-08635",
+   "t": "Clarifying Eligibility for a Qualified Health Plan Through an Exchange, Advance Payments of the Premium Tax Credit, Cost-Sharing Reductions, a Basic Health Program, and for Some Medicaid and Children's Health Insurance Programs",
+   "u": "https://www.federalregister.gov/documents/2023/04/26/2023-08635/clarifying-eligibility-for-a-qualified-health-plan-through-an-exchange-advance-payments-of-the"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-128%22+%7C+%22Pub.+L.+117-128%22+%7C+%22P.L.+117-128%22&order=newest",
+ "term": "\"Public Law 117-128\" | \"Pub. L. 117-128\" | \"P.L. 117-128\"",
+ "total": 5
+}

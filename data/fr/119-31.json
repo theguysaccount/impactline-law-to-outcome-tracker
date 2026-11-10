@@ -1,0 +1,62 @@
+{
+ "agencies": [
+  [
+   "Regulatory Information Service Center",
+   1
+  ],
+  [
+   "Veterans Affairs Department",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 3
+ },
+ "by_year": {
+  "2026": 3
+ },
+ "complete": true,
+ "first": "2026-01-28",
+ "last": "2026-08-14",
+ "latest": [
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16603",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-04-27",
+   "k": "Notice",
+   "n": "2026-08166",
+   "t": "Agency Information Collection Activity: VA Loan Electronic Reporting Interface (VALERI) System and Title Requirements for Conveyance of Real Property to the Secretary",
+   "u": "https://www.federalregister.gov/documents/2026/04/27/2026-08166/agency-information-collection-activity-va-loan-electronic-reporting-interface-valeri-system-and"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2026-01-28",
+   "k": "Notice",
+   "n": "2026-01651",
+   "t": "Notice; 2025 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2026/01/28/2026-01651/notice-2025-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "119-31",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-31%22+%7C+%22Pub.+L.+119-31%22+%7C+%22P.L.+119-31%22&order=newest",
+ "term": "\"Public Law 119-31\" | \"Pub. L. 119-31\" | \"P.L. 119-31\"",
+ "total": 3
+}

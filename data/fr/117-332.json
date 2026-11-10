@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Council on Environmental Quality",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-01-08",
+ "last": "2026-01-08",
+ "latest": [
+  {
+   "a": [
+    "Council on Environmental Quality"
+   ],
+   "d": "2026-01-08",
+   "k": "Rule",
+   "n": "2026-00178",
+   "t": "Removal of National Environmental Policy Act Implementing Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/01/08/2026-00178/removal-of-national-environmental-policy-act-implementing-regulations"
+  }
+ ],
+ "law": "117-332",
+ "rules": [
+  {
+   "a": [
+    "Council on Environmental Quality"
+   ],
+   "d": "2026-01-08",
+   "k": "Rule",
+   "n": "2026-00178",
+   "t": "Removal of National Environmental Policy Act Implementing Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/01/08/2026-00178/removal-of-national-environmental-policy-act-implementing-regulations"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-332%22+%7C+%22Pub.+L.+117-332%22+%7C+%22P.L.+117-332%22&order=newest",
+ "term": "\"Public Law 117-332\" | \"Pub. L. 117-332\" | \"P.L. 117-332\"",
+ "total": 1
+}

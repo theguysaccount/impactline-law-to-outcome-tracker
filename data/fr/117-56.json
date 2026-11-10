@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   1
+  ],
+  [
+   "Federal Motor Carrier Safety Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2022": 1
+ },
+ "complete": true,
+ "first": "2022-03-07",
+ "last": "2022-03-07",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Motor Carrier Safety Administration"
+   ],
+   "d": "2022-03-07",
+   "k": "Rule",
+   "n": "2022-03996",
+   "t": "Parts and Accessories Necessary for Safe Operation; Authorized Windshield Area for the Installation of Vehicle Safety Technology",
+   "u": "https://www.federalregister.gov/documents/2022/03/07/2022-03996/parts-and-accessories-necessary-for-safe-operation-authorized-windshield-area-for-the-installation"
+  }
+ ],
+ "law": "117-56",
+ "rules": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Motor Carrier Safety Administration"
+   ],
+   "d": "2022-03-07",
+   "k": "Rule",
+   "n": "2022-03996",
+   "t": "Parts and Accessories Necessary for Safe Operation; Authorized Windshield Area for the Installation of Vehicle Safety Technology",
+   "u": "https://www.federalregister.gov/documents/2022/03/07/2022-03996/parts-and-accessories-necessary-for-safe-operation-authorized-windshield-area-for-the-installation"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-56%22+%7C+%22Pub.+L.+117-56%22+%7C+%22P.L.+117-56%22&order=newest",
+ "term": "\"Public Law 117-56\" | \"Pub. L. 117-56\" | \"P.L. 117-56\"",
+ "total": 1
+}

@@ -1,0 +1,203 @@
+{
+ "agencies": [
+  {
+   "budgetary_resources": 1271728000.0,
+   "name": "Department of Health and Human Services",
+   "obligations": 1242948220.56,
+   "outlays": 1012590403.38
+  },
+  {
+   "budgetary_resources": 1312000000.0,
+   "name": "Department of Defense",
+   "obligations": 948367288.19,
+   "outlays": 838047772.19
+  },
+  {
+   "budgetary_resources": 4280300000.0,
+   "name": "Department of State",
+   "obligations": 77274196.62,
+   "outlays": 77182829.8
+  }
+ ],
+ "awards": [
+  {
+   "agency": "Department of Defense",
+   "amount": 288337246.28,
+   "description": "FY18 FUNDING FOR ACRNS AA, AB, AC & AD",
+   "id": "FA48191820001",
+   "kind": "grants",
+   "outlays": 18046073.69,
+   "recipient": "CIVIL AIR PATROL",
+   "url": "https://www.usaspending.gov/award/ASST_NON_FA48191820001_097"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 242072245.0,
+   "description": "GY2023 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "2301CARSSS",
+   "kind": "grants",
+   "outlays": 213929094.41,
+   "recipient": "DEPARTMENT OF SOCIAL SERVICES CALIFORNIA",
+   "url": "https://www.usaspending.gov/award/ASST_NON_2301CARSSS_075"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 217721131.0,
+   "description": "GY2023 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "23ABTXRSSS",
+   "kind": "grants",
+   "outlays": 184174923.1,
+   "recipient": "CATHOLIC CHARITIES DIOCESE OF FORT WORTH ENDOWMENT, INC.",
+   "url": "https://www.usaspending.gov/award/ASST_NON_23ABTXRSSS_075"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 155608137.0,
+   "description": "GY2023 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "2301NYRSSS",
+   "kind": "grants",
+   "outlays": 109932685.75,
+   "recipient": "NEW YORK STATE OFFICE OF TEMPORARY & DISABILITY ASSISTANCE",
+   "url": "https://www.usaspending.gov/award/ASST_NON_2301NYRSSS_075"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 151485645.0,
+   "description": "GY2023 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "2301WARSSS",
+   "kind": "grants",
+   "outlays": 107522463.78,
+   "recipient": "DEPARTMENT OF SOCIAL & HEALTH SERVICES",
+   "url": "https://www.usaspending.gov/award/ASST_NON_2301WARSSS_075"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 116066589.0,
+   "description": "GY2023 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "2301VARSSS",
+   "kind": "grants",
+   "outlays": 26221276.21,
+   "recipient": "SOCIAL SERVICES, VIRGINIA DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_2301VARSSS_075"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 90057871.0,
+   "description": "GY2023 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "2301ILRSSS",
+   "kind": "grants",
+   "outlays": 57079441.0,
+   "recipient": "ILLINOIS DEPARTMENT OF HUMAN SERVICE",
+   "url": "https://www.usaspending.gov/award/ASST_NON_2301ILRSSS_075"
+  },
+  {
+   "agency": "Department of Health and Human Services",
+   "amount": 77841631.0,
+   "description": "GY 2022 REFUGEE SUPPORT SERVICES AND SET ASIDES",
+   "id": "2201VARSSS",
+   "kind": "grants",
+   "outlays": 62553869.8,
+   "recipient": "SOCIAL SERVICES, VIRGINIA DEPARTMENT OF",
+   "url": "https://www.usaspending.gov/award/ASST_NON_2201VARSSS_075"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 4536552040.46,
+   "description": "LOGISTICS CIVIL AUGMENTATION PROGRAM (LOGCAP) V SUPPORT SERVICES IN KUWAIT",
+   "id": "W52P1J19F0400",
+   "kind": "contracts",
+   "outlays": 30172299.36,
+   "recipient": "V2X SYSTEMS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J19F0400_9700_W52P1J19D0045_9700"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 932247928.51,
+   "description": "JBMDL - OPERATION ALLIES WELCOME (REFUGE) - O21R",
+   "id": "FA805121F0058",
+   "kind": "contracts",
+   "outlays": 888038891.58,
+   "recipient": "URS FEDERAL SERVICES INTERNATIONAL, INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_FA805121F0058_9700_FA805120D0001_9700"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 817983029.06,
+   "description": "LOGISTICS CIVIL AUGMENTATION PROGRAM (LOGCAP) V SUPPORT SERVICES IN SUPPORT OF AFRICOM.",
+   "id": "W52P1J19F0403",
+   "kind": "contracts",
+   "outlays": 48197354.67,
+   "recipient": "FLUOR INTERCONTINENTAL, INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J19F0403_9700_W52P1J19D0046_9700"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 545080002.03,
+   "description": "UTILITY SERVICE CONTRACT FOR UTILITY PRIVATION",
+   "id": "SP060007C8262",
+   "kind": "contracts",
+   "outlays": 28609478.52,
+   "recipient": "DOYON UTILITIES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_SP060007C8262_9700_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 538563221.62,
+   "description": "IGF::OT::IGF AIRCRAFT MAINTENANCE SERVICES",
+   "id": "FA300216C0006",
+   "kind": "contracts",
+   "outlays": 247885705.43,
+   "recipient": "M1 SUPPORT SERVICES, L.P.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_FA300216C0006_9700_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 511568231.62,
+   "description": "TASK ORDER AWARD FOR LOGCAP EUCOM AOR TO SUPPORT OPERATION ALLIES REFUGE FOR SUPPORT AT CAMP BONDSTEEL, KOS RAMSTEIN AIR BASE (RAM), GERMANY AND RHINE ORDINANCE BARRACKS (ROB), GERMANY.",
+   "id": "W52P1J21F0472",
+   "kind": "contracts",
+   "outlays": 117847.69,
+   "recipient": "KBR SERVICES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J21F0472_9700_W52P1J19D0044_9700"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 352227282.87,
+   "description": "HAFB OPERATION ALLIES WELCOME (REFUGE) - O21R",
+   "id": "FA805121F0060",
+   "kind": "contracts",
+   "outlays": 330417440.3,
+   "recipient": "FLUOR INTERCONTINENTAL, INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_FA805121F0060_9700_FA805120D0004_9700"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 334122398.59,
+   "description": "FLIGHT OPERATIONS SUPPORT, 71ST FLYING TRAINING WING, VANCE AFB, OK",
+   "id": "FA300221F0119",
+   "kind": "contracts",
+   "outlays": 108451772.89,
+   "recipient": "AMENTUM SERVICES, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_FA300221F0119_9700_FA300220D0010_9700"
+  }
+ ],
+ "codes": [
+  {
+   "code": "2",
+   "designation": "Emergency"
+  }
+ ],
+ "funding_by_code": {
+  "2": 6864028000.0
+ },
+ "law": "117-70",
+ "overview": {
+  "award_obligations": 1535551101.7,
+  "award_outlays": 1026755822.23,
+  "budget_authority": 6864028000.0,
+  "total_obligations": 6028424818.08,
+  "total_outlays": 5490669018.44
+ },
+ "shared_codes": [],
+ "source": "https://api.usaspending.gov/api/v2/disaster/overview/?def_codes=2"
+}

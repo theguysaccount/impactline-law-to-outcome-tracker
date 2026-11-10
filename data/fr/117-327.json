@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Justice Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-05-13",
+ "last": "2026-05-13",
+ "latest": [
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-05-13",
+   "k": "Notice",
+   "n": "2026-09522",
+   "t": "Privacy Act of 1974; Systems of Records",
+   "u": "https://www.federalregister.gov/documents/2026/05/13/2026-09522/privacy-act-of-1974-systems-of-records"
+  }
+ ],
+ "law": "117-327",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-327%22+%7C+%22Pub.+L.+117-327%22+%7C+%22P.L.+117-327%22&order=newest",
+ "term": "\"Public Law 117-327\" | \"Pub. L. 117-327\" | \"P.L. 117-327\"",
+ "total": 1
+}

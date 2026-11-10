@@ -1,0 +1,63 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   2
+  ],
+  [
+   "Fish and Wildlife Service",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2023": 2
+ },
+ "complete": true,
+ "first": "2023-03-20",
+ "last": "2023-06-12",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2023-06-12",
+   "k": "Rule",
+   "n": "2023-12636",
+   "t": "Regulations To Implement the Big Cat Public Safety Act",
+   "u": "https://www.federalregister.gov/documents/2023/06/12/2023-12636/regulations-to-implement-the-big-cat-public-safety-act"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2023-03-20",
+   "k": "Notice",
+   "n": "2023-05590",
+   "t": "Agency Information Collection Activities; Big Cat Public Safety Act Registration",
+   "u": "https://www.federalregister.gov/documents/2023/03/20/2023-05590/agency-information-collection-activities-big-cat-public-safety-act-registration"
+  }
+ ],
+ "law": "117-243",
+ "rules": [
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2023-06-12",
+   "k": "Rule",
+   "n": "2023-12636",
+   "t": "Regulations To Implement the Big Cat Public Safety Act",
+   "u": "https://www.federalregister.gov/documents/2023/06/12/2023-12636/regulations-to-implement-the-big-cat-public-safety-act"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-243%22+%7C+%22Pub.+L.+117-243%22+%7C+%22P.L.+117-243%22&order=newest",
+ "term": "\"Public Law 117-243\" | \"Pub. L. 117-243\" | \"P.L. 117-243\"",
+ "total": 2
+}

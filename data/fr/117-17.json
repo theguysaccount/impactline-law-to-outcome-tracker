@@ -1,0 +1,198 @@
+{
+ "agencies": [
+  [
+   "Securities and Exchange Commission",
+   20
+  ],
+  [
+   "Commerce Department",
+   6
+  ],
+  [
+   "International Trade Administration",
+   6
+  ],
+  [
+   "Consumer Financial Protection Bureau",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 26,
+  "Rule": 1
+ },
+ "by_year": {
+  "2021": 27
+ },
+ "complete": true,
+ "first": "2021-06-25",
+ "last": "2021-12-23",
+ "latest": [
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-23",
+   "k": "Notice",
+   "n": "2021-27921",
+   "t": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/12/23/2021-27921/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-23",
+   "k": "Notice",
+   "n": "2021-27820",
+   "t": "Self-Regulatory Organizations; Cboe EDGA Exchange, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/12/23/2021-27820/self-regulatory-organizations-cboe-edga-exchange-inc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-23",
+   "k": "Notice",
+   "n": "2021-27817",
+   "t": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/12/23/2021-27817/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-23",
+   "k": "Notice",
+   "n": "2021-27809",
+   "t": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/12/23/2021-27809/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-22",
+   "k": "Notice",
+   "n": "2021-27658",
+   "t": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/12/22/2021-27658/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-22",
+   "k": "Notice",
+   "n": "2021-27657",
+   "t": "Self-Regulatory Organizations; Cboe C2 Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/12/22/2021-27657/self-regulatory-organizations-cboe-c2-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-08",
+   "k": "Notice",
+   "n": "2021-26529",
+   "t": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/12/08/2021-26529/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-07",
+   "k": "Notice",
+   "n": "2021-26455",
+   "t": "Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Make Juneteenth National Independence Day a Holiday of the Exchange in Rule 11.110 (Hours of Trading and Trading Days)",
+   "u": "https://www.federalregister.gov/documents/2021/12/07/2021-26455/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-and-immediate"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-03",
+   "k": "Notice",
+   "n": "2021-26242",
+   "t": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Include Juneteenth National Independence Day as a Holiday",
+   "u": "https://www.federalregister.gov/documents/2021/12/03/2021-26242/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-12-03",
+   "k": "Notice",
+   "n": "2021-26240",
+   "t": "Self-Regulatory Organizations; Nasdaq PHLX LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Establish Juneteenth National Independence Day as an Exchange Holiday and Give the Exchange the Authority To Halt or Suspend Trading or Close Exchange Facilities for Certain Unanti",
+   "u": "https://www.federalregister.gov/documents/2021/12/03/2021-26240/self-regulatory-organizations-nasdaq-phlx-llc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-11-18",
+   "k": "Notice",
+   "n": "2021-25128",
+   "t": "Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/11/18/2021-25128/self-regulatory-organizations-investors-exchange-llc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-11-03",
+   "k": "Notice",
+   "n": "2021-23934",
+   "t": "Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change by MIAX Emerald, LLC To Amend Exchange Rule 501, Days and Hours of Business, To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/11/03/2021-23934/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-11-03",
+   "k": "Notice",
+   "n": "2021-23933",
+   "t": "Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change by Miami International Securities Exchange, LLC To Amend Exchange Rule 501, Days and Hours of Business To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/11/03/2021-23933/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-11-03",
+   "k": "Notice",
+   "n": "2021-23932",
+   "t": "Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change by MIAX PEARL, LLC To Amend Exchange Rule 501, Days and Hours of Business, To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/11/03/2021-23932/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-a-proposed-rule-change"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2021-11-03",
+   "k": "Notice",
+   "n": "2021-23920",
+   "t": "Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Make Juneteenth National Independence Day a Holiday of the Exchange",
+   "u": "https://www.federalregister.gov/documents/2021/11/03/2021-23920/self-regulatory-organizations-box-exchange-llc-notice-of-filing-and-immediate-effectiveness-of"
+  }
+ ],
+ "law": "117-17",
+ "rules": [
+  {
+   "a": [
+    "Consumer Financial Protection Bureau"
+   ],
+   "d": "2021-08-12",
+   "k": "Rule",
+   "n": "2021-17050",
+   "t": "Truth in Lending (Regulation Z); Impact of the 2021 Juneteenth Holiday on Certain Closed-End Mortgage Requirements",
+   "u": "https://www.federalregister.gov/documents/2021/08/12/2021-17050/truth-in-lending-regulation-z-impact-of-the-2021-juneteenth-holiday-on-certain-closed-end-mortgage"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-17%22+%7C+%22Pub.+L.+117-17%22+%7C+%22P.L.+117-17%22&order=newest",
+ "term": "\"Public Law 117-17\" | \"Pub. L. 117-17\" | \"P.L. 117-17\"",
+ "total": 27
+}

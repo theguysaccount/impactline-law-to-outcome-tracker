@@ -1,0 +1,139 @@
+{
+ "agencies": [
+  [
+   "Consumer Product Safety Commission",
+   6
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 3,
+  "Rule": 2
+ },
+ "by_year": {
+  "2023": 3,
+  "2024": 2,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2023-02-09",
+ "last": "2026-02-24",
+ "latest": [
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2026-02-24",
+   "k": "Notice",
+   "n": "2026-03655",
+   "t": "Withdrawal of Final Guidance for Estimating Value per Statistical Life",
+   "u": "https://www.federalregister.gov/documents/2026/02/24/2026-03655/withdrawal-of-final-guidance-for-estimating-value-per-statistical-life"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2024-08-13",
+   "k": "Proposed Rule",
+   "n": "2024-17472",
+   "t": "Safety Standard for Toys: Requirements for Toys Containing Button Cell or Coin Cell Batteries",
+   "u": "https://www.federalregister.gov/documents/2024/08/13/2024-17472/safety-standard-for-toys-requirements-for-toys-containing-button-cell-or-coin-cell-batteries"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2024-01-29",
+   "k": "Proposed Rule",
+   "n": "2024-01235",
+   "t": "Petition Requesting Rulemaking To Amend the Requirement for a “Keep Out of Reach” Icon on Button Cell or Coin Battery Packaging",
+   "u": "https://www.federalregister.gov/documents/2024/01/29/2024-01235/petition-requesting-rulemaking-to-amend-the-requirement-for-a-keep-out-of-reach-icon-on-button-cell"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-09-21",
+   "k": "Rule",
+   "n": "2023-20334",
+   "t": "Safety Standard for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+   "u": "https://www.federalregister.gov/documents/2023/09/21/2023-20334/safety-standard-for-button-cell-or-coin-batteries-and-consumer-products-containing-such-batteries"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-09-21",
+   "k": "Rule",
+   "n": "2023-20333",
+   "t": "Safety Standard for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+   "u": "https://www.federalregister.gov/documents/2023/09/21/2023-20333/safety-standard-for-button-cell-or-coin-batteries-and-consumer-products-containing-such-batteries"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-02-09",
+   "k": "Proposed Rule",
+   "n": "2023-02356",
+   "t": "Safety Standard and Notification Requirements for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+   "u": "https://www.federalregister.gov/documents/2023/02/09/2023-02356/safety-standard-and-notification-requirements-for-button-cell-or-coin-batteries-and-consumer"
+  }
+ ],
+ "law": "117-171",
+ "rules": [
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2024-08-13",
+   "k": "Proposed Rule",
+   "n": "2024-17472",
+   "t": "Safety Standard for Toys: Requirements for Toys Containing Button Cell or Coin Cell Batteries",
+   "u": "https://www.federalregister.gov/documents/2024/08/13/2024-17472/safety-standard-for-toys-requirements-for-toys-containing-button-cell-or-coin-cell-batteries"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2024-01-29",
+   "k": "Proposed Rule",
+   "n": "2024-01235",
+   "t": "Petition Requesting Rulemaking To Amend the Requirement for a “Keep Out of Reach” Icon on Button Cell or Coin Battery Packaging",
+   "u": "https://www.federalregister.gov/documents/2024/01/29/2024-01235/petition-requesting-rulemaking-to-amend-the-requirement-for-a-keep-out-of-reach-icon-on-button-cell"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-09-21",
+   "k": "Rule",
+   "n": "2023-20334",
+   "t": "Safety Standard for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+   "u": "https://www.federalregister.gov/documents/2023/09/21/2023-20334/safety-standard-for-button-cell-or-coin-batteries-and-consumer-products-containing-such-batteries"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-09-21",
+   "k": "Rule",
+   "n": "2023-20333",
+   "t": "Safety Standard for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+   "u": "https://www.federalregister.gov/documents/2023/09/21/2023-20333/safety-standard-for-button-cell-or-coin-batteries-and-consumer-products-containing-such-batteries"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-02-09",
+   "k": "Proposed Rule",
+   "n": "2023-02356",
+   "t": "Safety Standard and Notification Requirements for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+   "u": "https://www.federalregister.gov/documents/2023/02/09/2023-02356/safety-standard-and-notification-requirements-for-button-cell-or-coin-batteries-and-consumer"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-171%22+%7C+%22Pub.+L.+117-171%22+%7C+%22P.L.+117-171%22&order=newest",
+ "term": "\"Public Law 117-171\" | \"Pub. L. 117-171\" | \"P.L. 117-171\"",
+ "total": 6
+}

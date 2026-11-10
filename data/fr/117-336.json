@@ -1,0 +1,50 @@
+{
+ "agencies": [
+  [
+   "State Department",
+   1
+  ],
+  [
+   "Executive Office of the President",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Presidential Document": 1
+ },
+ "by_year": {
+  "2024": 1,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2024-08-06",
+ "last": "2026-11-02",
+ "latest": [
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-11-02",
+   "k": "Notice",
+   "n": "2026-22248",
+   "t": "Notice of Department of State Sanctions Actions",
+   "u": "https://www.federalregister.gov/documents/2026/11/02/2026-22248/notice-of-department-of-state-sanctions-actions"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2024-08-06",
+   "k": "Presidential Document",
+   "n": "2024-17569",
+   "t": "Delegation of Functions and Authorities Under the Protecting American Intellectual Property Act of 2022",
+   "u": "https://www.federalregister.gov/documents/2024/08/06/2024-17569/delegation-of-functions-and-authorities-under-the-protecting-american-intellectual-property-act-of"
+  }
+ ],
+ "law": "117-336",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-336%22+%7C+%22Pub.+L.+117-336%22+%7C+%22P.L.+117-336%22&order=newest",
+ "term": "\"Public Law 117-336\" | \"Pub. L. 117-336\" | \"P.L. 117-336\"",
+ "total": 2
+}

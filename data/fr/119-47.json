@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Land Management Bureau",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-02-25",
+ "last": "2026-02-25",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Land Management Bureau"
+   ],
+   "d": "2026-02-25",
+   "k": "Notice",
+   "n": "2026-03784",
+   "t": "Notice of Availability of the 2025 Record of Decision for the Final Environmental Impact Statement for the National Petroleum Reserve-Alaska, Integrated Activity Plan",
+   "u": "https://www.federalregister.gov/documents/2026/02/25/2026-03784/notice-of-availability-of-the-2025-record-of-decision-for-the-final-environmental-impact-statement"
+  }
+ ],
+ "law": "119-47",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-47%22+%7C+%22Pub.+L.+119-47%22+%7C+%22P.L.+119-47%22&order=newest",
+ "term": "\"Public Law 119-47\" | \"Pub. L. 119-47\" | \"P.L. 119-47\"",
+ "total": 1
+}

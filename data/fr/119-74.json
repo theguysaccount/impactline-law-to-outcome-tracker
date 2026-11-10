@@ -1,0 +1,172 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   2
+  ],
+  [
+   "Nuclear Regulatory Commission",
+   2
+  ],
+  [
+   "International Trade Commission",
+   2
+  ],
+  [
+   "Justice Department",
+   1
+  ],
+  [
+   "Alcohol, Tobacco, Firearms, and Explosives Bureau",
+   1
+  ],
+  [
+   "Office of the Attorney General",
+   1
+  ],
+  [
+   "Indian Affairs Bureau",
+   1
+  ],
+  [
+   "Fish and Wildlife Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 3,
+  "Proposed Rule": 2,
+  "Rule": 2
+ },
+ "by_year": {
+  "2026": 7
+ },
+ "complete": true,
+ "first": "2026-03-02",
+ "last": "2026-08-20",
+ "latest": [
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau",
+    "Office of the Attorney General"
+   ],
+   "d": "2026-08-20",
+   "k": "Rule",
+   "n": "2026-16981",
+   "t": "Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms",
+   "u": "https://www.federalregister.gov/documents/2026/08/20/2026-16981/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Indian Affairs Bureau"
+   ],
+   "d": "2026-07-30",
+   "k": "Notice",
+   "n": "2026-15360",
+   "t": "Rate Adjustments for Indian Irrigation Projects",
+   "u": "https://www.federalregister.gov/documents/2026/07/30/2026-15360/rate-adjustments-for-indian-irrigation-projects"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2026-07-21",
+   "k": "Proposed Rule",
+   "n": "2026-14638",
+   "t": "Endangered and Threatened Wildlife and Plants; 12-Month Finding for the San Francisco Estuary Distinct Population Segment of White Sturgeon",
+   "u": "https://www.federalregister.gov/documents/2026/07/21/2026-14638/endangered-and-threatened-wildlife-and-plants-12-month-finding-for-the-san-francisco-estuary"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-06-16",
+   "k": "Rule",
+   "n": "2026-12067",
+   "t": "Fee Schedules; Fee Recovery for Fiscal Year 2026",
+   "u": "https://www.federalregister.gov/documents/2026/06/16/2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-03-12",
+   "k": "Proposed Rule",
+   "n": "2026-04823",
+   "t": "Fee Schedules; Fee Recovery for Fiscal Year 2026",
+   "u": "https://www.federalregister.gov/documents/2026/03/12/2026-04823/fee-schedules-fee-recovery-for-fiscal-year-2026"
+  },
+  {
+   "a": [
+    "International Trade Commission"
+   ],
+   "d": "2026-03-02",
+   "k": "Notice",
+   "n": "2026-04103",
+   "t": "Impact on U.S. Industry of China's State Support and Pricing Practices in the Biotechnology Sector",
+   "u": "https://www.federalregister.gov/documents/2026/03/02/2026-04103/impact-on-us-industry-of-chinas-state-support-and-pricing-practices-in-the-biotechnology-sector"
+  },
+  {
+   "a": [
+    "International Trade Commission"
+   ],
+   "d": "2026-03-02",
+   "k": "Notice",
+   "n": "2026-04100",
+   "t": "Effects on the U.S. Economy of Revoking China's Permanent Normal Trade Relations Status",
+   "u": "https://www.federalregister.gov/documents/2026/03/02/2026-04100/effects-on-the-us-economy-of-revoking-chinas-permanent-normal-trade-relations-status"
+  }
+ ],
+ "law": "119-74",
+ "rules": [
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau",
+    "Office of the Attorney General"
+   ],
+   "d": "2026-08-20",
+   "k": "Rule",
+   "n": "2026-16981",
+   "t": "Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms",
+   "u": "https://www.federalregister.gov/documents/2026/08/20/2026-16981/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2026-07-21",
+   "k": "Proposed Rule",
+   "n": "2026-14638",
+   "t": "Endangered and Threatened Wildlife and Plants; 12-Month Finding for the San Francisco Estuary Distinct Population Segment of White Sturgeon",
+   "u": "https://www.federalregister.gov/documents/2026/07/21/2026-14638/endangered-and-threatened-wildlife-and-plants-12-month-finding-for-the-san-francisco-estuary"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-06-16",
+   "k": "Rule",
+   "n": "2026-12067",
+   "t": "Fee Schedules; Fee Recovery for Fiscal Year 2026",
+   "u": "https://www.federalregister.gov/documents/2026/06/16/2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-03-12",
+   "k": "Proposed Rule",
+   "n": "2026-04823",
+   "t": "Fee Schedules; Fee Recovery for Fiscal Year 2026",
+   "u": "https://www.federalregister.gov/documents/2026/03/12/2026-04823/fee-schedules-fee-recovery-for-fiscal-year-2026"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-74%22+%7C+%22Pub.+L.+119-74%22+%7C+%22P.L.+119-74%22&order=newest",
+ "term": "\"Public Law 119-74\" | \"Pub. L. 119-74\" | \"P.L. 119-74\"",
+ "total": 7
+}

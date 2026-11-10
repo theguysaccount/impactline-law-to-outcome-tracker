@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Fish and Wildlife Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-05-29",
+ "last": "2024-05-29",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2024-05-29",
+   "k": "Rule",
+   "n": "2024-11254",
+   "t": "Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the Coastal Distinct Population Segment of the Pacific Marten",
+   "u": "https://www.federalregister.gov/documents/2024/05/29/2024-11254/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-coastal"
+  }
+ ],
+ "law": "117-353",
+ "rules": [
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2024-05-29",
+   "k": "Rule",
+   "n": "2024-11254",
+   "t": "Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the Coastal Distinct Population Segment of the Pacific Marten",
+   "u": "https://www.federalregister.gov/documents/2024/05/29/2024-11254/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-coastal"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-353%22+%7C+%22Pub.+L.+117-353%22+%7C+%22P.L.+117-353%22&order=newest",
+ "term": "\"Public Law 117-353\" | \"Pub. L. 117-353\" | \"P.L. 117-353\"",
+ "total": 1
+}

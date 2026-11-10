@@ -1,0 +1,397 @@
+{
+ "agencies": [
+  [
+   "Energy Department",
+   87
+  ],
+  [
+   "Federal Energy Regulatory Commission",
+   84
+  ],
+  [
+   "Labor Department",
+   27
+  ],
+  [
+   "Occupational Safety and Health Administration",
+   26
+  ],
+  [
+   "Agriculture Department",
+   21
+  ],
+  [
+   "Transportation Department",
+   15
+  ],
+  [
+   "Office of the Secretary",
+   15
+  ],
+  [
+   "Health and Human Services Department",
+   14
+  ],
+  [
+   "Interior Department",
+   8
+  ],
+  [
+   "Defense Department",
+   7
+  ],
+  [
+   "Children and Families Administration",
+   6
+  ],
+  [
+   "Nuclear Regulatory Commission",
+   5
+  ]
+ ],
+ "by_type": {
+  "Notice": 106,
+  "Presidential Document": 2,
+  "Proposed Rule": 41,
+  "Rule": 61
+ },
+ "by_year": {
+  "2023": 16,
+  "2024": 71,
+  "2025": 62,
+  "2026": 61
+ },
+ "complete": true,
+ "first": "2023-07-10",
+ "last": "2026-10-15",
+ "latest": [
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-10-15",
+   "k": "Notice",
+   "n": "2026-21073",
+   "t": "Southern Star Central Gas Pipeline, Inc.; Notice of Availability of the Environmental Assessment for the Proposed Viola Project",
+   "u": "https://www.federalregister.gov/documents/2026/10/15/2026-21073/southern-star-central-gas-pipeline-inc-notice-of-availability-of-the-environmental-assessment-for"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-10-08",
+   "k": "Notice",
+   "n": "2026-20581",
+   "t": "Rockies Express Pipeline LLC, Cheyenne Connector, LLC, East Cheyenne Gas Storage, LLC; Notice of Availability of the Environmental Assessment for the Proposed Critical Energy Reliability Link Project",
+   "u": "https://www.federalregister.gov/documents/2026/10/08/2026-20581/rockies-express-pipeline-llc-cheyenne-connector-llc-east-cheyenne-gas-storage-llc-notice-of"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-10-08",
+   "k": "Notice",
+   "n": "2026-20580",
+   "t": "Northern Natural Gas Company; Notice of Availability of the Environmental Assessment for the Proposed Ventura to Farmington A-Line Abandonment and Capacity Replacement Project and Northern Lights 2027 Expansion Project",
+   "u": "https://www.federalregister.gov/documents/2026/10/08/2026-20580/northern-natural-gas-company-notice-of-availability-of-the-environmental-assessment-for-the-proposed"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-09-30",
+   "k": "Notice",
+   "n": "2026-19983",
+   "t": "Sabine Pass Liquefaction, LLC, Sabine Pass Liquefaction Stage V, LLC, Sabine Crossing Pipeline, LLC, Cheniere Creole Trail Pipeline, L.P.; Notice of Availability of the Final Environmental Impact Statement for the Proposed Sabine Pass Stage 5 Expansion Project",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-19983/sabine-pass-liquefaction-llc-sabine-pass-liquefaction-stage-v-llc-sabine-crossing-pipeline-llc"
+  },
+  {
+   "a": [
+    "Postal Service"
+   ],
+   "d": "2026-09-25",
+   "k": "Rule",
+   "n": "2026-19720",
+   "t": "National Environmental Policy Act Implementing Procedures",
+   "u": "https://www.federalregister.gov/documents/2026/09/25/2026-19720/national-environmental-policy-act-implementing-procedures"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-09-23",
+   "k": "Notice",
+   "n": "2026-19447",
+   "t": "Cheniere Corpus Christi Pipeline, LP, Corpus Christi Liquefaction Stage IV, LLC, Corpus Christi Liquefaction, LLC; Notice of Availability of the Draft Environmental Impact Statement for the Proposed Corpus Christi Liquefaction Stage 4 Project and the CCPL Expansion Project",
+   "u": "https://www.federalregister.gov/documents/2026/09/23/2026-19447/cheniere-corpus-christi-pipeline-lp-corpus-christi-liquefaction-stage-iv-llc-corpus-christi"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-09-23",
+   "k": "Notice",
+   "n": "2026-19445",
+   "t": "Kinder Morgan Louisiana Pipeline LLC; Notice of Availability of the Environmental Assessment for the Proposed Texas Access Project",
+   "u": "https://www.federalregister.gov/documents/2026/09/23/2026-19445/kinder-morgan-louisiana-pipeline-llc-notice-of-availability-of-the-environmental-assessment-for-the"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-09-10",
+   "k": "Notice",
+   "n": "2026-18456",
+   "t": "Idaho Power Company; Notice of Availability of the Final Supplemental Environmental Impact Statement for the Hells Canyon Hydroelectric Project",
+   "u": "https://www.federalregister.gov/documents/2026/09/10/2026-18456/idaho-power-company-notice-of-availability-of-the-final-supplemental-environmental-impact-statement"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-09-10",
+   "k": "Notice",
+   "n": "2026-18455",
+   "t": "Transwestern Pipeline Company, LLC; Notice of Availability of the Environmental Assessment for the Proposed Green Chile Project",
+   "u": "https://www.federalregister.gov/documents/2026/09/10/2026-18455/transwestern-pipeline-company-llc-notice-of-availability-of-the-environmental-assessment-for-the"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-09-10",
+   "k": "Notice",
+   "n": "2026-18454",
+   "t": "Natural Gas Pipeline Company of America LLC; Notice of Availability of the Environmental Assessment for the Proposed Texas-Arkansas Power Project",
+   "u": "https://www.federalregister.gov/documents/2026/09/10/2026-18454/natural-gas-pipeline-company-of-america-llc-notice-of-availability-of-the-environmental-assessment"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-09-02",
+   "k": "Notice",
+   "n": "2026-17944",
+   "t": "Forza Pipeline LLC; Notice of Availability of the Environmental Assessment for the Proposed Forza Pipeline Project",
+   "u": "https://www.federalregister.gov/documents/2026/09/02/2026-17944/forza-pipeline-llc-notice-of-availability-of-the-environmental-assessment-for-the-proposed-forza"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Highway Administration",
+    "Federal Railroad Administration"
+   ],
+   "d": "2026-09-01",
+   "k": "Rule",
+   "n": "2026-17904",
+   "t": "National Environmental Policy Act Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/09/01/2026-17904/national-environmental-policy-act-regulations"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-08-26",
+   "k": "Notice",
+   "n": "2026-17399",
+   "t": "Constitution Pipeline Company, LLC, Iroquois Gas Transmission System, L.P.; Notice of Availability of the Environmental Assessment for the Proposed Constitution Pipeline and Wright Interconnect Projects",
+   "u": "https://www.federalregister.gov/documents/2026/08/26/2026-17399/constitution-pipeline-company-llc-iroquois-gas-transmission-system-lp-notice-of-availability-of-the"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16633",
+   "t": "Columbia Gulf Transmission, LLC; Notice of Availability of the Environmental Assessment for the Proposed Maysville Project",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16633/columbia-gulf-transmission-llc-notice-of-availability-of-the-environmental-assessment-for-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16597",
+   "t": "Regulatory Agenda",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16597/regulatory-agenda"
+  }
+ ],
+ "law": "118-5",
+ "rules": [
+  {
+   "a": [
+    "Postal Service"
+   ],
+   "d": "2026-09-25",
+   "k": "Rule",
+   "n": "2026-19720",
+   "t": "National Environmental Policy Act Implementing Procedures",
+   "u": "https://www.federalregister.gov/documents/2026/09/25/2026-19720/national-environmental-policy-act-implementing-procedures"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Highway Administration",
+    "Federal Railroad Administration"
+   ],
+   "d": "2026-09-01",
+   "k": "Rule",
+   "n": "2026-17904",
+   "t": "National Environmental Policy Act Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/09/01/2026-17904/national-environmental-policy-act-regulations"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-07-07",
+   "k": "Proposed Rule",
+   "n": "2026-13687",
+   "t": "Implementation of the National Environmental Policy Act",
+   "u": "https://www.federalregister.gov/documents/2026/07/07/2026-13687/implementation-of-the-national-environmental-policy-act"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-06-25",
+   "k": "Proposed Rule",
+   "n": "2026-12862",
+   "t": "Update of Procedures for Implementing the National Environmental Policy Act and Assessing the Environmental Effects Abroad of EPA Actions",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12862/update-of-procedures-for-implementing-the-national-environmental-policy-act-and-assessing-the"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-06-15",
+   "k": "Rule",
+   "n": "2026-11973",
+   "t": "Implementing Regulation for National Environmental Policy Act (NEPA): Environmental Effects of the Department of Veterans Affairs Actions",
+   "u": "https://www.federalregister.gov/documents/2026/06/15/2026-11973/implementing-regulation-for-national-environmental-policy-act-nepa-environmental-effects-of-the"
+  },
+  {
+   "a": [
+    "Advisory Council on Historic Preservation"
+   ],
+   "d": "2026-06-05",
+   "k": "Rule",
+   "n": "2026-11298",
+   "t": "Rescission of Procedures for Implementing the National Environmental Policy Act (NEPA)",
+   "u": "https://www.federalregister.gov/documents/2026/06/05/2026-11298/rescission-of-procedures-for-implementing-the-national-environmental-policy-act-nepa"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Occupational Safety and Health Administration"
+   ],
+   "d": "2026-04-28",
+   "k": "Rule",
+   "n": "2026-08260",
+   "t": "Open Fires in Marine Terminals",
+   "u": "https://www.federalregister.gov/documents/2026/04/28/2026-08260/open-fires-in-marine-terminals"
+  },
+  {
+   "a": [
+    "Nuclear Regulatory Commission"
+   ],
+   "d": "2026-04-24",
+   "k": "Rule",
+   "n": "2026-08015",
+   "t": "Generic Environmental Impact Statement for Licensing of New Nuclear Reactors",
+   "u": "https://www.federalregister.gov/documents/2026/04/24/2026-08015/generic-environmental-impact-statement-for-licensing-of-new-nuclear-reactors"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Occupational Safety and Health Administration"
+   ],
+   "d": "2026-04-17",
+   "k": "Rule",
+   "n": "2026-07600",
+   "t": "House Falls in Marine Terminals",
+   "u": "https://www.federalregister.gov/documents/2026/04/17/2026-07600/house-falls-in-marine-terminals"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Occupational Safety and Health Administration"
+   ],
+   "d": "2026-04-06",
+   "k": "Proposed Rule",
+   "n": "2026-06578",
+   "t": "Walking-Working Surfaces",
+   "u": "https://www.federalregister.gov/documents/2026/04/06/2026-06578/walking-working-surfaces"
+  },
+  {
+   "a": [
+    "Agriculture Department"
+   ],
+   "d": "2026-04-03",
+   "k": "Rule",
+   "n": "2026-06537",
+   "t": "National Environmental Policy Act",
+   "u": "https://www.federalregister.gov/documents/2026/04/03/2026-06537/national-environmental-policy-act"
+  },
+  {
+   "a": [
+    "Surface Transportation Board"
+   ],
+   "d": "2026-03-25",
+   "k": "Proposed Rule",
+   "n": "2026-05791",
+   "t": "Permitting Reform-Environmental Review Process",
+   "u": "https://www.federalregister.gov/documents/2026/03/25/2026-05791/permitting-reform-environmental-review-process"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-02-24",
+   "k": "Rule",
+   "n": "2026-03708",
+   "t": "National Environmental Policy Act Implementing Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/02/24/2026-03708/national-environmental-policy-act-implementing-regulations"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-02-24",
+   "k": "Proposed Rule",
+   "n": "2026-03657",
+   "t": "Categorical Exclusion Under the National Environmental Policy Act for Certain Terminations or Revocations of Water Power Licenses and Exemptions",
+   "u": "https://www.federalregister.gov/documents/2026/02/24/2026-03657/categorical-exclusion-under-the-national-environmental-policy-act-for-certain-terminations-or"
+  },
+  {
+   "a": [
+    "Tennessee Valley Authority"
+   ],
+   "d": "2026-01-21",
+   "k": "Rule",
+   "n": "2026-01092",
+   "t": "Implementation of the National Environmental Policy Act",
+   "u": "https://www.federalregister.gov/documents/2026/01/21/2026-01092/implementation-of-the-national-environmental-policy-act"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-5%22+%7C+%22Pub.+L.+118-5%22+%7C+%22P.L.+118-5%22&order=newest",
+ "term": "\"Public Law 118-5\" | \"Pub. L. 118-5\" | \"P.L. 118-5\"",
+ "total": 210
+}

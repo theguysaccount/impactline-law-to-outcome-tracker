@@ -1,0 +1,44 @@
+{
+ "agencies": [
+  [
+   "Education Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2023": 2
+ },
+ "complete": true,
+ "first": "2023-07-11",
+ "last": "2023-09-25",
+ "latest": [
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2023-09-25",
+   "k": "Notice",
+   "n": "2023-20616",
+   "t": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Teacher Education Assistance for College and Higher Education Grant Program (TEACH Grant) Agreement To Serve or Repay",
+   "u": "https://www.federalregister.gov/documents/2023/09/25/2023-20616/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2023-07-11",
+   "k": "Notice",
+   "n": "2023-14521",
+   "t": "Agency Information Collection Activities; Comment Request; Teacher Education Assistance for College and Higher Education Grant Program (TEACH Grant) Agreement To Serve or Repay",
+   "u": "https://www.federalregister.gov/documents/2023/07/11/2023-14521/agency-information-collection-activities-comment-request-teacher-education-assistance-for-college"
+  }
+ ],
+ "law": "117-49",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-49%22+%7C+%22Pub.+L.+117-49%22+%7C+%22P.L.+117-49%22&order=newest",
+ "term": "\"Public Law 117-49\" | \"Pub. L. 117-49\" | \"P.L. 117-49\"",
+ "total": 2
+}

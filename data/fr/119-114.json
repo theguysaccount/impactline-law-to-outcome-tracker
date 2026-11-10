@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   2
+  ],
+  [
+   "Engineers Corps",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2009": 1,
+  "2013": 1
+ },
+ "complete": true,
+ "first": "2009-07-06",
+ "last": "2013-05-20",
+ "latest": [
+  {
+   "a": [
+    "Defense Department",
+    "Engineers Corps"
+   ],
+   "d": "2013-05-20",
+   "k": "Notice",
+   "n": "2013-11850",
+   "t": "Intent To Prepare an Environmental Impact Statement for Arctic Deep Draft Ports Navigation Improvements Feasibility Study",
+   "u": "https://www.federalregister.gov/documents/2013/05/20/2013-11850/intent-to-prepare-an-environmental-impact-statement-for-arctic-deep-draft-ports-navigation"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Engineers Corps"
+   ],
+   "d": "2009-07-06",
+   "k": "Notice",
+   "n": "E9-15834",
+   "t": "Intent To Prepare an Environmental Impact Statement for Whittier Harbor Navigation Improvements Feasibility Study",
+   "u": "https://www.federalregister.gov/documents/2009/07/06/E9-15834/intent-to-prepare-an-environmental-impact-statement-for-whittier-harbor-navigation-improvements"
+  }
+ ],
+ "law": "119-114",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-114%22+%7C+%22Pub.+L.+119-114%22+%7C+%22P.L.+119-114%22&order=newest",
+ "term": "\"Public Law 119-114\" | \"Pub. L. 119-114\" | \"P.L. 119-114\"",
+ "total": 2
+}

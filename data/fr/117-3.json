@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Social Security Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2021": 1
+ },
+ "complete": true,
+ "first": "2021-08-27",
+ "last": "2021-08-27",
+ "latest": [
+  {
+   "a": [
+    "Social Security Administration"
+   ],
+   "d": "2021-08-27",
+   "k": "Rule",
+   "n": "2021-18435",
+   "t": "Removing the Waiting Period for Entitlement to Social Security Disability Insurance Benefits for Individuals With Amyotrophic Lateral Sclerosis",
+   "u": "https://www.federalregister.gov/documents/2021/08/27/2021-18435/removing-the-waiting-period-for-entitlement-to-social-security-disability-insurance-benefits-for"
+  }
+ ],
+ "law": "117-3",
+ "rules": [
+  {
+   "a": [
+    "Social Security Administration"
+   ],
+   "d": "2021-08-27",
+   "k": "Rule",
+   "n": "2021-18435",
+   "t": "Removing the Waiting Period for Entitlement to Social Security Disability Insurance Benefits for Individuals With Amyotrophic Lateral Sclerosis",
+   "u": "https://www.federalregister.gov/documents/2021/08/27/2021-18435/removing-the-waiting-period-for-entitlement-to-social-security-disability-insurance-benefits-for"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-3%22+%7C+%22Pub.+L.+117-3%22+%7C+%22P.L.+117-3%22&order=newest",
+ "term": "\"Public Law 117-3\" | \"Pub. L. 117-3\" | \"P.L. 117-3\"",
+ "total": 1
+}

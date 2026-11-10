@@ -1,0 +1,44 @@
+{
+ "agencies": [
+  [
+   "Securities and Exchange Commission",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2022": 2
+ },
+ "complete": true,
+ "first": "2022-05-24",
+ "last": "2022-08-15",
+ "latest": [
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2022-08-15",
+   "k": "Notice",
+   "n": "2022-17429",
+   "t": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Make Technical and Other Non-Substantive Changes Within FINRA Rules",
+   "u": "https://www.federalregister.gov/documents/2022/08/15/2022-17429/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2022-05-24",
+   "k": "Notice",
+   "n": "2022-11062",
+   "t": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend FINRA Rule 13000 Series (Code of Arbitration Procedure for Industry Disputes) To Align the Code With the Ending Forced Arbitration of Sexual A",
+   "u": "https://www.federalregister.gov/documents/2022/05/24/2022-11062/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and"
+  }
+ ],
+ "law": "117-90",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-90%22+%7C+%22Pub.+L.+117-90%22+%7C+%22P.L.+117-90%22&order=newest",
+ "term": "\"Public Law 117-90\" | \"Pub. L. 117-90\" | \"P.L. 117-90\"",
+ "total": 2
+}

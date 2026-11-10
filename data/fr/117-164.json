@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Justice Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2025-01-21",
+ "last": "2025-01-21",
+ "latest": [
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2025-01-21",
+   "k": "Proposed Rule",
+   "n": "2025-01159",
+   "t": "Homicide Victims' Families' Rights Act",
+   "u": "https://www.federalregister.gov/documents/2025/01/21/2025-01159/homicide-victims-families-rights-act"
+  }
+ ],
+ "law": "117-164",
+ "rules": [
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2025-01-21",
+   "k": "Proposed Rule",
+   "n": "2025-01159",
+   "t": "Homicide Victims' Families' Rights Act",
+   "u": "https://www.federalregister.gov/documents/2025/01/21/2025-01159/homicide-victims-families-rights-act"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-164%22+%7C+%22Pub.+L.+117-164%22+%7C+%22P.L.+117-164%22&order=newest",
+ "term": "\"Public Law 117-164\" | \"Pub. L. 117-164\" | \"P.L. 117-164\"",
+ "total": 1
+}

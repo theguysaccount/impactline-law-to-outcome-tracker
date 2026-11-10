@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   1
+  ],
+  [
+   "Transportation Security Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-09-18",
+ "last": "2026-09-18",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "Transportation Security Administration"
+   ],
+   "d": "2026-09-18",
+   "k": "Notice",
+   "n": "2026-19204",
+   "t": "Intent To Request Reinstatement With Revision From OMB of One Previous Public Collection of Information: Law Enforcement Officer (LEO) Reimbursement Request",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19204/intent-to-request-reinstatement-with-revision-from-omb-of-one-previous-public-collection-of"
+  }
+ ],
+ "law": "119-86",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-86%22+%7C+%22Pub.+L.+119-86%22+%7C+%22P.L.+119-86%22&order=newest",
+ "term": "\"Public Law 119-86\" | \"Pub. L. 119-86\" | \"P.L. 119-86\"",
+ "total": 1
+}

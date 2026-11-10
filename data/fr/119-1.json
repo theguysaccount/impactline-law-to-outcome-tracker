@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Justice Department",
+   1
+  ],
+  [
+   "Executive Office for Immigration Review",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2025-08-28",
+ "last": "2025-08-28",
+ "latest": [
+  {
+   "a": [
+    "Justice Department",
+    "Executive Office for Immigration Review"
+   ],
+   "d": "2025-08-28",
+   "k": "Rule",
+   "n": "2025-16573",
+   "t": "Designation of Temporary Immigration Judges",
+   "u": "https://www.federalregister.gov/documents/2025/08/28/2025-16573/designation-of-temporary-immigration-judges"
+  }
+ ],
+ "law": "119-1",
+ "rules": [
+  {
+   "a": [
+    "Justice Department",
+    "Executive Office for Immigration Review"
+   ],
+   "d": "2025-08-28",
+   "k": "Rule",
+   "n": "2025-16573",
+   "t": "Designation of Temporary Immigration Judges",
+   "u": "https://www.federalregister.gov/documents/2025/08/28/2025-16573/designation-of-temporary-immigration-judges"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-1%22+%7C+%22Pub.+L.+119-1%22+%7C+%22P.L.+119-1%22&order=newest",
+ "term": "\"Public Law 119-1\" | \"Pub. L. 119-1\" | \"P.L. 119-1\"",
+ "total": 1
+}

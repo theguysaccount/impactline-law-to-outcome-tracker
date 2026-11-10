@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Treasury Department",
+   1
+  ],
+  [
+   "United States Mint",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-06-10",
+ "last": "2026-06-10",
+ "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "United States Mint"
+   ],
+   "d": "2026-06-10",
+   "k": "Notice",
+   "n": "2026-11646",
+   "t": "Pricing for the FIFA World Cup 2026 TM Commemorative Coin Program and the 2026 Precious Metals Grid",
+   "u": "https://www.federalregister.gov/documents/2026/06/10/2026-11646/pricing-for-the-fifa-world-cup-2026-tm-commemorative-coin-program-and-the-2026-precious-metals-grid"
+  }
+ ],
+ "law": "118-143",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-143%22+%7C+%22Pub.+L.+118-143%22+%7C+%22P.L.+118-143%22&order=newest",
+ "term": "\"Public Law 118-143\" | \"Pub. L. 118-143\" | \"P.L. 118-143\"",
+ "total": 1
+}

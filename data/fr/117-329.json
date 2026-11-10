@@ -1,0 +1,61 @@
+{
+ "agencies": [
+  [
+   "Management and Budget Office",
+   1
+  ],
+  [
+   "Federal Trade Commission",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-06-29",
+ "last": "2024-01-29",
+ "latest": [
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2024-01-29",
+   "k": "Notice",
+   "n": "2024-01706",
+   "t": "Notice; 2023 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2024/01/29/2024-01706/notice-2023-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Federal Trade Commission"
+   ],
+   "d": "2023-06-29",
+   "k": "Proposed Rule",
+   "n": "2023-13511",
+   "t": "Premerger Notification; Reporting and Waiting Period Requirements",
+   "u": "https://www.federalregister.gov/documents/2023/06/29/2023-13511/premerger-notification-reporting-and-waiting-period-requirements"
+  }
+ ],
+ "law": "117-329",
+ "rules": [
+  {
+   "a": [
+    "Federal Trade Commission"
+   ],
+   "d": "2023-06-29",
+   "k": "Proposed Rule",
+   "n": "2023-13511",
+   "t": "Premerger Notification; Reporting and Waiting Period Requirements",
+   "u": "https://www.federalregister.gov/documents/2023/06/29/2023-13511/premerger-notification-reporting-and-waiting-period-requirements"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-329%22+%7C+%22Pub.+L.+117-329%22+%7C+%22P.L.+117-329%22&order=newest",
+ "term": "\"Public Law 117-329\" | \"Pub. L. 117-329\" | \"P.L. 117-329\"",
+ "total": 2
+}

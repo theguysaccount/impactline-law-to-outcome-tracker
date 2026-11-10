@@ -1,0 +1,379 @@
+{
+ "agencies": [
+  [
+   "Treasury Department",
+   11
+  ],
+  [
+   "Securities and Exchange Commission",
+   7
+  ],
+  [
+   "Federal Deposit Insurance Corporation",
+   5
+  ],
+  [
+   "Financial Crimes Enforcement Network",
+   4
+  ],
+  [
+   "Commodity Futures Trading Commission",
+   2
+  ],
+  [
+   "Federal Reserve System",
+   2
+  ],
+  [
+   "Regulatory Information Service Center",
+   1
+  ],
+  [
+   "Internal Revenue Service",
+   1
+  ],
+  [
+   "Foreign Assets Control Office",
+   1
+  ],
+  [
+   "Comptroller of the Currency",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 6,
+  "Proposed Rule": 18,
+  "Rule": 3
+ },
+ "by_year": {
+  "2025": 3,
+  "2026": 24
+ },
+ "complete": true,
+ "first": "2025-08-18",
+ "last": "2026-11-09",
+ "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-11-09",
+   "k": "Proposed Rule",
+   "n": "2026-22809",
+   "t": "Threshold for the Requirement To Collect, Retain, and Transmit Information on Funds Transfers and Transmittals of Funds That Begin or End Outside the United States, and Clarification of the Requirement To Collect, Retain, and Transmit Information on Transactions Involving Convertible Virtual Currenc",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22809/threshold-for-the-requirement-to-collect-retain-and-transmit-information-on-funds-transfers-and"
+  },
+  {
+   "a": [
+    "Commodity Futures Trading Commission"
+   ],
+   "d": "2026-10-13",
+   "k": "Proposed Rule",
+   "n": "2026-20888",
+   "t": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
+   "u": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-10-06",
+   "k": "Proposed Rule",
+   "n": "2026-20466",
+   "t": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
+   "u": "https://www.federalregister.gov/documents/2026/10/06/2026-20466/adviser-and-regulated-fund-custody-rules-crypto-custody-rules"
+  },
+  {
+   "a": [
+    "Treasury Department"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-19966",
+   "t": "Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-19966/forms-and-procedures-for-review-of-state-certifications-by-the-stablecoin-certification-review"
+  },
+  {
+   "a": [
+    "Federal Reserve System"
+   ],
+   "d": "2026-09-29",
+   "k": "Proposed Rule",
+   "n": "2026-19899",
+   "t": "Application Procedures for Board-Supervised Insured Depository Institutions Seeking Approval for a Subsidiary To Issue Payment Stablecoins",
+   "u": "https://www.federalregister.gov/documents/2026/09/29/2026-19899/application-procedures-for-board-supervised-insured-depository-institutions-seeking-approval-for-a"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-09-22",
+   "k": "Notice",
+   "n": "2026-19388",
+   "t": "Order Granting Temporary Conditional Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934, From the Definition of “Exchange” in Section 3(a)(1) of the Exchange Act for the Use of Certain Distributed Ledger Trading Venues for Tokenized NMS Stocks and From the Definiti",
+   "u": "https://www.federalregister.gov/documents/2026/09/22/2026-19388/order-granting-temporary-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-09-18",
+   "k": "Notice",
+   "n": "2026-19148",
+   "t": "Public Company Accounting Oversight Board; Notice of Filing of Proposed Rules on Amendments to QC 1000, A Firm's System of Quality Control, and Related Rule and Forms",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19148/public-company-accounting-oversight-board-notice-of-filing-of-proposed-rules-on-amendments-to-qc"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-09-09",
+   "k": "Notice",
+   "n": "2026-18293",
+   "t": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 0150 (Application of Rules to Exempted Securities Except Municipal Securities), 2165 (Financial Exploitation of Specified Adults) and 4512 (Customer Account I",
+   "u": "https://www.federalregister.gov/documents/2026/09/09/2026-18293/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-08-21",
+   "k": "Proposed Rule",
+   "n": "2026-17183",
+   "t": "Regulation Crypto Assets",
+   "u": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets"
+  },
+  {
+   "a": [
+    "Treasury Department"
+   ],
+   "d": "2026-08-18",
+   "k": "Proposed Rule",
+   "n": "2026-16796",
+   "t": "GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
+   "u": "https://www.federalregister.gov/documents/2026/08/18/2026-16796/genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16603",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Federal Reserve System"
+   ],
+   "d": "2026-07-09",
+   "k": "Proposed Rule",
+   "n": "2026-13919",
+   "t": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
+   "u": "https://www.federalregister.gov/documents/2026/07/09/2026-13919/anti-money-laundering-and-countering-the-financing-of-terrorism-programs"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-06-22",
+   "k": "Proposed Rule",
+   "n": "2026-12460",
+   "t": "Permitted Payment Stablecoin Issuer Customer Identification Program",
+   "u": "https://www.federalregister.gov/documents/2026/06/22/2026-12460/permitted-payment-stablecoin-issuer-customer-identification-program"
+  },
+  {
+   "a": [
+    "Federal Deposit Insurance Corporation"
+   ],
+   "d": "2026-06-05",
+   "k": "Proposed Rule",
+   "n": "2026-11342",
+   "t": "Bank Secrecy Act and Sanctions Compliance Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
+   "u": "https://www.federalregister.gov/documents/2026/06/05/2026-11342/bank-secrecy-act-and-sanctions-compliance-standards-for-fdic-supervised-permitted-payment-stablecoin"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-04-13",
+   "k": "Rule",
+   "n": "2026-07104",
+   "t": "Occupations That Customarily and Regularly Received Tips; Definition of Qualified Tips",
+   "u": "https://www.federalregister.gov/documents/2026/04/13/2026-07104/occupations-that-customarily-and-regularly-received-tips-definition-of-qualified-tips"
+  }
+ ],
+ "law": "119-27",
+ "rules": [
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-11-09",
+   "k": "Proposed Rule",
+   "n": "2026-22809",
+   "t": "Threshold for the Requirement To Collect, Retain, and Transmit Information on Funds Transfers and Transmittals of Funds That Begin or End Outside the United States, and Clarification of the Requirement To Collect, Retain, and Transmit Information on Transactions Involving Convertible Virtual Currenc",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22809/threshold-for-the-requirement-to-collect-retain-and-transmit-information-on-funds-transfers-and"
+  },
+  {
+   "a": [
+    "Commodity Futures Trading Commission"
+   ],
+   "d": "2026-10-13",
+   "k": "Proposed Rule",
+   "n": "2026-20888",
+   "t": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
+   "u": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-10-06",
+   "k": "Proposed Rule",
+   "n": "2026-20466",
+   "t": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
+   "u": "https://www.federalregister.gov/documents/2026/10/06/2026-20466/adviser-and-regulated-fund-custody-rules-crypto-custody-rules"
+  },
+  {
+   "a": [
+    "Treasury Department"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-19966",
+   "t": "Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-19966/forms-and-procedures-for-review-of-state-certifications-by-the-stablecoin-certification-review"
+  },
+  {
+   "a": [
+    "Federal Reserve System"
+   ],
+   "d": "2026-09-29",
+   "k": "Proposed Rule",
+   "n": "2026-19899",
+   "t": "Application Procedures for Board-Supervised Insured Depository Institutions Seeking Approval for a Subsidiary To Issue Payment Stablecoins",
+   "u": "https://www.federalregister.gov/documents/2026/09/29/2026-19899/application-procedures-for-board-supervised-insured-depository-institutions-seeking-approval-for-a"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-08-21",
+   "k": "Proposed Rule",
+   "n": "2026-17183",
+   "t": "Regulation Crypto Assets",
+   "u": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets"
+  },
+  {
+   "a": [
+    "Treasury Department"
+   ],
+   "d": "2026-08-18",
+   "k": "Proposed Rule",
+   "n": "2026-16796",
+   "t": "GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
+   "u": "https://www.federalregister.gov/documents/2026/08/18/2026-16796/genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale"
+  },
+  {
+   "a": [
+    "Federal Reserve System"
+   ],
+   "d": "2026-07-09",
+   "k": "Proposed Rule",
+   "n": "2026-13919",
+   "t": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
+   "u": "https://www.federalregister.gov/documents/2026/07/09/2026-13919/anti-money-laundering-and-countering-the-financing-of-terrorism-programs"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-06-22",
+   "k": "Proposed Rule",
+   "n": "2026-12460",
+   "t": "Permitted Payment Stablecoin Issuer Customer Identification Program",
+   "u": "https://www.federalregister.gov/documents/2026/06/22/2026-12460/permitted-payment-stablecoin-issuer-customer-identification-program"
+  },
+  {
+   "a": [
+    "Federal Deposit Insurance Corporation"
+   ],
+   "d": "2026-06-05",
+   "k": "Proposed Rule",
+   "n": "2026-11342",
+   "t": "Bank Secrecy Act and Sanctions Compliance Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
+   "u": "https://www.federalregister.gov/documents/2026/06/05/2026-11342/bank-secrecy-act-and-sanctions-compliance-standards-for-fdic-supervised-permitted-payment-stablecoin"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-04-13",
+   "k": "Rule",
+   "n": "2026-07104",
+   "t": "Occupations That Customarily and Regularly Received Tips; Definition of Qualified Tips",
+   "u": "https://www.federalregister.gov/documents/2026/04/13/2026-07104/occupations-that-customarily-and-regularly-received-tips-definition-of-qualified-tips"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-04-10",
+   "k": "Proposed Rule",
+   "n": "2026-07033",
+   "t": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
+   "u": "https://www.federalregister.gov/documents/2026/04/10/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs"
+  },
+  {
+   "a": [
+    "Federal Deposit Insurance Corporation"
+   ],
+   "d": "2026-04-10",
+   "k": "Proposed Rule",
+   "n": "2026-06974",
+   "t": "GENIUS Act Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers and Insured Depository Institutions",
+   "u": "https://www.federalregister.gov/documents/2026/04/10/2026-06974/genius-act-requirements-and-standards-for-fdic-supervised-permitted-payment-stablecoin-issuers-and"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Foreign Assets Control Office",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-04-10",
+   "k": "Proposed Rule",
+   "n": "2026-06963",
+   "t": "Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism Program and Sanctions Compliance Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/04/10/2026-06963/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency",
+    "Federal Deposit Insurance Corporation"
+   ],
+   "d": "2026-04-10",
+   "k": "Proposed Rule",
+   "n": "2026-06948",
+   "t": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
+   "u": "https://www.federalregister.gov/documents/2026/04/10/2026-06948/anti-money-laundering-and-countering-the-financing-of-terrorism-programs"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-27%22+%7C+%22Pub.+L.+119-27%22+%7C+%22P.L.+119-27%22&order=newest",
+ "term": "\"Public Law 119-27\" | \"Pub. L. 119-27\" | \"P.L. 119-27\"",
+ "total": 27
+}

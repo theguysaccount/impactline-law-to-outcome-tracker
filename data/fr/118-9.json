@@ -1,0 +1,362 @@
+{
+ "agencies": [
+  [
+   "Federal Communications Commission",
+   148
+  ],
+  [
+   "Securities and Exchange Commission",
+   3
+  ],
+  [
+   "Federal Labor Relations Authority",
+   1
+  ],
+  [
+   "Treasury Department",
+   1
+  ],
+  [
+   "Comptroller of the Currency",
+   1
+  ],
+  [
+   "Federal Reserve System",
+   1
+  ],
+  [
+   "Health and Human Services Department",
+   1
+  ],
+  [
+   "Food and Drug Administration",
+   1
+  ],
+  [
+   "Education Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 2,
+  "Proposed Rule": 150,
+  "Rule": 3
+ },
+ "by_year": {
+  "2023": 9,
+  "2024": 54,
+  "2025": 54,
+  "2026": 38
+ },
+ "complete": true,
+ "first": "2023-10-30",
+ "last": "2026-11-09",
+ "latest": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-11-09",
+   "k": "Proposed Rule",
+   "n": "2026-22833",
+   "t": "Television Broadcasting Services Odessa, Texas",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22833/television-broadcasting-services-odessa-texas"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-26",
+   "k": "Proposed Rule",
+   "n": "2026-21820",
+   "t": "Modernizing the Ability of Consumers To Control Robocalls",
+   "u": "https://www.federalregister.gov/documents/2026/10/26/2026-21820/modernizing-the-ability-of-consumers-to-control-robocalls"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Proposed Rule",
+   "n": "2026-21347",
+   "t": "Modernizing the Commission's National Environmental Policy Act Rules",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21347/modernizing-the-commissions-national-environmental-policy-act-rules"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Proposed Rule",
+   "n": "2026-21260",
+   "t": "Television Broadcasting Services Des Moines, Iowa",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21260/television-broadcasting-services-des-moines-iowa"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-30",
+   "k": "Proposed Rule",
+   "n": "2026-20038",
+   "t": "Television Broadcasting Services Savannah, Georgia",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20038/television-broadcasting-services-savannah-georgia"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-09",
+   "k": "Proposed Rule",
+   "n": "2026-18366",
+   "t": "Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls",
+   "u": "https://www.federalregister.gov/documents/2026/09/09/2026-18366/improving-the-effectiveness-of-the-robocall-mitigation-database-call-authentication-trust-anchor"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-03",
+   "k": "Proposed Rule",
+   "n": "2026-18015",
+   "t": "Television Broadcasting Services Colusa, California",
+   "u": "https://www.federalregister.gov/documents/2026/09/03/2026-18015/television-broadcasting-services-colusa-california"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-31",
+   "k": "Proposed Rule",
+   "n": "2026-17767",
+   "t": "Promoting Telehealth in Rural America",
+   "u": "https://www.federalregister.gov/documents/2026/08/31/2026-17767/promoting-telehealth-in-rural-america"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-31",
+   "k": "Proposed Rule",
+   "n": "2026-17761",
+   "t": "Maximizing Efficiencies in Universal Service Administration",
+   "u": "https://www.federalregister.gov/documents/2026/08/31/2026-17761/maximizing-efficiencies-in-universal-service-administration"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-14",
+   "k": "Proposed Rule",
+   "n": "2026-16590",
+   "t": "FCC To Review E-Rate Program To Ensure Congress's Vision",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16590/fcc-to-review-e-rate-program-to-ensure-congresss-vision"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-11",
+   "k": "Proposed Rule",
+   "n": "2026-16317",
+   "t": "Television Broadcasting Services St. George, Utah",
+   "u": "https://www.federalregister.gov/documents/2026/08/11/2026-16317/television-broadcasting-services-st-george-utah"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-10",
+   "k": "Proposed Rule",
+   "n": "2026-16268",
+   "t": "Television Broadcasting Services Elko, Nevada",
+   "u": "https://www.federalregister.gov/documents/2026/08/10/2026-16268/television-broadcasting-services-elko-nevada"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-07",
+   "k": "Proposed Rule",
+   "n": "2026-16196",
+   "t": "Build America: Eliminating Barriers to Wireline Deployments",
+   "u": "https://www.federalregister.gov/documents/2026/08/07/2026-16196/build-america-eliminating-barriers-to-wireline-deployments"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-03",
+   "k": "Proposed Rule",
+   "n": "2026-15725",
+   "t": "Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15725/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-scheduled"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-07-31",
+   "k": "Proposed Rule",
+   "n": "2026-15600",
+   "t": "Wireless Emergency Alerts; The Emergency Alert System; Modernization of the Nation's Alerting Systems",
+   "u": "https://www.federalregister.gov/documents/2026/07/31/2026-15600/wireless-emergency-alerts-the-emergency-alert-system-modernization-of-the-nations-alerting-systems"
+  }
+ ],
+ "law": "118-9",
+ "rules": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-11-09",
+   "k": "Proposed Rule",
+   "n": "2026-22833",
+   "t": "Television Broadcasting Services Odessa, Texas",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22833/television-broadcasting-services-odessa-texas"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-26",
+   "k": "Proposed Rule",
+   "n": "2026-21820",
+   "t": "Modernizing the Ability of Consumers To Control Robocalls",
+   "u": "https://www.federalregister.gov/documents/2026/10/26/2026-21820/modernizing-the-ability-of-consumers-to-control-robocalls"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Proposed Rule",
+   "n": "2026-21347",
+   "t": "Modernizing the Commission's National Environmental Policy Act Rules",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21347/modernizing-the-commissions-national-environmental-policy-act-rules"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-19",
+   "k": "Proposed Rule",
+   "n": "2026-21260",
+   "t": "Television Broadcasting Services Des Moines, Iowa",
+   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21260/television-broadcasting-services-des-moines-iowa"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-30",
+   "k": "Proposed Rule",
+   "n": "2026-20038",
+   "t": "Television Broadcasting Services Savannah, Georgia",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20038/television-broadcasting-services-savannah-georgia"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-09",
+   "k": "Proposed Rule",
+   "n": "2026-18366",
+   "t": "Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls",
+   "u": "https://www.federalregister.gov/documents/2026/09/09/2026-18366/improving-the-effectiveness-of-the-robocall-mitigation-database-call-authentication-trust-anchor"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-03",
+   "k": "Proposed Rule",
+   "n": "2026-18015",
+   "t": "Television Broadcasting Services Colusa, California",
+   "u": "https://www.federalregister.gov/documents/2026/09/03/2026-18015/television-broadcasting-services-colusa-california"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-31",
+   "k": "Proposed Rule",
+   "n": "2026-17767",
+   "t": "Promoting Telehealth in Rural America",
+   "u": "https://www.federalregister.gov/documents/2026/08/31/2026-17767/promoting-telehealth-in-rural-america"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-31",
+   "k": "Proposed Rule",
+   "n": "2026-17761",
+   "t": "Maximizing Efficiencies in Universal Service Administration",
+   "u": "https://www.federalregister.gov/documents/2026/08/31/2026-17761/maximizing-efficiencies-in-universal-service-administration"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-14",
+   "k": "Proposed Rule",
+   "n": "2026-16590",
+   "t": "FCC To Review E-Rate Program To Ensure Congress's Vision",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16590/fcc-to-review-e-rate-program-to-ensure-congresss-vision"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-11",
+   "k": "Proposed Rule",
+   "n": "2026-16317",
+   "t": "Television Broadcasting Services St. George, Utah",
+   "u": "https://www.federalregister.gov/documents/2026/08/11/2026-16317/television-broadcasting-services-st-george-utah"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-10",
+   "k": "Proposed Rule",
+   "n": "2026-16268",
+   "t": "Television Broadcasting Services Elko, Nevada",
+   "u": "https://www.federalregister.gov/documents/2026/08/10/2026-16268/television-broadcasting-services-elko-nevada"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-07",
+   "k": "Proposed Rule",
+   "n": "2026-16196",
+   "t": "Build America: Eliminating Barriers to Wireline Deployments",
+   "u": "https://www.federalregister.gov/documents/2026/08/07/2026-16196/build-america-eliminating-barriers-to-wireline-deployments"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-03",
+   "k": "Proposed Rule",
+   "n": "2026-15725",
+   "t": "Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15725/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-scheduled"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-07-31",
+   "k": "Proposed Rule",
+   "n": "2026-15600",
+   "t": "Wireless Emergency Alerts; The Emergency Alert System; Modernization of the Nation's Alerting Systems",
+   "u": "https://www.federalregister.gov/documents/2026/07/31/2026-15600/wireless-emergency-alerts-the-emergency-alert-system-modernization-of-the-nations-alerting-systems"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-9%22+%7C+%22Pub.+L.+118-9%22+%7C+%22P.L.+118-9%22&order=newest",
+ "term": "\"Public Law 118-9\" | \"Pub. L. 118-9\" | \"P.L. 118-9\"",
+ "total": 155
+}

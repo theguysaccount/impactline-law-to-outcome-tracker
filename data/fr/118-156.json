@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   1
+  ],
+  [
+   "Federal Motor Carrier Safety Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-05-18",
+ "last": "2026-05-18",
+ "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Motor Carrier Safety Administration"
+   ],
+   "d": "2026-05-18",
+   "k": "Proposed Rule",
+   "n": "2026-09943",
+   "t": "Fees for Commercial Driver's License Information System",
+   "u": "https://www.federalregister.gov/documents/2026/05/18/2026-09943/fees-for-commercial-drivers-license-information-system"
+  }
+ ],
+ "law": "118-156",
+ "rules": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Motor Carrier Safety Administration"
+   ],
+   "d": "2026-05-18",
+   "k": "Proposed Rule",
+   "n": "2026-09943",
+   "t": "Fees for Commercial Driver's License Information System",
+   "u": "https://www.federalregister.gov/documents/2026/05/18/2026-09943/fees-for-commercial-drivers-license-information-system"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-156%22+%7C+%22Pub.+L.+118-156%22+%7C+%22P.L.+118-156%22&order=newest",
+ "term": "\"Public Law 118-156\" | \"Pub. L. 118-156\" | \"P.L. 118-156\"",
+ "total": 1
+}

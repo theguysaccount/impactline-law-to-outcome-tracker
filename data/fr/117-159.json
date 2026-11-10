@@ -1,0 +1,389 @@
+{
+ "agencies": [
+  [
+   "Justice Department",
+   9
+  ],
+  [
+   "Health and Human Services Department",
+   9
+  ],
+  [
+   "Health Resources and Services Administration",
+   7
+  ],
+  [
+   "Alcohol, Tobacco, Firearms, and Explosives Bureau",
+   5
+  ],
+  [
+   "Education Department",
+   4
+  ],
+  [
+   "United States Sentencing Commission",
+   4
+  ],
+  [
+   "Executive Office of the President",
+   2
+  ],
+  [
+   "Regulatory Information Service Center",
+   2
+  ],
+  [
+   "Inspector General Office, Health and Human Services Department",
+   1
+  ],
+  [
+   "Transportation Department",
+   1
+  ],
+  [
+   "Federal Highway Administration",
+   1
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 15,
+  "Presidential Document": 2,
+  "Proposed Rule": 8,
+  "Rule": 7
+ },
+ "by_year": {
+  "2022": 5,
+  "2023": 11,
+  "2024": 14,
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2022-08-02",
+ "last": "2026-10-27",
+ "latest": [
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Rule",
+   "n": "2026-21920",
+   "t": "Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-06",
+   "k": "Proposed Rule",
+   "n": "2026-08919",
+   "t": "Revising Regulations Defining “Engaged in the Business” as a Dealer in Firearms",
+   "u": "https://www.federalregister.gov/documents/2026/05/06/2026-08919/revising-regulations-defining-engaged-in-the-business-as-a-dealer-in-firearms"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-12-12",
+   "k": "Proposed Rule",
+   "n": "2024-28712",
+   "t": "Bipartisan Safer Communities Act of 2022 and Consolidated Appropriations Act of 2022-Implementation Revisions for National Instant Criminal Background Check System (NICS)",
+   "u": "https://www.federalregister.gov/documents/2024/12/12/2024-28712/bipartisan-safer-communities-act-of-2022-and-consolidated-appropriations-act-of-2022-implementation"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-12-12",
+   "k": "Proposed Rule",
+   "n": "2024-28711",
+   "t": "Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers",
+   "u": "https://www.federalregister.gov/documents/2024/12/12/2024-28711/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2024-10-09",
+   "k": "Notice",
+   "n": "2024-23293",
+   "t": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Evaluation of the Maternal and Child Health Bureau Pediatric Mental Health Care Access Program and the Screening and Treatment for Maternal Mental Health and Substance Use Disorders Program",
+   "u": "https://www.federalregister.gov/documents/2024/10/09/2024-23293/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2024-10-02",
+   "k": "Presidential Document",
+   "n": "2024-22938",
+   "t": "Combating Emerging Firearms Threats and Improving School-Based Active-Shooter Drills",
+   "u": "https://www.federalregister.gov/documents/2024/10/02/2024-22938/combating-emerging-firearms-threats-and-improving-school-based-active-shooter-drills"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2024-08-21",
+   "k": "Notice",
+   "n": "2024-18720",
+   "t": "Notice of Supplemental Award; Pediatric Mental Health Care Access Program",
+   "u": "https://www.federalregister.gov/documents/2024/08/21/2024-18720/notice-of-supplemental-award-pediatric-mental-health-care-access-program"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-07-01",
+   "k": "Rule",
+   "n": "2024-14253",
+   "t": "Bipartisan Safer Communities Act-Access to Records of Stolen Firearms in the National Crime Information Center",
+   "u": "https://www.federalregister.gov/documents/2024/07/01/2024-14253/bipartisan-safer-communities-act-access-to-records-of-stolen-firearms-in-the-national-crime"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2024-06-27",
+   "k": "Rule",
+   "n": "2024-13699",
+   "t": "Bipartisan Safer Communities Act Conforming Regulations; Correction",
+   "u": "https://www.federalregister.gov/documents/2024/06/27/2024-13699/bipartisan-safer-communities-act-conforming-regulations-correction"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2024-06-26",
+   "k": "Notice",
+   "n": "2024-14000",
+   "t": "Applications for New Awards; Stronger Connections Technical Assistance and Capacity Building Grant Program",
+   "u": "https://www.federalregister.gov/documents/2024/06/26/2024-14000/applications-for-new-awards-stronger-connections-technical-assistance-and-capacity-building-grant"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2024-05-28",
+   "k": "Notice",
+   "n": "2024-11567",
+   "t": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Evaluation of the Maternal and Child Health Bureau Pediatric Mental Health Care Access Program and the Screening and Treatment for Maternal Mental Health and Substance Use Dis",
+   "u": "https://www.federalregister.gov/documents/2024/05/28/2024-11567/agency-information-collection-activities-proposed-collection-public-comment-request-information"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2024-04-24",
+   "k": "Notice",
+   "n": "2024-08692",
+   "t": "Agency Information Collection Activities: Submission to the Office of Management and Budget for Review and Approval; Public Comment Request; Pediatric Mental Health Care Access Program National Impact Study",
+   "u": "https://www.federalregister.gov/documents/2024/04/24/2024-08692/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2024-04-19",
+   "k": "Rule",
+   "n": "2024-08339",
+   "t": "Bipartisan Safer Communities Act Conforming Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/04/19/2024-08339/bipartisan-safer-communities-act-conforming-regulations"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2024-04-19",
+   "k": "Rule",
+   "n": "2024-07838",
+   "t": "Definition of “Engaged in the Business” as a Dealer in Firearms",
+   "u": "https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00476",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00476/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  }
+ ],
+ "law": "117-159",
+ "rules": [
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Rule",
+   "n": "2026-21920",
+   "t": "Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-06",
+   "k": "Proposed Rule",
+   "n": "2026-08919",
+   "t": "Revising Regulations Defining “Engaged in the Business” as a Dealer in Firearms",
+   "u": "https://www.federalregister.gov/documents/2026/05/06/2026-08919/revising-regulations-defining-engaged-in-the-business-as-a-dealer-in-firearms"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-12-12",
+   "k": "Proposed Rule",
+   "n": "2024-28712",
+   "t": "Bipartisan Safer Communities Act of 2022 and Consolidated Appropriations Act of 2022-Implementation Revisions for National Instant Criminal Background Check System (NICS)",
+   "u": "https://www.federalregister.gov/documents/2024/12/12/2024-28712/bipartisan-safer-communities-act-of-2022-and-consolidated-appropriations-act-of-2022-implementation"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-12-12",
+   "k": "Proposed Rule",
+   "n": "2024-28711",
+   "t": "Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers",
+   "u": "https://www.federalregister.gov/documents/2024/12/12/2024-28711/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check"
+  },
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2024-07-01",
+   "k": "Rule",
+   "n": "2024-14253",
+   "t": "Bipartisan Safer Communities Act-Access to Records of Stolen Firearms in the National Crime Information Center",
+   "u": "https://www.federalregister.gov/documents/2024/07/01/2024-14253/bipartisan-safer-communities-act-access-to-records-of-stolen-firearms-in-the-national-crime"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2024-06-27",
+   "k": "Rule",
+   "n": "2024-13699",
+   "t": "Bipartisan Safer Communities Act Conforming Regulations; Correction",
+   "u": "https://www.federalregister.gov/documents/2024/06/27/2024-13699/bipartisan-safer-communities-act-conforming-regulations-correction"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2024-04-19",
+   "k": "Rule",
+   "n": "2024-08339",
+   "t": "Bipartisan Safer Communities Act Conforming Regulations",
+   "u": "https://www.federalregister.gov/documents/2024/04/19/2024-08339/bipartisan-safer-communities-act-conforming-regulations"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2024-04-19",
+   "k": "Rule",
+   "n": "2024-07838",
+   "t": "Definition of “Engaged in the Business” as a Dealer in Firearms",
+   "u": "https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00476",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00476/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Inspector General Office, Health and Human Services Department"
+   ],
+   "d": "2023-12-29",
+   "k": "Rule",
+   "n": "2023-28775",
+   "t": "Action to Delay Effective Date Consistent With Congressionally Enacted Moratorium",
+   "u": "https://www.federalregister.gov/documents/2023/12/29/2023-28775/action-to-delay-effective-date-consistent-with-congressionally-enacted-moratorium"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2023-09-08",
+   "k": "Proposed Rule",
+   "n": "2023-19177",
+   "t": "Definition of “Engaged in the Business” as a Dealer in Firearms",
+   "u": "https://www.federalregister.gov/documents/2023/09/08/2023-19177/definition-of-engaged-in-the-business-as-a-dealer-in-firearms"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2023-05-18",
+   "k": "Proposed Rule",
+   "n": "2023-10542",
+   "t": "Assistance to States for the Education of Children With Disabilities",
+   "u": "https://www.federalregister.gov/documents/2023/05/18/2023-10542/assistance-to-states-for-the-education-of-children-with-disabilities"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2023-02-22",
+   "k": "Proposed Rule",
+   "n": "2023-02113",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+   "u": "https://www.federalregister.gov/documents/2023/02/22/2023-02113/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2022"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2022-10-04",
+   "k": "Rule",
+   "n": "2022-21633",
+   "t": "Final Priorities, Requirements, and Definitions-Mental Health Service Professional Demonstration Grant Program",
+   "u": "https://www.federalregister.gov/documents/2022/10/04/2022-21633/final-priorities-requirements-and-definitions-mental-health-service-professional-demonstration-grant"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2022-08-02",
+   "k": "Proposed Rule",
+   "n": "2022-16556",
+   "t": "Proposed Priorities, Requirements, and Definitions-Mental Health Service Professional Demonstration Grant Program",
+   "u": "https://www.federalregister.gov/documents/2022/08/02/2022-16556/proposed-priorities-requirements-and-definitions-mental-health-service-professional-demonstration"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-159%22+%7C+%22Pub.+L.+117-159%22+%7C+%22P.L.+117-159%22&order=newest",
+ "term": "\"Public Law 117-159\" | \"Pub. L. 117-159\" | \"P.L. 117-159\"",
+ "total": 32
+}

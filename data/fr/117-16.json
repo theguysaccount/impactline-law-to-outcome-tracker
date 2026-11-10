@@ -1,0 +1,44 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2022": 2
+ },
+ "complete": true,
+ "first": "2022-05-02",
+ "last": "2022-07-11",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2022-07-11",
+   "k": "Notice",
+   "n": "2022-14670",
+   "t": "Agency Information Collection Activity: Veteran Rapid Retraining Assistance Program (VRRAP) 30, 60, 90, 180-Day Experience Survey, and VRRAP Experience Survey After Employment",
+   "u": "https://www.federalregister.gov/documents/2022/07/11/2022-14670/agency-information-collection-activity-veteran-rapid-retraining-assistance-program-vrrap-30-60-90"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2022-05-02",
+   "k": "Notice",
+   "n": "2022-09301",
+   "t": "Agency Information Collection Activity: Veteran Rapid Retraining Assistance Program (VRRAP) 30, 60, 90, 180-Day Experience Survey, and VRRAP Experience Survey After Employment",
+   "u": "https://www.federalregister.gov/documents/2022/05/02/2022-09301/agency-information-collection-activity-veteran-rapid-retraining-assistance-program-vrrap-30-60-90"
+  }
+ ],
+ "law": "117-16",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-16%22+%7C+%22Pub.+L.+117-16%22+%7C+%22P.L.+117-16%22&order=newest",
+ "term": "\"Public Law 117-16\" | \"Pub. L. 117-16\" | \"P.L. 117-16\"",
+ "total": 2
+}

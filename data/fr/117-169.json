@@ -1,0 +1,402 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   81
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   70
+  ],
+  [
+   "Treasury Department",
+   64
+  ],
+  [
+   "Internal Revenue Service",
+   57
+  ],
+  [
+   "Interior Department",
+   27
+  ],
+  [
+   "Agriculture Department",
+   25
+  ],
+  [
+   "Energy Department",
+   24
+  ],
+  [
+   "Office of the Secretary",
+   22
+  ],
+  [
+   "Environmental Protection Agency",
+   17
+  ],
+  [
+   "Ocean Energy Management Bureau",
+   17
+  ],
+  [
+   "Transportation Department",
+   14
+  ],
+  [
+   "Rural Business-Cooperative Service",
+   9
+  ]
+ ],
+ "by_type": {
+  "Notice": 128,
+  "Presidential Document": 7,
+  "Proposed Rule": 70,
+  "Rule": 76
+ },
+ "by_year": {
+  "2022": 31,
+  "2023": 91,
+  "2024": 85,
+  "2025": 44,
+  "2026": 30
+ },
+ "complete": true,
+ "first": "2022-09-07",
+ "last": "2026-11-09",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22792",
+   "t": "Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22792/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-06",
+   "k": "Rule",
+   "n": "2026-22739",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardi",
+   "u": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2026-10-16",
+   "k": "Notice",
+   "n": "2026-21217",
+   "t": "Emissions Value Request Process; Notice of Availability",
+   "u": "https://www.federalregister.gov/documents/2026/10/16/2026-21217/emissions-value-request-process-notice-of-availability"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-10-02",
+   "k": "Rule",
+   "n": "2026-20281",
+   "t": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model",
+   "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20281/global-benchmark-for-efficient-drug-pricing-globe-model"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-19964",
+   "t": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-09-17",
+   "k": "Proposed Rule",
+   "n": "2026-19072",
+   "t": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
+   "u": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-09-17",
+   "k": "Rule",
+   "n": "2026-19071",
+   "t": "Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units",
+   "u": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-09-04",
+   "k": "Notice",
+   "n": "2026-18105",
+   "t": "Publication of Inflation Adjustment Factor and Applicable Amounts for Clean Electricity Production Credit for Calendar Year 2026",
+   "u": "https://www.federalregister.gov/documents/2026/09/04/2026-18105/publication-of-inflation-adjustment-factor-and-applicable-amounts-for-clean-electricity-production"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16597",
+   "t": "Regulatory Agenda",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16597/regulatory-agenda"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-08-04",
+   "k": "Notice",
+   "n": "2026-15728",
+   "t": "Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Fueling Aviation's Sustainable Transition Grant (FAST) Program",
+   "u": "https://www.federalregister.gov/documents/2026/08/04/2026-15728/agency-information-collection-activities-requests-for-comments-clearance-of-a-renewed-approval-of"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2026-08-03",
+   "k": "Notice",
+   "n": "2026-15633",
+   "t": "Notice Regarding 340B Rebate Model Pilot Program",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15633/notice-regarding-340b-rebate-model-pilot-program"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-20",
+   "k": "Notice",
+   "n": "2026-14583",
+   "t": "Medicare Program; Inflation Reduction Act of 2022 (IRA) Medicare Drug Price Negotiation Program Draft Guidance; Comment Request",
+   "u": "https://www.federalregister.gov/documents/2026/07/20/2026-14583/medicare-program-inflation-reduction-act-of-2022-ira-medicare-drug-price-negotiation-program-draft"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-16",
+   "k": "Proposed Rule",
+   "n": "2026-14327",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-07",
+   "k": "Proposed Rule",
+   "n": "2026-13656",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; Including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardi",
+   "u": "https://www.federalregister.gov/documents/2026/07/07/2026-13656/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  }
+ ],
+ "law": "117-169",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22792",
+   "t": "Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22792/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-06",
+   "k": "Rule",
+   "n": "2026-22739",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardi",
+   "u": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-10-02",
+   "k": "Rule",
+   "n": "2026-20281",
+   "t": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model",
+   "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20281/global-benchmark-for-efficient-drug-pricing-globe-model"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-19964",
+   "t": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-09-17",
+   "k": "Proposed Rule",
+   "n": "2026-19072",
+   "t": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
+   "u": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of"
+  },
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-09-17",
+   "k": "Rule",
+   "n": "2026-19071",
+   "t": "Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units",
+   "u": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-16",
+   "k": "Proposed Rule",
+   "n": "2026-14327",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-07",
+   "k": "Proposed Rule",
+   "n": "2026-13656",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; Including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardi",
+   "u": "https://www.federalregister.gov/documents/2026/07/07/2026-13656/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Land Management Bureau"
+   ],
+   "d": "2026-06-24",
+   "k": "Proposed Rule",
+   "n": "2026-12738",
+   "t": "Royalty for Oil and Gas Lost From Onshore Federal and Indian Leases",
+   "u": "https://www.federalregister.gov/documents/2026/06/24/2026-12738/royalty-for-oil-and-gas-lost-from-onshore-federal-and-indian-leases"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-06-16",
+   "k": "Proposed Rule",
+   "n": "2026-12059",
+   "t": "Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program",
+   "u": "https://www.federalregister.gov/documents/2026/06/16/2026-12059/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2026-05-20",
+   "k": "Rule",
+   "n": "2026-10050",
+   "t": "Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program",
+   "u": "https://www.federalregister.gov/documents/2026/05/20/2026-10050/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and"
+  },
+  {
+   "a": [
+    "Interior Department",
+    "Land Management Bureau"
+   ],
+   "d": "2026-04-29",
+   "k": "Rule",
+   "n": "2026-08280",
+   "t": "Revisions to Regulations Regarding Oil and Gas Leasing; Fees, Rentals, and Royalties",
+   "u": "https://www.federalregister.gov/documents/2026/04/29/2026-08280/revisions-to-regulations-regarding-oil-and-gas-leasing-fees-rentals-and-royalties"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-04-13",
+   "k": "Rule",
+   "n": "2026-07088",
+   "t": "Delegations of Authority",
+   "u": "https://www.federalregister.gov/documents/2026/04/13/2026-07088/delegations-of-authority"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-04-06",
+   "k": "Rule",
+   "n": "2026-06600",
+   "t": "Medicare Program; Contract Year 2027 and Certain Contract Year 2026 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program",
+   "u": "https://www.federalregister.gov/documents/2026/04/06/2026-06600/medicare-program-contract-year-2027-and-certain-contract-year-2026-policy-and-technical-changes-to"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-169%22+%7C+%22Pub.+L.+117-169%22+%7C+%22P.L.+117-169%22&order=newest",
+ "term": "\"Public Law 117-169\" | \"Pub. L. 117-169\" | \"P.L. 117-169\"",
+ "total": 281
+}

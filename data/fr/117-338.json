@@ -1,0 +1,330 @@
+{
+ "agencies": [
+  [
+   "Federal Communications Commission",
+   49
+  ]
+ ],
+ "by_type": {
+  "Notice": 13,
+  "Proposed Rule": 19,
+  "Rule": 17
+ },
+ "by_year": {
+  "2023": 10,
+  "2024": 8,
+  "2025": 16,
+  "2026": 15
+ },
+ "complete": true,
+ "first": "2023-03-30",
+ "last": "2026-10-26",
+ "latest": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-26",
+   "k": "Rule",
+   "n": "2026-21821",
+   "t": "Enhancing the Ability of Consumers To Control the Robocalls",
+   "u": "https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-29",
+   "k": "Notice",
+   "n": "2026-19919",
+   "t": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+   "u": "https://www.federalregister.gov/documents/2026/09/29/2026-19919/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-10",
+   "k": "Rule",
+   "n": "2026-18478",
+   "t": "Telecommunications Relay Service ASCII Format Requirement",
+   "u": "https://www.federalregister.gov/documents/2026/09/10/2026-18478/telecommunications-relay-service-ascii-format-requirement"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-09",
+   "k": "Proposed Rule",
+   "n": "2026-18366",
+   "t": "Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls",
+   "u": "https://www.federalregister.gov/documents/2026/09/09/2026-18366/improving-the-effectiveness-of-the-robocall-mitigation-database-call-authentication-trust-anchor"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16615",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16615/unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-07-09",
+   "k": "Proposed Rule",
+   "n": "2026-13874",
+   "t": "Enhancing Know-Your-Upstream-Provider Requirements and Strengthening STIR/SHAKEN (Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls)",
+   "u": "https://www.federalregister.gov/documents/2026/07/09/2026-13874/enhancing-know-your-upstream-provider-requirements-and-strengthening-stirshaken-call-authentication"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-06-25",
+   "k": "Notice",
+   "n": "2026-12799",
+   "t": "Information Collection Being Reviewed by the Federal Communications Commission",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12799/information-collection-being-reviewed-by-the-federal-communications-commission"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-06-17",
+   "k": "Proposed Rule",
+   "n": "2026-12234",
+   "t": "Wireline Competition Bureau and Office of Economics and Analytics Seek Comment on Proposed 2026 Mandatory Data Collection for Incarcerated People's Communications Services",
+   "u": "https://www.federalregister.gov/documents/2026/06/17/2026-12234/wireline-competition-bureau-and-office-of-economics-and-analytics-seek-comment-on-proposed-2026"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-04-23",
+   "k": "Proposed Rule",
+   "n": "2026-07960",
+   "t": "Improving Customer Service and Protecting Consumers Through Onshoring",
+   "u": "https://www.federalregister.gov/documents/2026/04/23/2026-07960/improving-customer-service-and-protecting-consumers-through-onshoring"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-04-16",
+   "k": "Rule",
+   "n": "2026-07343",
+   "t": "Deleting Obsolete and Duplicative Wireline Rules",
+   "u": "https://www.federalregister.gov/documents/2026/04/16/2026-07343/deleting-obsolete-and-duplicative-wireline-rules"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-04-09",
+   "k": "Rule",
+   "n": "2026-06864",
+   "t": "Modernizing Suspension and Debarment Rules",
+   "u": "https://www.federalregister.gov/documents/2026/04/09/2026-06864/modernizing-suspension-and-debarment-rules"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-03-24",
+   "k": "Proposed Rule",
+   "n": "2026-05727",
+   "t": "Reforming Legacy Rules for an All-IP Future; Accelerating Network Modernization",
+   "u": "https://www.federalregister.gov/documents/2026/03/24/2026-05727/reforming-legacy-rules-for-an-all-ip-future-accelerating-network-modernization"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-03-17",
+   "k": "Proposed Rule",
+   "n": "2026-05213",
+   "t": "Internet-Based Telecommunications Relay Service Modernization",
+   "u": "https://www.federalregister.gov/documents/2026/03/17/2026-05213/internet-based-telecommunications-relay-service-modernization"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-01-06",
+   "k": "Rule",
+   "n": "2026-00010",
+   "t": "Improving the Effectiveness of the Robocall Mitigation Database; CORES Registration System",
+   "u": "https://www.federalregister.gov/documents/2026/01/06/2026-00010/improving-the-effectiveness-of-the-robocall-mitigation-database-cores-registration-system"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-01-02",
+   "k": "Proposed Rule",
+   "n": "2025-24210",
+   "t": "Analog Telecommunications Relay Service Modernization",
+   "u": "https://www.federalregister.gov/documents/2026/01/02/2025-24210/analog-telecommunications-relay-service-modernization"
+  }
+ ],
+ "law": "117-338",
+ "rules": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-10-26",
+   "k": "Rule",
+   "n": "2026-21821",
+   "t": "Enhancing the Ability of Consumers To Control the Robocalls",
+   "u": "https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-10",
+   "k": "Rule",
+   "n": "2026-18478",
+   "t": "Telecommunications Relay Service ASCII Format Requirement",
+   "u": "https://www.federalregister.gov/documents/2026/09/10/2026-18478/telecommunications-relay-service-ascii-format-requirement"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-09-09",
+   "k": "Proposed Rule",
+   "n": "2026-18366",
+   "t": "Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls",
+   "u": "https://www.federalregister.gov/documents/2026/09/09/2026-18366/improving-the-effectiveness-of-the-robocall-mitigation-database-call-authentication-trust-anchor"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-07-09",
+   "k": "Proposed Rule",
+   "n": "2026-13874",
+   "t": "Enhancing Know-Your-Upstream-Provider Requirements and Strengthening STIR/SHAKEN (Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls)",
+   "u": "https://www.federalregister.gov/documents/2026/07/09/2026-13874/enhancing-know-your-upstream-provider-requirements-and-strengthening-stirshaken-call-authentication"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-06-17",
+   "k": "Proposed Rule",
+   "n": "2026-12234",
+   "t": "Wireline Competition Bureau and Office of Economics and Analytics Seek Comment on Proposed 2026 Mandatory Data Collection for Incarcerated People's Communications Services",
+   "u": "https://www.federalregister.gov/documents/2026/06/17/2026-12234/wireline-competition-bureau-and-office-of-economics-and-analytics-seek-comment-on-proposed-2026"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-04-23",
+   "k": "Proposed Rule",
+   "n": "2026-07960",
+   "t": "Improving Customer Service and Protecting Consumers Through Onshoring",
+   "u": "https://www.federalregister.gov/documents/2026/04/23/2026-07960/improving-customer-service-and-protecting-consumers-through-onshoring"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-04-16",
+   "k": "Rule",
+   "n": "2026-07343",
+   "t": "Deleting Obsolete and Duplicative Wireline Rules",
+   "u": "https://www.federalregister.gov/documents/2026/04/16/2026-07343/deleting-obsolete-and-duplicative-wireline-rules"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-04-09",
+   "k": "Rule",
+   "n": "2026-06864",
+   "t": "Modernizing Suspension and Debarment Rules",
+   "u": "https://www.federalregister.gov/documents/2026/04/09/2026-06864/modernizing-suspension-and-debarment-rules"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-03-24",
+   "k": "Proposed Rule",
+   "n": "2026-05727",
+   "t": "Reforming Legacy Rules for an All-IP Future; Accelerating Network Modernization",
+   "u": "https://www.federalregister.gov/documents/2026/03/24/2026-05727/reforming-legacy-rules-for-an-all-ip-future-accelerating-network-modernization"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-03-17",
+   "k": "Proposed Rule",
+   "n": "2026-05213",
+   "t": "Internet-Based Telecommunications Relay Service Modernization",
+   "u": "https://www.federalregister.gov/documents/2026/03/17/2026-05213/internet-based-telecommunications-relay-service-modernization"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-01-06",
+   "k": "Rule",
+   "n": "2026-00010",
+   "t": "Improving the Effectiveness of the Robocall Mitigation Database; CORES Registration System",
+   "u": "https://www.federalregister.gov/documents/2026/01/06/2026-00010/improving-the-effectiveness-of-the-robocall-mitigation-database-cores-registration-system"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-01-02",
+   "k": "Proposed Rule",
+   "n": "2025-24210",
+   "t": "Analog Telecommunications Relay Service Modernization",
+   "u": "https://www.federalregister.gov/documents/2026/01/02/2025-24210/analog-telecommunications-relay-service-modernization"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-12-05",
+   "k": "Proposed Rule",
+   "n": "2025-22130",
+   "t": "Incarcerated People's Communication Services; Implementation of the Martha Wright-Reed Act; Rates for Interstate Inmate Calling Services",
+   "u": "https://www.federalregister.gov/documents/2025/12/05/2025-22130/incarcerated-peoples-communication-services-implementation-of-the-martha-wright-reed-act-rates-for"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-12-05",
+   "k": "Rule",
+   "n": "2025-22125",
+   "t": "Incarcerated People's Communication Services; Implementation of the Martha Wright-Reed Act; Rates for Interstate Inmate Calling Services",
+   "u": "https://www.federalregister.gov/documents/2025/12/05/2025-22125/incarcerated-peoples-communication-services-implementation-of-the-martha-wright-reed-act-rates-for"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2025-12-05",
+   "k": "Proposed Rule",
+   "n": "2025-22063",
+   "t": "Advanced Methods To Target and Eliminate Robocalls",
+   "u": "https://www.federalregister.gov/documents/2025/12/05/2025-22063/advanced-methods-to-target-and-eliminate-robocalls"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-338%22+%7C+%22Pub.+L.+117-338%22+%7C+%22P.L.+117-338%22&order=newest",
+ "term": "\"Public Law 117-338\" | \"Pub. L. 117-338\" | \"P.L. 117-338\"",
+ "total": 49
+}

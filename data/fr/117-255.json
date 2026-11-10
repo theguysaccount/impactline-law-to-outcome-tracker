@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   2
+  ],
+  [
+   "Federal Emergency Management Agency",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2023-05-26",
+ "last": "2024-12-03",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2024-12-03",
+   "k": "Notice",
+   "n": "2024-28015",
+   "t": "Community Disaster Resilience Zones and the National Risk Index",
+   "u": "https://www.federalregister.gov/documents/2024/12/03/2024-28015/community-disaster-resilience-zones-and-the-national-risk-index"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2023-05-26",
+   "k": "Notice",
+   "n": "2023-11268",
+   "t": "Community Disaster Resilience Zones and the National Risk Index",
+   "u": "https://www.federalregister.gov/documents/2023/05/26/2023-11268/community-disaster-resilience-zones-and-the-national-risk-index"
+  }
+ ],
+ "law": "117-255",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-255%22+%7C+%22Pub.+L.+117-255%22+%7C+%22P.L.+117-255%22&order=newest",
+ "term": "\"Public Law 117-255\" | \"Pub. L. 117-255\" | \"P.L. 117-255\"",
+ "total": 2
+}

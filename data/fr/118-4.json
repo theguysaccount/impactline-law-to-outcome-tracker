@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   1
+  ],
+  [
+   "Health Resources and Services Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2025-12-02",
+ "last": "2025-12-02",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Health Resources and Services Administration"
+   ],
+   "d": "2025-12-02",
+   "k": "Notice",
+   "n": "2025-21742",
+   "t": "Medical Student Education Program Non-Competitive Supplement",
+   "u": "https://www.federalregister.gov/documents/2025/12/02/2025-21742/medical-student-education-program-non-competitive-supplement"
+  }
+ ],
+ "law": "118-4",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-4%22+%7C+%22Pub.+L.+118-4%22+%7C+%22P.L.+118-4%22&order=newest",
+ "term": "\"Public Law 118-4\" | \"Pub. L. 118-4\" | \"P.L. 118-4\"",
+ "total": 1
+}

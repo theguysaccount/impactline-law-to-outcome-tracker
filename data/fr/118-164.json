@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2025-01-30",
+ "last": "2025-01-30",
+ "latest": [
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2025-01-30",
+   "k": "Notice",
+   "n": "2025-01937",
+   "t": "Notice; 2024 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2025/01/30/2025-01937/notice-2024-statutory-pay-as-you-go-act-annual-report"
+  }
+ ],
+ "law": "118-164",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-164%22+%7C+%22Pub.+L.+118-164%22+%7C+%22P.L.+118-164%22&order=newest",
+ "term": "\"Public Law 118-164\" | \"Pub. L. 118-164\" | \"P.L. 118-164\"",
+ "total": 1
+}

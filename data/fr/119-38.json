@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Justice Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-08-27",
+ "last": "2026-08-27",
+ "latest": [
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-08-27",
+   "k": "Notice",
+   "n": "2026-17533",
+   "t": "Report Under Public Law 119-38",
+   "u": "https://www.federalregister.gov/documents/2026/08/27/2026-17533/report-under-public-law-119-38"
+  }
+ ],
+ "law": "119-38",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-38%22+%7C+%22Pub.+L.+119-38%22+%7C+%22P.L.+119-38%22&order=newest",
+ "term": "\"Public Law 119-38\" | \"Pub. L. 119-38\" | \"P.L. 119-38\"",
+ "total": 1
+}

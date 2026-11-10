@@ -1,0 +1,59 @@
+{
+  "_note": "Three pilot program traces carried over from the original ImpactLine (lib/impactline/programs.ts). Each joins a law to a program with two official identifiers: the law's Disaster Emergency Fund Code and the program's Assistance Listing number.",
+  "programs": [
+    {
+      "slug": "clean-school-bus",
+      "name": "Clean School Bus Program",
+      "law": "117-58",
+      "listing": "66.045",
+      "owner": "Environmental Protection Agency",
+      "authority": "IIJA Division G, Title XI, section 71101. EPA can award eligible local recipients directly; state redistribution is not a universal step.",
+      "pilot_state": "CA",
+      "guides": [
+        {"stage": "award", "title": "Identify the recipient and rebate or grant round", "url": "https://www.epa.gov/cleanschoolbus/clean-school-bus-program-awards", "description": "Find the official award and dated project status. Rebate \"Project Complete\" means closeout submitted and can precede EPA approval. Grant exports can repeat totals across school districts."},
+        {"stage": "payment", "title": "Review selection and payment-request requirements", "url": "https://www.epa.gov/cleanschoolbus/clean-school-bus-program-rebates", "description": "For the selected rebate round, check selection, eligible purchase orders, payment request and EPA approval."},
+        {"stage": "outcome", "title": "Verify delivery, charging and old-bus disposition", "url": "https://www.epa.gov/cleanschoolbus/clean-school-bus-rebates-close-out-form", "description": "Rebate closeout requires applicable delivery, charging and old-bus disposition evidence. Submission and approval must be recorded separately."}
+      ],
+      "state_guides": [
+        {"stage": "state", "title": "Check California requirements and separate assistance", "url": "https://ww2.arb.ca.gov/our-work/programs/school-buses/funding-clean-school-buses", "description": "Contextual check: CARB funding streams are separate from EPA awards. Identify applicable local permitting, utility interconnection and state rules for the actual site; this portal does not establish all local requirements."}
+      ],
+      "caution": "A different law also funds clean heavy-duty vehicles. An award is listed here only when Treasury tagged it with the Infrastructure Investment and Jobs Act's own fund code."
+    },
+    {
+      "slug": "bridge-formula",
+      "name": "Bridge Formula Program",
+      "law": "117-58",
+      "listing": "20.263",
+      "owner": "Federal Highway Administration",
+      "authority": "IIJA Division J, Title VIII, Highway Infrastructure Programs. Separate from the competitive Bridge Investment Program.",
+      "pilot_state": "TX",
+      "guides": [
+        {"stage": "authority", "title": "Confirm bridge eligibility and funding source", "url": "https://www.fhwa.dot.gov/bridge/20220114.cfm", "description": "Program guidance: match the bridge and project identifiers to the Bridge Formula Program. A bridge project is not automatically funded by this law."},
+        {"stage": "agency", "title": "Locate program allocations and implementation guidance", "url": "https://www.fhwa.dot.gov/bridge/bfp/", "description": "Federal program records identify the formula program and its implementation materials; project-level expenditure remains a separate question."}
+      ],
+      "state_guides": [
+        {"stage": "state", "title": "Find the project phase in the approved Texas STIP", "url": "https://www.txdot.gov/projects/planning/stip.html", "description": "For applicable federally funded work, verify the project phase in the approved STIP and amendments. Programming is not construction completion."},
+        {"stage": "state", "title": "Verify federal authorization for local-government work", "url": "https://www.txdot.gov/manuals/tpd/lgp/project_initiation/state_letter_of_authority_-i1007621.html", "description": "For this local-government branch, verify Federal Project Authorization and Agreement and the State Letter of Authority before the applicable phase."},
+        {"stage": "award", "title": "Match the TxDOT project identifier", "url": "https://www.txdot.gov/projects/project-tracker.html", "description": "Use official reported status, schedule and funding as leads. A tracker status is not an inspection certificate."},
+        {"stage": "payment", "title": "Collect construction and inspection records", "url": "https://www.txdot.gov/business/resources/lgp/toolkit/process/construction.html", "description": "For local-government projects, seek the executed contract, construction progress and final inspection and acceptance."},
+        {"stage": "outcome", "title": "Reconcile closeout, cost share and final payment", "url": "https://www.txdot.gov/business/resources/lgp/toolkit/process/closeout-maintenance.html", "description": "For the applicable local-government project, collect completion concurrence, cost-share determination, final payment and maintenance requirements."}
+      ],
+      "caution": "Formula highway funds reach projects through state transportation departments. A federal award record to a state is not a record of any one bridge."
+    },
+    {
+      "slug": "middle-mile-broadband",
+      "name": "Enabling Middle Mile Broadband Infrastructure Program",
+      "law": "117-58",
+      "listing": "11.033",
+      "owner": "National Telecommunications and Information Administration",
+      "authority": "IIJA Division F, Title IV, section 60401. This is distinct from BEAD and from separately funded state middle-mile programs.",
+      "pilot_state": "TX",
+      "guides": [
+        {"stage": "award", "title": "Identify the named award and approved network scope", "url": "https://broadbandusa.ntia.gov/funding-programs/enabling-middle-mile-broadband-infrastructure-program", "description": "Match the project to the federal Middle Mile program and confirm the approved network scope and applicable award conditions."},
+        {"stage": "outcome", "title": "Collect financial, technical and location reports", "url": "https://broadbandusa.ntia.gov/sites/default/files/2022-07/Middle-Mile-FAQs_Version-2.0_vF.pdf", "description": "Program guidance describes reporting requirements. The applicable permits and physical completion records must be checked for each project."}
+      ],
+      "state_guides": [],
+      "caution": "State middle-mile programs funded from other sources do not appear here."
+    }
+  ]
+}

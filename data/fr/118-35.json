@@ -1,0 +1,80 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   3
+  ],
+  [
+   "Centers for Disease Control and Prevention",
+   2
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ],
+  [
+   "Community Living Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 4
+ },
+ "by_year": {
+  "2024": 3,
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2024-02-14",
+ "last": "2025-01-30",
+ "latest": [
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2025-01-30",
+   "k": "Notice",
+   "n": "2025-01937",
+   "t": "Notice; 2024 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2025/01/30/2025-01937/notice-2024-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Disease Control and Prevention"
+   ],
+   "d": "2024-09-12",
+   "k": "Notice",
+   "n": "2024-20717",
+   "t": "Agency Forms Undergoing Paperwork Reduction Act Review",
+   "u": "https://www.federalregister.gov/documents/2024/09/12/2024-20717/agency-forms-undergoing-paperwork-reduction-act-review"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Disease Control and Prevention"
+   ],
+   "d": "2024-03-22",
+   "k": "Notice",
+   "n": "2024-06094",
+   "t": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+   "u": "https://www.federalregister.gov/documents/2024/03/22/2024-06094/proposed-data-collection-submitted-for-public-comment-and-recommendations"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Community Living Administration"
+   ],
+   "d": "2024-02-14",
+   "k": "Notice",
+   "n": "2024-03010",
+   "t": "Availability of Program Application Instructions for Adult Protective Services Funding",
+   "u": "https://www.federalregister.gov/documents/2024/02/14/2024-03010/availability-of-program-application-instructions-for-adult-protective-services-funding"
+  }
+ ],
+ "law": "118-35",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-35%22+%7C+%22Pub.+L.+118-35%22+%7C+%22P.L.+118-35%22&order=newest",
+ "term": "\"Public Law 118-35\" | \"Pub. L. 118-35\" | \"P.L. 118-35\"",
+ "total": 4
+}

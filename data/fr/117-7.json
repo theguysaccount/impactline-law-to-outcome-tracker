@@ -1,0 +1,186 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   6
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   6
+  ],
+  [
+   "Office of the Secretary",
+   2
+  ],
+  [
+   "Management and Budget Office",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 3,
+  "Rule": 3
+ },
+ "by_year": {
+  "2021": 4,
+  "2022": 3
+ },
+ "complete": true,
+ "first": "2021-07-23",
+ "last": "2022-11-18",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-11-18",
+   "k": "Rule",
+   "n": "2022-23873",
+   "t": "Medicare and Medicaid Programs; CY 2023 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; Implementing Requirements for Manufacturers of Certain Single-dose Container or Single-use Package Drugs ",
+   "u": "https://www.federalregister.gov/documents/2022/11/18/2022-23873/medicare-and-medicaid-programs-cy-2023-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-07-29",
+   "k": "Proposed Rule",
+   "n": "2022-14562",
+   "t": "Medicare and Medicaid Programs; CY 2023 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; Medicare and Medicaid Provider Enrollment Policies, Including for Skilled Nursing Facilities; Conditions of Payment fo",
+   "u": "https://www.federalregister.gov/documents/2022/07/29/2022-14562/medicare-and-medicaid-programs-cy-2023-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2022-01-26",
+   "k": "Notice",
+   "n": "2022-01516",
+   "t": "Notice; 2021 Statutory Pay-As-You-Go Act Annual Report",
+   "u": "https://www.federalregister.gov/documents/2022/01/26/2022-01516/notice-2021-statutory-pay-as-you-go-act-annual-report"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2021-11-19",
+   "k": "Rule",
+   "n": "2021-23972",
+   "t": "Medicare Program; CY 2022 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; Provider Enrollment Regulation Updates; and Provider and Supplier Prepayment and Post-Payment Medical Review Requirements",
+   "u": "https://www.federalregister.gov/documents/2021/11/19/2021-23972/medicare-program-cy-2022-payment-policies-under-the-physician-fee-schedule-and-other-changes-to-part"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2021-11-16",
+   "k": "Rule",
+   "n": "2021-24011",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Price Transparency of Hospital Standard Charges; Radiation Oncology Model",
+   "u": "https://www.federalregister.gov/documents/2021/11/16/2021-24011/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2021-08-04",
+   "k": "Proposed Rule",
+   "n": "2021-15496",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Price Transparency of Hospital Standard Charges; Radiation Oncology Model; Request for Information on Rural Emergency Hospitals",
+   "u": "https://www.federalregister.gov/documents/2021/08/04/2021-15496/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2021-07-23",
+   "k": "Proposed Rule",
+   "n": "2021-14973",
+   "t": "Medicare Program; CY 2022 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; Provider Enrollment Regulation Updates; Provider and Supplier Prepayment and Post-Payment Medical Review Requirements.",
+   "u": "https://www.federalregister.gov/documents/2021/07/23/2021-14973/medicare-program-cy-2022-payment-policies-under-the-physician-fee-schedule-and-other-changes-to-part"
+  }
+ ],
+ "law": "117-7",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-11-18",
+   "k": "Rule",
+   "n": "2022-23873",
+   "t": "Medicare and Medicaid Programs; CY 2023 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; Implementing Requirements for Manufacturers of Certain Single-dose Container or Single-use Package Drugs ",
+   "u": "https://www.federalregister.gov/documents/2022/11/18/2022-23873/medicare-and-medicaid-programs-cy-2023-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2022-07-29",
+   "k": "Proposed Rule",
+   "n": "2022-14562",
+   "t": "Medicare and Medicaid Programs; CY 2023 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; Medicare and Medicaid Provider Enrollment Policies, Including for Skilled Nursing Facilities; Conditions of Payment fo",
+   "u": "https://www.federalregister.gov/documents/2022/07/29/2022-14562/medicare-and-medicaid-programs-cy-2023-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2021-11-19",
+   "k": "Rule",
+   "n": "2021-23972",
+   "t": "Medicare Program; CY 2022 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; Provider Enrollment Regulation Updates; and Provider and Supplier Prepayment and Post-Payment Medical Review Requirements",
+   "u": "https://www.federalregister.gov/documents/2021/11/19/2021-23972/medicare-program-cy-2022-payment-policies-under-the-physician-fee-schedule-and-other-changes-to-part"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2021-11-16",
+   "k": "Rule",
+   "n": "2021-24011",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Price Transparency of Hospital Standard Charges; Radiation Oncology Model",
+   "u": "https://www.federalregister.gov/documents/2021/11/16/2021-24011/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services",
+    "Office of the Secretary"
+   ],
+   "d": "2021-08-04",
+   "k": "Proposed Rule",
+   "n": "2021-15496",
+   "t": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Price Transparency of Hospital Standard Charges; Radiation Oncology Model; Request for Information on Rural Emergency Hospitals",
+   "u": "https://www.federalregister.gov/documents/2021/08/04/2021-15496/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2021-07-23",
+   "k": "Proposed Rule",
+   "n": "2021-14973",
+   "t": "Medicare Program; CY 2022 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; Provider Enrollment Regulation Updates; Provider and Supplier Prepayment and Post-Payment Medical Review Requirements.",
+   "u": "https://www.federalregister.gov/documents/2021/07/23/2021-14973/medicare-program-cy-2022-payment-policies-under-the-physician-fee-schedule-and-other-changes-to-part"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-7%22+%7C+%22Pub.+L.+117-7%22+%7C+%22P.L.+117-7%22&order=newest",
+ "term": "\"Public Law 117-7\" | \"Pub. L. 117-7\" | \"P.L. 117-7\"",
+ "total": 7
+}

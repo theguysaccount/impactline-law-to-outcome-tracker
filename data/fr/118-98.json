@@ -1,0 +1,86 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   4
+  ],
+  [
+   "U.S. Customs and Border Protection",
+   4
+  ]
+ ],
+ "by_type": {
+  "Notice": 3,
+  "Rule": 1
+ },
+ "by_year": {
+  "2025": 2,
+  "2026": 2
+ },
+ "complete": true,
+ "first": "2025-10-02",
+ "last": "2026-11-06",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "U.S. Customs and Border Protection"
+   ],
+   "d": "2026-11-06",
+   "k": "Rule",
+   "n": "2026-22735",
+   "t": "Heightened Requirements for Foreign Importers of Record",
+   "u": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "U.S. Customs and Border Protection"
+   ],
+   "d": "2026-05-08",
+   "k": "Notice",
+   "n": "2026-09216",
+   "t": "Agency Information Collection Activities; Reinstatement; Customs-Trade Partnership Against Terrorism (CTPAT) and Trade Compliance",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09216/agency-information-collection-activities-reinstatement-customs-trade-partnership-against-terrorism"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "U.S. Customs and Border Protection"
+   ],
+   "d": "2025-11-21",
+   "k": "Notice",
+   "n": "2025-20648",
+   "t": "Asset-Based and Non-Asset-Based Third Party Logistics Customs Trade Partnership Against Terrorism (CTPAT) Program Pilot",
+   "u": "https://www.federalregister.gov/documents/2025/11/21/2025-20648/asset-based-and-non-asset-based-third-party-logistics-customs-trade-partnership-against-terrorism"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "U.S. Customs and Border Protection"
+   ],
+   "d": "2025-10-02",
+   "k": "Notice",
+   "n": "2025-19231",
+   "t": "Agency Information Collection Activities; Reinstatement; Customs-Trade Partnership Against Terrorism (CTPAT) and Trade Compliance",
+   "u": "https://www.federalregister.gov/documents/2025/10/02/2025-19231/agency-information-collection-activities-reinstatement-customs-trade-partnership-against-terrorism"
+  }
+ ],
+ "law": "118-98",
+ "rules": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "U.S. Customs and Border Protection"
+   ],
+   "d": "2026-11-06",
+   "k": "Rule",
+   "n": "2026-22735",
+   "t": "Heightened Requirements for Foreign Importers of Record",
+   "u": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-98%22+%7C+%22Pub.+L.+118-98%22+%7C+%22P.L.+118-98%22&order=newest",
+ "term": "\"Public Law 118-98\" | \"Pub. L. 118-98\" | \"P.L. 118-98\"",
+ "total": 4
+}

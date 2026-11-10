@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Energy Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2025-09-09",
+ "last": "2025-09-09",
+ "latest": [
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2025-09-09",
+   "k": "Rule",
+   "n": "2025-17262",
+   "t": "Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment",
+   "u": "https://www.federalregister.gov/documents/2025/09/09/2025-17262/energy-conservation-program-for-appliance-standards-certification-requirements-labeling-requirements"
+  }
+ ],
+ "law": "119-8",
+ "rules": [
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2025-09-09",
+   "k": "Rule",
+   "n": "2025-17262",
+   "t": "Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment",
+   "u": "https://www.federalregister.gov/documents/2025/09/09/2025-17262/energy-conservation-program-for-appliance-standards-certification-requirements-labeling-requirements"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-8%22+%7C+%22Pub.+L.+119-8%22+%7C+%22P.L.+119-8%22&order=newest",
+ "term": "\"Public Law 119-8\" | \"Pub. L. 119-8\" | \"P.L. 119-8\"",
+ "total": 1
+}

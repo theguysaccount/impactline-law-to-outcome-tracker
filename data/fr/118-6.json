@@ -1,0 +1,44 @@
+{
+ "agencies": [
+  [
+   "Veterans Affairs Department",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2024": 2
+ },
+ "complete": true,
+ "first": "2024-01-08",
+ "last": "2024-10-17",
+ "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-10-17",
+   "k": "Notice",
+   "n": "2024-23878",
+   "t": "Dependency and Indemnity Compensation Cost of Living Adjustments",
+   "u": "https://www.federalregister.gov/documents/2024/10/17/2024-23878/dependency-and-indemnity-compensation-cost-of-living-adjustments"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2024-01-08",
+   "k": "Notice",
+   "n": "2024-00160",
+   "t": "Cost of Living Adjustments for Service-Connected Benefits",
+   "u": "https://www.federalregister.gov/documents/2024/01/08/2024-00160/cost-of-living-adjustments-for-service-connected-benefits"
+  }
+ ],
+ "law": "118-6",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-6%22+%7C+%22Pub.+L.+118-6%22+%7C+%22P.L.+118-6%22&order=newest",
+ "term": "\"Public Law 118-6\" | \"Pub. L. 118-6\" | \"P.L. 118-6\"",
+ "total": 2
+}

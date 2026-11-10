@@ -1,0 +1,93 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   2
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   2
+  ],
+  [
+   "Homeland Security Department",
+   1
+  ],
+  [
+   "Federal Emergency Management Agency",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Rule": 2
+ },
+ "by_year": {
+  "2024": 3
+ },
+ "complete": true,
+ "first": "2024-08-06",
+ "last": "2024-10-09",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2024-10-09",
+   "k": "Notice",
+   "n": "2024-23365",
+   "t": "MSA Delineations Used in FEMA's Grant Programs",
+   "u": "https://www.federalregister.gov/documents/2024/10/09/2024-23365/msa-delineations-used-in-femas-grant-programs"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-08-07",
+   "k": "Rule",
+   "n": "2024-16909",
+   "t": "Medicare Program; FY 2025 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update",
+   "u": "https://www.federalregister.gov/documents/2024/08/07/2024-16909/medicare-program-fy-2025-inpatient-psychiatric-facilities-prospective-payment-system-rate-update"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-08-06",
+   "k": "Rule",
+   "n": "2024-16911",
+   "t": "Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2025 and Updates to the IRF Quality Reporting Program",
+   "u": "https://www.federalregister.gov/documents/2024/08/06/2024-16911/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal"
+  }
+ ],
+ "law": "117-219",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-08-07",
+   "k": "Rule",
+   "n": "2024-16909",
+   "t": "Medicare Program; FY 2025 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update",
+   "u": "https://www.federalregister.gov/documents/2024/08/07/2024-16909/medicare-program-fy-2025-inpatient-psychiatric-facilities-prospective-payment-system-rate-update"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-08-06",
+   "k": "Rule",
+   "n": "2024-16911",
+   "t": "Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2025 and Updates to the IRF Quality Reporting Program",
+   "u": "https://www.federalregister.gov/documents/2024/08/06/2024-16911/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-219%22+%7C+%22Pub.+L.+117-219%22+%7C+%22P.L.+117-219%22&order=newest",
+ "term": "\"Public Law 117-219\" | \"Pub. L. 117-219\" | \"P.L. 117-219\"",
+ "total": 3
+}

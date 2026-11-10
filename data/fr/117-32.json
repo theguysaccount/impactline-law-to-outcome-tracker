@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Treasury Department",
+   1
+  ],
+  [
+   "Bureau of the Fiscal Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1
+ },
+ "by_year": {
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2023-10-31",
+ "last": "2023-10-31",
+ "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "Bureau of the Fiscal Service"
+   ],
+   "d": "2023-10-31",
+   "k": "Proposed Rule",
+   "n": "2023-23314",
+   "t": "Disclosure of Records",
+   "u": "https://www.federalregister.gov/documents/2023/10/31/2023-23314/disclosure-of-records"
+  }
+ ],
+ "law": "117-32",
+ "rules": [
+  {
+   "a": [
+    "Treasury Department",
+    "Bureau of the Fiscal Service"
+   ],
+   "d": "2023-10-31",
+   "k": "Proposed Rule",
+   "n": "2023-23314",
+   "t": "Disclosure of Records",
+   "u": "https://www.federalregister.gov/documents/2023/10/31/2023-23314/disclosure-of-records"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-32%22+%7C+%22Pub.+L.+117-32%22+%7C+%22P.L.+117-32%22&order=newest",
+ "term": "\"Public Law 117-32\" | \"Pub. L. 117-32\" | \"P.L. 117-32\"",
+ "total": 1
+}

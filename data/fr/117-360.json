@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Homeland Security Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-08-11",
+ "last": "2026-08-11",
+ "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-08-11",
+   "k": "Rule",
+   "n": "2026-16319",
+   "t": "Regulatory Changes Required by the Energy Security and Lightering Independence Act of 2022",
+   "u": "https://www.federalregister.gov/documents/2026/08/11/2026-16319/regulatory-changes-required-by-the-energy-security-and-lightering-independence-act-of-2022"
+  }
+ ],
+ "law": "117-360",
+ "rules": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-08-11",
+   "k": "Rule",
+   "n": "2026-16319",
+   "t": "Regulatory Changes Required by the Energy Security and Lightering Independence Act of 2022",
+   "u": "https://www.federalregister.gov/documents/2026/08/11/2026-16319/regulatory-changes-required-by-the-energy-security-and-lightering-independence-act-of-2022"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-360%22+%7C+%22Pub.+L.+117-360%22+%7C+%22P.L.+117-360%22&order=newest",
+ "term": "\"Public Law 117-360\" | \"Pub. L. 117-360\" | \"P.L. 117-360\"",
+ "total": 1
+}

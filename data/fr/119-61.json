@@ -1,0 +1,39 @@
+{
+ "agencies": [
+  [
+   "Interior Department",
+   1
+  ],
+  [
+   "Ocean Energy Management Bureau",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2025": 1
+ },
+ "complete": true,
+ "first": "2025-12-22",
+ "last": "2025-12-22",
+ "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Ocean Energy Management Bureau"
+   ],
+   "d": "2025-12-22",
+   "k": "Notice",
+   "n": "2025-23617",
+   "t": "Alaska Outer Continental Shelf, Cook Inlet Planning Area, Oil and Gas Lease Sale 258",
+   "u": "https://www.federalregister.gov/documents/2025/12/22/2025-23617/alaska-outer-continental-shelf-cook-inlet-planning-area-oil-and-gas-lease-sale-258"
+  }
+ ],
+ "law": "119-61",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-61%22+%7C+%22Pub.+L.+119-61%22+%7C+%22P.L.+119-61%22&order=newest",
+ "term": "\"Public Law 119-61\" | \"Pub. L. 119-61\" | \"P.L. 119-61\"",
+ "total": 1
+}

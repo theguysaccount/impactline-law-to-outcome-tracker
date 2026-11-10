@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   1
+  ],
+  [
+   "Engineers Corps",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-01-08",
+ "last": "2026-01-08",
+ "latest": [
+  {
+   "a": [
+    "Defense Department",
+    "Engineers Corps"
+   ],
+   "d": "2026-01-08",
+   "k": "Rule",
+   "n": "2026-00121",
+   "t": "Reissuance and Modification of Nationwide Permits",
+   "u": "https://www.federalregister.gov/documents/2026/01/08/2026-00121/reissuance-and-modification-of-nationwide-permits"
+  }
+ ],
+ "law": "117-317",
+ "rules": [
+  {
+   "a": [
+    "Defense Department",
+    "Engineers Corps"
+   ],
+   "d": "2026-01-08",
+   "k": "Rule",
+   "n": "2026-00121",
+   "t": "Reissuance and Modification of Nationwide Permits",
+   "u": "https://www.federalregister.gov/documents/2026/01/08/2026-00121/reissuance-and-modification-of-nationwide-permits"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-317%22+%7C+%22Pub.+L.+117-317%22+%7C+%22P.L.+117-317%22&order=newest",
+ "term": "\"Public Law 117-317\" | \"Pub. L. 117-317\" | \"P.L. 117-317\"",
+ "total": 1
+}

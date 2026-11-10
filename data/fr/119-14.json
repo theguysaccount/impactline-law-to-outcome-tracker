@@ -1,0 +1,100 @@
+{
+ "agencies": [
+  [
+   "Transportation Department",
+   2
+  ],
+  [
+   "National Highway Traffic Safety Administration",
+   2
+  ],
+  [
+   "Environmental Protection Agency",
+   1
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 1,
+  "Rule": 2
+ },
+ "by_year": {
+  "2022": 1,
+  "2024": 1,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2022-06-22",
+ "last": "2026-06-22",
+ "latest": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-06-22",
+   "k": "Rule",
+   "n": "2026-12424",
+   "t": "Congressional Review Act Revocation of 2024 Amendments to the National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing",
+   "u": "https://www.federalregister.gov/documents/2026/06/22/2026-12424/congressional-review-act-revocation-of-2024-amendments-to-the-national-emission-standards-for"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29862",
+   "t": "Event Data Recorders",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29862/event-data-recorders"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2022-06-22",
+   "k": "Proposed Rule",
+   "n": "2022-12860",
+   "t": "Event Data Recorders",
+   "u": "https://www.federalregister.gov/documents/2022/06/22/2022-12860/event-data-recorders"
+  }
+ ],
+ "law": "119-14",
+ "rules": [
+  {
+   "a": [
+    "Environmental Protection Agency"
+   ],
+   "d": "2026-06-22",
+   "k": "Rule",
+   "n": "2026-12424",
+   "t": "Congressional Review Act Revocation of 2024 Amendments to the National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing",
+   "u": "https://www.federalregister.gov/documents/2026/06/22/2026-12424/congressional-review-act-revocation-of-2024-amendments-to-the-national-emission-standards-for"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2024-12-18",
+   "k": "Rule",
+   "n": "2024-29862",
+   "t": "Event Data Recorders",
+   "u": "https://www.federalregister.gov/documents/2024/12/18/2024-29862/event-data-recorders"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2022-06-22",
+   "k": "Proposed Rule",
+   "n": "2022-12860",
+   "t": "Event Data Recorders",
+   "u": "https://www.federalregister.gov/documents/2022/06/22/2022-12860/event-data-recorders"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-14%22+%7C+%22Pub.+L.+119-14%22+%7C+%22P.L.+119-14%22&order=newest",
+ "term": "\"Public Law 119-14\" | \"Pub. L. 119-14\" | \"P.L. 119-14\"",
+ "total": 3
+}

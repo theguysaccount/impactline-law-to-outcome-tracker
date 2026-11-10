@@ -1,0 +1,127 @@
+{
+ "agencies": [
+  [
+   "Consumer Product Safety Commission",
+   5
+  ]
+ ],
+ "by_type": {
+  "Proposed Rule": 3,
+  "Rule": 2
+ },
+ "by_year": {
+  "2022": 3,
+  "2023": 2
+ },
+ "complete": true,
+ "first": "2022-07-26",
+ "last": "2023-08-16",
+ "latest": [
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-08-16",
+   "k": "Rule",
+   "n": "2023-17350",
+   "t": "Ban of Inclined Sleepers for Infants",
+   "u": "https://www.federalregister.gov/documents/2023/08/16/2023-17350/ban-of-inclined-sleepers-for-infants"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-08-14",
+   "k": "Rule",
+   "n": "2023-17355",
+   "t": "Ban of Crib Bumpers",
+   "u": "https://www.federalregister.gov/documents/2023/08/14/2023-17355/ban-of-crib-bumpers"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2022-07-26",
+   "k": "Proposed Rule",
+   "n": "2022-15906",
+   "t": "Ban of Crib Bumpers",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15906/ban-of-crib-bumpers"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2022-07-26",
+   "k": "Proposed Rule",
+   "n": "2022-15905",
+   "t": "Safety Standard for Crib Bumpers/Liners; Withdrawal",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15905/safety-standard-for-crib-bumpersliners-withdrawal"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2022-07-26",
+   "k": "Proposed Rule",
+   "n": "2022-15904",
+   "t": "Ban of Inclined Sleepers for Infants",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15904/ban-of-inclined-sleepers-for-infants"
+  }
+ ],
+ "law": "117-126",
+ "rules": [
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-08-16",
+   "k": "Rule",
+   "n": "2023-17350",
+   "t": "Ban of Inclined Sleepers for Infants",
+   "u": "https://www.federalregister.gov/documents/2023/08/16/2023-17350/ban-of-inclined-sleepers-for-infants"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2023-08-14",
+   "k": "Rule",
+   "n": "2023-17355",
+   "t": "Ban of Crib Bumpers",
+   "u": "https://www.federalregister.gov/documents/2023/08/14/2023-17355/ban-of-crib-bumpers"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2022-07-26",
+   "k": "Proposed Rule",
+   "n": "2022-15906",
+   "t": "Ban of Crib Bumpers",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15906/ban-of-crib-bumpers"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2022-07-26",
+   "k": "Proposed Rule",
+   "n": "2022-15905",
+   "t": "Safety Standard for Crib Bumpers/Liners; Withdrawal",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15905/safety-standard-for-crib-bumpersliners-withdrawal"
+  },
+  {
+   "a": [
+    "Consumer Product Safety Commission"
+   ],
+   "d": "2022-07-26",
+   "k": "Proposed Rule",
+   "n": "2022-15904",
+   "t": "Ban of Inclined Sleepers for Infants",
+   "u": "https://www.federalregister.gov/documents/2022/07/26/2022-15904/ban-of-inclined-sleepers-for-infants"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-126%22+%7C+%22Pub.+L.+117-126%22+%7C+%22P.L.+117-126%22&order=newest",
+ "term": "\"Public Law 117-126\" | \"Pub. L. 117-126\" | \"P.L. 117-126\"",
+ "total": 5
+}

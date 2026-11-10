@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "Small Business Administration",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2024": 1
+ },
+ "complete": true,
+ "first": "2024-08-23",
+ "last": "2024-08-23",
+ "latest": [
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2024-08-23",
+   "k": "Rule",
+   "n": "2024-18083",
+   "t": "Business Loan Program Temporary Changes; Paycheck Protection Program-Extension of Lender Records Retention Requirements",
+   "u": "https://www.federalregister.gov/documents/2024/08/23/2024-18083/business-loan-program-temporary-changes-paycheck-protection-program-extension-of-lender-records"
+  }
+ ],
+ "law": "117-166",
+ "rules": [
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2024-08-23",
+   "k": "Rule",
+   "n": "2024-18083",
+   "t": "Business Loan Program Temporary Changes; Paycheck Protection Program-Extension of Lender Records Retention Requirements",
+   "u": "https://www.federalregister.gov/documents/2024/08/23/2024-18083/business-loan-program-temporary-changes-paycheck-protection-program-extension-of-lender-records"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-166%22+%7C+%22Pub.+L.+117-166%22+%7C+%22P.L.+117-166%22&order=newest",
+ "term": "\"Public Law 117-166\" | \"Pub. L. 117-166\" | \"P.L. 117-166\"",
+ "total": 1
+}

@@ -1,0 +1,392 @@
+{
+ "agencies": [
+  [
+   "Commerce Department",
+   50
+  ],
+  [
+   "National Institute of Standards and Technology",
+   37
+  ],
+  [
+   "National Science Foundation",
+   14
+  ],
+  [
+   "National Telecommunications and Information Administration",
+   8
+  ],
+  [
+   "Health and Human Services Department",
+   5
+  ],
+  [
+   "Executive Office of the President",
+   5
+  ],
+  [
+   "Treasury Department",
+   4
+  ],
+  [
+   "Internal Revenue Service",
+   4
+  ],
+  [
+   "National Aeronautics and Space Administration",
+   4
+  ],
+  [
+   "Energy Department",
+   3
+  ],
+  [
+   "Management and Budget Office",
+   3
+  ],
+  [
+   "Education Department",
+   3
+  ]
+ ],
+ "by_type": {
+  "Notice": 74,
+  "Presidential Document": 5,
+  "Proposed Rule": 10,
+  "Rule": 10
+ },
+ "by_year": {
+  "2022": 3,
+  "2023": 49,
+  "2024": 33,
+  "2025": 6,
+  "2026": 8
+ },
+ "complete": true,
+ "first": "2022-10-13",
+ "last": "2026-09-04",
+ "latest": [
+  {
+   "a": [
+    "Commerce Department",
+    "National Institute of Standards and Technology"
+   ],
+   "d": "2026-09-04",
+   "k": "Notice",
+   "n": "2026-18097",
+   "t": "Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Ask CHIPS Information Collection",
+   "u": "https://www.federalregister.gov/documents/2026/09/04/2026-18097/information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "National Institute of Standards and Technology"
+   ],
+   "d": "2026-08-31",
+   "k": "Notice",
+   "n": "2026-17760",
+   "t": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Streamlined Supply Chain Information Collection Request",
+   "u": "https://www.federalregister.gov/documents/2026/08/31/2026-17760/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-07-17",
+   "k": "Rule",
+   "n": "2026-14439",
+   "t": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+   "u": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2026-07-16",
+   "k": "Rule",
+   "n": "2026-14333",
+   "t": "Financial Assistance Regulations-Conflict of Interest and Conflict of Commitment Policy Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14333/financial-assistance-regulations-conflict-of-interest-and-conflict-of-commitment-policy-requirements"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "National Institute of Standards and Technology"
+   ],
+   "d": "2026-04-02",
+   "k": "Notice",
+   "n": "2026-06391",
+   "t": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; ASKCHIPS Information Collection",
+   "u": "https://www.federalregister.gov/documents/2026/04/02/2026-06391/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "National Institute of Standards and Technology"
+   ],
+   "d": "2026-03-19",
+   "k": "Notice",
+   "n": "2026-05389",
+   "t": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; CHIPS Workforce Solution Participant Data Collection",
+   "u": "https://www.federalregister.gov/documents/2026/03/19/2026-05389/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "National Institute of Standards and Technology"
+   ],
+   "d": "2026-02-19",
+   "k": "Rule",
+   "n": "2026-03307",
+   "t": "Eliminating Obsolete Marking Requirements for Toy, Look-Alike, and Imitation Firearms",
+   "u": "https://www.federalregister.gov/documents/2026/02/19/2026-03307/eliminating-obsolete-marking-requirements-for-toy-look-alike-and-imitation-firearms"
+  },
+  {
+   "a": [
+    "Executive Office of the President"
+   ],
+   "d": "2025-08-12",
+   "k": "Presidential Document",
+   "n": "2025-15344",
+   "t": "Improving Oversight of Federal Grantmaking",
+   "u": "https://www.federalregister.gov/documents/2025/08/12/2025-15344/improving-oversight-of-federal-grantmaking"
+  },
+  {
+   "a": [
+    "National Science Foundation"
+   ],
+   "d": "2025-06-20",
+   "k": "Notice",
+   "n": "2025-11374",
+   "t": "Request for Information on Key Technology Focus Areas for the National Science Foundation's Directorate for Technology, Innovation and Partnerships",
+   "u": "https://www.federalregister.gov/documents/2025/06/20/2025-11374/request-for-information-on-key-technology-focus-areas-for-the-national-science-foundations"
+  },
+  {
+   "a": [
+    "National Science Foundation"
+   ],
+   "d": "2025-03-31",
+   "k": "Notice",
+   "n": "2025-05493",
+   "t": "Advisory Committee for Technology, Innovation and Partnerships; Notice of Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/03/31/2025-05493/advisory-committee-for-technology-innovation-and-partnerships-notice-of-meeting"
+  },
+  {
+   "a": [
+    "National Science Foundation"
+   ],
+   "d": "2025-01-28",
+   "k": "Notice",
+   "n": "2025-01780",
+   "t": "Advisory Committee for Technology, Innovation and Partnerships; Notice of Meeting",
+   "u": "https://www.federalregister.gov/documents/2025/01/28/2025-01780/advisory-committee-for-technology-innovation-and-partnerships-notice-of-meeting"
+  },
+  {
+   "a": [
+    "National Science Foundation"
+   ],
+   "d": "2025-01-24",
+   "k": "Notice",
+   "n": "2025-01683",
+   "t": "Request for Comments on the National Science Foundation's Proposed Intellectual Property Options",
+   "u": "https://www.federalregister.gov/documents/2025/01/24/2025-01683/request-for-comments-on-the-national-science-foundations-proposed-intellectual-property-options"
+  },
+  {
+   "a": [
+    "Management and Budget Office"
+   ],
+   "d": "2025-01-15",
+   "k": "Notice",
+   "n": "2025-00727",
+   "t": "Advancing the Domestic Manufacturing of Semiconductors in Commercial Information Technology",
+   "u": "https://www.federalregister.gov/documents/2025/01/15/2025-00727/advancing-the-domestic-manufacturing-of-semiconductors-in-commercial-information-technology"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2024-12-30",
+   "k": "Notice",
+   "n": "2024-30934",
+   "t": "Final Scientific Integrity Policy of the U.S. Department of Health and Human Services",
+   "u": "https://www.federalregister.gov/documents/2024/12/30/2024-30934/final-scientific-integrity-policy-of-the-us-department-of-health-and-human-services"
+  }
+ ],
+ "law": "117-167",
+ "rules": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-07-17",
+   "k": "Rule",
+   "n": "2026-14439",
+   "t": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+   "u": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2026-07-16",
+   "k": "Rule",
+   "n": "2026-14333",
+   "t": "Financial Assistance Regulations-Conflict of Interest and Conflict of Commitment Policy Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14333/financial-assistance-regulations-conflict-of-interest-and-conflict-of-commitment-policy-requirements"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "National Institute of Standards and Technology"
+   ],
+   "d": "2026-02-19",
+   "k": "Rule",
+   "n": "2026-03307",
+   "t": "Eliminating Obsolete Marking Requirements for Toy, Look-Alike, and Imitation Firearms",
+   "u": "https://www.federalregister.gov/documents/2026/02/19/2026-03307/eliminating-obsolete-marking-requirements-for-toy-look-alike-and-imitation-firearms"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Railroad Administration"
+   ],
+   "d": "2024-12-19",
+   "k": "Rule",
+   "n": "2024-30030",
+   "t": "Freight Car Safety Standards Implementing the Infrastructure Investment and Jobs Act",
+   "u": "https://www.federalregister.gov/documents/2024/12/19/2024-30030/freight-car-safety-standards-implementing-the-infrastructure-investment-and-jobs-act"
+  },
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2024-11-25",
+   "k": "Rule",
+   "n": "2024-25810",
+   "t": "Final Scientific Integrity Policy",
+   "u": "https://www.federalregister.gov/documents/2024/11/25/2024-25810/final-scientific-integrity-policy"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2024-10-23",
+   "k": "Rule",
+   "n": "2024-23857",
+   "t": "Advanced Manufacturing Investment Credit Rules Under Sections 48D and 50",
+   "u": "https://www.federalregister.gov/documents/2024/10/23/2024-23857/advanced-manufacturing-investment-credit-rules-under-sections-48d-and-50"
+  },
+  {
+   "a": [
+    "Education Department"
+   ],
+   "d": "2024-04-29",
+   "k": "Rule",
+   "n": "2024-07915",
+   "t": "Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2024/04/29/2024-07915/nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2024-03-11",
+   "k": "Rule",
+   "n": "2024-04605",
+   "t": "Elective Payment of Advanced Manufacturing Investment Credit",
+   "u": "https://www.federalregister.gov/documents/2024/03/11/2024-04605/elective-payment-of-advanced-manufacturing-investment-credit"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2024-02-09",
+   "k": "Proposed Rule",
+   "n": "2024-00476",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023",
+   "u": "https://www.federalregister.gov/documents/2024/02/09/2024-00476/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2024-01-17",
+   "k": "Proposed Rule",
+   "n": "2023-27851",
+   "t": "National Apprenticeship System Enhancements",
+   "u": "https://www.federalregister.gov/documents/2024/01/17/2023-27851/national-apprenticeship-system-enhancements"
+  },
+  {
+   "a": [
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2023-12-21",
+   "k": "Proposed Rule",
+   "n": "2023-27938",
+   "t": "Labor Certification for Permanent Employment of Foreign Workers in the United States; Modernizing Schedule A To Include Consideration of Additional Occupations in Science, Technology, Engineering, and Mathematics (STEM) and Non-STEM Occupations",
+   "u": "https://www.federalregister.gov/documents/2023/12/21/2023-27938/labor-certification-for-permanent-employment-of-foreign-workers-in-the-united-states-modernizing"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2023-10-23",
+   "k": "Proposed Rule",
+   "n": "2023-23381",
+   "t": "Modernizing H-1B Requirements, Providing Flexibility in the F-1 Program, and Program Improvements Affecting Other Nonimmigrant Workers",
+   "u": "https://www.federalregister.gov/documents/2023/10/23/2023-23381/modernizing-h-1b-requirements-providing-flexibility-in-the-f-1-program-and-program-improvements"
+  },
+  {
+   "a": [
+    "National Science Foundation"
+   ],
+   "d": "2023-08-01",
+   "k": "Rule",
+   "n": "2023-16009",
+   "t": "NSF Federal Cyber Scholarship-for-Service Program (CyberCorps® SFS)",
+   "u": "https://www.federalregister.gov/documents/2023/08/01/2023-16009/nsf-federal-cyber-scholarship-for-service-program-cybercorps-sfs"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2023-06-21",
+   "k": "Proposed Rule",
+   "n": "2023-12800",
+   "t": "Elective Payment of Advanced Manufacturing Investment Credit",
+   "u": "https://www.federalregister.gov/documents/2023/06/21/2023-12800/elective-payment-of-advanced-manufacturing-investment-credit"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-167%22+%7C+%22Pub.+L.+117-167%22+%7C+%22P.L.+117-167%22&order=newest",
+ "term": "\"Public Law 117-167\" | \"Pub. L. 117-167\" | \"P.L. 117-167\"",
+ "total": 99
+}

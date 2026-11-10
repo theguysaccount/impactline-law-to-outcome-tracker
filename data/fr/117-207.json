@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Administrative Conference of the United States",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2023": 1
+ },
+ "complete": true,
+ "first": "2023-07-03",
+ "last": "2023-07-03",
+ "latest": [
+  {
+   "a": [
+    "Administrative Conference of the United States"
+   ],
+   "d": "2023-07-03",
+   "k": "Notice",
+   "n": "2023-14069",
+   "t": "Adoption of Recommendations",
+   "u": "https://www.federalregister.gov/documents/2023/07/03/2023-14069/adoption-of-recommendations"
+  }
+ ],
+ "law": "117-207",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-207%22+%7C+%22Pub.+L.+117-207%22+%7C+%22P.L.+117-207%22&order=newest",
+ "term": "\"Public Law 117-207\" | \"Pub. L. 117-207\" | \"P.L. 117-207\"",
+ "total": 1
+}

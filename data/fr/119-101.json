@@ -1,0 +1,106 @@
+{
+ "agencies": [
+  [
+   "Housing and Urban Development Department",
+   2
+  ],
+  [
+   "Energy Department",
+   1
+  ],
+  [
+   "Treasury Department",
+   1
+  ],
+  [
+   "Comptroller of the Currency",
+   1
+  ],
+  [
+   "Federal Reserve System",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 2,
+  "Rule": 2
+ },
+ "by_year": {
+  "2026": 4
+ },
+ "complete": true,
+ "first": "2026-08-10",
+ "last": "2026-09-23",
+ "latest": [
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-09-23",
+   "k": "Notice",
+   "n": "2026-19458",
+   "t": "Notice of HUD Vacant Loan Sales (HVLS 2027-1)",
+   "u": "https://www.federalregister.gov/documents/2026/09/23/2026-19458/notice-of-hud-vacant-loan-sales-hvls-2027-1"
+  },
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2026-09-18",
+   "k": "Rule",
+   "n": "2026-19154",
+   "t": "Energy Conservation Program: Energy Conservation Standards for Manufactured Housing",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19154/energy-conservation-program-energy-conservation-standards-for-manufactured-housing"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency",
+    "Federal Reserve System"
+   ],
+   "d": "2026-09-14",
+   "k": "Rule",
+   "n": "2026-18766",
+   "t": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
+   "u": "https://www.federalregister.gov/documents/2026/09/14/2026-18766/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-08-10",
+   "k": "Notice",
+   "n": "2026-16242",
+   "t": "Second Notice of HUD Non-Vacant Loan Sale (HNVLS 2026-1)",
+   "u": "https://www.federalregister.gov/documents/2026/08/10/2026-16242/second-notice-of-hud-non-vacant-loan-sale-hnvls-2026-1"
+  }
+ ],
+ "law": "119-101",
+ "rules": [
+  {
+   "a": [
+    "Energy Department"
+   ],
+   "d": "2026-09-18",
+   "k": "Rule",
+   "n": "2026-19154",
+   "t": "Energy Conservation Program: Energy Conservation Standards for Manufactured Housing",
+   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19154/energy-conservation-program-energy-conservation-standards-for-manufactured-housing"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency",
+    "Federal Reserve System"
+   ],
+   "d": "2026-09-14",
+   "k": "Rule",
+   "n": "2026-18766",
+   "t": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
+   "u": "https://www.federalregister.gov/documents/2026/09/14/2026-18766/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-101%22+%7C+%22Pub.+L.+119-101%22+%7C+%22P.L.+119-101%22&order=newest",
+ "term": "\"Public Law 119-101\" | \"Pub. L. 119-101\" | \"P.L. 119-101\"",
+ "total": 4
+}

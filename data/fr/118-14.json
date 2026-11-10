@@ -1,0 +1,90 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   2
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   2
+  ],
+  [
+   "Regulatory Information Service Center",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1,
+  "Proposed Rule": 1,
+  "Rule": 1
+ },
+ "by_year": {
+  "2024": 2,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2024-05-17",
+ "last": "2026-08-14",
+ "latest": [
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16603",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-12-04",
+   "k": "Rule",
+   "n": "2024-27841",
+   "t": "Medicare Program; Alternative Payment Model Updates and the Increasing Organ Transplant Access (IOTA) Model",
+   "u": "https://www.federalregister.gov/documents/2024/12/04/2024-27841/medicare-program-alternative-payment-model-updates-and-the-increasing-organ-transplant-access-iota"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-05-17",
+   "k": "Proposed Rule",
+   "n": "2024-09989",
+   "t": "Medicare Program; Alternative Payment Model Updates and the Increasing Organ Transplant Access (IOTA) Model",
+   "u": "https://www.federalregister.gov/documents/2024/05/17/2024-09989/medicare-program-alternative-payment-model-updates-and-the-increasing-organ-transplant-access-iota"
+  }
+ ],
+ "law": "118-14",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-12-04",
+   "k": "Rule",
+   "n": "2024-27841",
+   "t": "Medicare Program; Alternative Payment Model Updates and the Increasing Organ Transplant Access (IOTA) Model",
+   "u": "https://www.federalregister.gov/documents/2024/12/04/2024-27841/medicare-program-alternative-payment-model-updates-and-the-increasing-organ-transplant-access-iota"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2024-05-17",
+   "k": "Proposed Rule",
+   "n": "2024-09989",
+   "t": "Medicare Program; Alternative Payment Model Updates and the Increasing Organ Transplant Access (IOTA) Model",
+   "u": "https://www.federalregister.gov/documents/2024/05/17/2024-09989/medicare-program-alternative-payment-model-updates-and-the-increasing-organ-transplant-access-iota"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-14%22+%7C+%22Pub.+L.+118-14%22+%7C+%22P.L.+118-14%22&order=newest",
+ "term": "\"Public Law 118-14\" | \"Pub. L. 118-14\" | \"P.L. 118-14\"",
+ "total": 3
+}

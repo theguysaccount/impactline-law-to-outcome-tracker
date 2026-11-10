@@ -1,0 +1,34 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   1
+  ]
+ ],
+ "by_type": {
+  "Notice": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-07-24",
+ "last": "2026-07-24",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department"
+   ],
+   "d": "2026-07-24",
+   "k": "Notice",
+   "n": "2026-15045",
+   "t": "HHS Request for Comment on the Update to the National Plan To Address Alzheimer's Disease",
+   "u": "https://www.federalregister.gov/documents/2026/07/24/2026-15045/hhs-request-for-comment-on-the-update-to-the-national-plan-to-address-alzheimers-disease"
+  }
+ ],
+ "law": "118-92",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-92%22+%7C+%22Pub.+L.+118-92%22+%7C+%22P.L.+118-92%22&order=newest",
+ "term": "\"Public Law 118-92\" | \"Pub. L. 118-92\" | \"P.L. 118-92\"",
+ "total": 1
+}

@@ -1,0 +1,403 @@
+{
+ "agencies": [
+  [
+   "Health and Human Services Department",
+   55
+  ],
+  [
+   "Education Department",
+   43
+  ],
+  [
+   "Homeland Security Department",
+   30
+  ],
+  [
+   "Centers for Medicare & Medicaid Services",
+   24
+  ],
+  [
+   "Agriculture Department",
+   19
+  ],
+  [
+   "Transportation Department",
+   19
+  ],
+  [
+   "Housing and Urban Development Department",
+   18
+  ],
+  [
+   "Labor Department",
+   14
+  ],
+  [
+   "Food and Drug Administration",
+   12
+  ],
+  [
+   "Justice Department",
+   11
+  ],
+  [
+   "Office of the Secretary",
+   9
+  ],
+  [
+   "Employment and Training Administration",
+   8
+  ]
+ ],
+ "by_type": {
+  "Notice": 135,
+  "Presidential Document": 3,
+  "Proposed Rule": 54,
+  "Rule": 54
+ },
+ "by_year": {
+  "2022": 91,
+  "2023": 69,
+  "2024": 46,
+  "2025": 19,
+  "2026": 21
+ },
+ "complete": true,
+ "first": "2022-04-06",
+ "last": "2026-11-09",
+ "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-20016",
+   "t": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau",
+    "Office of the Attorney General"
+   ],
+   "d": "2026-08-20",
+   "k": "Rule",
+   "n": "2026-16981",
+   "t": "Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms",
+   "u": "https://www.federalregister.gov/documents/2026/08/20/2026-16981/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16605",
+   "t": "Unified Agenda of Federal Regulatory and Deregulatory Actions",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16605/unified-agenda-of-federal-regulatory-and-deregulatory-actions"
+  },
+  {
+   "a": [
+    "Regulatory Information Service Center"
+   ],
+   "d": "2026-08-14",
+   "k": "Notice",
+   "n": "2026-16603",
+   "t": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-08-04",
+   "k": "Notice",
+   "n": "2026-15796",
+   "t": "30-Day Notice of Proposed Information Collection: Management Review for Multifamily Housing Projects",
+   "u": "https://www.federalregister.gov/documents/2026/08/04/2026-15796/30-day-notice-of-proposed-information-collection-management-review-for-multifamily-housing-projects"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-08-03",
+   "k": "Rule",
+   "n": "2026-15686",
+   "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-16",
+   "k": "Proposed Rule",
+   "n": "2026-14327",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-07-02",
+   "k": "Proposed Rule",
+   "n": "2026-13392",
+   "t": "EB-5 Reform and Integrity Act of 2022; Ensuring the Integrity of the EB-5 Program; Automatic Revocation of Petitions for Immigrant Classification",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13392/eb-5-reform-and-integrity-act-of-2022-ensuring-the-integrity-of-the-eb-5-program-automatic"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Community Development Financial Institutions Fund"
+   ],
+   "d": "2026-06-30",
+   "k": "Notice",
+   "n": "2026-13200",
+   "t": "Funding Opportunities: Small Dollar Loan Program: FY 2026 Funding Round",
+   "u": "https://www.federalregister.gov/documents/2026/06/30/2026-13200/funding-opportunities-small-dollar-loan-program-fy-2026-funding-round"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "National Institutes of Health"
+   ],
+   "d": "2026-06-16",
+   "k": "Notice",
+   "n": "2026-12106",
+   "t": "Submission for OMB Review; 30-Day Comment Request; NIH Extramural Harassment Web Form (Office of the Director, Office of Extramural Research)",
+   "u": "https://www.federalregister.gov/documents/2026/06/16/2026-12106/submission-for-omb-review-30-day-comment-request-nih-extramural-harassment-web-form-office-of-the"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-08",
+   "k": "Proposed Rule",
+   "n": "2026-09182",
+   "t": "Revising Firearms Transaction Record, “Form 4473”",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09182/revising-firearms-transaction-record-form-4473"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-05-06",
+   "k": "Proposed Rule",
+   "n": "2026-08826",
+   "t": "Modification of Certain Terminology in Title 21",
+   "u": "https://www.federalregister.gov/documents/2026/05/06/2026-08826/modification-of-certain-terminology-in-title-21"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-04-28",
+   "k": "Proposed Rule",
+   "n": "2026-08244",
+   "t": "Equal Access to Housing in HUD Programs Revisions",
+   "u": "https://www.federalregister.gov/documents/2026/04/28/2026-08244/equal-access-to-housing-in-hud-programs-revisions"
+  }
+ ],
+ "law": "117-103",
+ "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-09",
+   "k": "Rule",
+   "n": "2026-22743",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-09-30",
+   "k": "Rule",
+   "n": "2026-20016",
+   "t": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
+   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau",
+    "Office of the Attorney General"
+   ],
+   "d": "2026-08-20",
+   "k": "Rule",
+   "n": "2026-16981",
+   "t": "Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms",
+   "u": "https://www.federalregister.gov/documents/2026/08/20/2026-16981/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-08-03",
+   "k": "Rule",
+   "n": "2026-15686",
+   "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-07-16",
+   "k": "Proposed Rule",
+   "n": "2026-14327",
+   "t": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-07-02",
+   "k": "Proposed Rule",
+   "n": "2026-13392",
+   "t": "EB-5 Reform and Integrity Act of 2022; Ensuring the Integrity of the EB-5 Program; Automatic Revocation of Petitions for Immigrant Classification",
+   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13392/eb-5-reform-and-integrity-act-of-2022-ensuring-the-integrity-of-the-eb-5-program-automatic"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Justice Department",
+    "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+   ],
+   "d": "2026-05-08",
+   "k": "Proposed Rule",
+   "n": "2026-09182",
+   "t": "Revising Firearms Transaction Record, “Form 4473”",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09182/revising-firearms-transaction-record-form-4473"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-05-06",
+   "k": "Proposed Rule",
+   "n": "2026-08826",
+   "t": "Modification of Certain Terminology in Title 21",
+   "u": "https://www.federalregister.gov/documents/2026/05/06/2026-08826/modification-of-certain-terminology-in-title-21"
+  },
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-04-28",
+   "k": "Proposed Rule",
+   "n": "2026-08244",
+   "t": "Equal Access to Housing in HUD Programs Revisions",
+   "u": "https://www.federalregister.gov/documents/2026/04/28/2026-08244/equal-access-to-housing-in-hud-programs-revisions"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-04-06",
+   "k": "Proposed Rule",
+   "n": "2026-06604",
+   "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+   "u": "https://www.federalregister.gov/documents/2026/04/06/2026-06604/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-02-17",
+   "k": "Proposed Rule",
+   "n": "2026-03065",
+   "t": "Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services",
+   "u": "https://www.federalregister.gov/documents/2026/02/17/2026-03065/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "d": "2026-02-03",
+   "k": "Rule",
+   "n": "2026-02131",
+   "t": "Exercise of Time-Limited Authority To Increase the Fiscal Year 2026 Numerical Limitation for the H-2B Temporary Nonagricultural Worker Program",
+   "u": "https://www.federalregister.gov/documents/2026/02/03/2026-02131/exercise-of-time-limited-authority-to-increase-the-fiscal-year-2026-numerical-limitation-for-the"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2025-11-05",
+   "k": "Rule",
+   "n": "2025-19787",
+   "t": "Medicare and Medicaid Programs; CY 2026 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "u": "https://www.federalregister.gov/documents/2025/11/05/2025-19787/medicare-and-medicaid-programs-cy-2026-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2025-10-23",
+   "k": "Proposed Rule",
+   "n": "2025-19642",
+   "t": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
+   "u": "https://www.federalregister.gov/documents/2025/10/23/2025-19642/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-103%22+%7C+%22Pub.+L.+117-103%22+%7C+%22P.L.+117-103%22&order=newest",
+ "term": "\"Public Law 117-103\" | \"Pub. L. 117-103\" | \"P.L. 117-103\"",
+ "total": 246
+}

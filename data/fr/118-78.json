@@ -1,0 +1,45 @@
+{
+ "agencies": [
+  [
+   "United States Sentencing Commission",
+   2
+  ]
+ ],
+ "by_type": {
+  "Notice": 2
+ },
+ "by_year": {
+  "2025": 1,
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2025-12-19",
+ "last": "2026-05-04",
+ "latest": [
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2026-05-04",
+   "k": "Notice",
+   "n": "2026-08647",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2026/05/04/2026-08647/sentencing-guidelines-for-united-states-courts"
+  },
+  {
+   "a": [
+    "United States Sentencing Commission"
+   ],
+   "d": "2025-12-19",
+   "k": "Notice",
+   "n": "2025-23473",
+   "t": "Sentencing Guidelines for United States Courts",
+   "u": "https://www.federalregister.gov/documents/2025/12/19/2025-23473/sentencing-guidelines-for-united-states-courts"
+  }
+ ],
+ "law": "118-78",
+ "rules": [],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-78%22+%7C+%22Pub.+L.+118-78%22+%7C+%22P.L.+118-78%22&order=newest",
+ "term": "\"Public Law 118-78\" | \"Pub. L. 118-78\" | \"P.L. 118-78\"",
+ "total": 2
+}

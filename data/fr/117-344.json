@@ -1,0 +1,108 @@
+{
+ "agencies": [
+  [
+   "Federal Communications Commission",
+   5
+  ]
+ ],
+ "by_type": {
+  "Notice": 2,
+  "Proposed Rule": 1,
+  "Rule": 2
+ },
+ "by_year": {
+  "2023": 1,
+  "2024": 4
+ },
+ "complete": true,
+ "first": "2023-04-14",
+ "last": "2024-05-31",
+ "latest": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-05-31",
+   "k": "Rule",
+   "n": "2024-11493",
+   "t": "Low Power Protection Act",
+   "u": "https://www.federalregister.gov/documents/2024/05/31/2024-11493/low-power-protection-act"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-03-28",
+   "k": "Notice",
+   "n": "2024-06603",
+   "t": "Information Collections Being Submitted for Review and Approval to Office of Management and Budget",
+   "u": "https://www.federalregister.gov/documents/2024/03/28/2024-06603/information-collections-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-01-25",
+   "k": "Notice",
+   "n": "2024-01403",
+   "t": "Information Collections Being Reviewed by the Federal Communications Commission",
+   "u": "https://www.federalregister.gov/documents/2024/01/25/2024-01403/information-collections-being-reviewed-by-the-federal-communications-commission"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-01-10",
+   "k": "Rule",
+   "n": "2023-28619",
+   "t": "Low Power Protection Act",
+   "u": "https://www.federalregister.gov/documents/2024/01/10/2023-28619/low-power-protection-act"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2023-04-14",
+   "k": "Proposed Rule",
+   "n": "2023-07660",
+   "t": "In the Matter of Implementation of the Low Power Protection Act",
+   "u": "https://www.federalregister.gov/documents/2023/04/14/2023-07660/in-the-matter-of-implementation-of-the-low-power-protection-act"
+  }
+ ],
+ "law": "117-344",
+ "rules": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-05-31",
+   "k": "Rule",
+   "n": "2024-11493",
+   "t": "Low Power Protection Act",
+   "u": "https://www.federalregister.gov/documents/2024/05/31/2024-11493/low-power-protection-act"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2024-01-10",
+   "k": "Rule",
+   "n": "2023-28619",
+   "t": "Low Power Protection Act",
+   "u": "https://www.federalregister.gov/documents/2024/01/10/2023-28619/low-power-protection-act"
+  },
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2023-04-14",
+   "k": "Proposed Rule",
+   "n": "2023-07660",
+   "t": "In the Matter of Implementation of the Low Power Protection Act",
+   "u": "https://www.federalregister.gov/documents/2023/04/14/2023-07660/in-the-matter-of-implementation-of-the-low-power-protection-act"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-344%22+%7C+%22Pub.+L.+117-344%22+%7C+%22P.L.+117-344%22&order=newest",
+ "term": "\"Public Law 117-344\" | \"Pub. L. 117-344\" | \"P.L. 117-344\"",
+ "total": 5
+}

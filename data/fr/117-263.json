@@ -1,0 +1,399 @@
+{
+ "agencies": [
+  [
+   "Defense Department",
+   30
+  ],
+  [
+   "Defense Acquisition Regulations System",
+   19
+  ],
+  [
+   "Homeland Security Department",
+   18
+  ],
+  [
+   "Transportation Department",
+   12
+  ],
+  [
+   "Commerce Department",
+   11
+  ],
+  [
+   "Office of the Secretary",
+   10
+  ],
+  [
+   "Coast Guard",
+   10
+  ],
+  [
+   "Executive Office of the President",
+   10
+  ],
+  [
+   "Securities and Exchange Commission",
+   9
+  ],
+  [
+   "National Oceanic and Atmospheric Administration",
+   9
+  ],
+  [
+   "State Department",
+   8
+  ],
+  [
+   "Management and Budget Office",
+   6
+  ]
+ ],
+ "by_type": {
+  "Notice": 25,
+  "Presidential Document": 10,
+  "Proposed Rule": 45,
+  "Rule": 53
+ },
+ "by_year": {
+  "2023": 53,
+  "2024": 55,
+  "2025": 8,
+  "2026": 17
+ },
+ "complete": true,
+ "first": "2023-01-06",
+ "last": "2026-10-27",
+ "latest": [
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Rule",
+   "n": "2026-21923",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency"
+   ],
+   "d": "2026-10-23",
+   "k": "Rule",
+   "n": "2026-21706",
+   "t": "Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency",
+   "u": "https://www.federalregister.gov/documents/2026/10/23/2026-21706/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency"
+   ],
+   "d": "2026-10-23",
+   "k": "Notice",
+   "n": "2026-21705",
+   "t": "Agency Information Collection Activities: Proposed Information Collection; Submission for OMB Review; Reporting Forms and Instructions for Permitted Payment Stablecoin Issuers Subject to the Jurisdiction of the Office of the Comptroller of the Currency",
+   "u": "https://www.federalregister.gov/documents/2026/10/23/2026-21705/agency-information-collection-activities-proposed-information-collection-submission-for-omb-review"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency",
+    "Federal Reserve System"
+   ],
+   "d": "2026-06-25",
+   "k": "Rule",
+   "n": "2026-12787",
+   "t": "Financial Data Transparency Act Joint Data Standards",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12787/financial-data-transparency-act-joint-data-standards"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-06-23",
+   "k": "Rule",
+   "n": "2026-12547",
+   "t": "Tanker Security Program",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12547/tanker-security-program"
+  },
+  {
+   "a": [
+    "General Services Administration"
+   ],
+   "d": "2026-06-17",
+   "k": "Proposed Rule",
+   "n": "2026-12205",
+   "t": "General Services Acquisition Regulation; Acquisition of Information and Communication Technology; Notice of Listening Sessions and Request for Comments",
+   "u": "https://www.federalregister.gov/documents/2026/06/17/2026-12205/general-services-acquisition-regulation-acquisition-of-information-and-communication-technology"
+  },
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-06-11",
+   "k": "Notice",
+   "n": "2026-11766",
+   "t": "Privacy Act of 1974; System of Records",
+   "u": "https://www.federalregister.gov/documents/2026/06/11/2026-11766/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-06-09",
+   "k": "Rule",
+   "n": "2026-11505",
+   "t": "DoD Assistance to Non-Government, Entertainment-Oriented Media Productions",
+   "u": "https://www.federalregister.gov/documents/2026/06/09/2026-11505/dod-assistance-to-non-government-entertainment-oriented-media-productions"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-05-07",
+   "k": "Notice",
+   "n": "2026-08997",
+   "t": "Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-12(c) To Codify and Retire or Revise Certain Existing Interpretive Guidance on Confirmation Requirements for Those Inter-Dealer Municipal Securities Transactions That",
+   "u": "https://www.federalregister.gov/documents/2026/05/07/2026-08997/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-04-27",
+   "k": "Rule",
+   "n": "2026-08148",
+   "t": "Security Review Committee",
+   "u": "https://www.federalregister.gov/documents/2026/04/27/2026-08148/security-review-committee"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-04-14",
+   "k": "Proposed Rule",
+   "n": "2026-07198",
+   "t": "Differential Pay for Prescribed Wildland Fire Activities",
+   "u": "https://www.federalregister.gov/documents/2026/04/14/2026-07198/differential-pay-for-prescribed-wildland-fire-activities"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-02-17",
+   "k": "Proposed Rule",
+   "n": "2026-03065",
+   "t": "Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services",
+   "u": "https://www.federalregister.gov/documents/2026/02/17/2026-03065/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-02-12",
+   "k": "Notice",
+   "n": "2026-02784",
+   "t": "Centers of Excellence for Domestic Maritime Workforce Training and Education Notice of Opportunity To Apply for Designation",
+   "u": "https://www.federalregister.gov/documents/2026/02/12/2026-02784/centers-of-excellence-for-domestic-maritime-workforce-training-and-education-notice-of-opportunity"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-02-06",
+   "k": "Rule",
+   "n": "2026-02437",
+   "t": "Medical Billing for Healthcare Services Provided by Department of Defense Military Medical Treatment Facilities to Civilian Non-Beneficiaries",
+   "u": "https://www.federalregister.gov/documents/2026/02/06/2026-02437/medical-billing-for-healthcare-services-provided-by-department-of-defense-military-medical-treatment"
+  }
+ ],
+ "law": "117-263",
+ "rules": [
+  {
+   "a": [
+    "Justice Department"
+   ],
+   "d": "2026-10-27",
+   "k": "Rule",
+   "n": "2026-21923",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency"
+   ],
+   "d": "2026-10-23",
+   "k": "Rule",
+   "n": "2026-21706",
+   "t": "Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency",
+   "u": "https://www.federalregister.gov/documents/2026/10/23/2026-21706/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the"
+  },
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency",
+    "Federal Reserve System"
+   ],
+   "d": "2026-06-25",
+   "k": "Rule",
+   "n": "2026-12787",
+   "t": "Financial Data Transparency Act Joint Data Standards",
+   "u": "https://www.federalregister.gov/documents/2026/06/25/2026-12787/financial-data-transparency-act-joint-data-standards"
+  },
+  {
+   "a": [
+    "Transportation Department",
+    "Maritime Administration"
+   ],
+   "d": "2026-06-23",
+   "k": "Rule",
+   "n": "2026-12547",
+   "t": "Tanker Security Program",
+   "u": "https://www.federalregister.gov/documents/2026/06/23/2026-12547/tanker-security-program"
+  },
+  {
+   "a": [
+    "General Services Administration"
+   ],
+   "d": "2026-06-17",
+   "k": "Proposed Rule",
+   "n": "2026-12205",
+   "t": "General Services Acquisition Regulation; Acquisition of Information and Communication Technology; Notice of Listening Sessions and Request for Comments",
+   "u": "https://www.federalregister.gov/documents/2026/06/17/2026-12205/general-services-acquisition-regulation-acquisition-of-information-and-communication-technology"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-06-09",
+   "k": "Rule",
+   "n": "2026-11505",
+   "t": "DoD Assistance to Non-Government, Entertainment-Oriented Media Productions",
+   "u": "https://www.federalregister.gov/documents/2026/06/09/2026-11505/dod-assistance-to-non-government-entertainment-oriented-media-productions"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Health and Human Services Department",
+    "Agriculture Department"
+   ],
+   "d": "2026-05-29",
+   "k": "Proposed Rule",
+   "n": "2026-10817",
+   "t": "Regulation for Federal Financial Assistance",
+   "u": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+  },
+  {
+   "a": [
+    "State Department"
+   ],
+   "d": "2026-04-27",
+   "k": "Rule",
+   "n": "2026-08148",
+   "t": "Security Review Committee",
+   "u": "https://www.federalregister.gov/documents/2026/04/27/2026-08148/security-review-committee"
+  },
+  {
+   "a": [
+    "Personnel Management Office"
+   ],
+   "d": "2026-04-14",
+   "k": "Proposed Rule",
+   "n": "2026-07198",
+   "t": "Differential Pay for Prescribed Wildland Fire Activities",
+   "u": "https://www.federalregister.gov/documents/2026/04/14/2026-07198/differential-pay-for-prescribed-wildland-fire-activities"
+  },
+  {
+   "a": [
+    "Management and Budget Office",
+    "Federal Procurement Policy Office",
+    "Defense Department"
+   ],
+   "d": "2026-02-17",
+   "k": "Proposed Rule",
+   "n": "2026-03065",
+   "t": "Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services",
+   "u": "https://www.federalregister.gov/documents/2026/02/17/2026-03065/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services"
+  },
+  {
+   "a": [
+    "Defense Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-02-06",
+   "k": "Rule",
+   "n": "2026-02437",
+   "t": "Medical Billing for Healthcare Services Provided by Department of Defense Military Medical Treatment Facilities to Civilian Non-Beneficiaries",
+   "u": "https://www.federalregister.gov/documents/2026/02/06/2026-02437/medical-billing-for-healthcare-services-provided-by-department-of-defense-military-medical-treatment"
+  },
+  {
+   "a": [
+    "Council on Environmental Quality"
+   ],
+   "d": "2026-01-08",
+   "k": "Rule",
+   "n": "2026-00178",
+   "t": "Removal of National Environmental Policy Act Implementing Regulations",
+   "u": "https://www.federalregister.gov/documents/2026/01/08/2026-00178/removal-of-national-environmental-policy-act-implementing-regulations"
+  },
+  {
+   "a": [
+    "Commerce Department",
+    "National Oceanic and Atmospheric Administration"
+   ],
+   "d": "2026-01-05",
+   "k": "Proposed Rule",
+   "n": "2025-24264",
+   "t": "Atlantic Highly Migratory Species; Revisions to Commercial Atlantic Blacknose and Recreational Atlantic Shark Fisheries Management Measures",
+   "u": "https://www.federalregister.gov/documents/2026/01/05/2025-24264/atlantic-highly-migratory-species-revisions-to-commercial-atlantic-blacknose-and-recreational"
+  },
+  {
+   "a": [
+    "Federal Deposit Insurance Corporation"
+   ],
+   "d": "2025-12-04",
+   "k": "Rule",
+   "n": "2025-21914",
+   "t": "Adjusting and Indexing Certain Regulatory Thresholds",
+   "u": "https://www.federalregister.gov/documents/2025/12/04/2025-21914/adjusting-and-indexing-certain-regulatory-thresholds"
+  },
+  {
+   "a": [
+    "Homeland Security Department",
+    "Coast Guard"
+   ],
+   "d": "2025-11-24",
+   "k": "Rule",
+   "n": "2025-20727",
+   "t": "Navigation and Navigable Waters, and Shipping; Technical, Organizational, and Conforming Amendments",
+   "u": "https://www.federalregister.gov/documents/2025/11/24/2025-20727/navigation-and-navigable-waters-and-shipping-technical-organizational-and-conforming-amendments"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-263%22+%7C+%22Pub.+L.+117-263%22+%7C+%22P.L.+117-263%22&order=newest",
+ "term": "\"Public Law 117-263\" | \"Pub. L. 117-263\" | \"P.L. 117-263\"",
+ "total": 133
+}

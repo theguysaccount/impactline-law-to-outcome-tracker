@@ -1,0 +1,51 @@
+{
+ "agencies": [
+  [
+   "Agriculture Department",
+   1
+  ],
+  [
+   "Food and Nutrition Service",
+   1
+  ]
+ ],
+ "by_type": {
+  "Rule": 1
+ },
+ "by_year": {
+  "2026": 1
+ },
+ "complete": true,
+ "first": "2026-05-08",
+ "last": "2026-05-08",
+ "latest": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2026-05-08",
+   "k": "Rule",
+   "n": "2026-09212",
+   "t": "Expanding Fluid Milk Options in Child Nutrition Programs",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09212/expanding-fluid-milk-options-in-child-nutrition-programs"
+  }
+ ],
+ "law": "119-69",
+ "rules": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Service"
+   ],
+   "d": "2026-05-08",
+   "k": "Rule",
+   "n": "2026-09212",
+   "t": "Expanding Fluid Milk Options in Child Nutrition Programs",
+   "u": "https://www.federalregister.gov/documents/2026/05/08/2026-09212/expanding-fluid-milk-options-in-child-nutrition-programs"
+  }
+ ],
+ "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-69%22+%7C+%22Pub.+L.+119-69%22+%7C+%22P.L.+119-69%22&order=newest",
+ "term": "\"Public Law 119-69\" | \"Pub. L. 119-69\" | \"P.L. 119-69\"",
+ "total": 1
+}
