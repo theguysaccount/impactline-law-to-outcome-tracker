@@ -2,11 +2,11 @@
  "agencies": [
   [
    "Energy Department",
-   8
+   10
   ],
   [
    "Federal Energy Regulatory Commission",
-   8
+   10
   ],
   [
    "Health and Human Services Department",
@@ -18,19 +18,41 @@
   ]
  ],
  "by_type": {
-  "Notice": 8,
+  "Notice": 10,
   "Proposed Rule": 2,
   "Rule": 1
  },
  "by_year": {
   "2009": 2,
   "2010": 1,
-  "2026": 8
+  "2026": 10
  },
  "complete": true,
  "first": "2009-05-22",
- "last": "2026-11-09",
+ "last": "2026-11-12",
  "latest": [
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-12",
+   "k": "Notice",
+   "n": "2026-22949",
+   "t": "GB Energy Park, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/11/12/2026-22949/gb-energy-park-llc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction"
+  },
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-12",
+   "k": "Notice",
+   "n": "2026-22947",
+   "t": "FFP Missouri 6, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+   "u": "https://www.federalregister.gov/documents/2026/11/12/2026-22947/ffp-missouri-6-llc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction"
+  },
   {
    "a": [
     "Energy Department",
@@ -191,5 +213,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-90%22+%7C+%22Pub.+L.+119-90%22+%7C+%22P.L.+119-90%22&order=newest",
  "term": "\"Public Law 119-90\" | \"Pub. L. 119-90\" | \"P.L. 119-90\"",
- "total": 11
+ "total": 13
 }

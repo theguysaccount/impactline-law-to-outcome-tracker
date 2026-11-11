@@ -33,16 +33,16 @@
    5
   ],
   [
-   "Personnel Management Office",
+   "Treasury Department",
    4
   ],
   [
-   "Treasury Department",
-   3
+   "Financial Crimes Enforcement Network",
+   4
   ],
   [
-   "Financial Crimes Enforcement Network",
-   3
+   "Personnel Management Office",
+   4
   ],
   [
    "Maritime Administration",
@@ -53,19 +53,30 @@
   "Notice": 19,
   "Presidential Document": 5,
   "Proposed Rule": 19,
-  "Rule": 36
+  "Rule": 37
  },
  "by_year": {
   "2022": 19,
   "2023": 31,
   "2024": 21,
   "2025": 4,
-  "2026": 4
+  "2026": 5
  },
  "complete": true,
  "first": "2022-01-26",
- "last": "2026-10-05",
+ "last": "2026-11-10",
  "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-11-10",
+   "k": "Rule",
+   "n": "2026-22962",
+   "t": "Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global"
+  },
   {
    "a": [
     "Treasury Department",
@@ -214,21 +225,21 @@
    "n": "2024-23226",
    "t": "Defense Federal Acquisition Regulation Supplement: Pilot Program To Incentivize Contracting With Employee-Owned Businesses (DFARS Case 2024-D004)",
    "u": "https://www.federalregister.gov/documents/2024/10/10/2024-23226/defense-federal-acquisition-regulation-supplement-pilot-program-to-incentivize-contracting-with"
-  },
-  {
-   "a": [
-    "Defense Department",
-    "Defense Acquisition Regulations System"
-   ],
-   "d": "2024-09-30",
-   "k": "Notice",
-   "n": "2024-22389",
-   "t": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 270, Defense Contracting Programs; Pilot Program To Incentivize Contracting With Employee-Owned Businesses",
-   "u": "https://www.federalregister.gov/documents/2024/09/30/2024-22389/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-270"
   }
  ],
  "law": "117-81",
  "rules": [
+  {
+   "a": [
+    "Treasury Department",
+    "Financial Crimes Enforcement Network"
+   ],
+   "d": "2026-11-10",
+   "k": "Rule",
+   "n": "2026-22962",
+   "t": "Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global"
+  },
   {
    "a": [
     "Treasury Department",
@@ -378,19 +389,9 @@
    "n": "2024-21093",
    "t": "Defense Federal Acquisition Regulation Supplement: Assuring Integrity of Overseas Fuel Supplies (DFARS Case 2022-D013)",
    "u": "https://www.federalregister.gov/documents/2024/09/26/2024-21093/defense-federal-acquisition-regulation-supplement-assuring-integrity-of-overseas-fuel-supplies-dfars"
-  },
-  {
-   "a": [
-    "Small Business Administration"
-   ],
-   "d": "2024-08-23",
-   "k": "Proposed Rule",
-   "n": "2024-18325",
-   "t": "HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs",
-   "u": "https://www.federalregister.gov/documents/2024/08/23/2024-18325/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-81%22+%7C+%22Pub.+L.+117-81%22+%7C+%22P.L.+117-81%22&order=newest",
  "term": "\"Public Law 117-81\" | \"Pub. L. 117-81\" | \"P.L. 117-81\"",
- "total": 79
+ "total": 80
 }

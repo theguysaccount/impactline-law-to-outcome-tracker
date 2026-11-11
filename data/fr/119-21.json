@@ -34,7 +34,7 @@
   ],
   [
    "Agriculture Department",
-   17
+   19
   ],
   [
    "Land Management Bureau",
@@ -51,17 +51,39 @@
  ],
  "by_type": {
   "Notice": 120,
-  "Proposed Rule": 60,
+  "Proposed Rule": 62,
   "Rule": 60
  },
  "by_year": {
   "2025": 49,
-  "2026": 191
+  "2026": 193
  },
  "complete": true,
  "first": "2025-07-22",
- "last": "2026-11-09",
+ "last": "2026-11-10",
  "latest": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22944",
+   "t": "Modification to Work Requirements for Able-Bodied Adults",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22936",
+   "t": "Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -194,32 +216,32 @@
    "n": "2026-21217",
    "t": "Emissions Value Request Process; Notice of Availability",
    "u": "https://www.federalregister.gov/documents/2026/10/16/2026-21217/emissions-value-request-process-notice-of-availability"
-  },
-  {
-   "a": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "d": "2026-10-15",
-   "k": "Notice",
-   "n": "2026-21073",
-   "t": "Southern Star Central Gas Pipeline, Inc.; Notice of Availability of the Environmental Assessment for the Proposed Viola Project",
-   "u": "https://www.federalregister.gov/documents/2026/10/15/2026-21073/southern-star-central-gas-pipeline-inc-notice-of-availability-of-the-environmental-assessment-for"
-  },
-  {
-   "a": [
-    "Treasury Department",
-    "Internal Revenue Service"
-   ],
-   "d": "2026-10-15",
-   "k": "Proposed Rule",
-   "n": "2026-21056",
-   "t": "Premium Tax Credit",
-   "u": "https://www.federalregister.gov/documents/2026/10/15/2026-21056/premium-tax-credit"
   }
  ],
  "law": "119-21",
  "rules": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22944",
+   "t": "Modification to Work Requirements for Able-Bodied Adults",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22936",
+   "t": "Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -358,31 +380,9 @@
    "n": "2026-20277",
    "t": "Federal Scholarship Tax Credit",
    "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20277/federal-scholarship-tax-credit"
-  },
-  {
-   "a": [
-    "Treasury Department",
-    "Internal Revenue Service"
-   ],
-   "d": "2026-10-02",
-   "k": "Rule",
-   "n": "2026-20264",
-   "t": "Federal Scholarship Tax Credit",
-   "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20264/federal-scholarship-tax-credit"
-  },
-  {
-   "a": [
-    "Treasury Department",
-    "Internal Revenue Service"
-   ],
-   "d": "2026-09-30",
-   "k": "Rule",
-   "n": "2026-20026",
-   "t": "Trump Accounts",
-   "u": "https://www.federalregister.gov/documents/2026/09/30/2026-20026/trump-accounts"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-21%22+%7C+%22Pub.+L.+119-21%22+%7C+%22P.L.+119-21%22&order=newest",
  "term": "\"Public Law 119-21\" | \"Pub. L. 119-21\" | \"P.L. 119-21\"",
- "total": 240
+ "total": 242
 }

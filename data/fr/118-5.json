@@ -18,7 +18,7 @@
   ],
   [
    "Agriculture Department",
-   21
+   23
   ],
   [
    "Transportation Department",
@@ -52,19 +52,41 @@
  "by_type": {
   "Notice": 106,
   "Presidential Document": 2,
-  "Proposed Rule": 41,
+  "Proposed Rule": 43,
   "Rule": 61
  },
  "by_year": {
   "2023": 16,
   "2024": 71,
   "2025": 62,
-  "2026": 61
+  "2026": 63
  },
  "complete": true,
  "first": "2023-07-10",
- "last": "2026-10-15",
+ "last": "2026-11-10",
  "latest": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22944",
+   "t": "Modification to Work Requirements for Able-Bodied Adults",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22936",
+   "t": "Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility"
+  },
   {
    "a": [
     "Energy Department",
@@ -207,32 +229,32 @@
    "n": "2026-17399",
    "t": "Constitution Pipeline Company, LLC, Iroquois Gas Transmission System, L.P.; Notice of Availability of the Environmental Assessment for the Proposed Constitution Pipeline and Wright Interconnect Projects",
    "u": "https://www.federalregister.gov/documents/2026/08/26/2026-17399/constitution-pipeline-company-llc-iroquois-gas-transmission-system-lp-notice-of-availability-of-the"
-  },
-  {
-   "a": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "d": "2026-08-14",
-   "k": "Notice",
-   "n": "2026-16633",
-   "t": "Columbia Gulf Transmission, LLC; Notice of Availability of the Environmental Assessment for the Proposed Maysville Project",
-   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16633/columbia-gulf-transmission-llc-notice-of-availability-of-the-environmental-assessment-for-the"
-  },
-  {
-   "a": [
-    "Health and Human Services Department",
-    "Office of the Secretary"
-   ],
-   "d": "2026-08-14",
-   "k": "Notice",
-   "n": "2026-16597",
-   "t": "Regulatory Agenda",
-   "u": "https://www.federalregister.gov/documents/2026/08/14/2026-16597/regulatory-agenda"
   }
  ],
  "law": "118-5",
  "rules": [
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22944",
+   "t": "Modification to Work Requirements for Able-Bodied Adults",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults"
+  },
+  {
+   "a": [
+    "Agriculture Department",
+    "Food and Nutrition Administration"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22936",
+   "t": "Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility"
+  },
   {
    "a": [
     "Postal Service"
@@ -368,30 +390,9 @@
    "n": "2026-03708",
    "t": "National Environmental Policy Act Implementing Regulations",
    "u": "https://www.federalregister.gov/documents/2026/02/24/2026-03708/national-environmental-policy-act-implementing-regulations"
-  },
-  {
-   "a": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "d": "2026-02-24",
-   "k": "Proposed Rule",
-   "n": "2026-03657",
-   "t": "Categorical Exclusion Under the National Environmental Policy Act for Certain Terminations or Revocations of Water Power Licenses and Exemptions",
-   "u": "https://www.federalregister.gov/documents/2026/02/24/2026-03657/categorical-exclusion-under-the-national-environmental-policy-act-for-certain-terminations-or"
-  },
-  {
-   "a": [
-    "Tennessee Valley Authority"
-   ],
-   "d": "2026-01-21",
-   "k": "Rule",
-   "n": "2026-01092",
-   "t": "Implementation of the National Environmental Policy Act",
-   "u": "https://www.federalregister.gov/documents/2026/01/21/2026-01092/implementation-of-the-national-environmental-policy-act"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-5%22+%7C+%22Pub.+L.+118-5%22+%7C+%22P.L.+118-5%22&order=newest",
  "term": "\"Public Law 118-5\" | \"Pub. L. 118-5\" | \"P.L. 118-5\"",
- "total": 210
+ "total": 212
 }

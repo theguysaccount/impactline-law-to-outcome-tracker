@@ -2,7 +2,7 @@
  "agencies": [
   [
    "Health and Human Services Department",
-   188
+   189
   ],
   [
    "Centers for Medicare & Medicaid Services",
@@ -14,7 +14,7 @@
   ],
   [
    "Food and Drug Administration",
-   51
+   52
   ],
   [
    "Treasury Department",
@@ -52,19 +52,30 @@
  "by_type": {
   "Notice": 283,
   "Presidential Document": 6,
-  "Proposed Rule": 107,
+  "Proposed Rule": 108,
   "Rule": 133
  },
  "by_year": {
   "2023": 214,
   "2024": 163,
   "2025": 76,
-  "2026": 76
+  "2026": 77
  },
  "complete": true,
  "first": "2023-01-11",
- "last": "2026-11-09",
+ "last": "2026-11-12",
  "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-11-12",
+   "k": "Proposed Rule",
+   "n": "2026-23005",
+   "t": "Hematology and Pathology Devices; Reclassification of Immunohistochemistry Test Systems for Use With a Corresponding Approved Oncology Therapeutic Product",
+   "u": "https://www.federalregister.gov/documents/2026/11/12/2026-23005/hematology-and-pathology-devices-reclassification-of-immunohistochemistry-test-systems-for-use-with"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -216,21 +227,21 @@
    "n": "2026-17021",
    "t": "Determination of Target Normal Cost and Funding Target for Single-Employer Defined Benefit Plans",
    "u": "https://www.federalregister.gov/documents/2026/08/20/2026-17021/determination-of-target-normal-cost-and-funding-target-for-single-employer-defined-benefit-plans"
-  },
-  {
-   "a": [
-    "Commerce Department",
-    "Patent and Trademark Office"
-   ],
-   "d": "2026-08-17",
-   "k": "Notice",
-   "n": "2026-16744",
-   "t": "Request for Comments on Community Outreach Office Locations in the Southwest States",
-   "u": "https://www.federalregister.gov/documents/2026/08/17/2026-16744/request-for-comments-on-community-outreach-office-locations-in-the-southwest-states"
   }
  ],
  "law": "117-328",
  "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "d": "2026-11-12",
+   "k": "Proposed Rule",
+   "n": "2026-23005",
+   "t": "Hematology and Pathology Devices; Reclassification of Immunohistochemistry Test Systems for Use With a Corresponding Approved Oncology Therapeutic Product",
+   "u": "https://www.federalregister.gov/documents/2026/11/12/2026-23005/hematology-and-pathology-devices-reclassification-of-immunohistochemistry-test-systems-for-use-with"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -385,20 +396,9 @@
    "n": "2026-15588",
    "t": "Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update",
    "u": "https://www.federalregister.gov/documents/2026/07/31/2026-15588/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update"
-  },
-  {
-   "a": [
-    "Health and Human Services Department",
-    "Centers for Medicare & Medicaid Services"
-   ],
-   "d": "2026-07-31",
-   "k": "Rule",
-   "n": "2026-15562",
-   "t": "Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities; Updates to the Quality Reporting Program for Federal Fiscal Year 2027",
-   "u": "https://www.federalregister.gov/documents/2026/07/31/2026-15562/medicare-program-prospective-payment-system-and-consolidated-billing-for-skilled-nursing-facilities"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-328%22+%7C+%22Pub.+L.+117-328%22+%7C+%22P.L.+117-328%22&order=newest",
  "term": "\"Public Law 117-328\" | \"Pub. L. 117-328\" | \"P.L. 117-328\"",
- "total": 529
+ "total": 530
 }

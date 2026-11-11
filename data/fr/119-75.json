@@ -2,11 +2,11 @@
  "agencies": [
   [
    "Health and Human Services Department",
-   28
+   29
   ],
   [
    "Centers for Medicare & Medicaid Services",
-   11
+   12
   ],
   [
    "Education Department",
@@ -52,16 +52,27 @@
  "by_type": {
   "Notice": 40,
   "Presidential Document": 1,
-  "Proposed Rule": 11,
+  "Proposed Rule": 12,
   "Rule": 6
  },
  "by_year": {
-  "2026": 58
+  "2026": 59
  },
  "complete": true,
  "first": "2026-02-12",
- "last": "2026-11-09",
+ "last": "2026-11-10",
  "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22812",
+   "t": "Medicare and Medicaid Programs; Cutting Administrative Requirements for Excellence in Patient Care",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22812/medicare-and-medicaid-programs-cutting-administrative-requirements-for-excellence-in-patient-care"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -210,21 +221,21 @@
    "n": "2026-19145",
    "t": "Infant-Toddler Court Program-National Resource Center",
    "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19145/infant-toddler-court-program-national-resource-center"
-  },
-  {
-   "a": [
-    "Health and Human Services Department",
-    "Centers for Disease Control and Prevention"
-   ],
-   "d": "2026-09-15",
-   "k": "Notice",
-   "n": "2026-18901",
-   "t": "World Trade Center Health Program; Petition 048a-Peripheral Artery Disease; Finding of Insufficient Evidence",
-   "u": "https://www.federalregister.gov/documents/2026/09/15/2026-18901/world-trade-center-health-program-petition-048a-peripheral-artery-disease-finding-of-insufficient"
   }
  ],
  "law": "119-75",
  "rules": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "d": "2026-11-10",
+   "k": "Proposed Rule",
+   "n": "2026-22812",
+   "t": "Medicare and Medicaid Programs; Cutting Administrative Requirements for Excellence in Patient Care",
+   "u": "https://www.federalregister.gov/documents/2026/11/10/2026-22812/medicare-and-medicaid-programs-cutting-administrative-requirements-for-excellence-in-patient-care"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -377,21 +388,9 @@
    "n": "2026-10620",
    "t": "Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program",
    "u": "https://www.federalregister.gov/documents/2026/05/28/2026-10620/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national"
-  },
-  {
-   "a": [
-    "Treasury Department",
-    "Internal Revenue Service",
-    "Labor Department"
-   ],
-   "d": "2026-05-13",
-   "k": "Proposed Rule",
-   "n": "2026-09479",
-   "t": "Excepted Fertility Benefits",
-   "u": "https://www.federalregister.gov/documents/2026/05/13/2026-09479/excepted-fertility-benefits"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-75%22+%7C+%22Pub.+L.+119-75%22+%7C+%22P.L.+119-75%22&order=newest",
  "term": "\"Public Law 119-75\" | \"Pub. L. 119-75\" | \"P.L. 119-75\"",
- "total": 58
+ "total": 59
 }
