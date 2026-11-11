@@ -18,11 +18,16 @@ Everything runs on GitHub Actions in `theguysaccount/impactline-law-to-outcome-t
 `.github/scripts/keepalive.sh` (re-enables workflows GitHub paused for inactivity; empty commit after 45 quiet days).
 
 **GitHub skips scheduled runs on this account.** Two nightly slots, per-law check dates, and the self-test's stale
-check mean no run has to fire at a set time.
+check mean no run has to fire at a set time. The times in the table are the earliest a run can start, and a new or
+changed schedule can take hours to start at all: on 2026-11-10 the first scheduled self-test started about eight hours
+after its schedule was last pushed, and the 15:47 refresh started at 21:26. Both passed.
 
 ## What to watch
 - **Actions tab → Refresh and deploy.** Red means the site was not updated; the previous site is still live. The failing
   step says why. Guard prints each problem.
+- **A deploy that times out.** GitHub Pages sometimes stalls while taking in a build. The deploy job offers the same
+  build a second time before failing, and the previous site stays live either way. If both attempts fail, re-run the
+  failed job from the Actions tab.
 - **`data/status.json`**: per source `ok`, `last_success`, `error`, `note`, and `waiting` (laws still due).
   `waiting` should fall to near zero within a week of a first fill. If it keeps growing, raise the budgets in
   `config/site.json` or run the workflow by hand with a larger budget.

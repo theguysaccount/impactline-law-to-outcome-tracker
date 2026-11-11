@@ -11,6 +11,8 @@ app.impactline.org is live and unchanged).
 - Evidence packet per law (canonical JSON), a manifest of SHA-256 digests attested by GitHub on every build, and an
   in-browser check. CSV/JSON mirror. Atom feeds (new laws; per-law Federal Register documents).
 - Nightly refresh within a request budget, weekly self-test and link check, keep-alive. 40 tests.
+  The refresh and the self-test have passed on GitHub's own schedule trigger (first on 2026-11-10). The Saturday link
+  check has passed by hand only; its first scheduled run had not come up when this was written.
 
 ## What the original has that this copy does not
 - Live per-request search of Regulations.gov, AI extraction of implementation steps (never configured), the

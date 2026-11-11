@@ -138,12 +138,18 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.again.outputs.page_url }}
     steps:
+      # GitHub Pages sometimes stalls while taking in a build and the step times out. The same build
+      # is offered once more before the run is called failed. Either way the last good site stays live.
       - id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+      - id: again
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v5
 
   after:
