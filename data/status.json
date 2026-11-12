@@ -1,48 +1,48 @@
 {
  "fr": {
-  "checked_at": "2026-11-12T15:57:15Z",
+  "checked_at": "2026-11-12T21:55:33Z",
   "error": "",
   "last_changed": "2026-11-11T15:08:17Z",
-  "last_success": "2026-11-12T15:57:15Z",
-  "note": "155 laws checked, 0 changed, 0 still due",
+  "last_success": "2026-11-12T21:55:33Z",
+  "note": "0 laws checked, 0 changed, 0 still due",
   "ok": true,
   "waiting": 0,
   "warnings": []
  },
- "http_calls": 159,
+ "http_calls": 4,
  "laws": {
-  "checked_at": "2026-11-12T15:57:15Z",
+  "checked_at": "2026-11-12T21:55:33Z",
   "error": "",
   "last_changed": "2026-11-10T08:56:30Z",
-  "last_success": "2026-11-12T15:57:15Z",
+  "last_success": "2026-11-12T21:55:33Z",
   "note": "774 laws from Congresses 117-119 (unchanged)",
   "ok": true,
   "warnings": []
  },
  "named": {
-  "checked_at": "2026-11-12T15:57:15Z",
+  "checked_at": "2026-11-12T21:55:33Z",
   "error": "",
   "last_changed": "2026-11-10T09:37:59Z",
-  "last_success": "2026-11-12T15:57:15Z",
+  "last_success": "2026-11-12T21:55:33Z",
   "note": "0 laws searched, 0 changed, 0 still due",
   "ok": true,
   "waiting": 0,
   "warnings": []
  },
  "programs": {
-  "checked_at": "2026-11-12T15:57:15Z",
+  "checked_at": "2026-11-12T21:55:33Z",
   "error": "",
   "last_changed": "2026-11-10T09:37:59Z",
-  "last_success": "2026-11-12T15:57:15Z",
+  "last_success": "2026-11-12T21:55:33Z",
   "note": "0 program traces re-read, 0 changed",
   "ok": true,
   "warnings": []
  },
  "tagged": {
-  "checked_at": "2026-11-12T15:57:15Z",
+  "checked_at": "2026-11-12T21:55:33Z",
   "error": "",
   "last_changed": "2026-11-10T21:26:25Z",
-  "last_success": "2026-11-12T15:57:15Z",
+  "last_success": "2026-11-12T21:55:33Z",
   "note": "20 laws carry a spending code; 0 re-read, 0 changed",
   "ok": true,
   "warnings": []
