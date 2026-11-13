@@ -17,12 +17,12 @@
    7
   ],
   [
-   "Centers for Disease Control and Prevention",
+   "Small Business Administration",
    6
   ],
   [
-   "Small Business Administration",
-   5
+   "Centers for Disease Control and Prevention",
+   6
   ],
   [
    "State Department",
@@ -50,18 +50,28 @@
   ]
  ],
  "by_type": {
-  "Notice": 40,
+  "Notice": 41,
   "Presidential Document": 1,
   "Proposed Rule": 12,
   "Rule": 6
  },
  "by_year": {
-  "2026": 59
+  "2026": 60
  },
  "complete": true,
  "first": "2026-02-12",
- "last": "2026-11-10",
+ "last": "2026-11-13",
  "latest": [
+  {
+   "a": [
+    "Small Business Administration"
+   ],
+   "d": "2026-11-13",
+   "k": "Notice",
+   "n": "2026-23179",
+   "t": "Fiscal Year List of Requests From States or Tribes for a Small Business Administration Disaster Declaration",
+   "u": "https://www.federalregister.gov/documents/2026/11/13/2026-23179/fiscal-year-list-of-requests-from-states-or-tribes-for-a-small-business-administration-disaster"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -210,17 +220,6 @@
    "n": "2026-19146",
    "t": "Healthy Start Self-Measured Blood Pressure Monitoring",
    "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19146/healthy-start-self-measured-blood-pressure-monitoring"
-  },
-  {
-   "a": [
-    "Health and Human Services Department",
-    "Health Resources and Services Administration"
-   ],
-   "d": "2026-09-18",
-   "k": "Notice",
-   "n": "2026-19145",
-   "t": "Infant-Toddler Court Program-National Resource Center",
-   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19145/infant-toddler-court-program-national-resource-center"
   }
  ],
  "law": "119-75",
@@ -392,5 +391,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-75%22+%7C+%22Pub.+L.+119-75%22+%7C+%22P.L.+119-75%22&order=newest",
  "term": "\"Public Law 119-75\" | \"Pub. L. 119-75\" | \"P.L. 119-75\"",
- "total": 59
+ "total": 60
 }
