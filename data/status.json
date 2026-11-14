@@ -1,48 +1,52 @@
 {
  "fr": {
-  "checked_at": "2026-11-13T21:40:39Z",
+  "checked_at": "2026-11-14T14:07:02Z",
   "error": "",
-  "last_changed": "2026-11-13T15:21:27Z",
-  "last_success": "2026-11-13T21:40:39Z",
-  "note": "0 laws checked, 0 changed, 0 still due",
+  "last_changed": "2026-11-14T14:07:02Z",
+  "last_success": "2026-11-14T14:07:02Z",
+  "note": "155 laws checked, 1 changed, 0 still due",
   "ok": true,
   "waiting": 0,
   "warnings": []
  },
- "http_calls": 4,
+ "http_calls": 159,
  "laws": {
-  "checked_at": "2026-11-13T21:40:39Z",
-  "error": "",
+  "checked_at": "2026-11-14T14:07:02Z",
+  "error": "Congress 117: HttpError: 522 for https://www.govinfo.gov/bulkdata/json/PLAW/117/public",
   "last_changed": "2026-11-10T08:56:30Z",
   "last_success": "2026-11-13T21:40:39Z",
   "note": "774 laws from Congresses 117-119 (unchanged)",
-  "ok": true,
-  "warnings": []
+  "ok": false,
+  "warnings": [
+   "Congress 117: HttpError: 522 for https://www.govinfo.gov/bulkdata/json/PLAW/117/public",
+   "Congress 118: HttpError: 522 for https://www.govinfo.gov/bulkdata/json/PLAW/118/public",
+   "Congress 119: HttpError: 522 for https://www.govinfo.gov/bulkdata/json/PLAW/119/public"
+  ]
  },
  "named": {
-  "checked_at": "2026-11-13T21:40:39Z",
+  "checked_at": "2026-11-14T14:07:02Z",
   "error": "",
   "last_changed": "2026-11-10T09:37:59Z",
-  "last_success": "2026-11-13T21:40:39Z",
+  "last_success": "2026-11-14T14:07:02Z",
   "note": "0 laws searched, 0 changed, 0 still due",
   "ok": true,
   "waiting": 0,
   "warnings": []
  },
  "programs": {
-  "checked_at": "2026-11-13T21:40:39Z",
+  "checked_at": "2026-11-14T14:07:02Z",
   "error": "",
   "last_changed": "2026-11-10T09:37:59Z",
-  "last_success": "2026-11-13T21:40:39Z",
+  "last_success": "2026-11-14T14:07:02Z",
   "note": "0 program traces re-read, 0 changed",
   "ok": true,
   "warnings": []
  },
  "tagged": {
-  "checked_at": "2026-11-13T21:40:39Z",
+  "checked_at": "2026-11-14T14:07:02Z",
   "error": "",
   "last_changed": "2026-11-10T21:26:25Z",
-  "last_success": "2026-11-13T21:40:39Z",
+  "last_success": "2026-11-14T14:07:02Z",
   "note": "20 laws carry a spending code; 0 re-read, 0 changed",
   "ok": true,
   "warnings": []

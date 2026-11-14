@@ -18,7 +18,7 @@
   ],
   [
    "Health and Human Services Department",
-   28
+   29
   ],
   [
    "Homeland Security Department",
@@ -50,18 +50,29 @@
   ]
  ],
  "by_type": {
-  "Notice": 120,
+  "Notice": 121,
   "Proposed Rule": 62,
   "Rule": 60
  },
  "by_year": {
   "2025": 49,
-  "2026": 193
+  "2026": 194
  },
  "complete": true,
  "first": "2025-07-22",
- "last": "2026-11-10",
+ "last": "2026-11-16",
  "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services."
+   ],
+   "d": "2026-11-16",
+   "k": "Notice",
+   "n": "2026-23237",
+   "t": "Privacy Act of 1974; Matching Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/16/2026-23237/privacy-act-of-1974-matching-program"
+  },
   {
    "a": [
     "Agriculture Department",
@@ -206,16 +217,6 @@
    "n": "2026-21323",
    "t": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
    "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21323/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
-  },
-  {
-   "a": [
-    "Energy Department"
-   ],
-   "d": "2026-10-16",
-   "k": "Notice",
-   "n": "2026-21217",
-   "t": "Emissions Value Request Process; Notice of Availability",
-   "u": "https://www.federalregister.gov/documents/2026/10/16/2026-21217/emissions-value-request-process-notice-of-availability"
   }
  ],
  "law": "119-21",
@@ -384,5 +385,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-21%22+%7C+%22Pub.+L.+119-21%22+%7C+%22P.L.+119-21%22&order=newest",
  "term": "\"Public Law 119-21\" | \"Pub. L. 119-21\" | \"P.L. 119-21\"",
- "total": 242
+ "total": 243
 }
