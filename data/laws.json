@@ -2968,8 +2968,8 @@
    "stat": "139 Stat. 692",
    "title": "Taiwan Assurance Implementation Act",
    "title_source": "law text",
-   "xml_bytes": 8776,
-   "xml_sha256": "1aa0b90bd897896625fb0c1170f492b1fa94c1e211ea0cebc431637e9d6757c7"
+   "xml_bytes": 8778,
+   "xml_sha256": "2d43b2840945217cc64a1c1cee9b6d14d3cbe8435a17335a6959d7b218b5d21a"
   },
   {
    "also_called": "",
@@ -4040,8 +4040,8 @@
    "stat": "139 Stat. 54",
    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications\".",
    "title_source": "Congress.gov",
-   "xml_bytes": 4317,
-   "xml_sha256": "45375ffe6b89a07b7f7e9db4a9fc3f87b75ac0db17986c0e63884913e92ec7d5"
+   "xml_bytes": 4316,
+   "xml_sha256": "a5e5117c1bc196358bf62946342349374694a1633147df4999a252d42b007fda"
   },
   {
    "also_called": "",
@@ -4071,8 +4071,8 @@
    "stat": "139 Stat. 53",
    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
    "title_source": "Congress.gov",
-   "xml_bytes": 4195,
-   "xml_sha256": "5eb6385ed5c77713eab918f9069117e3d421d57b224b8af9443a9f49595d5296"
+   "xml_bytes": 4224,
+   "xml_sha256": "5642759b3ea78c567358d96cdfea01c233790a78b163bfa2bfd1484dca4ab241"
   },
   {
    "also_called": "",
@@ -24565,18 +24565,18 @@
  "sources": {
   "117": {
    "bytes": 9490590,
-   "checked_at": "2026-11-17T16:51:33Z",
+   "checked_at": "2026-11-17T23:10:42Z",
    "laws": 362,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/117/public",
-   "modified": "04-Nov-2026 16:03",
-   "retrieved_at": "2026-11-10T08:56:30Z",
-   "sha256": "d073d937a59fefc4cf2d6176212b698d468a959187828f302503e09f5b3abfb6",
-   "stamp": "04-Nov-2026 16:03|9490590",
+   "modified": "05-Nov-2026 13:17",
+   "retrieved_at": "2026-11-17T23:10:42Z",
+   "sha256": "ee2a00537597d34e3d99fdecc7994cb0fb03e84706964170e25878df138ff6d7",
+   "stamp": "05-Nov-2026 13:17|9490590",
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/117/public/PLAW-117-public.zip"
   },
   "118": {
    "bytes": 5016235,
-   "checked_at": "2026-11-17T16:51:33Z",
+   "checked_at": "2026-11-17T23:10:42Z",
    "laws": 274,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/118/public",
    "modified": "27-Oct-2026 16:44",
@@ -24586,18 +24586,18 @@
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118-public.zip"
   },
   "119": {
-   "bytes": 3395097,
-   "checked_at": "2026-11-17T16:51:33Z",
+   "bytes": 3395106,
+   "checked_at": "2026-11-17T23:10:42Z",
    "laws": 138,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/119/public",
    "modified": "09-Nov-2026 15:10",
-   "retrieved_at": "2026-11-10T08:56:30Z",
-   "sha256": "c8fd29578948d196805be9af818fc17b51d7fe225214611bae800d2a602ebd70",
-   "stamp": "09-Nov-2026 15:10|3395097",
+   "retrieved_at": "2026-11-17T23:10:42Z",
+   "sha256": "7d69603117d7fadfe644bb6e0cb15dd4ac0b252edfeffe6d06d5ce6946f4cc54",
+   "stamp": "09-Nov-2026 15:10|3395106",
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119-public.zip"
   }
  },
- "updated_at": "2026-11-10T08:56:30Z",
+ "updated_at": "2026-11-17T23:10:42Z",
  "window": {
   "congresses": [
    117,
