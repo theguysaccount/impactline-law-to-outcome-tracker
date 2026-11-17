@@ -1,22 +1,22 @@
 {
  "agencies": [
   {
-   "budgetary_resources": 22407010243.0,
+   "budgetary_resources": 22430213239.07,
    "name": "Department of Homeland Security",
-   "obligations": 22410000000.0,
+   "obligations": 22430213239.07,
    "outlays": 0.0
   },
   {
    "budgetary_resources": 8000000000.0,
    "name": "Department of Housing and Urban Development",
-   "obligations": 7989884182.18,
-   "outlays": 7927959146.86
+   "obligations": 7991164513.18,
+   "outlays": 7929412499.55
   },
   {
    "budgetary_resources": 700000000.0,
    "name": "National Aeronautics and Space Administration",
-   "obligations": 647768426.89,
-   "outlays": 365506360.62
+   "obligations": 650003152.63,
+   "outlays": 370697113.68
   },
   {
    "budgetary_resources": 741000000.0,
@@ -38,7 +38,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4499DRORP00000001",
    "kind": "grants",
-   "outlays": 1251658113.63,
+   "outlays": 1252852847.3,
    "recipient": "OREGON MILITARY DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
   },
@@ -58,7 +58,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "1603DRLAP0000005",
    "kind": "grants",
-   "outlays": 51696224.27,
+   "outlays": 51777169.39,
    "recipient": "HOMELAND SECURITY & EMERGENCY",
    "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
   },
@@ -78,19 +78,9 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4483DRIAP00000001",
    "kind": "grants",
-   "outlays": 270375414.33,
+   "outlays": 290875101.07,
    "recipient": "IOWA HOMELAND SECURITY AND EMERGENCY MANAGEMENT DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_4483DRIAP00000001_070"
-  },
-  {
-   "agency": "Department of Homeland Security",
-   "amount": 524461882.66,
-   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
-   "id": "4504DRKSP00000001",
-   "kind": "grants",
-   "outlays": 198995609.18,
-   "recipient": "KANSAS ADJUTANT GENERAL DEPARTMENT",
-   "url": "https://www.usaspending.gov/award/ASST_NON_4504DRKSP00000001_070"
   },
   {
    "agency": "Department of Homeland Security",
@@ -108,9 +98,19 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4525DRUTP00000001",
    "kind": "grants",
-   "outlays": 60294783.07,
+   "outlays": 60330895.07,
    "recipient": "DEPARTMENT OF PUBLIC SAFETY STATE UTAH",
    "url": "https://www.usaspending.gov/award/ASST_NON_4525DRUTP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 444324190.87,
+   "description": "PROVIDE REIMBURSEMENT TO STATE, LOCAL, TRIBAL, AND TERRITORIAL GOVERNMENT ENTITIES AND CERTAIN PRIVATE NON-PROFIT ORGANIZATIONS FOR EMERGENCY PROTECTIVE MEASURES TAKEN DURING THE PANDEMIC. EMERGENCY PROTECTIVE MEASURES NECESSARY TO SAVE LIV",
+   "id": "4339DRPRP00100001",
+   "kind": "grants",
+   "outlays": 7525178.49,
+   "recipient": "GOVERNOR'S AUTHORIZED REPRESENTATIVE",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4339DRPRP00100001_070"
   },
   {
    "agency": "National Aeronautics and Space Administration",
@@ -158,13 +158,13 @@
    "description": "BASE OPERATIONS AND SPACEPORT SERVICES (BOSS) CONTRACT",
    "id": "80KSC018C0017",
    "kind": "contracts",
-   "outlays": 585412498.78,
+   "outlays": 600171445.62,
    "recipient": "AMENTUM SPACEPORT LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_80KSC018C0017_8000_-NONE-_-NONE-"
   },
   {
    "agency": "National Aeronautics and Space Administration",
-   "amount": 310202767.68,
+   "amount": 312765701.15,
    "description": "NASA CONSOLIDATED APPLICATION AND PLATFORM SERVICES (NCAPS)",
    "id": "80TECH24CA002",
    "kind": "contracts",
@@ -174,7 +174,7 @@
   },
   {
    "agency": "National Aeronautics and Space Administration",
-   "amount": 268069068.05,
+   "amount": 270545608.05,
    "description": "MARSHALL ENGINEERING TECHNICIANS AND TRADES SUPPORT (METTS III) COVERS A WIDE RANGE OF ENGINEERING TECHNICIANS AND TRADE SKILLS TO PERFORM TESTING GROUND AND SPACE BASED RESEARCH TEST OPERATIONS DATA ANALYSIS INSTRUMENTATION CALIBRATION",
    "id": "80MSFC23CA004",
    "kind": "contracts",
@@ -184,7 +184,7 @@
   },
   {
    "agency": "National Aeronautics and Space Administration",
-   "amount": 260040541.82,
+   "amount": 261005811.04,
    "description": "THE PURPOSE OF THIS CONTRACT IS TO ACQUIRE REPAIRS, OPERATIONS & MAINTENANCE, AND ENGINEERING (ROME) AND RELATED SERVICES FOR THE GODDARD SPACE FLIGHT CENTER (GREENBELT AND WALLOPS FLIGHT FACILITY).",
    "id": "80GSFC23CA052",
    "kind": "contracts",
@@ -200,36 +200,36 @@
   }
  ],
  "funding_by_code": {
-  "AAL": 32254010243.0
+  "AAL": 32277213239.07
  },
  "law": "119-4",
  "overview": {
-  "award_obligations": 11263019210.69,
-  "award_outlays": 9566369880.05,
-  "budget_authority": 32254010243.0,
-  "total_obligations": 32184652609.07,
-  "total_outlays": 9430465507.47
+  "award_obligations": 11281396018.29,
+  "award_outlays": 9573005877.57,
+  "budget_authority": 32277213239.07,
+  "total_obligations": 32208380904.88,
+  "total_outlays": 9437109613.22
  },
  "programs": [
   {
    "listing": "97.036",
    "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
-   "obligations": 211174645238.07
+   "obligations": 211300493616.69
   },
   {
    "listing": "14.195",
    "name": "Project-Based Rental Assistance (PBRA)",
-   "obligations": 13267703556.18
+   "obligations": 13269180218.18
   },
   {
    "listing": "97.048",
    "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
-   "obligations": 12202696462.48
+   "obligations": 12554494730.46
   },
   {
    "listing": "97.039",
    "name": "Hazard Mitigation Grant",
-   "obligations": 9578705474.16
+   "obligations": 9618703355.95
   },
   {
    "listing": "14.871",
@@ -244,7 +244,7 @@
   {
    "listing": "97.047",
    "name": "BRIC: Building Resilient Infrastructure and Communities",
-   "obligations": 440935238.73
+   "obligations": 445881533.86
   },
   {
    "listing": "97.046",
@@ -254,7 +254,7 @@
   {
    "listing": "97.088",
    "name": "Disaster Assistance Projects",
-   "obligations": 192753894.5
+   "obligations": 210124266.84
   },
   {
    "listing": "43.001",

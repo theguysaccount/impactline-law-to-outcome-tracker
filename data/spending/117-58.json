@@ -1,73 +1,73 @@
 {
  "agencies": [
   {
-   "budgetary_resources": 545408211336.43,
+   "budgetary_resources": 563382273464.47,
    "name": "Department of Transportation",
-   "obligations": 424141009461.77,
-   "outlays": 262430898151.89
-  },
-  {
-   "budgetary_resources": 51088889625.0,
-   "name": "Department of Commerce",
-   "obligations": 47694058658.41,
-   "outlays": 3886142895.99
+   "obligations": 454602329676.27,
+   "outlays": 272048557720.87
   },
   {
    "budgetary_resources": 60777500000.0,
    "name": "Environmental Protection Agency",
-   "obligations": 47480097668.25,
-   "outlays": 20388647579.57
+   "obligations": 50146331258.17,
+   "outlays": 21020201044.97
   },
   {
-   "budgetary_resources": 64622277281.0,
+   "budgetary_resources": 51088889625.0,
+   "name": "Department of Commerce",
+   "obligations": 47751567637.91,
+   "outlays": 4083785827.05
+  },
+  {
+   "budgetary_resources": 63758940781.0,
    "name": "Department of Energy",
-   "obligations": 33496888351.1,
-   "outlays": 6689427443.62
+   "obligations": 34356721100.67,
+   "outlays": 6974067282.46
   },
   {
-   "budgetary_resources": 30129430178.4,
+   "budgetary_resources": 30128213783.95,
    "name": "Department of the Interior",
-   "obligations": 15020766364.16,
-   "outlays": 9132039777.36
+   "obligations": 15523690448.04,
+   "outlays": 9447270012.73
   },
   {
    "budgetary_resources": 14200000000.0,
    "name": "Federal Communications Commission",
-   "obligations": 13808555383.87,
-   "outlays": 13757045919.26
+   "obligations": 13808781427.87,
+   "outlays": 13757155765.19
   },
   {
    "budgetary_resources": 17099000000.0,
    "name": "Corps of Engineers - Civil Works",
-   "obligations": 10907347965.46,
-   "outlays": 6763144896.24
+   "obligations": 11185043269.58,
+   "outlays": 7038433667.21
   },
   {
-   "budgetary_resources": 9673007539.57,
+   "budgetary_resources": 9660814152.75,
    "name": "Department of Agriculture",
-   "obligations": 8099679905.99,
-   "outlays": 4656327556.55
+   "obligations": 8234691613.83,
+   "outlays": 4737041746.18
   },
   {
    "budgetary_resources": 7457815000.0,
    "name": "Department of Homeland Security",
-   "obligations": 2874898704.68,
-   "outlays": 791084822.15
+   "obligations": 3209343786.42,
+   "outlays": 844002254.85
   },
   {
    "budgetary_resources": 2607000000.0,
    "name": "Department of Health and Human Services",
-   "obligations": 2530860073.8,
-   "outlays": 1813508272.52
+   "obligations": 2533636376.16,
+   "outlays": 1834619940.63
   },
   {
    "budgetary_resources": 3418008000.0,
    "name": "General Services Administration",
-   "obligations": 1620399945.98,
+   "obligations": 1675552564.6,
    "outlays": 202820024.27
   },
   {
-   "budgetary_resources": 804497464.0,
+   "budgetary_resources": 799497464.0,
    "name": "Appalachian Regional Commission",
    "obligations": 284830503.47,
    "outlays": 67031576.56
@@ -75,20 +75,20 @@
   {
    "budgetary_resources": 350000000.0,
    "name": "Federal Permitting Improvement Steering Council",
-   "obligations": 141088696.16,
-   "outlays": 73854000.08
+   "obligations": 195713845.63,
+   "outlays": 44646581.16
   },
   {
    "budgetary_resources": 0.0,
    "name": "Delta Regional Authority",
-   "obligations": 127212461.55,
-   "outlays": 66456177.95
+   "obligations": 126295395.91,
+   "outlays": 69863178.85
   },
   {
    "budgetary_resources": 75000000.0,
    "name": "Denali Commission",
    "obligations": 74994393.0,
-   "outlays": 34156090.57
+   "outlays": 34830626.03
   }
  ],
  "awards": [
@@ -128,7 +128,7 @@
    "description": "THE PROJECT INCLUDES ROW ACQUISITION, FINAL DESIGN, CONSTRUCTION, AND ROLLING STOCK FOR A NEW ALL-ELECTRIC HIGH-SPEED RAIL SYSTEM BETWEEN LAS VEGAS, NV AND RANCHO CUCAMONGA, CA. IT INCLUDES 218 MILES OF TRACK AND SYSTEMS, BRIDGES, HIGHWAY M",
    "id": "69A36524521060FSPNV",
    "kind": "grants",
-   "outlays": 469500713.12,
+   "outlays": 474595319.85,
    "recipient": "NV DEPARTMENT OF TRANSPORTATION",
    "url": "https://www.usaspending.gov/award/ASST_NON_69A36524521060FSPNV_069"
   },
@@ -148,7 +148,7 @@
    "description": "APPLICATION PURPOSE: THE PURPOSE IS TO CONSTRUCT THE HUDSON TUNNEL PROJECT (HTP).; ACTIVITIES PERFORMED: THE HTP INCLUDES THREE ELEMENTS: 1) THE CONSTRUCTION OF A NEW HUDSON RIVER TUNNEL BETWEEN NEW YORK AND NEW JERSEY; 2) THE REHABILITATIO",
    "id": "NY-2024-015",
    "kind": "grants",
-   "outlays": 277492016.0,
+   "outlays": 289559189.0,
    "recipient": "GATEWAY DEVELOPMENT COMMISSION",
    "url": "https://www.usaspending.gov/award/ASST_NON_NY-2024-015_069"
   },
@@ -178,7 +178,7 @@
    "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SANDIA, LLC (NTESS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S SANDIA NATIONAL LAB",
    "id": "DENA0003525",
    "kind": "contracts",
-   "outlays": 27227349900.77,
+   "outlays": 27720797189.94,
    "recipient": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0003525_8900_-NONE-_-NONE-"
   },
@@ -188,7 +188,7 @@
    "description": "MANAGEMENT AND OPERATION OF THE OAK RIDGE NATIONAL LABORATORY",
    "id": "DEAC0500OR22725",
    "kind": "contracts",
-   "outlays": 15219165243.21,
+   "outlays": 15449824264.35,
    "recipient": "UT-BATTELLE LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0500OR22725_8900_-NONE-_-NONE-"
   },
@@ -198,7 +198,7 @@
    "description": "TAS::89 0240::TAS THIS PERFORMANCE-BASED MANAGEMENT CONTRACT (PBMC) IS FOR THE MANAGEMENT AND OPERATION OF THE LAWRENCE LIVERMORE NATIONAL LABORATORY (LLNL). THE CONTRACTOR SHALL, IN ACCORDANCE WITH THE PROVISIONS OF THIS CONTRACT, ACCOMPLI",
    "id": "DEAC5207NA27344",
    "kind": "contracts",
-   "outlays": 17719717071.97,
+   "outlays": 18021815261.42,
    "recipient": "LAWRENCE LIVERMORE NATIONAL SECURITY, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC5207NA27344_8900_-NONE-_-NONE-"
   },
@@ -208,17 +208,17 @@
    "description": "IGF::CL::IGF COMPETITION FOR MANAGEMENT AND OPERATION OF LOS ALAMOS NATIONAL LABORATORY",
    "id": "89233218CNA000001",
    "kind": "contracts",
-   "outlays": 25919724127.01,
+   "outlays": 26428418044.95,
    "recipient": "TRIAD NATIONAL SECURITY, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_89233218CNA000001_8900_-NONE-_-NONE-"
   },
   {
    "agency": "Department of Energy",
-   "amount": 31194334447.95,
+   "amount": 31223517818.95,
    "description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY OPERATING AND MANAGING CONTRACT",
    "id": "DEAC0576RL01830",
    "kind": "contracts",
-   "outlays": 8436700652.4,
+   "outlays": 8589173620.5,
    "recipient": "BATTELLE MEMORIAL INSTITUTE",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-"
   },
@@ -228,7 +228,7 @@
    "description": "MANAGEMENT AND OPERATIONS OF THE INL",
    "id": "DEAC0705ID14517",
    "kind": "contracts",
-   "outlays": 10167654779.26,
+   "outlays": 10332392546.01,
    "recipient": "BATTELLE ENERGY ALLIANCE, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0705ID14517_8900_-NONE-_-NONE-"
   },
@@ -238,7 +238,7 @@
    "description": "THIS PERFORMANCE-BASED MANAGEMENT CONTRACT (PBMC) IS FOR THE MANAGEMENT AND OPERATION OF THE ERNEST ORLANDO LAWRENCE BERKELEY NATIONAL LABORATORY (LBNL). THE CONTRACTOR SHALL, IN ACCORDANCE WITH THE PROVISIONS OF THIS CONTRACT, ACCOMPLISH T",
    "id": "DEAC0205CH11231",
    "kind": "contracts",
-   "outlays": 7640561674.64,
+   "outlays": 7755814647.59,
    "recipient": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0205CH11231_8900_-NONE-_-NONE-"
   },
@@ -248,7 +248,7 @@
    "description": "PERFORMANCE-BASED CONTRACT FOR MANAGEMENT AND OPERATION OF ARGONNE NATIONAL LABORATORY",
    "id": "DEAC0206CH11357",
    "kind": "contracts",
-   "outlays": 7298151885.39,
+   "outlays": 7409805902.35,
    "recipient": "UCHICAGO ARGONNE, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0206CH11357_8900_-NONE-_-NONE-"
   }
@@ -264,22 +264,22 @@
   }
  ],
  "funding_by_code": {
-  "1": 366990613419.18,
-  "Z": 440740983451.74
+  "1": 385487945563.03,
+  "Z": 439335967154.66
  },
  "law": "117-58",
  "overview": {
-  "award_obligations": 567473136746.35,
-  "award_outlays": 304341858851.41,
-  "budget_authority": 807731596870.92,
-  "total_obligations": 607509194384.14,
-  "total_outlays": 330553807346.13
+  "award_obligations": 601999131759.25,
+  "award_outlays": 315024483762.14,
+  "budget_authority": 824823912717.69,
+  "total_obligations": 642918416099.63,
+  "total_outlays": 342092979369.96
  },
  "programs": [
   {
    "listing": "20.205",
    "name": "Highway Planning and Construction",
-   "obligations": 236669764480.33
+   "obligations": 236831515059.34
   },
   {
    "listing": "11.035",
@@ -289,12 +289,12 @@
   {
    "listing": "20.507",
    "name": "Federal Transit Formula Grants",
-   "obligations": 31470195176.01
+   "obligations": 32999977231.01
   },
   {
    "listing": "66.468",
    "name": "Drinking Water State Revolving Fund",
-   "obligations": 22940701482.0
+   "obligations": 24729991074.0
   },
   {
    "listing": "20.315",
@@ -304,7 +304,7 @@
   {
    "listing": "20.525",
    "name": "State of Good Repair Grants Program",
-   "obligations": 19077086897.0
+   "obligations": 19895782288.0
   },
   {
    "listing": "20.326",
@@ -314,7 +314,12 @@
   {
    "listing": "20.279",
    "name": "National Highway Performance Program (NHPP)",
-   "obligations": 14009457010.89
+   "obligations": 16413361130.76
+  },
+  {
+   "listing": "20.287",
+   "name": "Surface Transportation Block Grant Program",
+   "obligations": 14125806255.89
   },
   {
    "listing": "32.008",
@@ -332,19 +337,14 @@
    "obligations": 11358993330.62
   },
   {
-   "listing": "20.287",
-   "name": "Surface Transportation Block Grant Program",
-   "obligations": 10709704038.01
-  },
-  {
    "listing": "66.458",
    "name": "Clean Water State Revolving Fund",
-   "obligations": 10292536646.0
+   "obligations": 10845451646.0
   },
   {
    "listing": "20.526",
    "name": "Buses and Bus Facilities Formula, Competitive, and Low or No Emissions Programs",
-   "obligations": 6370267915.99
+   "obligations": 7098314337.99
   },
   {
    "listing": "81.254",

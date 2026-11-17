@@ -1,28 +1,28 @@
 {
  "agencies": [
   {
-   "budgetary_resources": 70324433000.0,
+   "budgetary_resources": 70292992855.18,
    "name": "Department of Defense",
-   "obligations": 62067515846.52,
-   "outlays": 41088452446.42
+   "obligations": 64237770070.36,
+   "outlays": 41778380231.65
   },
   {
    "budgetary_resources": 14482410863.0,
    "name": "Agency for International Development",
    "obligations": 13732752623.49,
-   "outlays": 11949237800.5
+   "outlays": 12002509894.35
   },
   {
    "budgetary_resources": 481000000.0,
    "name": "Department of Health and Human Services",
    "obligations": 460931091.02,
-   "outlays": 309890845.37
+   "outlays": 316676520.69
   },
   {
    "budgetary_resources": 400000000.0,
    "name": "Department of Homeland Security",
    "obligations": 391539184.75,
-   "outlays": 58510707.21
+   "outlays": 68414413.82
   },
   {
    "budgetary_resources": 250000000.0,
@@ -48,7 +48,7 @@
    "description": "TO PROVIDE EMERGENCY FOOD ASSISTANCE TO PEOPLE FACING SEVERE ACUTE FOOD INSECURITY IN ETHIOPIA",
    "id": "720BHA23CA00003",
    "kind": "grants",
-   "outlays": 284620968.71,
+   "outlays": 294282268.71,
    "recipient": "CATHOLIC RELIEF SERVICES - UNITED STATES CONFERENCE OF CATHOLIC BISHOPS",
    "url": "https://www.usaspending.gov/award/ASST_NON_720BHA23CA00003_072"
   },
@@ -68,7 +68,7 @@
    "description": "OVERSEAS ASSISTANCE",
    "id": "72012120CA00001",
    "kind": "grants",
-   "outlays": 198453702.0,
+   "outlays": 202796666.0,
    "recipient": "MISCELLANEOUS FOREIGN AWARDEES",
    "url": "https://www.usaspending.gov/award/ASST_NON_72012120CA00001_072"
   },
@@ -144,16 +144,6 @@
   },
   {
    "agency": "Department of Defense",
-   "amount": 535095274.04,
-   "description": "THIS EFFORT IS TO SUPPORT THE U.S. ARMY COMMUNICATIONS-ELECTRONICS COMMAND (CECOM), SOFTWARE ENGINEERING CENTER (SEC), AND TOBYHANNA ARMY DEPOT (TYAD) REQUIREMENT TO PROVIDE WORLDWIDE FIELD SUPPORT",
-   "id": "W56JSR21F0043",
-   "kind": "contracts",
-   "outlays": 53599438.05,
-   "recipient": "GENERAL DYNAMICS GLOBAL FORCE, LLC",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_W56JSR21F0043_9700_W15P7T17D0148_9700"
-  },
-  {
-   "agency": "Department of Defense",
    "amount": 383979761.7,
    "description": "LPD PY CONTRACT AWARD",
    "id": "N0002421C4205",
@@ -164,7 +154,7 @@
   },
   {
    "agency": "Department of Defense",
-   "amount": 367044512.85,
+   "amount": 372486045.35,
    "description": "FMS BASE CAR",
    "id": "W56JSR23F0062",
    "kind": "contracts",
@@ -173,24 +163,34 @@
    "url": "https://www.usaspending.gov/award/CONT_AWD_W56JSR23F0062_9700_47QTCK18D0029_4732"
   },
   {
-   "agency": "Department of Defense",
-   "amount": 337182504.25,
-   "description": "THIS EFFORT IS TO SUPPORT THE UNITED STATES ARMY COMMUNICATIONS-ELECTRONICS COMMAND, SOFTWARE ENGINEERING CENTER, AND TOBYHANNA ARMY DEPOT REQUIREMENT TO PROVIDE WORLDWIDE FIELD SUPPORT.",
-   "id": "W56JSR25F0002",
+   "agency": "Department of State",
+   "amount": 272260187.38,
+   "description": "THE TASK ORDER IS AWARDED FOR THE IMPLEMENTATION OF THE USAID/BHA PROGRAM ENTITLED BUREAU FOR HUMANITARIAN ASSISTANCE SUPPORT CONTRACT (BHASC). THE PURPOSE OF THE TASK ORDER IS TO PROVIDE OPERATIONAL AND ADMINISTRATIVE SUPPORT TO PROVIDE AN",
+   "id": "7200AA24N00001",
    "kind": "contracts",
-   "outlays": 0.0,
-   "recipient": "GENERAL DYNAMICS GLOBAL FORCE, LLC",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_W56JSR25F0002_9700_W15P7T17D0148_9700"
+   "outlays": 223269411.87,
+   "recipient": "CREDENCE MANAGEMENT SOLUTIONS LIMITED LIABILITY COMPANY",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_7200AA24N00001_7200_47QRAD20DU108_4732"
   },
   {
    "agency": "Department of Defense",
-   "amount": 297479672.31,
-   "description": "FORT POLK TASK ORDER TO PROVIDE CONTRACT SERVICES IN SUPPORT OF THE ARMY SUSTAINMENT COMMAND (ASC) - SHALL SUPPLY THE FUNCTIONS REQUIRED FOR LOGISTICS SUPPORT SERVICES INCLUDING MAINTENANCE, SUPPLY, AND TRANSPORTATION FUNCTIONAL AREAS.",
-   "id": "W519TC23F0191",
+   "amount": 267547637.02,
+   "description": "THE PURPOSE OF MODIFICATION 59 IS TO ADD INCREMENTAL FUNDING, REMOVE EXCESS FUNDS AND REALIGN FUNDS IN SUPPORT OF WORLDWIDE SUPPORT.",
+   "id": "W56JSR21F0043",
    "kind": "contracts",
-   "outlays": 11762608.92,
-   "recipient": "AMENTUM SERVICES, INC.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC23F0191_9700_W52P1J17G0091_9700"
+   "outlays": 53599438.05,
+   "recipient": "GENERAL DYNAMICS GLOBAL FORCE, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W56JSR21F0043_9700_W15P7T17D0148_9700"
+  },
+  {
+   "agency": "Department of State",
+   "amount": 198000000.0,
+   "description": "OVERSEAS CONTRACT",
+   "id": "72012120C00002",
+   "kind": "contracts",
+   "outlays": 129053804.41,
+   "recipient": "DOMESTIC AWARDEES (UNDISCLOSED)",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_72012120C00002_7200_-NONE-_-NONE-"
   }
  ],
  "codes": [
@@ -200,15 +200,15 @@
   }
  ],
  "funding_by_code": {
-  "AAJ": 90039843863.0
+  "AAJ": 90008403718.18
  },
  "law": "118-50",
  "overview": {
   "award_obligations": 14117330607.41,
-  "award_outlays": 12334291585.76,
-  "budget_authority": 90039843863.0,
-  "total_obligations": 84187210879.73,
-  "total_outlays": 62076957473.55
+  "award_outlays": 12399988712.86,
+  "budget_authority": 90008403718.18,
+  "total_obligations": 86344451034.0,
+  "total_outlays": 62849306860.16
  },
  "programs": [
   {

@@ -42,7 +42,7 @@
   ],
   [
    "Justice Department",
-   12
+   13
   ],
   [
    "Education Department",
@@ -52,16 +52,27 @@
  "by_type": {
   "Notice": 121,
   "Proposed Rule": 62,
-  "Rule": 60
+  "Rule": 61
  },
  "by_year": {
   "2025": 49,
-  "2026": 194
+  "2026": 195
  },
  "complete": true,
  "first": "2025-07-22",
- "last": "2026-11-16",
+ "last": "2026-11-17",
  "latest": [
+  {
+   "a": [
+    "Justice Department",
+    "Executive Office for Immigration Review"
+   ],
+   "d": "2026-11-17",
+   "k": "Rule",
+   "n": "2026-23320",
+   "t": "Appellate Procedures for the Board of Immigration Appeals",
+   "u": "https://www.federalregister.gov/documents/2026/11/17/2026-23320/appellate-procedures-for-the-board-of-immigration-appeals"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -207,20 +218,21 @@
    "n": "2026-21324",
    "t": "Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band",
    "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21324/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band"
-  },
-  {
-   "a": [
-    "Federal Communications Commission"
-   ],
-   "d": "2026-10-19",
-   "k": "Notice",
-   "n": "2026-21323",
-   "t": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
-   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21323/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
   }
  ],
  "law": "119-21",
  "rules": [
+  {
+   "a": [
+    "Justice Department",
+    "Executive Office for Immigration Review"
+   ],
+   "d": "2026-11-17",
+   "k": "Rule",
+   "n": "2026-23320",
+   "t": "Appellate Procedures for the Board of Immigration Appeals",
+   "u": "https://www.federalregister.gov/documents/2026/11/17/2026-23320/appellate-procedures-for-the-board-of-immigration-appeals"
+  },
   {
    "a": [
     "Agriculture Department",
@@ -370,20 +382,9 @@
    "n": "2026-20281",
    "t": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model",
    "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20281/global-benchmark-for-efficient-drug-pricing-globe-model"
-  },
-  {
-   "a": [
-    "Treasury Department",
-    "Internal Revenue Service"
-   ],
-   "d": "2026-10-02",
-   "k": "Proposed Rule",
-   "n": "2026-20277",
-   "t": "Federal Scholarship Tax Credit",
-   "u": "https://www.federalregister.gov/documents/2026/10/02/2026-20277/federal-scholarship-tax-credit"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-21%22+%7C+%22Pub.+L.+119-21%22+%7C+%22P.L.+119-21%22&order=newest",
  "term": "\"Public Law 119-21\" | \"Pub. L. 119-21\" | \"P.L. 119-21\"",
- "total": 243
+ "total": 244
 }

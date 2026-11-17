@@ -1,93 +1,93 @@
 {
  "agencies": [
   {
-   "budgetary_resources": 27874072000.0,
+   "budgetary_resources": 27900221000.0,
    "name": "Department of Defense",
-   "obligations": 27021588161.25,
-   "outlays": 20807459992.04
+   "obligations": 27068099601.82,
+   "outlays": 21201782392.01
   },
   {
-   "budgetary_resources": 26553332651.0,
+   "budgetary_resources": 26553546034.62,
    "name": "Department of Homeland Security",
-   "obligations": 26519398147.58,
-   "outlays": 22750490456.33
+   "obligations": 26511084245.72,
+   "outlays": 25004507614.31
   },
   {
    "budgetary_resources": 14190178000.0,
    "name": "Agency for International Development",
-   "obligations": 13694658858.89,
-   "outlays": 12271253588.74
+   "obligations": 13696652403.92,
+   "outlays": 12274478974.64
   },
   {
    "budgetary_resources": 5415644257.27,
    "name": "Department of Agriculture",
-   "obligations": 7246841466.36,
-   "outlays": 7021600597.96
+   "obligations": 7690509737.41,
+   "outlays": 7372103827.74
   },
   {
    "budgetary_resources": 6622987438.81,
    "name": "Department of Housing and Urban Development",
-   "obligations": 6615759404.72,
-   "outlays": 4236649749.93
+   "obligations": 6617807422.76,
+   "outlays": 4290675203.47
   },
   {
    "budgetary_resources": 6650258373.57,
    "name": "Department of Health and Human Services",
-   "obligations": 6046480009.85,
-   "outlays": 5443404213.06
+   "obligations": 6046032662.29,
+   "outlays": 5465451614.58
   },
   {
    "budgetary_resources": 2012539000.0,
    "name": "Department of Commerce",
-   "obligations": 2978343667.66,
-   "outlays": 784478150.22
+   "obligations": 3031112606.3,
+   "outlays": 814534592.95
   },
   {
    "budgetary_resources": 1946300000.0,
    "name": "Department of Energy",
-   "obligations": 1889110467.48,
-   "outlays": 1359927956.47
+   "obligations": 1889307755.91,
+   "outlays": 1369548839.01
   },
   {
    "budgetary_resources": 2789465956.13,
    "name": "Department of the Interior",
-   "obligations": 1648749321.11,
-   "outlays": 1387643969.24
+   "obligations": 1739783776.88,
+   "outlays": 1403691876.61
   },
   {
    "budgetary_resources": 1027000000.0,
    "name": "Small Business Administration",
-   "obligations": 1022854416.17,
-   "outlays": 1022836331.98
+   "obligations": 1022951248.1,
+   "outlays": 1022896995.4
   },
   {
    "budgetary_resources": 1037662000.0,
    "name": "National Science Foundation",
-   "obligations": 1011807543.51,
-   "outlays": 872875135.25
+   "obligations": 1011774364.77,
+   "outlays": 882638327.31
   },
   {
    "budgetary_resources": 1480000000.0,
    "name": "Corps of Engineers - Civil Works",
-   "obligations": 879296079.37,
-   "outlays": 718272183.91
+   "obligations": 880200541.82,
+   "outlays": 746643970.04
   },
   {
    "budgetary_resources": 1016905338.0,
    "name": "Department of Transportation",
-   "obligations": 832155064.62,
-   "outlays": 692216311.88
+   "obligations": 832388643.87,
+   "outlays": 697689251.56
   },
   {
    "budgetary_resources": 556400000.0,
    "name": "National Aeronautics and Space Administration",
-   "obligations": 525443460.98,
-   "outlays": 340569657.49
+   "obligations": 532213552.3,
+   "outlays": 345247216.53
   },
   {
    "budgetary_resources": 36788390.0,
    "name": "General Services Administration",
-   "obligations": 23708070.98,
+   "obligations": 24327293.75,
    "outlays": 9631554.77
   }
  ],
@@ -98,7 +98,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4499DRORP00000001",
    "kind": "grants",
-   "outlays": 1251658113.63,
+   "outlays": 1252852847.3,
    "recipient": "OREGON MILITARY DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
   },
@@ -108,7 +108,7 @@
    "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
    "id": "B-23-UN-12-0002",
    "kind": "grants",
-   "outlays": 210212778.2,
+   "outlays": 221012971.73,
    "recipient": "COUNTY OF LEE",
    "url": "https://www.usaspending.gov/award/ASST_NON_B-23-UN-12-0002_086"
   },
@@ -123,22 +123,12 @@
    "url": "https://www.usaspending.gov/award/ASST_NON_4500DRCTP00000001_070"
   },
   {
-   "agency": "National Science Foundation",
-   "amount": 1012598088.0,
-   "description": "THE MANAGEMENT AND OPERATION OF THE NATIONAL CENTER FOR ATMOSPHERIC RESEARCH",
-   "id": "1755088",
-   "kind": "grants",
-   "outlays": 647455228.8,
-   "recipient": "UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH",
-   "url": "https://www.usaspending.gov/award/ASST_NON_1755088_049"
-  },
-  {
    "agency": "Department of Energy",
    "amount": 921717024.0,
    "description": "COMPETITIVE COOPERATIVE AGREEMENT: ADVANCED REACTOR DEMONSTRATION FOA# DE-FOA-0002271 PATHWAY 1 ADVANCED REACTOR DEMONSTRATIONS (DEMOS) AWARD TO X ENERGY, LLC THIS PROGRAM IS INTENDED TO FACILITATE THE DEVELOPMENT OF U.S. PRIVATE INDUSTRY A",
    "id": "DENE0009040",
    "kind": "grants",
-   "outlays": 581350171.29,
+   "outlays": 612283407.52,
    "recipient": "X ENERGY, LLC",
    "url": "https://www.usaspending.gov/award/ASST_NON_DENE0009040_089"
   },
@@ -148,7 +138,7 @@
    "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
    "id": "B-23-DN-12-0001",
    "kind": "grants",
-   "outlays": 357236561.48,
+   "outlays": 388491218.8,
    "recipient": "FLORIDA DEPARTMENT OF COMMERCE",
    "url": "https://www.usaspending.gov/award/ASST_NON_B-23-DN-12-0001_086"
   },
@@ -158,7 +148,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "1603DRLAP0000005",
    "kind": "grants",
-   "outlays": 51696224.27,
+   "outlays": 51777169.39,
    "recipient": "HOMELAND SECURITY & EMERGENCY",
    "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
   },
@@ -173,12 +163,22 @@
    "url": "https://www.usaspending.gov/award/ASST_NON_4531DRMNP00000001_070"
   },
   {
+   "agency": "Department of Homeland Security",
+   "amount": 542881187.54,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4483DRIAP00000001",
+   "kind": "grants",
+   "outlays": 290875101.07,
+   "recipient": "IOWA HOMELAND SECURITY AND EMERGENCY MANAGEMENT DEPARTMENT",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4483DRIAP00000001_070"
+  },
+  {
    "agency": "Department of Energy",
    "amount": 44093914875.26,
    "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SANDIA, LLC (NTESS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S SANDIA NATIONAL LAB",
    "id": "DENA0003525",
    "kind": "contracts",
-   "outlays": 27227349900.77,
+   "outlays": 27720797189.94,
    "recipient": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0003525_8900_-NONE-_-NONE-"
   },
@@ -188,7 +188,7 @@
    "description": "MANAGEMENT AND OPERATION OF THE OAK RIDGE NATIONAL LABORATORY",
    "id": "DEAC0500OR22725",
    "kind": "contracts",
-   "outlays": 15219165243.21,
+   "outlays": 15449824264.35,
    "recipient": "UT-BATTELLE LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0500OR22725_8900_-NONE-_-NONE-"
   },
@@ -198,7 +198,7 @@
    "description": "TAS::89 0240::TAS THIS PERFORMANCE-BASED MANAGEMENT CONTRACT (PBMC) IS FOR THE MANAGEMENT AND OPERATION OF THE LAWRENCE LIVERMORE NATIONAL LABORATORY (LLNL). THE CONTRACTOR SHALL, IN ACCORDANCE WITH THE PROVISIONS OF THIS CONTRACT, ACCOMPLI",
    "id": "DEAC5207NA27344",
    "kind": "contracts",
-   "outlays": 17719717071.97,
+   "outlays": 18021815261.42,
    "recipient": "LAWRENCE LIVERMORE NATIONAL SECURITY, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC5207NA27344_8900_-NONE-_-NONE-"
   },
@@ -208,7 +208,7 @@
    "description": "IGF::CL::IGF COMPETITION FOR MANAGEMENT AND OPERATION OF LOS ALAMOS NATIONAL LABORATORY",
    "id": "89233218CNA000001",
    "kind": "contracts",
-   "outlays": 25919724127.01,
+   "outlays": 26428418044.95,
    "recipient": "TRIAD NATIONAL SECURITY, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_89233218CNA000001_8900_-NONE-_-NONE-"
   },
@@ -218,17 +218,17 @@
    "description": "IGF::CL,CT::IGF MANAGEMENT AND OPERATING CONTRACT FOR Y-12 NATIONAL SECURITY COMPLEX, PANTEX PLANT, WITH AN OPTION FOR SAVANNAH RIVER TRITIUM OPERATIONS",
    "id": "DENA0001942",
    "kind": "contracts",
-   "outlays": 18671780536.91,
+   "outlays": 18903781065.15,
    "recipient": "CONSOLIDATED NUCLEAR SECURITY, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0001942_8900_-NONE-_-NONE-"
   },
   {
    "agency": "Department of Energy",
-   "amount": 31194334447.95,
+   "amount": 31223517818.95,
    "description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY OPERATING AND MANAGING CONTRACT",
    "id": "DEAC0576RL01830",
    "kind": "contracts",
-   "outlays": 8436700652.4,
+   "outlays": 8589173620.5,
    "recipient": "BATTELLE MEMORIAL INSTITUTE",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-"
   },
@@ -238,7 +238,7 @@
    "description": "MANAGEMENT AND OPERATING CONTRACT FOR THE SAVANNAH RIVER SITE.",
    "id": "DEAC0908SR22470",
    "kind": "contracts",
-   "outlays": 11769910195.3,
+   "outlays": 12041409786.27,
    "recipient": "SAVANNAH RIVER NUCLEAR SOLUTIONS LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0908SR22470_8900_-NONE-_-NONE-"
   },
@@ -248,7 +248,7 @@
    "description": "MANAGEMENT AND OPERATIONS OF THE INL",
    "id": "DEAC0705ID14517",
    "kind": "contracts",
-   "outlays": 10167654779.26,
+   "outlays": 10332392546.01,
    "recipient": "BATTELLE ENERGY ALLIANCE, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0705ID14517_8900_-NONE-_-NONE-"
   }
@@ -268,23 +268,23 @@
   }
  ],
  "funding_by_code": {
-  "AAB": 82008341940.53,
+  "AAB": 82034490940.53,
   "AAC": 3951722657.27,
-  "AAD": 20114000000.0
+  "AAD": 20114213383.62
  },
  "law": "117-328",
  "overview": {
-  "award_obligations": 58679234556.85,
-  "award_outlays": 50667110431.32,
-  "budget_authority": 106074064597.8,
-  "total_obligations": 102589245666.61,
-  "total_outlays": 83601843037.43
+  "award_obligations": 58837405836.61,
+  "award_outlays": 52957848190.27,
+  "budget_authority": 106100426981.42,
+  "total_obligations": 103525053458.35,
+  "total_outlays": 86882914711.06
  },
  "programs": [
   {
    "listing": "97.036",
    "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
-   "obligations": 215509354861.83
+   "obligations": 215530752183.3
   },
   {
    "listing": "98.001",
@@ -294,12 +294,12 @@
   {
    "listing": "97.048",
    "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
-   "obligations": 15720545931.56
+   "obligations": 15746197709.09
   },
   {
    "listing": "97.039",
    "name": "Hazard Mitigation Grant",
-   "obligations": 10751331949.09
+   "obligations": 10750301722.68
   },
   {
    "listing": "93.568",
@@ -329,7 +329,7 @@
   {
    "listing": "10.703",
    "name": "Cooperative Fire Protection Agreement",
-   "obligations": 3233695426.52
+   "obligations": 3236740158.29
   },
   {
    "listing": "14.228",
@@ -339,22 +339,22 @@
   {
    "listing": "47.049",
    "name": "Mathematical and Physical Sciences",
-   "obligations": 2110794732.0
+   "obligations": 2110818166.0
   },
   {
    "listing": "47.050",
    "name": "Geosciences",
-   "obligations": 1501364593.0
+   "obligations": 1528674593.0
   },
   {
    "listing": "97.047",
    "name": "BRIC: Building Resilient Infrastructure and Communities",
-   "obligations": 1182839328.08
+   "obligations": 1186085610.45
   },
   {
    "listing": "81.121",
    "name": "Nuclear Energy Research, Development and Demonstration",
-   "obligations": 1121087522.0
+   "obligations": 1171087522.0
   }
  ],
  "shared_codes": [],

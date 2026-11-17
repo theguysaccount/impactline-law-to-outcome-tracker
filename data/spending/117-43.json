@@ -1,76 +1,76 @@
 {
  "agencies": [
   {
-   "budgetary_resources": 4995405054.12,
+   "budgetary_resources": 4995399970.07,
    "name": "Department of Housing and Urban Development",
-   "obligations": 4991778186.96,
-   "outlays": 2306656503.57
+   "obligations": 4991794833.05,
+   "outlays": 2362974853.25
   },
   {
    "budgetary_resources": 4209273000.0,
    "name": "Department of Health and Human Services",
-   "obligations": 4001621238.85,
-   "outlays": 3823694949.24
+   "obligations": 4001425504.79,
+   "outlays": 3823603751.39
   },
   {
    "budgetary_resources": 11635000000.0,
    "name": "Department of Agriculture",
-   "obligations": 3125303983.21,
-   "outlays": 2848729876.38
+   "obligations": 3137500039.34,
+   "outlays": 2865894966.21
   },
   {
    "budgetary_resources": 3117044437.8,
    "name": "Department of Defense",
-   "obligations": 2557089519.33,
-   "outlays": 2726689593.81
-  },
-  {
-   "budgetary_resources": 2699940290.0,
-   "name": "Department of Transportation",
-   "obligations": 2471505517.49,
-   "outlays": 2206870528.41
+   "obligations": 2557085760.83,
+   "outlays": 2734546862.43
   },
   {
    "budgetary_resources": 5711000000.0,
    "name": "Corps of Engineers - Civil Works",
-   "obligations": 2464723546.68,
-   "outlays": 1625370450.02
+   "obligations": 2528478432.26,
+   "outlays": 1683334677.67
+  },
+  {
+   "budgetary_resources": 2699940290.0,
+   "name": "Department of Transportation",
+   "obligations": 2506792418.02,
+   "outlays": 2223544539.39
   },
   {
    "budgetary_resources": 1768000000.0,
    "name": "Department of State",
-   "obligations": 1648701904.61,
-   "outlays": 1552015425.63
+   "obligations": 1644528832.69,
+   "outlays": 1558756013.52
   },
   {
    "budgetary_resources": 1189100000.0,
    "name": "Small Business Administration",
-   "obligations": 1140248525.23,
-   "outlays": 1125050717.08
+   "obligations": 1139444991.75,
+   "outlays": 1126105213.14
   },
   {
    "budgetary_resources": 635850000.0,
    "name": "Department of the Interior",
-   "obligations": 545041573.59,
-   "outlays": 473623428.7
+   "obligations": 569164566.88,
+   "outlays": 480090264.67
   },
   {
    "budgetary_resources": 367039000.0,
    "name": "Department of Commerce",
-   "obligations": 437709613.49,
-   "outlays": 296609159.57
+   "obligations": 464641469.83,
+   "outlays": 299638934.6
   },
   {
    "budgetary_resources": 400000000.0,
    "name": "Agency for International Development",
    "obligations": 399945432.91,
-   "outlays": 397506331.6
+   "outlays": 397503598.6
   },
   {
    "budgetary_resources": 321400000.0,
    "name": "National Aeronautics and Space Administration",
-   "obligations": 311021327.78,
-   "outlays": 220520090.67
+   "obligations": 312508117.78,
+   "outlays": 227727535.12
   },
   {
    "budgetary_resources": 50000000.0,
@@ -81,14 +81,14 @@
   {
    "budgetary_resources": 50000000.0,
    "name": "Department of Homeland Security",
-   "obligations": 47110276.3,
-   "outlays": 45234470.78
+   "obligations": 47460635.02,
+   "outlays": 45243763.26
   },
   {
    "budgetary_resources": 43300000.0,
    "name": "Department of Energy",
    "obligations": 43162441.46,
-   "outlays": 31326951.53
+   "outlays": 32153930.17
   }
  ],
  "awards": [
@@ -98,7 +98,7 @@
    "description": "COMMUNITY DEVELOPMENT BLOCK GRANTS/STATE'S PROGRAM AND NON-ENTITLEMENT GRANTS IN HAWAII",
    "id": "B-21-DF-22-0001",
    "kind": "grants",
-   "outlays": 859242054.6,
+   "outlays": 868100322.36,
    "recipient": "ADMINISTRATION, LOUISIANA DIVISION OF",
    "url": "https://www.usaspending.gov/award/ASST_NON_B-21-DF-22-0001_086"
   },
@@ -118,7 +118,7 @@
    "description": "COMMUNITY DEVELOPMENT BLOCK GRANTS/STATE'S PROGRAM AND NON-ENTITLEMENT GRANTS IN HAWAII",
    "id": "B-21-DZ-22-0001",
    "kind": "grants",
-   "outlays": 705119279.54,
+   "outlays": 712276812.87,
    "recipient": "ADMINISTRATION, LOUISIANA DIVISION OF",
    "url": "https://www.usaspending.gov/award/ASST_NON_B-21-DZ-22-0001_086"
   },
@@ -138,7 +138,7 @@
    "description": "COMMUNITY DEVELOPMENT BLOCK GRANTS/STATE'S PROGRAM AND NON-ENTITLEMENT GRANTS IN HAWAII",
    "id": "B-21-DZ-01-0001",
    "kind": "grants",
-   "outlays": 278892320.86,
+   "outlays": 280053887.31,
    "recipient": "ECONOMIC AND COMMUNITY AFFAIRS, ALABAMA DEPARTMENT OF",
    "url": "https://www.usaspending.gov/award/ASST_NON_B-21-DZ-01-0001_086"
   },
@@ -183,16 +183,6 @@
    "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-"
   },
   {
-   "agency": "Department of Defense",
-   "amount": 4536552040.46,
-   "description": "LOGISTICS CIVIL AUGMENTATION PROGRAM (LOGCAP) V SUPPORT SERVICES IN KUWAIT",
-   "id": "W52P1J19F0400",
-   "kind": "contracts",
-   "outlays": 30172299.36,
-   "recipient": "V2X SYSTEMS LLC",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J19F0400_9700_W52P1J19D0045_9700"
-  },
-  {
    "agency": "Department of Health and Human Services",
    "amount": 3516373308.21,
    "description": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE THE FULL COMPLEMENT OF SERVICES NECESSARY TO CARE FOR UC IN ORR CUSTODY INCLUDING FACILITIES SET-UP, MAINTENANCE, AND SUPPORT INTERNAL AND PERIMETER (IF APPLICABLE) SECURITY, DIRECT CARE AND SUPERV",
@@ -201,16 +191,6 @@
    "outlays": 2948772104.63,
    "recipient": "RAPID DEPLOYMENT INC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_75ACF121C00020_7590_-NONE-_-NONE-"
-  },
-  {
-   "agency": "Department of Defense",
-   "amount": 3308165690.88,
-   "description": "TASK ORDER AWARD FOR LOGCAP SUPPORT TO OPERATION ALLIES REFUGE FOR SUPPORT AT FT. BLISS, TX FT. MCCOY, WI FT. PICKETT, VA AND CAMP ATTERBURY, IN.",
-   "id": "W52P1J21F0454",
-   "kind": "contracts",
-   "outlays": 390665425.17,
-   "recipient": "KBR SERVICES, LLC",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J21F0454_9700_W52P1J19D0044_9700"
   },
   {
    "agency": "National Aeronautics and Space Administration",
@@ -233,6 +213,16 @@
    "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM23F0766_1900_19AQMM19D0119_1900"
   },
   {
+   "agency": "Department of Defense",
+   "amount": 2265448772.76,
+   "description": "LOGISTICS CIVIL AUGMENTATION PROGRAM (LOGCAP) V SUPPORT SERVICES IN KUWAIT",
+   "id": "W52P1J19F0400",
+   "kind": "contracts",
+   "outlays": 30172299.36,
+   "recipient": "V2X SYSTEMS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J19F0400_9700_W52P1J19D0045_9700"
+  },
+  {
    "agency": "Department of Energy",
    "amount": 2112195603.19,
    "description": "IGF::OT::IGF MANAGEMENT AND OPERATION OF THE STRATEGIC PETROLEUM RESERVE FACILITIES.",
@@ -241,6 +231,16 @@
    "outlays": 866453532.55,
    "recipient": "FLUOR FEDERAL PETROLEUM OPERATIONS, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEFE0011020_8900_-NONE-_-NONE-"
+  },
+  {
+   "agency": "Department of Defense",
+   "amount": 1654082845.44,
+   "description": "TASK ORDER AWARD FOR LOGCAP SUPPORT TO OPERATION ALLIES REFUGE FOR SUPPORT AT FT. BLISS, TX FT. MCCOY, WI FT. PICKETT, VA AND CAMP ATTERBURY, IN.",
+   "id": "W52P1J21F0454",
+   "kind": "contracts",
+   "outlays": 390665425.17,
+   "recipient": "KBR SERVICES, LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J21F0454_9700_W52P1J19D0044_9700"
   },
   {
    "agency": "Department of Transportation",
@@ -264,21 +264,21 @@
   }
  ],
  "funding_by_code": {
-  "X": 37232351781.92
+  "X": 37232346697.87
  },
  "law": "117-43",
  "overview": {
-  "award_obligations": 18259903960.79,
-  "award_outlays": 12829652977.62,
-  "budget_authority": 37232351781.92,
-  "total_obligations": 32389493413.71,
-  "total_outlays": 27562873390.92
+  "award_obligations": 18328003687.85,
+  "award_outlays": 12926804387.79,
+  "budget_authority": 37232346697.87,
+  "total_obligations": 32548463802.43,
+  "total_outlays": 27744093817.39
  },
  "programs": [
   {
    "listing": "97.036",
    "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
-   "obligations": 33581855132.56
+   "obligations": 33576306381.9
   },
   {
    "listing": "93.323",

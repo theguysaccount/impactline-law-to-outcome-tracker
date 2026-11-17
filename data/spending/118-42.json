@@ -4,25 +4,25 @@
    "budgetary_resources": 8000000000.0,
    "name": "Department of Housing and Urban Development",
    "obligations": 7999857760.0,
-   "outlays": 7867277307.0
+   "outlays": 7890555196.0
   },
   {
    "budgetary_resources": 700000000.0,
    "name": "National Aeronautics and Space Administration",
-   "obligations": 680672728.7,
-   "outlays": 550212124.07
+   "obligations": 680432934.24,
+   "outlays": 553641610.86
   },
   {
-   "budgetary_resources": 584000000.0,
+   "budgetary_resources": 614000000.0,
    "name": "Department of the Interior",
-   "obligations": 480714480.53,
-   "outlays": 351989890.1
+   "obligations": 637353852.54,
+   "outlays": 494472068.64
   },
   {
    "budgetary_resources": 99900000.0,
    "name": "Department of Commerce",
-   "obligations": 97191559.0,
-   "outlays": 95739223.69
+   "obligations": 98191558.99,
+   "outlays": 95691286.3
   }
  ],
  "awards": [
@@ -52,7 +52,7 @@
    "description": "BASE OPERATIONS AND SPACEPORT SERVICES (BOSS) CONTRACT",
    "id": "80KSC018C0017",
    "kind": "contracts",
-   "outlays": 585412498.78,
+   "outlays": 600171445.62,
    "recipient": "AMENTUM SPACEPORT LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_80KSC018C0017_8000_-NONE-_-NONE-"
   },
@@ -68,7 +68,7 @@
   },
   {
    "agency": "National Aeronautics and Space Administration",
-   "amount": 310202767.68,
+   "amount": 312765701.15,
    "description": "NASA CONSOLIDATED APPLICATION AND PLATFORM SERVICES (NCAPS)",
    "id": "80TECH24CA002",
    "kind": "contracts",
@@ -78,7 +78,7 @@
   },
   {
    "agency": "National Aeronautics and Space Administration",
-   "amount": 260040541.82,
+   "amount": 261005811.04,
    "description": "THE PURPOSE OF THIS CONTRACT IS TO ACQUIRE REPAIRS, OPERATIONS & MAINTENANCE, AND ENGINEERING (ROME) AND RELATED SERVICES FOR THE GODDARD SPACE FLIGHT CENTER (GREENBELT AND WALLOPS FLIGHT FACILITY).",
    "id": "80GSFC23CA052",
    "kind": "contracts",
@@ -119,15 +119,15 @@
  ],
  "funding_by_code": {
   "AAF": 8799900000.0,
-  "AAG": 584000000.0
+  "AAG": 614000000.0
  },
  "law": "118-42",
  "overview": {
-  "award_obligations": 8645768206.08,
-  "award_outlays": 8436843799.22,
-  "budget_authority": 9383900000.0,
-  "total_obligations": 9586436528.23,
-  "total_outlays": 9193218544.86
+  "award_obligations": 8692779351.73,
+  "award_outlays": 8511045911.2,
+  "budget_authority": 9413900000.0,
+  "total_obligations": 9743836105.77,
+  "total_outlays": 9362360161.8
  },
  "programs": [
   {

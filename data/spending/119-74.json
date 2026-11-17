@@ -1,16 +1,16 @@
 {
  "agencies": [
   {
-   "budgetary_resources": 4901746012.99,
+   "budgetary_resources": 4896901036.33,
    "name": "Department of Agriculture",
-   "obligations": 3991130255.96,
-   "outlays": 3265020168.06
+   "obligations": 4720707438.47,
+   "outlays": 4125823827.91
   },
   {
-   "budgetary_resources": 180000000.0,
+   "budgetary_resources": 102000000.0,
    "name": "Department of the Interior",
-   "obligations": 91918288.93,
-   "outlays": 85677148.52
+   "obligations": 101989521.08,
+   "outlays": 99245571.65
   }
  ],
  "awards": [
@@ -20,7 +20,7 @@
    "description": "THIS AWARD IS A CONTINUATION OF THE NATIONAL WILDFIRE PREVENTION CAMPAIGN FEATURING SMOKEY BEAR. THIS COOPERATIVE AGREEMENT HAS THE ABILITY TO GENERATE A WIDE-REACHING PUBLIC SERVICE ADVERTISING CAMPAIGN FOR PUBLIC OUTREACH AND EDUCATION TO",
    "id": "26CA11132543020",
    "kind": "grants",
-   "outlays": 65222.73,
+   "outlays": 179677.26,
    "recipient": "THE ADVERTISING COUNCIL INC",
    "url": "https://www.usaspending.gov/award/ASST_NON_26CA11132543020_012"
   },
@@ -40,7 +40,7 @@
    "description": "FAM RETARDANT - FULL SERVICE, 2026 IQ-NOCOMMIT CONTINUANCE OF TASK ORDER 1202SC26K2501",
    "id": "1202SC26K2503",
    "kind": "contracts",
-   "outlays": 35899948.17,
+   "outlays": 60464898.39,
    "recipient": "PERIMETER SOLUTIONS LP",
    "url": "https://www.usaspending.gov/award/CONT_AWD_1202SC26K2503_12C2_1202SC26T2500_12C2"
   },
@@ -50,7 +50,7 @@
    "description": "FAM RETARDANT - FULL SERVICE, 2026 IQ-NOCOMMIT",
    "id": "1202SC26K2501",
    "kind": "contracts",
-   "outlays": 46016074.41,
+   "outlays": 49836812.87,
    "recipient": "PERIMETER SOLUTIONS LP",
    "url": "https://www.usaspending.gov/award/CONT_AWD_1202SC26K2501_12C2_1202SC26T2500_12C2"
   },
@@ -70,7 +70,7 @@
    "description": "COULSON - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER 160 DAY MAP",
    "id": "1202SA24K9116",
    "kind": "contracts",
-   "outlays": 29127457.69,
+   "outlays": 33133571.18,
    "recipient": "COULSON AVIATION (USA), INC.",
    "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9116_12C2_1202SA23T9103_12C2"
   },
@@ -80,7 +80,7 @@
    "description": "10 TANKER - AIRTANKER MATCO EXCLUSIVE USE TASK ORDER 2024-2028 - 120 DAY MAP",
    "id": "1202SA24K9112",
    "kind": "contracts",
-   "outlays": 30583314.41,
+   "outlays": 34045524.97,
    "recipient": "10 TANKER AIR CARRIER, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9112_12C2_1202SA23T9100_12C2"
   },
@@ -90,7 +90,7 @@
    "description": "10 TANKER - AIRTANKER MATOC EXCLUSIVE USE TASK ORDER",
    "id": "1202SA24K9128",
    "kind": "contracts",
-   "outlays": 29490404.18,
+   "outlays": 31951618.67,
    "recipient": "10 TANKER AIR CARRIER, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9128_12C2_1202SA23T9100_12C2"
   },
@@ -100,7 +100,7 @@
    "description": "10 TANKER - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER 120 DAY MAP",
    "id": "1202SA24K9124",
    "kind": "contracts",
-   "outlays": 27506762.25,
+   "outlays": 31221234.61,
    "recipient": "10 TANKER AIR CARRIER, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9124_12C2_1202SA23T9100_12C2"
   },
@@ -110,7 +110,7 @@
    "description": "AERO AIR - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER - 160 DAY MAP",
    "id": "1202SA24K9115",
    "kind": "contracts",
-   "outlays": 28339795.55,
+   "outlays": 30093345.25,
    "recipient": "AERO AIR, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9115_12C2_1202SA23T9101_12C2"
   }
@@ -122,21 +122,31 @@
   }
  ],
  "funding_by_code": {
-  "AAM": 5081746012.99
+  "AAM": 4998901036.33
  },
  "law": "119-74",
  "overview": {
-  "award_obligations": 1301127064.95,
-  "award_outlays": 1342056275.93,
-  "budget_authority": 5081746012.99,
-  "total_obligations": 4083048544.89,
-  "total_outlays": 3350697316.58
+  "award_obligations": 1973996346.39,
+  "award_outlays": 2067374360.34,
+  "budget_authority": 4998901036.33,
+  "total_obligations": 4822696959.55,
+  "total_outlays": 4225069399.56
  },
  "programs": [
   {
    "listing": "10.703",
    "name": "Cooperative Fire Protection Agreement",
-   "obligations": 2882034640.13
+   "obligations": 2882088521.71
+  },
+  {
+   "listing": "10.699",
+   "name": "Partnership Agreements",
+   "obligations": 6835451.59
+  },
+  {
+   "listing": "10.691",
+   "name": "Good Neighbor Authority ",
+   "obligations": 4395402.0
   },
   {
    "listing": "10.664",
@@ -144,14 +154,9 @@
    "obligations": 3405817.0
   },
   {
-   "listing": "10.699",
-   "name": "Partnership Agreements",
-   "obligations": 1121031.32
-  },
-  {
    "listing": "10.740",
    "name": "Youth Conservation Corps and Public Land Corps",
-   "obligations": 867734.14
+   "obligations": 968759.14
   },
   {
    "listing": "10.704",
@@ -161,7 +166,7 @@
   {
    "listing": "10.709",
    "name": "Cost Reimbursable Agreements",
-   "obligations": 134688.23
+   "obligations": 257374.31
   },
   {
    "listing": "10.738",
@@ -169,14 +174,24 @@
    "obligations": 49160.62
   },
   {
-   "listing": "10.691",
-   "name": "Good Neighbor Authority ",
-   "obligations": 46942.0
-  },
-  {
    "listing": "10.716",
    "name": "Infrastructure Investment and Jobs Act Prescribed Fire/Fire Recovery",
    "obligations": 42500.0
+  },
+  {
+   "listing": "10.665",
+   "name": "Schools and Roads - Grants to States",
+   "obligations": 38996.0
+  },
+  {
+   "listing": "10.717",
+   "name": "Infrastructure Investment and Jobs Act Restoration/Revegetation",
+   "obligations": 10000.0
+  },
+  {
+   "listing": "10.712",
+   "name": "Great American Outdoors Act Deferred Maintenance Program",
+   "obligations": 6000.0
   }
  ],
  "shared_codes": [],

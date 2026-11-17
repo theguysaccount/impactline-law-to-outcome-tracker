@@ -2,7 +2,7 @@
  "agencies": [
   [
    "Veterans Affairs Department",
-   13
+   14
   ],
   [
    "Management and Budget Office",
@@ -10,16 +10,27 @@
   ]
  ],
  "by_type": {
-  "Notice": 14
+  "Notice": 14,
+  "Proposed Rule": 1
  },
  "by_year": {
   "2025": 3,
-  "2026": 11
+  "2026": 12
  },
  "complete": true,
  "first": "2025-01-30",
- "last": "2026-09-23",
+ "last": "2026-11-16",
  "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-11-16",
+   "k": "Proposed Rule",
+   "n": "2026-23220",
+   "t": "Dole State and Tribal Outreach Grant Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/16/2026-23220/dole-state-and-tribal-outreach-grant-program"
+  },
   {
    "a": [
     "Veterans Affairs Department"
@@ -162,8 +173,19 @@
   }
  ],
  "law": "118-210",
- "rules": [],
+ "rules": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-11-16",
+   "k": "Proposed Rule",
+   "n": "2026-23220",
+   "t": "Dole State and Tribal Outreach Grant Program",
+   "u": "https://www.federalregister.gov/documents/2026/11/16/2026-23220/dole-state-and-tribal-outreach-grant-program"
+  }
+ ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-210%22+%7C+%22Pub.+L.+118-210%22+%7C+%22P.L.+118-210%22&order=newest",
  "term": "\"Public Law 118-210\" | \"Pub. L. 118-210\" | \"P.L. 118-210\"",
- "total": 14
+ "total": 15
 }

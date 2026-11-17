@@ -3,13 +3,13 @@
   {
    "budgetary_resources": 600000000.0,
    "name": "Department of State",
-   "obligations": 595469255.8,
-   "outlays": 562682132.73
+   "obligations": 597197254.02,
+   "outlays": 561205635.42
   },
   {
-   "budgetary_resources": 71400000.0,
+   "budgetary_resources": 28831319.69,
    "name": "Department of Defense",
-   "obligations": 455737334.36,
+   "obligations": 436740391.21,
    "outlays": 460296784.65
   },
   {
@@ -107,8 +107,18 @@
    "url": "https://www.usaspending.gov/award/ASST_NON_SPRMCO21CA3291_019"
   },
   {
+   "agency": "Department of State",
+   "amount": 2309491422.64,
+   "description": "CARE LOGISTICAL SUPPORT SERVICES - CLSS",
+   "id": "19AQMM23F0766",
+   "kind": "contracts",
+   "outlays": 291496363.84,
+   "recipient": "XATOR LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM23F0766_1900_19AQMM19D0119_1900"
+  },
+  {
    "agency": "Department of Defense",
-   "amount": 4536552040.46,
+   "amount": 2265448772.76,
    "description": "LOGISTICS CIVIL AUGMENTATION PROGRAM (LOGCAP) V SUPPORT SERVICES IN KUWAIT",
    "id": "W52P1J19F0400",
    "kind": "contracts",
@@ -118,23 +128,13 @@
   },
   {
    "agency": "Department of Defense",
-   "amount": 3308165690.88,
+   "amount": 1654082845.44,
    "description": "TASK ORDER AWARD FOR LOGCAP SUPPORT TO OPERATION ALLIES REFUGE FOR SUPPORT AT FT. BLISS, TX FT. MCCOY, WI FT. PICKETT, VA AND CAMP ATTERBURY, IN.",
    "id": "W52P1J21F0454",
    "kind": "contracts",
    "outlays": 390665425.17,
    "recipient": "KBR SERVICES, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J21F0454_9700_W52P1J19D0044_9700"
-  },
-  {
-   "agency": "Department of State",
-   "amount": 2309491422.64,
-   "description": "CARE LOGISTICAL SUPPORT SERVICES - CLSS",
-   "id": "19AQMM23F0766",
-   "kind": "contracts",
-   "outlays": 291496363.84,
-   "recipient": "XATOR LLC",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM23F0766_1900_19AQMM19D0119_1900"
   },
   {
    "agency": "Department of Defense",
@@ -168,6 +168,16 @@
   },
   {
    "agency": "Department of State",
+   "amount": 68044917.79,
+   "description": "LINGUIST SERVICES IN DOHA, QATAR & TIRANA, ALBANIA",
+   "id": "19AQMM23F1234",
+   "kind": "contracts",
+   "outlays": 1086064.31,
+   "recipient": "ATLAS ADVISORS LLC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM23F1234_1900_19AQMM19D0098_1900"
+  },
+  {
+   "agency": "Department of State",
    "amount": 20974104.59,
    "description": "BASE YEAR FOR CONTRACTOR SERVICES TO PROVIDE ALL-INCLUSIVE MEDICAL SUPPORT SERVICES (MSS-D) FOR THE CARE PLATFORM IN DOHA, QATAR.",
    "id": "19AQMM24F1859",
@@ -175,16 +185,6 @@
    "outlays": 0.0,
    "recipient": "V2X SYSTEMS LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM24F1859_1900_19AQMM19D0118_1900"
-  },
-  {
-   "agency": "Department of Defense",
-   "amount": 20133398.88,
-   "description": "SERVICE CPFF BASE - DEMINING DEPARTMENT OF DEFENSE HUMANITARIAN DEMINING TRAINING CENTER (HDTC)",
-   "id": "W911NF21F0036",
-   "kind": "contracts",
-   "outlays": 4136487.22,
-   "recipient": "SHOULDER 2 SHOULDER INC",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_W911NF21F0036_9700_W911NF17D0010_9700"
   }
  ],
  "codes": [
@@ -194,15 +194,15 @@
   }
  ],
  "funding_by_code": {
-  "W": 1018269069.0
+  "W": 975700388.69
  },
  "law": "117-31",
  "overview": {
-  "award_obligations": 546115910.23,
+  "award_obligations": 547830170.01,
   "award_outlays": 443513887.06,
-  "budget_authority": 1018269069.0,
-  "total_obligations": 1079464710.51,
-  "total_outlays": 1048800247.83
+  "budget_authority": 975700388.69,
+  "total_obligations": 1062195765.58,
+  "total_outlays": 1047323750.52
  },
  "programs": [
   {

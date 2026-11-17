@@ -3,8 +3,8 @@
   {
    "budgetary_resources": 15990340000.0,
    "name": "Department of Homeland Security",
-   "obligations": 15746245699.74,
-   "outlays": 11454191093.48
+   "obligations": 15741751178.45,
+   "outlays": 11510075474.67
   }
  ],
  "awards": [
@@ -14,7 +14,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4499DRORP00000001",
    "kind": "grants",
-   "outlays": 1251658113.63,
+   "outlays": 1252852847.3,
    "recipient": "OREGON MILITARY DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
   },
@@ -34,7 +34,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "1603DRLAP0000005",
    "kind": "grants",
-   "outlays": 51696224.27,
+   "outlays": 51777169.39,
    "recipient": "HOMELAND SECURITY & EMERGENCY",
    "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
   },
@@ -54,19 +54,9 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4483DRIAP00000001",
    "kind": "grants",
-   "outlays": 270375414.33,
+   "outlays": 290875101.07,
    "recipient": "IOWA HOMELAND SECURITY AND EMERGENCY MANAGEMENT DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_4483DRIAP00000001_070"
-  },
-  {
-   "agency": "Department of Homeland Security",
-   "amount": 524461882.66,
-   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
-   "id": "4504DRKSP00000001",
-   "kind": "grants",
-   "outlays": 198995609.18,
-   "recipient": "KANSAS ADJUTANT GENERAL DEPARTMENT",
-   "url": "https://www.usaspending.gov/award/ASST_NON_4504DRKSP00000001_070"
   },
   {
    "agency": "Department of Homeland Security",
@@ -87,6 +77,16 @@
    "outlays": 72006669.01,
    "recipient": "VERMONT DEPARTMENT OF PUBLIC SAFETY",
    "url": "https://www.usaspending.gov/award/ASST_NON_4532DRVTP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 445738691.09,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4525DRUTP00000001",
+   "kind": "grants",
+   "outlays": 60330895.07,
+   "recipient": "DEPARTMENT OF PUBLIC SAFETY STATE UTAH",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4525DRUTP00000001_070"
   },
   {
    "agency": "Department of Homeland Security",
@@ -120,11 +120,11 @@
   },
   {
    "agency": "Department of Homeland Security",
-   "amount": 103318637.03,
+   "amount": 103346106.41,
    "description": "THE PURPOSE OF THIS TASK ORDER IS TO PROCURE VOICE AND DATA (V&D) SERVICES FOR FEMA. THIS IS A FIRM FIXED PRICE TASK ORDER",
    "id": "70FA3021F00000470",
    "kind": "contracts",
-   "outlays": 44278756.09,
+   "outlays": 46773231.31,
    "recipient": "AT&T ENTERPRISES, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3021F00000470_7022_GS00Q17NSD3000_4732"
   },
@@ -134,7 +134,7 @@
    "description": "THIS TASK ORDER 70FA3024F000000100 REPLACED TASK ORDER 70FA3024F0000001.",
    "id": "70FA3024F00000100",
    "kind": "contracts",
-   "outlays": 44531524.67,
+   "outlays": 46734771.06,
    "recipient": "WIDEPOINT INTEGRATED SOLUTIONS CORP",
    "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3024F00000100_7022_70RTAC21D00000001_7001"
   },
@@ -180,27 +180,27 @@
  },
  "law": "118-15",
  "overview": {
-  "award_obligations": 12026390075.93,
-  "award_outlays": 9172045163.68,
+  "award_obligations": 12028087251.39,
+  "award_outlays": 9234928962.82,
   "budget_authority": 15990340000.0,
-  "total_obligations": 15746245699.74,
-  "total_outlays": 11454191093.48
+  "total_obligations": 15741751178.45,
+  "total_outlays": 11510075474.67
  },
  "programs": [
   {
    "listing": "97.036",
    "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
-   "obligations": 204945773598.98
+   "obligations": 204929899185.84
   },
   {
    "listing": "97.048",
    "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
-   "obligations": 9540130201.25
+   "obligations": 9539978949.76
   },
   {
    "listing": "97.039",
    "name": "Hazard Mitigation Grant",
-   "obligations": 8854058781.23
+   "obligations": 8852461020.18
   },
   {
    "listing": "97.047",
@@ -210,7 +210,7 @@
   {
    "listing": "97.046",
    "name": "Fire Management Assistance Grant",
-   "obligations": 197475896.77
+   "obligations": 212760829.67
   },
   {
    "listing": "97.088",

@@ -2,22 +2,33 @@
  "agencies": [
   [
    "Federal Communications Commission",
-   5
+   6
   ]
  ],
  "by_type": {
-  "Notice": 2,
+  "Notice": 3,
   "Proposed Rule": 1,
   "Rule": 2
  },
  "by_year": {
   "2023": 1,
-  "2024": 4
+  "2024": 4,
+  "2026": 1
  },
  "complete": true,
  "first": "2023-04-14",
- "last": "2024-05-31",
+ "last": "2026-11-16",
  "latest": [
+  {
+   "a": [
+    "Federal Communications Commission"
+   ],
+   "d": "2026-11-16",
+   "k": "Notice",
+   "n": "2026-23216",
+   "t": "Information Collections Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+   "u": "https://www.federalregister.gov/documents/2026/11/16/2026-23216/information-collections-being-reviewed-by-the-federal-communications-commission-under-delegated"
+  },
   {
    "a": [
     "Federal Communications Commission"
@@ -104,5 +115,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-344%22+%7C+%22Pub.+L.+117-344%22+%7C+%22P.L.+117-344%22&order=newest",
  "term": "\"Public Law 117-344\" | \"Pub. L. 117-344\" | \"P.L. 117-344\"",
- "total": 5
+ "total": 6
 }

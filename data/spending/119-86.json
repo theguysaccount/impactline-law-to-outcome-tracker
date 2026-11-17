@@ -3,7 +3,7 @@
   {
    "budgetary_resources": 26367000000.0,
    "name": "Department of Homeland Security",
-   "obligations": 11973198168.98,
+   "obligations": 13112767298.31,
    "outlays": 0.0
   }
  ],
@@ -14,7 +14,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4499DRORP00000001",
    "kind": "grants",
-   "outlays": 1251658113.63,
+   "outlays": 1252852847.3,
    "recipient": "OREGON MILITARY DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
   },
@@ -24,7 +24,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "1603DRLAP0000005",
    "kind": "grants",
-   "outlays": 51696224.27,
+   "outlays": 51777169.39,
    "recipient": "HOMELAND SECURITY & EMERGENCY",
    "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
   },
@@ -44,9 +44,19 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4483DRIAP00000001",
    "kind": "grants",
-   "outlays": 270375414.33,
+   "outlays": 290875101.07,
    "recipient": "IOWA HOMELAND SECURITY AND EMERGENCY MANAGEMENT DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_4483DRIAP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 445738691.09,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4525DRUTP00000001",
+   "kind": "grants",
+   "outlays": 60330895.07,
+   "recipient": "DEPARTMENT OF PUBLIC SAFETY STATE UTAH",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4525DRUTP00000001_070"
   },
   {
    "agency": "Department of Homeland Security",
@@ -54,7 +64,7 @@
    "description": "PROVIDE REIMBURSEMENT TO STATE, LOCAL, TRIBAL, AND TERRITORIAL GOVERNMENT ENTITIES AND CERTAIN PRIVATE NON-PROFIT ORGANIZATIONS FOR EMERGENCY PROTECTIVE MEASURES TAKEN DURING THE PANDEMIC. EMERGENCY PROTECTIVE MEASURES NECESSARY TO SAVE LIV",
    "id": "4683DRCAP00000001",
    "kind": "grants",
-   "outlays": 336337615.79,
+   "outlays": 337515835.18,
    "recipient": "OFFICE OF EMERGENCY SERVICES",
    "url": "https://www.usaspending.gov/award/ASST_NON_4683DRCAP00000001_070"
   },
@@ -64,7 +74,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4285DRNCP0000001",
    "kind": "grants",
-   "outlays": 28929763.6,
+   "outlays": 34092395.59,
    "recipient": "NORTH CAROLINA DEPARTMENT OF PUBLIC SAFETY",
    "url": "https://www.usaspending.gov/award/ASST_NON_4285DRNCP0000001_070"
   },
@@ -80,21 +90,21 @@
   },
   {
    "agency": "Department of Homeland Security",
-   "amount": 277684679.43,
-   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
-   "id": "4530DROKP00000001",
-   "kind": "grants",
-   "outlays": 196372220.9,
-   "recipient": "OK DEPT OF EMERGENCY MGMT",
-   "url": "https://www.usaspending.gov/award/ASST_NON_4530DROKP00000001_070"
+   "amount": 115542591.92,
+   "description": "PA-TAC V - FLORIDA MULTIPLE DISASTERS (EAST ZONE) - FEMA PUBLIC ASSISTANCE (PA) DISASTER OPERATIONS SUPPORT FOR DR-4337-FL HURRICANE IRMA 4399-FL HURRICANE MICHAEL 4468-FL HURRICANE DORIAN 4564-FL, HURRICANE SALLY 4673-FL HURRICANE IAN 4709",
+   "id": "70FB8024F00000079",
+   "kind": "contracts",
+   "outlays": 115542591.92,
+   "recipient": "FLUOR FEDERAL SERVICES INC",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FB8024F00000079_7022_70FB8024D00000003_7022"
   },
   {
    "agency": "Department of Homeland Security",
-   "amount": 103318637.03,
+   "amount": 103346106.41,
    "description": "THE PURPOSE OF THIS TASK ORDER IS TO PROCURE VOICE AND DATA (V&D) SERVICES FOR FEMA. THIS IS A FIRM FIXED PRICE TASK ORDER",
    "id": "70FA3021F00000470",
    "kind": "contracts",
-   "outlays": 44278756.09,
+   "outlays": 46773231.31,
    "recipient": "AT&T ENTERPRISES, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3021F00000470_7022_GS00Q17NSD3000_4732"
   },
@@ -117,6 +127,16 @@
    "outlays": 433306.72,
    "recipient": "VANGUARD INSPECTION SERVICES",
    "url": "https://www.usaspending.gov/award/CONT_AWD_70FBR621F00000149_7022_70FB8020D00000003_7022"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 30905280.0,
+   "description": "LABOR HOUR CALL ORDER 20 AGAINST OUTSOURCED CONTACT CENTER.",
+   "id": "70FBTX26F00000003",
+   "kind": "contracts",
+   "outlays": 0.0,
+   "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_70FBTX26F00000003_7022_70FBTX21A00000001_7022"
   },
   {
    "agency": "Department of Homeland Security",
@@ -144,29 +164,9 @@
    "description": "INFORMATION TECHNOLOGY ENTERPRISE OPERATING ENVIRONMENT - SUPPORTING EIGHTEEN (18) PRIMARY OPERATIONS AND MAINTENANCE OBJECTIVES.",
    "id": "70FA3125F00000039",
    "kind": "contracts",
-   "outlays": 18912290.13,
+   "outlays": 20292524.07,
    "recipient": "BAE SYSTEMS TECHNOLOGY SOLUTIONS & SERVICES INC.",
    "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3125F00000039_7022_70FA3019D00000003_7022"
-  },
-  {
-   "agency": "Department of Homeland Security",
-   "amount": 26206707.05,
-   "description": "THE PURPOSE OF THIS BPA CALL IS TO PROCURE MICROSOFT LICENSES AND AZURE SUBSCRIPTIONS FOR THE FEMA ENTERPRISE FOR A TOTAL OF $22,370,644.63 IN ACCORDANCE WITH QUOTE#MASXCL60126FEMA-YR3H. ALL CLAUSES, TERMS AND CONDITIONS FLOW DOWN FROM THE ",
-   "id": "70FA3026F00000044",
-   "kind": "contracts",
-   "outlays": 18452672.82,
-   "recipient": "DELL FEDERAL SYSTEMS L.P",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3026F00000044_7022_70RTAC24A00000001_7001"
-  },
-  {
-   "agency": "Department of Homeland Security",
-   "amount": 18102768.51,
-   "description": "THE PURPOSE OF THIS BPA IS TO PROVIDE BRIDGE SERVICES FOR EXPIRING BPA CONTRACT HSFE50-17-A-0006.",
-   "id": "70FA6023F00000033",
-   "kind": "contracts",
-   "outlays": 12401361.22,
-   "recipient": "JOHNSON CONTROLS SECURITY SOLUTIONS LLC",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_70FA6023F00000033_7022_70FA6023A00000005_7022"
   }
  ],
  "codes": [
@@ -180,37 +180,37 @@
  },
  "law": "119-86",
  "overview": {
-  "award_obligations": 3251468430.74,
+  "award_obligations": 4636521612.24,
   "award_outlays": 0.0,
   "budget_authority": 26367000000.0,
-  "total_obligations": 11973198168.98,
+  "total_obligations": 13112767298.31,
   "total_outlays": 0.0
  },
  "programs": [
   {
    "listing": "97.036",
    "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
-   "obligations": 176307083749.1
+   "obligations": 200867016365.1
   },
   {
    "listing": "97.039",
    "name": "Hazard Mitigation Grant",
-   "obligations": 6068676588.03
+   "obligations": 6510888468.61
   },
   {
    "listing": "97.048",
    "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
-   "obligations": 1935832054.47
+   "obligations": 3170023172.31
   },
   {
    "listing": "97.088",
    "name": "Disaster Assistance Projects",
-   "obligations": 72621603.73
+   "obligations": 99476669.73
   },
   {
    "listing": "97.047",
    "name": "BRIC: Building Resilient Infrastructure and Communities",
-   "obligations": 19763803.58
+   "obligations": 29480315.14
   },
   {
    "listing": "97.046",

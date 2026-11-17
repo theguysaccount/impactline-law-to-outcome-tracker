@@ -20,7 +20,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4499DRORP00000001",
    "kind": "grants",
-   "outlays": 1251658113.63,
+   "outlays": 1252852847.3,
    "recipient": "OREGON MILITARY DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_4499DRORP00000001_070"
   },
@@ -40,7 +40,7 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "1603DRLAP0000005",
    "kind": "grants",
-   "outlays": 51696224.27,
+   "outlays": 51777169.39,
    "recipient": "HOMELAND SECURITY & EMERGENCY",
    "url": "https://www.usaspending.gov/award/ASST_NON_1603DRLAP0000005_070"
   },
@@ -60,19 +60,9 @@
    "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
    "id": "4483DRIAP00000001",
    "kind": "grants",
-   "outlays": 270375414.33,
+   "outlays": 290875101.07,
    "recipient": "IOWA HOMELAND SECURITY AND EMERGENCY MANAGEMENT DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_4483DRIAP00000001_070"
-  },
-  {
-   "agency": "Department of Homeland Security",
-   "amount": 524461882.66,
-   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
-   "id": "4504DRKSP00000001",
-   "kind": "grants",
-   "outlays": 198995609.18,
-   "recipient": "KANSAS ADJUTANT GENERAL DEPARTMENT",
-   "url": "https://www.usaspending.gov/award/ASST_NON_4504DRKSP00000001_070"
   },
   {
    "agency": "Department of Homeland Security",
@@ -93,6 +83,16 @@
    "outlays": 72006669.01,
    "recipient": "VERMONT DEPARTMENT OF PUBLIC SAFETY",
    "url": "https://www.usaspending.gov/award/ASST_NON_4532DRVTP00000001_070"
+  },
+  {
+   "agency": "Department of Homeland Security",
+   "amount": 445738691.09,
+   "description": "GRANT TO LOCAL GOVERNMENT FOR REPAIR OR REPLACEMENT OF DISASTER DAMAGED FACILITIES",
+   "id": "4525DRUTP00000001",
+   "kind": "grants",
+   "outlays": 60330895.07,
+   "recipient": "DEPARTMENT OF PUBLIC SAFETY STATE UTAH",
+   "url": "https://www.usaspending.gov/award/ASST_NON_4525DRUTP00000001_070"
   },
   {
    "agency": "Department of Homeland Security",
@@ -136,11 +136,11 @@
   },
   {
    "agency": "Department of Homeland Security",
-   "amount": 103318637.03,
+   "amount": 103346106.41,
    "description": "THE PURPOSE OF THIS TASK ORDER IS TO PROCURE VOICE AND DATA (V&D) SERVICES FOR FEMA. THIS IS A FIRM FIXED PRICE TASK ORDER",
    "id": "70FA3021F00000470",
    "kind": "contracts",
-   "outlays": 44278756.09,
+   "outlays": 46773231.31,
    "recipient": "AT&T ENTERPRISES, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_70FA3021F00000470_7022_GS00Q17NSD3000_4732"
   },
@@ -190,7 +190,7 @@
  },
  "law": "118-47",
  "overview": {
-  "award_obligations": 33969482064.16,
+  "award_obligations": 34010356372.83,
   "award_outlays": 864371376.41,
   "budget_authority": 20426000000.0,
   "total_obligations": 20426000000.0,
@@ -200,17 +200,17 @@
   {
    "listing": "97.036",
    "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
-   "obligations": 213711548055.38
+   "obligations": 213712097533.04
   },
   {
    "listing": "97.048",
    "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
-   "obligations": 12474744379.95
+   "obligations": 12534029686.8
   },
   {
    "listing": "97.039",
    "name": "Hazard Mitigation Grant",
-   "obligations": 10339178614.82
+   "obligations": 10343083258.37
   },
   {
    "listing": "97.050",
@@ -220,7 +220,7 @@
   {
    "listing": "97.047",
    "name": "BRIC: Building Resilient Infrastructure and Communities",
-   "obligations": 575528619.61
+   "obligations": 587790630.39
   },
   {
    "listing": "97.046",
@@ -230,7 +230,7 @@
   {
    "listing": "97.088",
    "name": "Disaster Assistance Projects",
-   "obligations": 270331539.07
+   "obligations": 270312972.38
   },
   {
    "listing": "97.025",

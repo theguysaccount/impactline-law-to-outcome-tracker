@@ -3,20 +3,20 @@
   {
    "budgetary_resources": 2050000000.0,
    "name": "Department of Education",
-   "obligations": 2046233252.44,
-   "outlays": 1430436859.99
+   "obligations": 2033229642.59,
+   "outlays": 1470801473.15
   },
   {
    "budgetary_resources": 1500000000.0,
    "name": "Department of Justice",
-   "obligations": 1214336110.7,
-   "outlays": 506461337.71
+   "obligations": 1214726396.03,
+   "outlays": 524323243.69
   },
   {
-   "budgetary_resources": 937664079.45,
+   "budgetary_resources": 937848126.23,
    "name": "Department of Health and Human Services",
-   "obligations": 931440699.3,
-   "outlays": 695282468.85
+   "obligations": 944237671.89,
+   "outlays": 712371678.8
   }
  ],
  "awards": [
@@ -46,7 +46,7 @@
    "description": "STRONGER CONNECTIONS GRANT (SCG) PROGRAM",
    "id": "S424F220005",
    "kind": "grants",
-   "outlays": 99615117.69,
+   "outlays": 106718743.06,
    "recipient": "DEPARTMENT OF EDUCATION CALIFORNIA",
    "url": "https://www.usaspending.gov/award/ASST_NON_S424F220005_091"
   },
@@ -66,7 +66,7 @@
    "description": "STRONGER CONNECTIONS GRANT (SCG) PROGRAM",
    "id": "S424F220045",
    "kind": "grants",
-   "outlays": 70996277.17,
+   "outlays": 78999154.04,
    "recipient": "TX EDUCATION AGENCY",
    "url": "https://www.usaspending.gov/award/ASST_NON_S424F220045_091"
   },
@@ -86,7 +86,7 @@
    "description": "STRONGER CONNECTIONS GRANT (SCG) PROGRAM",
    "id": "S424F220033",
    "kind": "grants",
-   "outlays": 48181544.59,
+   "outlays": 48513755.86,
    "recipient": "NEW YORK STATE EDUCATION DEPARTMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_S424F220033_091"
   },
@@ -116,7 +116,7 @@
    "description": "REF. NO. 283-22-00568, \"2023-2027 NATIONAL SURVEY ON DRUG USE AND HEALTH (NSDUH)\"",
    "id": "75S20322C00001",
    "kind": "contracts",
-   "outlays": 165614699.31,
+   "outlays": 175483792.27,
    "recipient": "RESEARCH TRIANGLE INSTITUTE",
    "url": "https://www.usaspending.gov/award/CONT_AWD_75S20322C00001_7522_-NONE-_-NONE-"
   },
@@ -126,7 +126,7 @@
    "description": "CJIS OPERATIONAL SERVICES",
    "id": "15F06724F0000128",
    "kind": "contracts",
-   "outlays": 42956059.03,
+   "outlays": 44547758.95,
    "recipient": "ACCENTURE FEDERAL SERVICES LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_15F06724F0000128_1549_GS35F540GA_4732"
   },
@@ -188,15 +188,15 @@
   }
  ],
  "funding_by_code": {
-  "7": 4487664079.45
+  "7": 4487848126.23
  },
  "law": "117-159",
  "overview": {
-  "award_obligations": 4054108775.1,
-  "award_outlays": 2509159629.52,
-  "budget_authority": 4487664079.45,
-  "total_obligations": 3991938632.75,
-  "total_outlays": 2632656304.54
+  "award_obligations": 4053898717.08,
+  "award_outlays": 2583997273.69,
+  "budget_authority": 4487848126.23,
+  "total_obligations": 3992122280.82,
+  "total_outlays": 2707972033.63
  },
  "programs": [
   {
@@ -242,12 +242,12 @@
   {
    "listing": "16.554",
    "name": "National Criminal History Improvement Program (NCHIP)",
-   "obligations": 155807157.23
+   "obligations": 155492397.85
   },
   {
    "listing": "16.839",
    "name": "STOP School Violence",
-   "obligations": 116424723.67
+   "obligations": 116421302.91
   },
   {
    "listing": "84.403",

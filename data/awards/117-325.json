@@ -13,7 +13,7 @@
   },
   {
    "counts": {
-    "grants": 3
+    "grants": 2
    },
    "match": "name",
    "phrase": "Law Enforcement De-Escalation Training Act",
@@ -34,16 +34,6 @@
     },
     {
      "agency": "Department of Justice",
-     "amount": 2000000.0,
-     "description": "IDENTIFYING AND SUPPORTING EFFECTIVE LAW ENFORCEMENT RESPONSES TO SITUATIONS INVOLVING CONFLICT AND CRISIS ARE A PRIORITY OF THE DEPARTMENT OF JUSTICE (DOJ). THESE EFFORTS ARE REINFORCED BY THE LAW ENFORCEMENT DE-ESCALATION TRAINING ACT OF ",
-     "id": "15JCOPS25GK00003DETU",
-     "kind": "grants",
-     "outlays": null,
-     "recipient": "NATIONAL POLICING INSTITUTE",
-     "url": "https://www.usaspending.gov/award/ASST_NON_15JCOPS25GK00003DETU_015"
-    },
-    {
-     "agency": "Department of Justice",
      "amount": 750000.0,
      "description": "THE NATIONAL POLICING INSTITUTE (NPI), IN COLLABORATION WITH THE INSTITUTE FOR INTERGOVERNMENTAL RESEARCH (IIR), PROPOSES TO DEVELOP AND PROMOTE THE BENEFITS OF A STANDARDS-BASED REVIEW AND APPROVAL PROCESS FOR DE-ESCALATION TRAINING IN THE",
      "id": "15JCOPS24GK01371DETX",
@@ -55,5 +45,5 @@
    ]
   }
  ],
- "total": 3
+ "total": 2
 }

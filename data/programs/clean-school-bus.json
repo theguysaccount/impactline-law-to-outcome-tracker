@@ -14,7 +14,7 @@
     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT TO FIRST STUDENT, LLC. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH ZERO EMISSION SCHOOL BUSES. ACTIVITIES:THE ACTIVITIES INCLUDE REPLAC",
     "id": "00E03675",
     "kind": "grants",
-    "outlays": 17648460.93,
+    "outlays": 19441851.86,
     "recipient": "FIRST STUDENT, INC.",
     "url": "https://www.usaspending.gov/award/ASST_NON_00E03675_068"
    },
@@ -34,7 +34,7 @@
     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO DATTCO, INC. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION (ZE) SCHOOL BUSES. ACTIVITIES:THE ACTIVITIES",
     "id": "00A01508",
     "kind": "grants",
-    "outlays": 20828003.26,
+    "outlays": 20861776.85,
     "recipient": "DATTCO INC",
     "url": "https://www.usaspending.gov/award/ASST_NON_00A01508_068"
    },
@@ -54,7 +54,7 @@
     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO ZUM SERVICES, INC. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION (ZE) SCHOOL BUSES. THIS ASSISTANCE AGR",
     "id": "98T92801",
     "kind": "grants",
-    "outlays": 10499459.94,
+    "outlays": 15984877.82,
     "recipient": "ZUM SERVICES, INC",
     "url": "https://www.usaspending.gov/award/ASST_NON_98T92801_068"
    },
@@ -110,11 +110,11 @@
    }
   ],
   "counts": {
-   "direct_payments": 509,
+   "direct_payments": 515,
    "grants": 63
   }
  },
- "obligations": 1638693637.01,
+ "obligations": 1639728637.01,
  "slug": "clean-school-bus",
  "state": {
   "awards": [
@@ -124,7 +124,7 @@
     "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO ZUM SERVICES, INC. THIS AGREEMENT IS TO REPLACE EXISTING SCHOOL BUSES WITH CLEAN AND ZERO EMISSION (ZE) SCHOOL BUSES. THIS ASSISTANCE AGR",
     "id": "98T92801",
     "kind": "grants",
-    "outlays": 10499459.94,
+    "outlays": 15984877.82,
     "recipient": "ZUM SERVICES, INC",
     "url": "https://www.usaspending.gov/award/ASST_NON_98T92801_068"
    },
@@ -221,7 +221,7 @@
   ],
   "code": "CA",
   "counts": {
-   "direct_payments": 45,
+   "direct_payments": 46,
    "grants": 5
   }
  }

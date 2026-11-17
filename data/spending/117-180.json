@@ -3,8 +3,8 @@
   {
    "budgetary_resources": 7809997000.0,
    "name": "Department of Defense",
-   "obligations": 7613623791.25,
-   "outlays": 6287712238.66
+   "obligations": 7611093067.08,
+   "outlays": 6375647390.25
   },
   {
    "budgetary_resources": 4500000000.0,
@@ -19,27 +19,27 @@
    "outlays": 2499999919.4
   },
   {
-   "budgetary_resources": 1999979251.62,
+   "budgetary_resources": 1999977723.62,
    "name": "Department of Housing and Urban Development",
-   "obligations": 1999979251.62,
-   "outlays": 534521180.41
+   "obligations": 1999977723.62,
+   "outlays": 555093653.82
   },
   {
    "budgetary_resources": 1775000000.0,
    "name": "Department of Health and Human Services",
    "obligations": 1715038979.19,
-   "outlays": 1628967816.76
+   "outlays": 1631321896.95
   },
   {
    "budgetary_resources": 35000000.0,
    "name": "Department of Energy",
    "obligations": 35000000.0,
-   "outlays": 34923245.49
+   "outlays": 34926905.19
   },
   {
    "budgetary_resources": 15300000.0,
    "name": "Department of Justice",
-   "obligations": 14390665.08,
+   "obligations": 14387196.74,
    "outlays": 14361161.41
   },
   {
@@ -56,7 +56,7 @@
    "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
    "id": "B-22-DF-22-0001",
    "kind": "grants",
-   "outlays": 423756389.29,
+   "outlays": 437332859.49,
    "recipient": "ADMINISTRATION, LOUISIANA DIVISION OF",
    "url": "https://www.usaspending.gov/award/ASST_NON_B-22-DF-22-0001_086"
   },
@@ -76,7 +76,7 @@
    "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
    "id": "B-23-DN-21-0001",
    "kind": "grants",
-   "outlays": 30563277.8,
+   "outlays": 33173975.8,
    "recipient": "KENTUCKY DEPARTMENT FOR LOCAL GOVERNMENT",
    "url": "https://www.usaspending.gov/award/ASST_NON_B-23-DN-21-0001_086"
   },
@@ -106,7 +106,7 @@
    "description": "PURPOSE: COMMUNITY DEVELOPMENT BLOCK GRANT DISASTER RECOVERY (CDBG-DR) AND COMMUNITY DEVELOPMENT BLOCK GRANT MITIGATION (CDBG-MIT) GRANT FUNDS ARE APPROPRIATED BY CONGRESS AND ALLOCATED BY THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HU",
    "id": "B-23-DN-72-0001",
    "kind": "grants",
-   "outlays": 66301.23,
+   "outlays": 84401.13,
    "recipient": "PUERTO RICO DEPARTMENT OF HOUSING",
    "url": "https://www.usaspending.gov/award/ASST_NON_B-23-DN-72-0001_086"
   },
@@ -136,7 +136,7 @@
    "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SANDIA, LLC (NTESS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S SANDIA NATIONAL LAB",
    "id": "DENA0003525",
    "kind": "contracts",
-   "outlays": 27227349900.77,
+   "outlays": 27720797189.94,
    "recipient": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0003525_8900_-NONE-_-NONE-"
   },
@@ -146,7 +146,7 @@
    "description": "MANAGEMENT AND OPERATION OF THE OAK RIDGE NATIONAL LABORATORY",
    "id": "DEAC0500OR22725",
    "kind": "contracts",
-   "outlays": 15219165243.21,
+   "outlays": 15449824264.35,
    "recipient": "UT-BATTELLE LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0500OR22725_8900_-NONE-_-NONE-"
   },
@@ -156,7 +156,7 @@
    "description": "TAS::89 0240::TAS THIS PERFORMANCE-BASED MANAGEMENT CONTRACT (PBMC) IS FOR THE MANAGEMENT AND OPERATION OF THE LAWRENCE LIVERMORE NATIONAL LABORATORY (LLNL). THE CONTRACTOR SHALL, IN ACCORDANCE WITH THE PROVISIONS OF THIS CONTRACT, ACCOMPLI",
    "id": "DEAC5207NA27344",
    "kind": "contracts",
-   "outlays": 17719717071.97,
+   "outlays": 18021815261.42,
    "recipient": "LAWRENCE LIVERMORE NATIONAL SECURITY, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC5207NA27344_8900_-NONE-_-NONE-"
   },
@@ -166,17 +166,17 @@
    "description": "IGF::CL::IGF COMPETITION FOR MANAGEMENT AND OPERATION OF LOS ALAMOS NATIONAL LABORATORY",
    "id": "89233218CNA000001",
    "kind": "contracts",
-   "outlays": 25919724127.01,
+   "outlays": 26428418044.95,
    "recipient": "TRIAD NATIONAL SECURITY, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_89233218CNA000001_8900_-NONE-_-NONE-"
   },
   {
    "agency": "Department of Energy",
-   "amount": 31194334447.95,
+   "amount": 31223517818.95,
    "description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY OPERATING AND MANAGING CONTRACT",
    "id": "DEAC0576RL01830",
    "kind": "contracts",
-   "outlays": 8436700652.4,
+   "outlays": 8589173620.5,
    "recipient": "BATTELLE MEMORIAL INSTITUTE",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-"
   },
@@ -186,7 +186,7 @@
    "description": "MANAGEMENT AND OPERATIONS OF THE INL",
    "id": "DEAC0705ID14517",
    "kind": "contracts",
-   "outlays": 10167654779.26,
+   "outlays": 10332392546.01,
    "recipient": "BATTELLE ENERGY ALLIANCE, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0705ID14517_8900_-NONE-_-NONE-"
   },
@@ -196,7 +196,7 @@
    "description": "IGF::CL,CT::IGF MANAGEMENT AND OPERATION OF THE NATIONAL SECURITY CAMPUS -- CONTRACT NO. DE-NA0002839",
    "id": "DENA0002839",
    "kind": "contracts",
-   "outlays": 10269420548.55,
+   "outlays": 10500808659.84,
    "recipient": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0002839_8900_-NONE-_-NONE-"
   },
@@ -206,7 +206,7 @@
    "description": "PERFORMANCE-BASED CONTRACT FOR MANAGEMENT AND OPERATION OF ARGONNE NATIONAL LABORATORY",
    "id": "DEAC0206CH11357",
    "kind": "contracts",
-   "outlays": 7298151885.39,
+   "outlays": 7409805902.35,
    "recipient": "UCHICAGO ARGONNE, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0206CH11357_8900_-NONE-_-NONE-"
   }
@@ -218,15 +218,15 @@
   }
  ],
  "funding_by_code": {
-  "AAA": 18655276251.62
+  "AAA": 18655274723.62
  },
  "law": "117-180",
  "overview": {
   "award_obligations": 8446880195.32,
-  "award_outlays": 6827692627.64,
-  "budget_authority": 18655276251.62,
-  "total_obligations": 18382472311.56,
-  "total_outlays": 15382970191.07
+  "award_outlays": 6850624637.87,
+  "budget_authority": 18655274723.62,
+  "total_obligations": 18379936591.05,
+  "total_outlays": 15493835555.96
  },
  "programs": [
   {
