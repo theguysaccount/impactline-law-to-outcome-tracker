@@ -17,12 +17,12 @@
    32
   ],
   [
-   "Health and Human Services Department",
+   "Homeland Security Department",
    29
   ],
   [
-   "Homeland Security Department",
-   28
+   "Health and Human Services Department",
+   29
   ],
   [
    "Centers for Medicare & Medicaid Services",
@@ -50,18 +50,28 @@
   ]
  ],
  "by_type": {
-  "Notice": 121,
+  "Notice": 122,
   "Proposed Rule": 62,
   "Rule": 61
  },
  "by_year": {
   "2025": 49,
-  "2026": 195
+  "2026": 196
  },
  "complete": true,
  "first": "2025-07-22",
- "last": "2026-11-17",
+ "last": "2026-11-18",
  "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-18",
+   "k": "Notice",
+   "n": "2026-23515",
+   "t": "Notice of Revised National Environmental Policy Act Implementing Procedures",
+   "u": "https://www.federalregister.gov/documents/2026/11/18/2026-23515/notice-of-revised-national-environmental-policy-act-implementing-procedures"
+  },
   {
    "a": [
     "Justice Department",
@@ -208,16 +218,6 @@
    "n": "2026-21328",
    "t": "Information Collection Being Reviewed by the Federal Communications Commission",
    "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21328/information-collection-being-reviewed-by-the-federal-communications-commission"
-  },
-  {
-   "a": [
-    "Federal Communications Commission"
-   ],
-   "d": "2026-10-19",
-   "k": "Rule",
-   "n": "2026-21324",
-   "t": "Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band",
-   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21324/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band"
   }
  ],
  "law": "119-21",
@@ -386,5 +386,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-21%22+%7C+%22Pub.+L.+119-21%22+%7C+%22P.L.+119-21%22&order=newest",
  "term": "\"Public Law 119-21\" | \"Pub. L. 119-21\" | \"P.L. 119-21\"",
- "total": 244
+ "total": 245
 }

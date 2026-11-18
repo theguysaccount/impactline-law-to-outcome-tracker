@@ -50,7 +50,7 @@
   ]
  ],
  "by_type": {
-  "Notice": 106,
+  "Notice": 107,
   "Presidential Document": 2,
   "Proposed Rule": 43,
   "Rule": 61
@@ -59,12 +59,22 @@
   "2023": 16,
   "2024": 71,
   "2025": 62,
-  "2026": 63
+  "2026": 64
  },
  "complete": true,
  "first": "2023-07-10",
- "last": "2026-11-10",
+ "last": "2026-11-18",
  "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-18",
+   "k": "Notice",
+   "n": "2026-23515",
+   "t": "Notice of Revised National Environmental Policy Act Implementing Procedures",
+   "u": "https://www.federalregister.gov/documents/2026/11/18/2026-23515/notice-of-revised-national-environmental-policy-act-implementing-procedures"
+  },
   {
    "a": [
     "Agriculture Department",
@@ -218,17 +228,6 @@
    "n": "2026-17904",
    "t": "National Environmental Policy Act Regulations",
    "u": "https://www.federalregister.gov/documents/2026/09/01/2026-17904/national-environmental-policy-act-regulations"
-  },
-  {
-   "a": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "d": "2026-08-26",
-   "k": "Notice",
-   "n": "2026-17399",
-   "t": "Constitution Pipeline Company, LLC, Iroquois Gas Transmission System, L.P.; Notice of Availability of the Environmental Assessment for the Proposed Constitution Pipeline and Wright Interconnect Projects",
-   "u": "https://www.federalregister.gov/documents/2026/08/26/2026-17399/constitution-pipeline-company-llc-iroquois-gas-transmission-system-lp-notice-of-availability-of-the"
   }
  ],
  "law": "118-5",
@@ -394,5 +393,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-5%22+%7C+%22Pub.+L.+118-5%22+%7C+%22P.L.+118-5%22&order=newest",
  "term": "\"Public Law 118-5\" | \"Pub. L. 118-5\" | \"P.L. 118-5\"",
- "total": 212
+ "total": 213
 }

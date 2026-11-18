@@ -18,7 +18,7 @@
   ],
   [
    "Treasury Department",
-   32
+   33
   ],
   [
    "Housing and Urban Development Department",
@@ -38,7 +38,7 @@
   ],
   [
    "Internal Revenue Service",
-   22
+   23
   ],
   [
    "Homeland Security Department",
@@ -53,18 +53,29 @@
   "Notice": 283,
   "Presidential Document": 6,
   "Proposed Rule": 108,
-  "Rule": 133
+  "Rule": 134
  },
  "by_year": {
   "2023": 214,
   "2024": 163,
   "2025": 76,
-  "2026": 77
+  "2026": 78
  },
  "complete": true,
  "first": "2023-01-11",
- "last": "2026-11-12",
+ "last": "2026-11-18",
  "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "Internal Revenue Service"
+   ],
+   "d": "2026-11-18",
+   "k": "Rule",
+   "n": "2026-23530",
+   "t": "Automatic Enrollment Requirements Under Section 414A",
+   "u": "https://www.federalregister.gov/documents/2026/11/18/2026-23530/automatic-enrollment-requirements-under-section-414a"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -216,21 +227,21 @@
    "n": "2026-17123",
    "t": "Guidance on Eligible Investments for Trump Accounts",
    "u": "https://www.federalregister.gov/documents/2026/08/21/2026-17123/guidance-on-eligible-investments-for-trump-accounts"
-  },
+  }
+ ],
+ "law": "117-328",
+ "rules": [
   {
    "a": [
     "Treasury Department",
     "Internal Revenue Service"
    ],
-   "d": "2026-08-20",
-   "k": "Proposed Rule",
-   "n": "2026-17021",
-   "t": "Determination of Target Normal Cost and Funding Target for Single-Employer Defined Benefit Plans",
-   "u": "https://www.federalregister.gov/documents/2026/08/20/2026-17021/determination-of-target-normal-cost-and-funding-target-for-single-employer-defined-benefit-plans"
-  }
- ],
- "law": "117-328",
- "rules": [
+   "d": "2026-11-18",
+   "k": "Rule",
+   "n": "2026-23530",
+   "t": "Automatic Enrollment Requirements Under Section 414A",
+   "u": "https://www.federalregister.gov/documents/2026/11/18/2026-23530/automatic-enrollment-requirements-under-section-414a"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -385,20 +396,9 @@
    "n": "2026-15686",
    "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
    "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
-  },
-  {
-   "a": [
-    "Health and Human Services Department",
-    "Centers for Medicare & Medicaid Services"
-   ],
-   "d": "2026-07-31",
-   "k": "Rule",
-   "n": "2026-15588",
-   "t": "Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update",
-   "u": "https://www.federalregister.gov/documents/2026/07/31/2026-15588/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-328%22+%7C+%22Pub.+L.+117-328%22+%7C+%22P.L.+117-328%22&order=newest",
  "term": "\"Public Law 117-328\" | \"Pub. L. 117-328\" | \"P.L. 117-328\"",
- "total": 530
+ "total": 531
 }
