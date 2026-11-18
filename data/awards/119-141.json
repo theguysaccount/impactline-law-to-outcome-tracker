@@ -1,0 +1,24 @@
+{
+ "law": "119-141",
+ "partial": false,
+ "period_start": "2026-11-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-141",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-141",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "America’s National Churchill Museum National Historic Landmark Act",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=America’s%20National%20Churchill%20Museum%20National%20Historic%20Landmark%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

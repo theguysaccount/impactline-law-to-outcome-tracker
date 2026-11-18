@@ -1,0 +1,24 @@
+{
+ "law": "119-142",
+ "partial": false,
+ "period_start": "2026-11-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-142",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-142",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Bankruptcy Threshold Adjustment Act",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Bankruptcy%20Threshold%20Adjustment%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}

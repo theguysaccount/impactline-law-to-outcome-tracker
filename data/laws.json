@@ -2,6 +2,130 @@
  "laws": [
   {
    "also_called": "",
+   "approved": "2026-11-10",
+   "approved_from": "metadata",
+   "bill": {
+    "label": "H.R. 7730",
+    "number": "7730",
+    "type": "hr",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/7730"
+   },
+   "congress": 119,
+   "doc_type": "An Act",
+   "id": "119-142",
+   "kind": "general",
+   "links": {
+    "details": "https://www.govinfo.gov/app/details/PLAW-119publ142",
+    "pdf": "https://www.govinfo.gov/content/pkg/PLAW-119publ142/pdf/PLAW-119publ142.pdf",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ142/html/PLAW-119publ142.htm",
+    "xml": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ142.xml"
+   },
+   "number": 142,
+   "official_title": "To amend title 11, United States Code, to modify certain bankruptcy eligibility requirements, and for other purposes.",
+   "parts": [],
+   "sections": 3,
+   "short_title": "Bankruptcy Threshold Adjustment Act",
+   "stat": "140 Stat. 1112",
+   "title": "Bankruptcy Threshold Adjustment Act",
+   "title_source": "law text",
+   "xml_bytes": 10071,
+   "xml_sha256": "bec47776746dc13c25e7adaa882c8af48bd7a43d7515c02e0709d3b30593cd0c"
+  },
+  {
+   "also_called": "",
+   "approved": "2026-11-10",
+   "approved_from": "metadata",
+   "bill": {
+    "label": "H.R. 1945",
+    "number": "1945",
+    "type": "hr",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/1945"
+   },
+   "congress": 119,
+   "doc_type": "An Act",
+   "id": "119-141",
+   "kind": "general",
+   "links": {
+    "details": "https://www.govinfo.gov/app/details/PLAW-119publ141",
+    "pdf": "https://www.govinfo.gov/content/pkg/PLAW-119publ141/pdf/PLAW-119publ141.pdf",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ141/html/PLAW-119publ141.htm",
+    "xml": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ141.xml"
+   },
+   "number": 141,
+   "official_title": "To designate the America’s National Churchill Museum National Historic Landmark, and for other purposes.",
+   "parts": [],
+   "sections": 4,
+   "short_title": "America’s National Churchill Museum National Historic Landmark Act",
+   "stat": "140 Stat. 1110",
+   "title": "America’s National Churchill Museum National Historic Landmark Act",
+   "title_source": "law text",
+   "xml_bytes": 16360,
+   "xml_sha256": "558027ef6c5781e9bce639eac1098c8c6d4cbc3ff8489a11bde30bb897c1b87a"
+  },
+  {
+   "also_called": "",
+   "approved": "2026-11-10",
+   "approved_from": "metadata",
+   "bill": {
+    "label": "H.R. 1703",
+    "number": "1703",
+    "type": "hr",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/1703"
+   },
+   "congress": 119,
+   "doc_type": "An Act",
+   "id": "119-140",
+   "kind": "general",
+   "links": {
+    "details": "https://www.govinfo.gov/app/details/PLAW-119publ140",
+    "pdf": "https://www.govinfo.gov/content/pkg/PLAW-119publ140/pdf/PLAW-119publ140.pdf",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ140/html/PLAW-119publ140.htm",
+    "xml": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ140.xml"
+   },
+   "number": 140,
+   "official_title": "To amend title XVIII of the Social Security Act to clarify payment rules for manual wheelchairs under part B of the Medicare program.",
+   "parts": [],
+   "sections": 2,
+   "short_title": "Choices for Increased Mobility Act of 2026",
+   "stat": "140 Stat. 1108",
+   "title": "Choices for Increased Mobility Act of 2026",
+   "title_source": "law text",
+   "xml_bytes": 9018,
+   "xml_sha256": "40e36bf2b23f7d74421dcc95428b9295a4fc0e9cb1a989dbd2c9e96e8bd668fb"
+  },
+  {
+   "also_called": "",
+   "approved": "2026-11-10",
+   "approved_from": "metadata",
+   "bill": {
+    "label": "H.R. 997",
+    "number": "997",
+    "type": "hr",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/997"
+   },
+   "congress": 119,
+   "doc_type": "An Act",
+   "id": "119-139",
+   "kind": "general",
+   "links": {
+    "details": "https://www.govinfo.gov/app/details/PLAW-119publ139",
+    "pdf": "https://www.govinfo.gov/content/pkg/PLAW-119publ139/pdf/PLAW-119publ139.pdf",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ139/html/PLAW-119publ139.htm",
+    "xml": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ139.xml"
+   },
+   "number": 139,
+   "official_title": "To amend the Internal Revenue Code of 1986 to conform to the intent of the Internal Revenue Service Restructuring and Reform Act of 1998, as set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–599, that the National Taxpayer Advocate be able to hire and consult counsel as appropriate.",
+   "parts": [],
+   "sections": 2,
+   "short_title": "National Taxpayer Advocate Enhancement Act of 2025",
+   "stat": "140 Stat. 1106",
+   "title": "National Taxpayer Advocate Enhancement Act of 2025",
+   "title_source": "law text",
+   "xml_bytes": 8311,
+   "xml_sha256": "5411d0c949cd33fb9333c7b1579f961f4aea3958ef06296ba20319513e8e9dfc"
+  },
+  {
+   "also_called": "",
    "approved": "2026-11-03",
    "approved_from": "metadata",
    "bill": {
@@ -24565,7 +24689,7 @@
  "sources": {
   "117": {
    "bytes": 9490590,
-   "checked_at": "2026-11-18T16:25:13Z",
+   "checked_at": "2026-11-18T22:43:13Z",
    "laws": 362,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/117/public",
    "modified": "05-Nov-2026 13:17",
@@ -24576,7 +24700,7 @@
   },
   "118": {
    "bytes": 5016235,
-   "checked_at": "2026-11-18T16:25:13Z",
+   "checked_at": "2026-11-18T22:43:13Z",
    "laws": 274,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/118/public",
    "modified": "27-Oct-2026 16:44",
@@ -24586,18 +24710,18 @@
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118-public.zip"
   },
   "119": {
-   "bytes": 3395106,
-   "checked_at": "2026-11-18T16:25:13Z",
-   "laws": 138,
+   "bytes": 3408059,
+   "checked_at": "2026-11-18T22:43:13Z",
+   "laws": 142,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/119/public",
-   "modified": "09-Nov-2026 15:10",
-   "retrieved_at": "2026-11-17T23:10:42Z",
-   "sha256": "7d69603117d7fadfe644bb6e0cb15dd4ac0b252edfeffe6d06d5ce6946f4cc54",
-   "stamp": "09-Nov-2026 15:10|3395106",
+   "modified": "18-Nov-2026 16:48",
+   "retrieved_at": "2026-11-18T22:43:13Z",
+   "sha256": "92346ca423c65a517d9650ba2970cc8ca39a6181a6ac88602c276eafb89348d6",
+   "stamp": "18-Nov-2026 16:48|3408059",
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119-public.zip"
   }
  },
- "updated_at": "2026-11-17T23:10:42Z",
+ "updated_at": "2026-11-18T22:43:13Z",
  "window": {
   "congresses": [
    117,

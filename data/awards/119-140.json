@@ -1,0 +1,24 @@
+{
+ "law": "119-140",
+ "partial": false,
+ "period_start": "2026-11-10",
+ "phrases": [
+  {
+   "counts": {},
+   "match": "citation",
+   "phrase": "Public Law 119-140",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Public%20Law%20119-140",
+   "top": []
+  },
+  {
+   "counts": {},
+   "match": "name",
+   "phrase": "Choices for Increased Mobility Act",
+   "returned": {},
+   "search_url": "https://www.usaspending.gov/search/?keyword=Choices%20for%20Increased%20Mobility%20Act",
+   "top": []
+  }
+ ],
+ "total": 0
+}
