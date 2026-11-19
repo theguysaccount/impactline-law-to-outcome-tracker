@@ -2,7 +2,7 @@
  "agencies": [
   [
    "Transportation Department",
-   424
+   425
   ],
   [
    "Federal Communications Commission",
@@ -14,7 +14,7 @@
   ],
   [
    "Federal Highway Administration",
-   83
+   84
   ],
   [
    "Federal Transit Administration",
@@ -50,7 +50,7 @@
   ]
  ],
  "by_type": {
-  "Notice": 611,
+  "Notice": 612,
   "Presidential Document": 6,
   "Proposed Rule": 135,
   "Rule": 158
@@ -61,12 +61,23 @@
   "2023": 234,
   "2024": 235,
   "2025": 93,
-  "2026": 106
+  "2026": 107
  },
  "complete": true,
  "first": "2021-11-29",
- "last": "2026-11-09",
+ "last": "2026-11-19",
  "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Highway Administration"
+   ],
+   "d": "2026-11-19",
+   "k": "Notice",
+   "n": "2026-23613",
+   "t": "Agency Information Collection Activities: Request for Comments for a New Information Collection",
+   "u": "https://www.federalregister.gov/documents/2026/11/19/2026-23613/agency-information-collection-activities-request-for-comments-for-a-new-information-collection"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -217,16 +228,6 @@
    "n": "2026-19328",
    "t": "FAA Contract Tower Competitive Grant Program; Fiscal Year (FY) 2027 Funding Opportunity",
    "u": "https://www.federalregister.gov/documents/2026/09/22/2026-19328/faa-contract-tower-competitive-grant-program-fiscal-year-fy-2027-funding-opportunity"
-  },
-  {
-   "a": [
-    "Agriculture Department"
-   ],
-   "d": "2026-09-21",
-   "k": "Notice",
-   "n": "2026-19236",
-   "t": "Submission for OMB Review; Comment Request",
-   "u": "https://www.federalregister.gov/documents/2026/09/21/2026-19236/submission-for-omb-review-comment-request"
   }
  ],
  "law": "117-58",
@@ -397,5 +398,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-58%22+%7C+%22Pub.+L.+117-58%22+%7C+%22P.L.+117-58%22&order=newest",
  "term": "\"Public Law 117-58\" | \"Pub. L. 117-58\" | \"P.L. 117-58\"",
- "total": 910
+ "total": 911
 }
