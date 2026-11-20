@@ -24689,7 +24689,7 @@
  "sources": {
   "117": {
    "bytes": 9490590,
-   "checked_at": "2026-11-20T16:06:18Z",
+   "checked_at": "2026-11-20T22:22:30Z",
    "laws": 362,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/117/public",
    "modified": "05-Nov-2026 13:17",
@@ -24700,7 +24700,7 @@
   },
   "118": {
    "bytes": 5016235,
-   "checked_at": "2026-11-20T16:06:18Z",
+   "checked_at": "2026-11-20T22:22:30Z",
    "laws": 274,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/118/public",
    "modified": "27-Oct-2026 16:44",
@@ -24711,17 +24711,17 @@
   },
   "119": {
    "bytes": 3408059,
-   "checked_at": "2026-11-20T16:06:18Z",
+   "checked_at": "2026-11-20T22:22:30Z",
    "laws": 142,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/119/public",
-   "modified": "18-Nov-2026 16:48",
-   "retrieved_at": "2026-11-18T22:43:13Z",
-   "sha256": "92346ca423c65a517d9650ba2970cc8ca39a6181a6ac88602c276eafb89348d6",
-   "stamp": "18-Nov-2026 16:48|3408059",
+   "modified": "20-Nov-2026 16:31",
+   "retrieved_at": "2026-11-20T22:22:30Z",
+   "sha256": "004c85b40edb306dfc74447ab05b04e0b051609687e1f2daecbd86e063971d2d",
+   "stamp": "20-Nov-2026 16:31|3408059",
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119-public.zip"
   }
  },
- "updated_at": "2026-11-18T22:43:13Z",
+ "updated_at": "2026-11-20T22:22:30Z",
  "window": {
   "congresses": [
    117,
