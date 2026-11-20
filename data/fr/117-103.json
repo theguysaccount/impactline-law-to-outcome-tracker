@@ -10,7 +10,7 @@
   ],
   [
    "Homeland Security Department",
-   30
+   31
   ],
   [
    "Centers for Medicare & Medicaid Services",
@@ -53,19 +53,29 @@
   "Notice": 135,
   "Presidential Document": 3,
   "Proposed Rule": 54,
-  "Rule": 54
+  "Rule": 55
  },
  "by_year": {
   "2022": 91,
   "2023": 69,
   "2024": 46,
   "2025": 19,
-  "2026": 21
+  "2026": 22
  },
  "complete": true,
  "first": "2022-04-06",
- "last": "2026-11-09",
+ "last": "2026-11-20",
  "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-20",
+   "k": "Rule",
+   "n": "2026-23713",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -217,20 +227,20 @@
    "n": "2026-08826",
    "t": "Modification of Certain Terminology in Title 21",
    "u": "https://www.federalregister.gov/documents/2026/05/06/2026-08826/modification-of-certain-terminology-in-title-21"
-  },
-  {
-   "a": [
-    "Housing and Urban Development Department"
-   ],
-   "d": "2026-04-28",
-   "k": "Proposed Rule",
-   "n": "2026-08244",
-   "t": "Equal Access to Housing in HUD Programs Revisions",
-   "u": "https://www.federalregister.gov/documents/2026/04/28/2026-08244/equal-access-to-housing-in-hud-programs-revisions"
   }
  ],
  "law": "117-103",
  "rules": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-20",
+   "k": "Rule",
+   "n": "2026-23713",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -385,19 +395,9 @@
    "n": "2025-19787",
    "t": "Medicare and Medicaid Programs; CY 2026 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
    "u": "https://www.federalregister.gov/documents/2025/11/05/2025-19787/medicare-and-medicaid-programs-cy-2026-payment-policies-under-the-physician-fee-schedule-and-other"
-  },
-  {
-   "a": [
-    "Homeland Security Department"
-   ],
-   "d": "2025-10-23",
-   "k": "Proposed Rule",
-   "n": "2025-19642",
-   "t": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
-   "u": "https://www.federalregister.gov/documents/2025/10/23/2025-19642/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-103%22+%7C+%22Pub.+L.+117-103%22+%7C+%22P.L.+117-103%22&order=newest",
  "term": "\"Public Law 117-103\" | \"Pub. L. 117-103\" | \"P.L. 117-103\"",
- "total": 246
+ "total": 247
 }

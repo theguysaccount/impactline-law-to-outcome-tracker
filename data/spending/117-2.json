@@ -1,94 +1,94 @@
 {
  "agencies": [
   {
-   "budgetary_resources": 850830078375.11,
+   "budgetary_resources": 850934140308.09,
    "name": "Department of the Treasury",
-   "obligations": 720768355436.94,
-   "outlays": 842258745919.32
+   "obligations": 720770694198.76,
+   "outlays": 842571647439.39
   },
   {
    "budgetary_resources": 168682603254.23,
    "name": "Department of Education",
-   "obligations": 168663016037.36,
-   "outlays": 166731944964.87
+   "obligations": 168631167837.95,
+   "outlays": 166732052499.36
   },
   {
-   "budgetary_resources": 151590092185.21,
+   "budgetary_resources": 150165868507.21,
    "name": "Department of Health and Human Services",
-   "obligations": 149110695659.37,
-   "outlays": 139020291431.06
+   "obligations": 148859436674.01,
+   "outlays": 139275065513.83
   },
   {
-   "budgetary_resources": 79746336427.48,
+   "budgetary_resources": 78218650434.47,
    "name": "Pension Benefit Guaranty Corporation",
-   "obligations": 78070287999.44,
-   "outlays": 78051782905.09
+   "obligations": 78218650434.47,
+   "outlays": 78203858693.06
   },
   {
    "budgetary_resources": 51527161304.52,
    "name": "Department of Homeland Security",
-   "obligations": 51398067156.68,
-   "outlays": 51236783378.62
+   "obligations": 51369129961.8,
+   "outlays": 51231803134.55
   },
   {
    "budgetary_resources": 40816728539.03,
    "name": "Department of Transportation",
-   "obligations": 40760302333.94,
-   "outlays": 40244291006.71
+   "obligations": 40761935293.72,
+   "outlays": 40272907997.83
   },
   {
    "budgetary_resources": 45204350576.44,
    "name": "Small Business Administration",
-   "obligations": 39527599999.42,
-   "outlays": 39515529572.22
+   "obligations": 39523725032.76,
+   "outlays": 39518395962.68
   },
   {
    "budgetary_resources": 6802807763.69,
    "name": "Department of Agriculture",
-   "obligations": 26244078448.7,
-   "outlays": 35354789886.43
+   "obligations": 26248085933.46,
+   "outlays": 35404748725.1
   },
   {
    "budgetary_resources": 17000832830.93,
    "name": "Department of Veterans Affairs",
-   "obligations": 16789762255.21,
-   "outlays": 16543321316.39
+   "obligations": 16785880193.52,
+   "outlays": 16562678851.18
   },
   {
-   "budgetary_resources": 10789448986.92,
+   "budgetary_resources": 10791413538.02,
    "name": "Department of Housing and Urban Development",
-   "obligations": 10648958406.46,
-   "outlays": 6745330664.41
+   "obligations": 10692795725.56,
+   "outlays": 6874608776.0
   },
   {
    "budgetary_resources": 8407920143.0,
    "name": "Agency for International Development",
    "obligations": 8326167091.96,
-   "outlays": 8321960836.4
+   "outlays": 8320901485.0
   },
   {
    "budgetary_resources": 5404000000.0,
    "name": "Federal Communications Commission",
-   "obligations": 5015945776.13,
-   "outlays": 4982133078.71
+   "obligations": 5007894373.46,
+   "outlays": 4982118997.42
   },
   {
    "budgetary_resources": 3288000000.0,
    "name": "Department of Commerce",
-   "obligations": 2626568731.03,
-   "outlays": 2188894854.9
+   "obligations": 2614365439.04,
+   "outlays": 2320654078.13
   },
   {
    "budgetary_resources": 1828532929.81,
    "name": "Department of the Interior",
-   "obligations": 1826492492.27,
-   "outlays": 1785865078.77
+   "obligations": 1827222769.72,
+   "outlays": 1792997897.78
   },
   {
-   "budgetary_resources": 1315300000.0,
+   "budgetary_resources": 1308750000.0,
    "name": "Department of State",
-   "obligations": 1277915846.6,
-   "outlays": 1277616224.73
+   "obligations": 1277916504.98,
+   "outlays": 1277608795.03
   }
  ],
  "awards": [
@@ -128,7 +128,7 @@
    "description": "AMERICAN RESCUE PLAN - ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND (ARP-ESSER)",
    "id": "S425U210052",
    "kind": "grants",
-   "outlays": 6952554308.04,
+   "outlays": 6952455190.44,
    "recipient": "FLORIDA DEPARTMENT OF EDUCATION",
    "url": "https://www.usaspending.gov/award/ASST_NON_S425U210052_091"
   },
@@ -158,7 +158,7 @@
    "description": "AMERICAN RESCUE PLAN - ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND (ARP-ESSER)",
    "id": "S425U210028",
    "kind": "grants",
-   "outlays": 4901586033.8,
+   "outlays": 4901484941.42,
    "recipient": "COMMONWEALTH OF PENNSYLVANIA DEPARTMENT OF EDUCATION",
    "url": "https://www.usaspending.gov/award/ASST_NON_S425U210028_091"
   },
@@ -178,17 +178,17 @@
    "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SANDIA, LLC (NTESS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S SANDIA NATIONAL LAB",
    "id": "DENA0003525",
    "kind": "contracts",
-   "outlays": 27227349900.77,
+   "outlays": 27720797189.94,
    "recipient": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0003525_8900_-NONE-_-NONE-"
   },
   {
    "agency": "Department of Energy",
-   "amount": 31194334447.95,
+   "amount": 31223517818.95,
    "description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY OPERATING AND MANAGING CONTRACT",
    "id": "DEAC0576RL01830",
    "kind": "contracts",
-   "outlays": 8436700652.4,
+   "outlays": 8589173620.5,
    "recipient": "BATTELLE MEMORIAL INSTITUTE",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-"
   },
@@ -198,7 +198,7 @@
    "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003624 TO THE MISSION SUPPORT AND TEST SERVICES LLC (MSTS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY NATIONAL NUCLEAR SECURITY ADMINISTRATION'S NEVADA NATIONAL SECURITY SITE.",
    "id": "DENA0003624",
    "kind": "contracts",
-   "outlays": 5325245773.05,
+   "outlays": 5449892001.22,
    "recipient": "MISSION SUPPORT & TEST SERVICES LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0003624_8900_-NONE-_-NONE-"
   },
@@ -208,7 +208,7 @@
    "description": "IGF::CL::IGF - GHSC IDIQ - HIV/AIDS TO",
    "id": "AIDOAATO1500007",
    "kind": "contracts",
-   "outlays": 4865881328.21,
+   "outlays": 4736438859.8,
    "recipient": "CHEMONICS INTERNATIONAL, INC.",
    "url": "https://www.usaspending.gov/award/CONT_AWD_AIDOAATO1500007_7200_AIDOAAI1500004_7200"
   },
@@ -228,7 +228,7 @@
    "description": "CONTACT CENTER OPERATIONS",
    "id": "75FCMC22C0038",
    "kind": "contracts",
-   "outlays": 2627035729.15,
+   "outlays": 2668363734.61,
    "recipient": "MAXIMUS FEDERAL SERVICES, INC.",
    "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC22C0038_7530_-NONE-_-NONE-"
   },
@@ -260,15 +260,15 @@
   }
  ],
  "funding_by_code": {
-  "V": 1448053608909.87
+  "V": 1445196201359.54
  },
  "law": "117-2",
  "overview": {
-  "award_obligations": 821359474806.6,
-  "award_outlays": 887455926045.37,
-  "budget_authority": 1448053608909.87,
-  "total_obligations": 1430223657959.64,
-  "total_outlays": 1412971316810.9
+  "award_obligations": 822166091566.03,
+  "award_outlays": 888349339330.57,
+  "budget_authority": 1445196201359.54,
+  "total_obligations": 1430153856029.27,
+  "total_outlays": 1414124211308.45
  },
  "programs": [
   {
@@ -289,7 +289,7 @@
   {
    "listing": "97.036",
    "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
-   "obligations": 153305932426.53
+   "obligations": 153287849169.53
   },
   {
    "listing": "86.001",
@@ -309,7 +309,7 @@
   {
    "listing": "20.507",
    "name": "Federal Transit Formula Grants",
-   "obligations": 28285458623.54
+   "obligations": 28287538623.54
   },
   {
    "listing": "93.498",
@@ -339,12 +339,12 @@
   {
    "listing": "97.048",
    "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
-   "obligations": 12759578397.96
+   "obligations": 12758658558.62
   },
   {
    "listing": "20.106",
    "name": "Airport Improvement Program, Infrastructure Investment and Jobs Act Programs, and COVID-19 Airports Programs",
-   "obligations": 11410103525.18
+   "obligations": 11409315480.4
   }
  ],
  "shared_codes": [

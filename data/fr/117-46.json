@@ -25,25 +25,39 @@
    2
   ],
   [
+   "Homeland Security Department",
+   1
+  ],
+  [
    "Agriculture Department",
    1
   ]
  ],
  "by_type": {
   "Notice": 12,
-  "Rule": 13
+  "Rule": 14
  },
  "by_year": {
   "2022": 3,
   "2023": 7,
   "2024": 8,
   "2025": 1,
-  "2026": 6
+  "2026": 7
  },
  "complete": true,
  "first": "2022-06-30",
- "last": "2026-10-30",
+ "last": "2026-11-20",
  "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-20",
+   "k": "Rule",
+   "n": "2026-23713",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021"
+  },
   {
    "a": [
     "Commerce Department",
@@ -189,20 +203,20 @@
    "n": "2024-08336",
    "t": "Implementation of HAVANA Act of 2021",
    "u": "https://www.federalregister.gov/documents/2024/04/19/2024-08336/implementation-of-havana-act-of-2021"
-  },
-  {
-   "a": [
-    "Agency for International Development"
-   ],
-   "d": "2024-03-05",
-   "k": "Notice",
-   "n": "2024-04609",
-   "t": "60-Day Notice of Proposed Information Collection: USAID Eligibility Questionnaire for HAVANA Act Payments",
-   "u": "https://www.federalregister.gov/documents/2024/03/05/2024-04609/60-day-notice-of-proposed-information-collection-usaid-eligibility-questionnaire-for-havana-act"
   }
  ],
  "law": "117-46",
  "rules": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-20",
+   "k": "Rule",
+   "n": "2026-23713",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021"
+  },
   {
    "a": [
     "Justice Department"
@@ -340,5 +354,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-46%22+%7C+%22Pub.+L.+117-46%22+%7C+%22P.L.+117-46%22&order=newest",
  "term": "\"Public Law 117-46\" | \"Pub. L. 117-46\" | \"P.L. 117-46\"",
- "total": 25
+ "total": 26
 }

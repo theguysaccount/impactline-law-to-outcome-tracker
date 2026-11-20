@@ -9,12 +9,12 @@
    5
   ],
   [
-   "Federal Procurement Policy Office",
+   "Homeland Security Department",
    4
   ],
   [
-   "Homeland Security Department",
-   3
+   "Federal Procurement Policy Office",
+   4
   ],
   [
    "Securities and Exchange Commission",
@@ -52,15 +52,25 @@
  "by_type": {
   "Notice": 6,
   "Proposed Rule": 9,
-  "Rule": 5
+  "Rule": 6
  },
  "by_year": {
-  "2026": 20
+  "2026": 21
  },
  "complete": true,
  "first": "2026-01-28",
- "last": "2026-11-05",
+ "last": "2026-11-20",
  "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-20",
+   "k": "Rule",
+   "n": "2026-23713",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021"
+  },
   {
    "a": [
     "Transportation Department",
@@ -214,20 +224,20 @@
    "n": "2026-08622",
    "t": "Amending the Department of Commerce's Regulations Implementing the HAVANA Act",
    "u": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act"
-  },
-  {
-   "a": [
-    "United States Sentencing Commission"
-   ],
-   "d": "2026-04-24",
-   "k": "Notice",
-   "n": "2026-08088",
-   "t": "Sentencing Guidelines for United States Courts",
-   "u": "https://www.federalregister.gov/documents/2026/04/24/2026-08088/sentencing-guidelines-for-united-states-courts"
   }
  ],
  "law": "119-60",
  "rules": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-20",
+   "k": "Rule",
+   "n": "2026-23713",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021"
+  },
   {
    "a": [
     "Transportation Department",
@@ -385,5 +395,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-60%22+%7C+%22Pub.+L.+119-60%22+%7C+%22P.L.+119-60%22&order=newest",
  "term": "\"Public Law 119-60\" | \"Pub. L. 119-60\" | \"P.L. 119-60\"",
- "total": 20
+ "total": 21
 }

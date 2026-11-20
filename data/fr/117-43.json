@@ -6,7 +6,7 @@
   ],
   [
    "Housing and Urban Development Department",
-   20
+   21
   ],
   [
    "Farm Service Agency",
@@ -50,7 +50,7 @@
   ]
  ],
  "by_type": {
-  "Notice": 38,
+  "Notice": 39,
   "Proposed Rule": 6,
   "Rule": 24
  },
@@ -59,12 +59,22 @@
   "2023": 17,
   "2024": 6,
   "2025": 13,
-  "2026": 8
+  "2026": 9
  },
  "complete": true,
  "first": "2022-01-26",
- "last": "2026-10-27",
+ "last": "2026-11-20",
  "latest": [
+  {
+   "a": [
+    "Housing and Urban Development Department"
+   ],
+   "d": "2026-11-20",
+   "k": "Notice",
+   "n": "2026-23696",
+   "t": "Waivers and Alternative Requirements for Community Development Block Grant Disaster Recovery (CDBG-DR) and Community Development Block Grant Mitigation (CDBG-MIT) Grantees",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23696/waivers-and-alternative-requirements-for-community-development-block-grant-disaster-recovery-cdbg-dr"
+  },
   {
    "a": [
     "Housing and Urban Development Department"
@@ -213,18 +223,6 @@
    "n": "2025-14742",
    "t": "Waivers and Alternative Requirements for Community Development Block Grant Disaster Recovery (CDBG-DR) and Community Development Block Grant Mitigation (CDBG-MIT) Grantees",
    "u": "https://www.federalregister.gov/documents/2025/08/05/2025-14742/waivers-and-alternative-requirements-for-community-development-block-grant-disaster-recovery-cdbg-dr"
-  },
-  {
-   "a": [
-    "Agriculture Department",
-    "Office of the Secretary",
-    "Federal Crop Insurance Corporation"
-   ],
-   "d": "2025-07-10",
-   "k": "Rule",
-   "n": "2025-12877",
-   "t": "Removal of Unconstitutional Preferences Based on Race and Sex in Response to Court Ruling",
-   "u": "https://www.federalregister.gov/documents/2025/07/10/2025-12877/removal-of-unconstitutional-preferences-based-on-race-and-sex-in-response-to-court-ruling"
   }
  ],
  "law": "117-43",
@@ -399,5 +397,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-43%22+%7C+%22Pub.+L.+117-43%22+%7C+%22P.L.+117-43%22&order=newest",
  "term": "\"Public Law 117-43\" | \"Pub. L. 117-43\" | \"P.L. 117-43\"",
- "total": 68
+ "total": 69
 }

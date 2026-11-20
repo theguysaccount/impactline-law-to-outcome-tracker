@@ -5,12 +5,12 @@
    30
   ],
   [
-   "Defense Acquisition Regulations System",
+   "Homeland Security Department",
    19
   ],
   [
-   "Homeland Security Department",
-   18
+   "Defense Acquisition Regulations System",
+   19
   ],
   [
    "Transportation Department",
@@ -53,18 +53,28 @@
   "Notice": 25,
   "Presidential Document": 10,
   "Proposed Rule": 45,
-  "Rule": 53
+  "Rule": 54
  },
  "by_year": {
   "2023": 53,
   "2024": 55,
   "2025": 8,
-  "2026": 17
+  "2026": 18
  },
  "complete": true,
  "first": "2023-01-06",
- "last": "2026-10-27",
+ "last": "2026-11-20",
  "latest": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-20",
+   "k": "Rule",
+   "n": "2026-23713",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021"
+  },
   {
    "a": [
     "Justice Department"
@@ -215,21 +225,20 @@
    "n": "2026-02784",
    "t": "Centers of Excellence for Domestic Maritime Workforce Training and Education Notice of Opportunity To Apply for Designation",
    "u": "https://www.federalregister.gov/documents/2026/02/12/2026-02784/centers-of-excellence-for-domestic-maritime-workforce-training-and-education-notice-of-opportunity"
-  },
-  {
-   "a": [
-    "Defense Department",
-    "Office of the Secretary"
-   ],
-   "d": "2026-02-06",
-   "k": "Rule",
-   "n": "2026-02437",
-   "t": "Medical Billing for Healthcare Services Provided by Department of Defense Military Medical Treatment Facilities to Civilian Non-Beneficiaries",
-   "u": "https://www.federalregister.gov/documents/2026/02/06/2026-02437/medical-billing-for-healthcare-services-provided-by-department-of-defense-military-medical-treatment"
   }
  ],
  "law": "117-263",
  "rules": [
+  {
+   "a": [
+    "Homeland Security Department"
+   ],
+   "d": "2026-11-20",
+   "k": "Rule",
+   "n": "2026-23713",
+   "t": "Implementation of HAVANA Act of 2021",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021"
+  },
   {
    "a": [
     "Justice Department"
@@ -380,20 +389,9 @@
    "n": "2025-21914",
    "t": "Adjusting and Indexing Certain Regulatory Thresholds",
    "u": "https://www.federalregister.gov/documents/2025/12/04/2025-21914/adjusting-and-indexing-certain-regulatory-thresholds"
-  },
-  {
-   "a": [
-    "Homeland Security Department",
-    "Coast Guard"
-   ],
-   "d": "2025-11-24",
-   "k": "Rule",
-   "n": "2025-20727",
-   "t": "Navigation and Navigable Waters, and Shipping; Technical, Organizational, and Conforming Amendments",
-   "u": "https://www.federalregister.gov/documents/2025/11/24/2025-20727/navigation-and-navigable-waters-and-shipping-technical-organizational-and-conforming-amendments"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-263%22+%7C+%22Pub.+L.+117-263%22+%7C+%22P.L.+117-263%22&order=newest",
  "term": "\"Public Law 117-263\" | \"Pub. L. 117-263\" | \"P.L. 117-263\"",
- "total": 133
+ "total": 134
 }

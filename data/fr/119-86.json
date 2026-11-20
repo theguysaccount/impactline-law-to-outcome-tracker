@@ -2,23 +2,34 @@
  "agencies": [
   [
    "Homeland Security Department",
-   1
+   2
   ],
   [
    "Transportation Security Administration",
-   1
+   2
   ]
  ],
  "by_type": {
-  "Notice": 1
+  "Notice": 2
  },
  "by_year": {
-  "2026": 1
+  "2026": 2
  },
  "complete": true,
  "first": "2026-09-18",
- "last": "2026-09-18",
+ "last": "2026-11-20",
  "latest": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "Transportation Security Administration"
+   ],
+   "d": "2026-11-20",
+   "k": "Notice",
+   "n": "2026-23637",
+   "t": "Reinstatement With Revision of Agency Information Collection Activity Under OMB Review: Law Enforcement (LEO) Reimbursement Request",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23637/reinstatement-with-revision-of-agency-information-collection-activity-under-omb-review-law"
+  },
   {
    "a": [
     "Homeland Security Department",
@@ -35,5 +46,5 @@
  "rules": [],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-86%22+%7C+%22Pub.+L.+119-86%22+%7C+%22P.L.+119-86%22&order=newest",
  "term": "\"Public Law 119-86\" | \"Pub. L. 119-86\" | \"P.L. 119-86\"",
- "total": 1
+ "total": 2
 }

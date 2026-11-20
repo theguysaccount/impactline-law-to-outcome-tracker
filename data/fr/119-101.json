@@ -5,6 +5,10 @@
    2
   ],
   [
+   "Federal Deposit Insurance Corporation",
+   1
+  ],
+  [
    "Energy Department",
    1
   ],
@@ -23,15 +27,26 @@
  ],
  "by_type": {
   "Notice": 2,
+  "Proposed Rule": 1,
   "Rule": 2
  },
  "by_year": {
-  "2026": 4
+  "2026": 5
  },
  "complete": true,
  "first": "2026-08-10",
- "last": "2026-09-23",
+ "last": "2026-11-20",
  "latest": [
+  {
+   "a": [
+    "Federal Deposit Insurance Corporation"
+   ],
+   "d": "2026-11-20",
+   "k": "Proposed Rule",
+   "n": "2026-23669",
+   "t": "Custodial Deposits: Implementing the 21st Century ROAD to Housing Act",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23669/custodial-deposits-implementing-the-21st-century-road-to-housing-act"
+  },
   {
    "a": [
     "Housing and Urban Development Department"
@@ -79,6 +94,16 @@
  "rules": [
   {
    "a": [
+    "Federal Deposit Insurance Corporation"
+   ],
+   "d": "2026-11-20",
+   "k": "Proposed Rule",
+   "n": "2026-23669",
+   "t": "Custodial Deposits: Implementing the 21st Century ROAD to Housing Act",
+   "u": "https://www.federalregister.gov/documents/2026/11/20/2026-23669/custodial-deposits-implementing-the-21st-century-road-to-housing-act"
+  },
+  {
+   "a": [
     "Energy Department"
    ],
    "d": "2026-09-18",
@@ -102,5 +127,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-101%22+%7C+%22Pub.+L.+119-101%22+%7C+%22P.L.+119-101%22&order=newest",
  "term": "\"Public Law 119-101\" | \"Pub. L. 119-101\" | \"P.L. 119-101\"",
- "total": 4
+ "total": 5
 }
