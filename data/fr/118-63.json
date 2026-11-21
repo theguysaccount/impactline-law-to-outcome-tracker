@@ -2,11 +2,11 @@
  "agencies": [
   [
    "Transportation Department",
-   78
+   79
   ],
   [
    "Federal Aviation Administration",
-   63
+   64
   ],
   [
    "Office of the Secretary",
@@ -52,17 +52,28 @@
  "by_type": {
   "Notice": 34,
   "Proposed Rule": 22,
-  "Rule": 27
+  "Rule": 28
  },
  "by_year": {
   "2024": 20,
   "2025": 23,
-  "2026": 40
+  "2026": 41
  },
  "complete": true,
  "first": "2024-06-11",
- "last": "2026-11-04",
+ "last": "2026-11-23",
  "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "d": "2026-11-23",
+   "k": "Rule",
+   "n": "2026-23786",
+   "t": "Miscellaneous Technical Amendments; Technical Amendment",
+   "u": "https://www.federalregister.gov/documents/2026/11/23/2026-23786/miscellaneous-technical-amendments-technical-amendment"
+  },
   {
    "a": [
     "Transportation Department",
@@ -215,21 +226,21 @@
    "n": "2026-13450",
    "t": "Increasing Flexibility on Disclosure of Airline Ancillary Fees",
    "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13450/increasing-flexibility-on-disclosure-of-airline-ancillary-fees"
-  },
+  }
+ ],
+ "law": "118-63",
+ "rules": [
   {
    "a": [
     "Transportation Department",
     "Federal Aviation Administration"
    ],
-   "d": "2026-07-02",
-   "k": "Proposed Rule",
-   "n": "2026-13440",
-   "t": "Enabling Supersonic Overland Flight",
-   "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13440/enabling-supersonic-overland-flight"
-  }
- ],
- "law": "118-63",
- "rules": [
+   "d": "2026-11-23",
+   "k": "Rule",
+   "n": "2026-23786",
+   "t": "Miscellaneous Technical Amendments; Technical Amendment",
+   "u": "https://www.federalregister.gov/documents/2026/11/23/2026-23786/miscellaneous-technical-amendments-technical-amendment"
+  },
   {
    "a": [
     "Transportation Department",
@@ -383,20 +394,9 @@
    "n": "2026-10293",
    "t": "Prohibition of Remote Dispatching",
    "u": "https://www.federalregister.gov/documents/2026/05/22/2026-10293/prohibition-of-remote-dispatching"
-  },
-  {
-   "a": [
-    "Transportation Department",
-    "Federal Aviation Administration"
-   ],
-   "d": "2026-05-22",
-   "k": "Proposed Rule",
-   "n": "2026-10286",
-   "t": "Flexibility Enhancements of Weather Reporting Systems",
-   "u": "https://www.federalregister.gov/documents/2026/05/22/2026-10286/flexibility-enhancements-of-weather-reporting-systems"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-63%22+%7C+%22Pub.+L.+118-63%22+%7C+%22P.L.+118-63%22&order=newest",
  "term": "\"Public Law 118-63\" | \"Pub. L. 118-63\" | \"P.L. 118-63\"",
- "total": 83
+ "total": 84
 }

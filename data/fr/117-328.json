@@ -2,7 +2,7 @@
  "agencies": [
   [
    "Health and Human Services Department",
-   189
+   190
   ],
   [
    "Centers for Medicare & Medicaid Services",
@@ -30,11 +30,11 @@
   ],
   [
    "Labor Department",
-   26
+   27
   ],
   [
    "Office of the Secretary",
-   24
+   25
   ],
   [
    "Internal Revenue Service",
@@ -50,21 +50,43 @@
   ]
  ],
  "by_type": {
-  "Notice": 283,
+  "Notice": 284,
   "Presidential Document": 6,
   "Proposed Rule": 108,
-  "Rule": 134
+  "Rule": 135
  },
  "by_year": {
   "2023": 214,
   "2024": 163,
   "2025": 76,
-  "2026": 78
+  "2026": 80
  },
  "complete": true,
  "first": "2023-01-11",
- "last": "2026-11-18",
+ "last": "2026-11-23",
  "latest": [
+  {
+   "a": [
+    "Labor Department",
+    "Wage and Hour Division"
+   ],
+   "d": "2026-11-23",
+   "k": "Rule",
+   "n": "2026-23777",
+   "t": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "u": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical"
+  },
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-11-23",
+   "k": "Notice",
+   "n": "2026-23741",
+   "t": "Federal Financial Participation in State Assistance Expenditures; Federal Matching Shares for Medicaid, the Children's Health Insurance Program, and Aid to Needy Aged, Blind, or Disabled Persons for October 1, 2027, Through September 30, 2028",
+   "u": "https://www.federalregister.gov/documents/2026/11/23/2026-23741/federal-financial-participation-in-state-assistance-expenditures-federal-matching-shares-for"
+  },
   {
    "a": [
     "Treasury Department",
@@ -206,31 +228,21 @@
    "n": "2026-18900",
    "t": "World Trade Center Health Program; Petitions 048 and 051a-Stroke; Finding of Insufficient Evidence",
    "u": "https://www.federalregister.gov/documents/2026/09/15/2026-18900/world-trade-center-health-program-petitions-048-and-051a-stroke-finding-of-insufficient-evidence"
-  },
-  {
-   "a": [
-    "Federal Trade Commission"
-   ],
-   "d": "2026-09-10",
-   "k": "Notice",
-   "n": "2026-18505",
-   "t": "Horseracing Integrity And Safety Authority Proposed 2027 Budget",
-   "u": "https://www.federalregister.gov/documents/2026/09/10/2026-18505/horseracing-integrity-and-safety-authority-proposed-2027-budget"
-  },
-  {
-   "a": [
-    "Treasury Department",
-    "Internal Revenue Service"
-   ],
-   "d": "2026-08-21",
-   "k": "Proposed Rule",
-   "n": "2026-17123",
-   "t": "Guidance on Eligible Investments for Trump Accounts",
-   "u": "https://www.federalregister.gov/documents/2026/08/21/2026-17123/guidance-on-eligible-investments-for-trump-accounts"
   }
  ],
  "law": "117-328",
  "rules": [
+  {
+   "a": [
+    "Labor Department",
+    "Wage and Hour Division"
+   ],
+   "d": "2026-11-23",
+   "k": "Rule",
+   "n": "2026-23777",
+   "t": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "u": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical"
+  },
   {
    "a": [
     "Treasury Department",
@@ -385,20 +397,9 @@
    "n": "2026-15833",
    "t": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of",
    "u": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
-  },
-  {
-   "a": [
-    "Health and Human Services Department",
-    "Centers for Medicare & Medicaid Services"
-   ],
-   "d": "2026-08-03",
-   "k": "Rule",
-   "n": "2026-15686",
-   "t": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
-   "u": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-328%22+%7C+%22Pub.+L.+117-328%22+%7C+%22P.L.+117-328%22&order=newest",
  "term": "\"Public Law 117-328\" | \"Pub. L. 117-328\" | \"P.L. 117-328\"",
- "total": 531
+ "total": 533
 }

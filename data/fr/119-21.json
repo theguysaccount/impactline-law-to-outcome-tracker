@@ -18,7 +18,7 @@
   ],
   [
    "Health and Human Services Department",
-   30
+   31
   ],
   [
    "Homeland Security Department",
@@ -50,18 +50,29 @@
   ]
  ],
  "by_type": {
-  "Notice": 122,
+  "Notice": 123,
   "Proposed Rule": 63,
   "Rule": 61
  },
  "by_year": {
   "2025": 49,
-  "2026": 197
+  "2026": 198
  },
  "complete": true,
  "first": "2025-07-22",
- "last": "2026-11-19",
+ "last": "2026-11-23",
  "latest": [
+  {
+   "a": [
+    "Health and Human Services Department",
+    "Office of the Secretary"
+   ],
+   "d": "2026-11-23",
+   "k": "Notice",
+   "n": "2026-23741",
+   "t": "Federal Financial Participation in State Assistance Expenditures; Federal Matching Shares for Medicaid, the Children's Health Insurance Program, and Aid to Needy Aged, Blind, or Disabled Persons for October 1, 2027, Through September 30, 2028",
+   "u": "https://www.federalregister.gov/documents/2026/11/23/2026-23741/federal-financial-participation-in-state-assistance-expenditures-federal-matching-shares-for"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -210,16 +221,6 @@
    "n": "2026-21643",
    "t": "Agency Information Collection Activities; Proposed Collection; Comment Request; Trump Accounts Qualified Class Contribution Application",
    "u": "https://www.federalregister.gov/documents/2026/10/23/2026-21643/agency-information-collection-activities-proposed-collection-comment-request-trump-accounts"
-  },
-  {
-   "a": [
-    "Personnel Management Office"
-   ],
-   "d": "2026-10-19",
-   "k": "Notice",
-   "n": "2026-21380",
-   "t": "Agency Information Collection Request: FEHB Protection Act Portal, OMB Control Number (3206-NEW)",
-   "u": "https://www.federalregister.gov/documents/2026/10/19/2026-21380/agency-information-collection-request-fehb-protection-act-portal-omb-control-number-3206-new"
   }
  ],
  "law": "119-21",
@@ -389,5 +390,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-21%22+%7C+%22Pub.+L.+119-21%22+%7C+%22P.L.+119-21%22&order=newest",
  "term": "\"Public Law 119-21\" | \"Pub. L. 119-21\" | \"P.L. 119-21\"",
- "total": 246
+ "total": 247
 }
