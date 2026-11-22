@@ -12,9 +12,10 @@ on:
 permissions:
   contents: write
   actions: write
+  pages: read        # to ask GitHub which address the site is served at
 
 env:
-  SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+  SITE_URL_VARIABLE: ${{ vars.SITE_URL }}     # normally unset: .github/scripts/site-url.sh reads the address from the Pages settings
   SITE_INDEXABLE: ${{ vars.SITE_INDEXABLE }}
 
 jobs:
@@ -26,6 +27,10 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
+      - name: Find the site's address (the Pages custom domain, when one is set)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: .github/scripts/site-url.sh
       - name: Tests
         run: python3 -m unittest discover -s tests -t .
       - name: Every source read successfully in time

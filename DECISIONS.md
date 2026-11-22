@@ -1,10 +1,23 @@
 # DECISIONS
 
-## 2026-11-10: staged copy, not a launch
-- app.impactline.org answers 200 and is the live original, so this build is staged: `noindex` on every page,
-  `robots.txt` disallows crawling, no sitemap, no IndexNow. One setting moves the base URL (`SITE_URL`), one turns
-  indexing on (`SITE_INDEXABLE`). Jack decides the cutover; the exact steps are in OPERATIONS.md.
-- The original is itself `noindex, nofollow`. Indexing after cutover is a separate decision from moving the domain.
+## 2026-11-22: beside the original, never in its place
+- Jack's standing rule is "never replace, only build on top", so there is no cutover. The site went live at
+  `data.impactline.org` on 2026-11-22, and `app.impactline.org` is untouched.
+- **Staged at a github.io address, live at its own.** The first build (2026-11-10) was staged because the original is
+  live: `noindex` on every page, robots.txt disallowing everything, no sitemap, no IndexNow. That is still what a
+  github.io address gets. At its own address the site is indexable, except the pages the original already serves.
+- **What counts as a duplicate.** The original is one page: the list of enacted laws, the law you pick, and how
+  evidence works. So the home page, `/laws/`, the per-Congress lists, the method page and the about page here stay
+  `noindex` and point to the original. The original has no address per law, so the 778 law pages, the spending and
+  Federal Register lists, the program traces and the downloads are this site's own and are indexed.
+- **The original is itself `noindex, nofollow`.** Indexing this site therefore takes nothing from the original, but it
+  does put ImpactLine pages in search for the first time. `SITE_INDEXABLE=false` reverses that in one step (OPERATIONS.md).
+- **The address is read from the Pages settings** on every run, so the custom domain is the one setting that moves the
+  site. A build for the wrong address would publish pages whose stylesheet and links point elsewhere, so a run
+  that cannot read the setting stops before building.
+- **The browser check's search expectation is now exact.** It accepted "1 to 12 rows" for a search on a law number,
+  which would have failed the day the sampled law had a short number (118-2 also matches 118-20 and 118-200). It now
+  applies the list's own rule to the rows on the page.
 
 ## 2026-11-10: sources
 - **Laws from GovInfo bulk data, not Congress.gov.** The original used the Congress.gov API, which needs a key (its
@@ -51,7 +64,8 @@
 - Stack change from Next.js on a Worker to Python's standard library plus static files: the brief is a site that runs
   with no server and no keys, and every dynamic route in the original needs one or the other.
 
-## Questions left for Jack (none blocks the staged site)
-1. Cut over `app.impactline.org`, add a new name such as `laws.impactline.org`, or keep this as a mirror?
-2. Should the site be indexed after cutover? The original is not.
+## Questions left for Jack (none blocks the site)
+1. Answered 2026-11-22: a new name beside the original, `data.impactline.org`. The original is never replaced.
+2. The site is indexable at its own address, and the original app is not. If ImpactLine should stay out of search
+   for now, set `SITE_INDEXABLE=false` (OPERATIONS.md).
 3. Is the merge with America V2 (AuditLine) wanted? The two static sites share a contract and a build pattern, but no common key yet.

@@ -2,8 +2,9 @@
 
 Everything runs on GitHub Actions in `theguysaccount/impactline-law-to-outcome-tracker`. No human has a job here.
 
-- Staged copy: https://theguysaccount.github.io/impactline-law-to-outcome-tracker/ (noindex).
-- Live original: https://app.impactline.org (OpenAI Sites, reached through a CNAME at SiteGround). Not touched.
+- Live: https://data.impactline.org/ (since 2026-11-22). It sits beside the original and never replaces it.
+- The original: https://app.impactline.org (OpenAI Sites, reached through a CNAME at SiteGround). Not touched.
+- The old staging address, https://theguysaccount.github.io/impactline-law-to-outcome-tracker/, redirects to the live one.
 
 ## Automated jobs
 
@@ -47,37 +48,72 @@ after its schedule was last pushed, and the 15:47 refresh started at 21:26. Both
 - **Add a program trace:** `config/programs.json` (law, Assistance Listing number, guides). The law must carry a fund code.
 - **Pacing and budgets:** `config/site.json` (`pace` seconds per host, `budget`).
 
-## Cutover: replacing the live original (Jack decides)
+## Where the site lives, and how to move it
 
-Current state, checked 2026-11-10: `impactline.org` uses SiteGround nameservers. `app.impactline.org` is a CNAME to
-`custom-domains.chatgpt.site.` (OpenAI Sites). `www` and the apex go to Vercel (the marketing site) and are not part
-of this.
+**Standing rule: never replace, only build on top.** This site goes beside the original on a name of its own. Nothing
+here points `app.impactline.org` at this site or redirects the original to it, and no step below asks for that.
 
-1. **DNS** (SiteGround → Site Tools → Domain → DNS Zone Editor, zone `impactline.org`):
-   change the existing record
-   `CNAME  app  →  custom-domains.chatgpt.site.`
-   to
-   `CNAME  app  →  theguysaccount.github.io.`
-   Leave the two `TXT` verification records for `app` in place until you are sure you will not roll back.
-   (To keep the original running and add this site beside it, create `CNAME laws → theguysaccount.github.io.` instead
-   and use `laws.impactline.org` below.)
-2. **GitHub Pages:** repository Settings → Pages → Custom domain → `app.impactline.org` → Save. Wait for the
-   certificate, then tick "Enforce HTTPS".
-   CLI: `gh api -X PUT repos/theguysaccount/impactline-law-to-outcome-tracker/pages -f cname=app.impactline.org`
-3. **The base-URL setting:**
-   `gh variable set SITE_URL --body "https://app.impactline.org" -R theguysaccount/impactline-law-to-outcome-tracker`
-4. **The indexing setting** (only if the site should appear in search; the original is `noindex` today):
-   `gh variable set SITE_INDEXABLE --body true -R theguysaccount/impactline-law-to-outcome-tracker`
-5. Actions → Refresh and deploy → Run workflow (refresh unticked). Canonical links, sitemap, robots.txt, feeds,
-   packet links and IndexNow all follow the two settings. The weekly self-test checks the live state matches.
-6. **Roll back:** restore the CNAME to `custom-domains.chatgpt.site.`, clear the Pages custom domain, delete the two
-   variables, run the workflow.
+Current state, checked 2026-11-22:
+- `impactline.org` uses SiteGround nameservers (`ns1/ns2.siteground.net`). `app.impactline.org` is a CNAME to
+  `custom-domains.chatgpt.site.` (the original, on OpenAI Sites). `www` and the apex go to Vercel (the marketing
+  site). The zone also has `CNAME  data  →  theguysaccount.github.io.`
+- This repository's Pages custom domain is `data.impactline.org`. The certificate is approved and HTTPS is enforced.
+- The repository variable `SITE_URL=https://data.impactline.org` is set. It is now optional (see below) and not wrong.
+  `SITE_INDEXABLE` is not set.
 
-Also update the share image text if the domain changes (`static/og-default.png` shows `app.impactline.org`).
+**One setting moves the site: the Pages custom domain.** Every workflow run asks GitHub which address the site is
+served at (`.github/scripts/site-url.sh`) and builds each link, canonical, feed, packet link, robots.txt and the
+sitemap for it. The repository variable `SITE_URL` is used instead when it is set, so it must never disagree with the
+Pages setting: delete it, or change both in one sitting.
+
+To move the site to another name, say `<name>.impactline.org`:
+
+1. **DNS**, in the original domain's zone (SiteGround → Site Tools → Domain → DNS Zone Editor, zone `impactline.org`): add
+   `CNAME  <name>  →  theguysaccount.github.io.`
+   Change nothing else, and never the `app` record. This Mac's resolver caches, so check from outside it:
+   `curl -s "https://dns.google/resolve?name=<name>.impactline.org&type=CNAME"`
+2. **Pages custom domain:**
+   `gh api -X PUT repos/theguysaccount/impactline-law-to-outcome-tracker/pages -f cname=<name>.impactline.org`
+3. **Wait for the certificate, then enforce HTTPS.** Repeat the first command until it prints `approved`:
+   `gh api repos/theguysaccount/impactline-law-to-outcome-tracker/pages --jq .https_certificate.state`
+   `gh api -X PUT repos/theguysaccount/impactline-law-to-outcome-tracker/pages -F https_enforced=true`
+4. **Remove the override**, so the address comes from the Pages setting:
+   `gh variable delete SITE_URL -R theguysaccount/impactline-law-to-outcome-tracker`
+5. **Rebuild for the new address:**
+   `gh workflow run "Refresh and deploy" -R theguysaccount/impactline-law-to-outcome-tracker -f refresh=false`
+   From step 2 until this run finishes, the new name serves the old build, whose stylesheet and links still point
+   at the old address. Do steps 2 to 5 in one sitting.
+6. **Check:**
+   `gh workflow run "Weekly self-test" -R theguysaccount/impactline-law-to-outcome-tracker`
+   It fails if the live pages, robots.txt or sitemap are not what this repository is configured for.
+
+To go back to the github.io address: clear the custom domain with
+`gh api -X PUT repos/theguysaccount/impactline-law-to-outcome-tracker/pages --input - <<< '{"cname":null}'`, delete the `SITE_URL` variable, run step 5, then
+remove the DNS record. At a github.io address the site is staged again.
+
+## What search engines may index
+
+- **Staged at a github.io address, live at its own.** Staged means every page is `noindex`, robots.txt disallows
+  everything, there is no sitemap and IndexNow is skipped. `"indexable": "auto"` in `config/site.json` is that rule,
+  so the site has been indexable since it moved to `data.impactline.org`.
+- **To take it out of search again** (the original app is itself `noindex`, so this is a fair choice):
+  `gh variable set SITE_INDEXABLE --body false -R theguysaccount/impactline-law-to-outcome-tracker`, then step 5. `true` makes a github.io address indexable.
+- **Pages the original already serves stay `noindex` when the site is live.** They also stay out of the sitemap and
+  are never sent to IndexNow, and each shows a line that points to the original. They are listed in
+  `config/site.json` under `duplicates_of_original`. Today: the home page, the law lists (`/laws/` and one per
+  Congress), how evidence works, and about. The original is one page that lists the enacted laws, shows the law you
+  pick and explains its evidence rules; it has no address per law.
+- **Indexable because only this site has them:** one page per law, the spending and Federal Register lists, the
+  program traces, and the data and packet downloads.
+- **When the original starts serving something this site indexes**, such as an address per law, add that path to
+  `duplicates_of_original` and push. A key ending in `*` covers every path under it. The guard refuses a live build
+  in which a listed duplicate is indexable or in the sitemap, or an indexable page is missing from the sitemap.
+- The default share image (`static/og-default.png`) prints `app.impactline.org`, the original's address. Pages with
+  their own card do not use it.
 
 ## Keys Jack can turn later
 
-1. **Custom domain / cutover.** Above.
+1. **Another name for the site.** Above.
 2. **Money: alerts and API.** One marked slot ("Paid service") on every law page, off until
    `gh variable set ALERTS_URL --body "https://<service>" -R theguysaccount/impactline-law-to-outcome-tracker`.
    GitHub Pages is non-commercial, so the paid service itself (Stripe, email delivery, API keys) must live on other
@@ -91,7 +127,8 @@ Also update the share image text if the domain changes (`static/og-default.png` 
 5. **Regulations.gov dockets and AI step extraction** (in the original, never configured): both need keys and a
    server-side budget. A scheduled Claude routine could draft "implementation steps" for the 20 tagged laws into
    `content/` as reviewed, quoted extracts; nothing here depends on it.
-6. **Search Console** after cutover: verify `impactline.org` with a DNS TXT record and submit `/sitemap.xml`.
+6. **Search Console:** verify `data.impactline.org` (or the whole domain, with a DNS TXT record) and submit
+   `https://data.impactline.org/sitemap.xml`. Needs a Google account, so it is a human step.
 
 ## Costs
 $0. Public repository, GitHub-hosted runners (about 5 minutes a night), GitHub Pages, no keys.

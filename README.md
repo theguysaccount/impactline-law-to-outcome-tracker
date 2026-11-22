@@ -1,7 +1,7 @@
 # ImpactLine (static edition)
 
-**Staged copy:** https://theguysaccount.github.io/impactline-law-to-outcome-tracker/ (not indexed).
-**Live original:** https://app.impactline.org (unchanged; the cutover is a separate decision, see [OPERATIONS.md](OPERATIONS.md)).
+**Live:** https://data.impactline.org/ (beside the original; it adds to it and never replaces it).
+**The original:** https://app.impactline.org (unchanged). How the address and the indexing are set: [OPERATIONS.md](OPERATIONS.md).
 
 The public delivery record. One page per enacted U.S. public law that follows the law into the Federal Register and
 federal spending records, labels every link as an official record or a candidate match, and leaves the gaps visible.
@@ -28,7 +28,7 @@ No server, no API keys, no dependencies: Python's standard library reads three p
 | `impactline/evidence.py` | The seven-step record, canonical-JSON evidence packets and the digest manifest |
 | `impactline/build.py`, `og.py` | The static site, CSV/JSON mirror, feeds, share cards |
 | `impactline/guard.py`, `e2e.py`, `selftest.py`, `linkcheck.py` | Pre-deploy checks, browser check, live check, weekly link sample |
-| `config/site.json` | Base URL default, staged/indexable flag, request pacing and budgets |
+| `config/site.json` | Base URL default for local builds, the indexing rule, the pages the original already serves, request pacing and budgets |
 | `config/programs.json`, `config/aliases.json` | The three pilot traces; "also called" names for laws with no short title |
 | `data/` | Laws, per-law Federal Register and spending records, check dates. Committed by the nightly job |
 

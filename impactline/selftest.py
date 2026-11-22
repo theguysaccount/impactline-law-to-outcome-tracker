@@ -16,7 +16,7 @@ import urllib.error
 import urllib.request
 from datetime import timedelta
 
-from .common import indexable, load_config, now_utc, parse_iso, site_url
+from .common import duplicate_of, indexable, load_config, now_utc, parse_iso, site_url
 
 
 def fetch(url, ua):
@@ -47,9 +47,16 @@ def main(argv=None):
     if code != 200:
         print(f"FAIL home page answered {code}")
         return 1
-    want_index = indexable(cfg)
+    want_index = indexable(cfg, a.site_url)
     has_noindex = b'<meta name="robots" content="noindex' in home
-    if want_index and has_noindex:
+    if want_index and duplicate_of(cfg, "/"):
+        # The original already serves a home page like this one, so it stays noindex; a page only this site has shows the site is live.
+        if not has_noindex:
+            problems.append("the original already serves the home page, but the live one is missing noindex")
+        code, probe = fetch(base + "/spending/", ua)
+        if code == 200 and b'<meta name="robots" content="noindex' in probe:
+            problems.append("the site is configured as indexable but the live /spending/ page is noindex")
+    elif want_index and has_noindex:
         problems.append("the site is configured as indexable but the live home page is noindex")
     if not want_index and not has_noindex:
         problems.append("the site is configured as staged but the live home page is missing noindex")
@@ -94,10 +101,20 @@ def main(argv=None):
     for i, ok in digests:
         if not ok:
             problems.append(f"evidence packet {i} does not match the manifest")
+    code, robots = fetch(base + "/robots.txt", ua)
     if not want_index:
-        code, robots = fetch(base + "/robots.txt", ua)
         if b"Disallow: /" not in robots:
             problems.append("staged site's robots.txt does not disallow crawling")
+    else:
+        if f"Sitemap: {base}/sitemap.xml".encode() not in robots:
+            problems.append("the live site's robots.txt does not name its sitemap")
+        code, sitemap = fetch(base + "/sitemap.xml", ua)
+        listed = sitemap.decode("utf-8", "replace")
+        if code != 200 or "<loc>" not in listed:
+            problems.append(f"the live site's sitemap did not load (status {code})")
+        for path in cfg.get("duplicates_of_original") or {}:
+            if not path.endswith("*") and f"<loc>{base}{path}</loc>" in listed:
+                problems.append(f"{path} is a page the original already serves, yet the sitemap lists it")
     for p in problems[:40]:
         print("FAIL", p)
     print(f"selftest: {len(results)} URLs and {len(digests)} evidence packets checked, {len(problems)} problems")

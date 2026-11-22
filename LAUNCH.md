@@ -1,17 +1,19 @@
 # LAUNCH
 
-This build is **staged**. It is public at its GitHub Pages address so it can be reviewed, but it tells search engines
-to stay away, because app.impactline.org is live. Nothing has been posted, sent or submitted anywhere.
+This site is **live** at https://data.impactline.org/ since 2026-11-22, beside the original at app.impactline.org,
+which is unchanged. Nothing has been posted, sent or submitted anywhere by hand.
 
 ## What is live
-- https://theguysaccount.github.io/impactline-law-to-outcome-tracker/ (noindex, robots.txt disallows crawling, no sitemap).
-- The IndexNow key file is published but nothing is submitted while the site is staged.
+- https://data.impactline.org/ with a sitemap, an open robots.txt and IndexNow pings after each change.
+- The home page, the law lists, how evidence works and about are `noindex`: the original serves its own, and each
+  of these points to it. Law pages, the spending and Federal Register lists, program traces and data are indexable.
+- https://theguysaccount.github.io/impactline-law-to-outcome-tracker/ redirects to the live address.
 
-## Going live (Jack's decision)
-The exact DNS record and the two settings are in OPERATIONS.md under "Cutover". In short: point `app.impactline.org`
-(or a new name) at GitHub Pages, set `SITE_URL`, and set `SITE_INDEXABLE=true` only if the site should be in search.
+## How it went live
+A DNS record for `data.impactline.org` and the Pages custom domain. The steps, and how to move the site or take it
+out of search, are in OPERATIONS.md under "Where the site lives".
 
-## Once indexed: the search surfaces
+## The search surfaces
 | Query pattern | Page |
 |---|---|
 | "[law name] implementation", "[law name] federal register" | `/laws/<congress>-<number>/` |

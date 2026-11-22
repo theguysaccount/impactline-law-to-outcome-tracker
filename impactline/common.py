@@ -26,18 +26,43 @@ def load_config():
 
 
 def site_url(cfg=None):
-    """The one base-URL setting: env SITE_URL (a repository variable in the workflows) or the config default."""
+    """The one base-URL setting: env SITE_URL (the workflows set it to the address GitHub Pages serves the
+    site at, or to the repository variable of the same name when one is set) or the config default."""
     cfg = cfg or load_config()
     return (os.environ.get("SITE_URL") or cfg["default_url"]).rstrip("/")
 
 
-def indexable(cfg=None):
-    """Staged copies are not indexable. SITE_INDEXABLE=true|false overrides the config."""
+def indexable(cfg=None, url=None):
+    """Whether search engines may index the site.
+
+    SITE_INDEXABLE=true|false decides when it is set. Otherwise the config does: true, false or "auto".
+    "auto" means staged at a github.io address and live at any other, so giving the site its own
+    address is the whole going-live step. Pages the original already serves stay noindex either way
+    (see duplicate_of)."""
     cfg = cfg or load_config()
     env = os.environ.get("SITE_INDEXABLE", "").strip().lower()
     if env in ("true", "false"):
         return env == "true"
-    return bool(cfg.get("indexable", False))
+    mode = cfg.get("indexable", False)
+    if mode == "auto":
+        host = (urlsplit(url or site_url(cfg)).hostname or "").lower()
+        return not (host == "github.io" or host.endswith(".github.io"))
+    return bool(mode)
+
+
+def duplicate_of(cfg, path):
+    """The original's address for a page the original already serves, or "" for a page only this site has.
+
+    The config's "duplicates_of_original" maps a page path to the original's page; a key ending in *
+    covers every path that starts with it. A duplicate stays out of search and out of the sitemap
+    however the site is configured: the original keeps its place and this site adds to it."""
+    table = cfg.get("duplicates_of_original") or {}
+    if path in table:
+        return table[path]
+    for pattern, original in table.items():
+        if pattern.endswith("*") and path.startswith(pattern[:-1]):
+            return original
+    return ""
 
 
 def now_utc():

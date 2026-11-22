@@ -3,8 +3,9 @@
   python3 -m impactline.build [--site _site]
 
 Environment (all optional):
-  SITE_URL          public base URL: the one setting to change at cutover
-  SITE_INDEXABLE    "true" to allow indexing (the staged copy is noindex by default)
+  SITE_URL          public base URL, the one setting that moves the site. At a github.io address the
+                    site is staged (noindex everywhere); at its own address it is live
+  SITE_INDEXABLE    "true" or "false" to decide that by hand instead
   GOATCOUNTER_URL   privacy-friendly page counts
   ALERTS_URL        link for the one marked "alerts and API" slot
 """
@@ -19,7 +20,7 @@ from html import escape as E
 from urllib.parse import urlsplit
 
 from . import evidence, fedreg, spending
-from .common import (ROOT, Checks, data_path, human_date, indexable, iso, load_config, money, now_utc, parse_iso, read_json,
+from .common import (ROOT, Checks, data_path, duplicate_of, human_date, indexable, iso, load_config, money, now_utc, parse_iso, read_json,
                      site_url)
 from .laws import load as load_laws, ordinal
 
@@ -71,7 +72,17 @@ class Site:
     def page(self, path, title, description, body, *, crumbs=None, jsonld=None, nav="", listed=True, og=None, lastmod=None, feed=None):
         canonical = self.url + path
         full = title if self.name in title else f"{title} | {self.name}"
-        robots = "" if (self.indexable and listed) else '<meta name="robots" content="noindex, nofollow">\n'
+        original = duplicate_of(self.cfg, path) if listed else ""
+        mirror = bool(original)
+        if mirror and self.indexable:  # the original already serves this page: keep it out of search, let crawlers follow its links
+            robots = '<meta name="robots" content="noindex, follow">\n'
+        else:
+            robots = "" if (self.indexable and listed) else '<meta name="robots" content="noindex, nofollow">\n'
+        origin = ""
+        if mirror:
+            shown = original.split("://", 1)[-1].rstrip("/")
+            origin = (f'<p class="origin">{E(self.cfg["original_name"])} has its own version of this page: '
+                      f'<a href="{E(original)}" rel="noopener">{E(shown)}</a>. This static edition adds to the original and does not replace it.</p>')
         ld = ""
         for block in jsonld or []:
             safe = json.dumps(block, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
@@ -130,6 +141,7 @@ class Site:
 <main id="main"><div class="wrap">
 {crumb_html}
 {body}
+{origin}
 </div></main>
 <footer class="site"><div class="wrap"><div class="cols">
 <div><strong>ImpactLine</strong><p>The public delivery record. Official records, traceable sources, open questions.
@@ -155,7 +167,7 @@ source and check date. Federal data is in the public domain.</p>
         if rel.endswith("/") or rel == "":
             rel += "index.html"
         self.write(rel, html)
-        if listed and self.indexable:
+        if listed and self.indexable and not mirror:
             self.urls.append((canonical, lastmod or self.asof_laws[:10]))
 
     def slot(self):

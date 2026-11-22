@@ -7,6 +7,7 @@ sorts, and that a law page's "check this packet" button verifies the packet agai
 Skips (exit 0, with a warning) when no Chrome is installed; GitHub's runners have Chrome.
 """
 import functools
+from html import unescape
 import http.server
 import os
 import re
@@ -14,7 +15,7 @@ import subprocess
 import sys
 import tempfile
 import threading
-from urllib.parse import urlsplit
+from urllib.parse import quote, urlsplit
 
 from .common import ROOT, load_config, site_url
 from .laws import load as load_laws
@@ -30,6 +31,16 @@ def dump(chrome, url, profile):
     cmd = [chrome, "--headless=new", "--disable-gpu", "--no-sandbox", "--mute-audio", f"--user-data-dir={profile}",
            "--virtual-time-budget=9000", "--dump-dom", url]
     return subprocess.run(cmd, capture_output=True, text=True, timeout=120).stdout
+
+
+def matching(html, query):
+    """How many rows of a law list the search must show: every word of the query appears in the row's search text.
+
+    The same rule as static/app.js, applied to the search text each row carries in the page. It holds for any
+    law: "public law 118-2" also matches 118-20 and 118-200, and the count says how many."""
+    words = query.strip().lower().split()
+    rows = [unescape(t) for t in re.findall(r'<li data-t="([^"]*)"', html)]
+    return sum(1 for t in rows if all(w in t for w in words))
 
 
 def main(argv=None):
@@ -71,10 +82,12 @@ def main(argv=None):
             shown = len(re.findall(r'<li data-t=', html)) - len(re.findall(r'<li data-t=[^>]*class="hidden"', html))
             if shown != want:
                 problems.append(f"law list: {shown} rows visible under the Congress filter, expected {want}")
-            html = page("laws/?q=public+law+%s" % law["id"])
+            query = "public law %s" % law["id"]
+            want = matching(html, query)        # the list page carries every row's search text, so the rule can be applied here
+            html = page("laws/?q=" + quote(query))
             m = re.search(r'id="count"[^>]*>([\d,]+) laws?', html)
-            if not m or int(m.group(1).replace(",", "")) < 1 or int(m.group(1).replace(",", "")) > 12:
-                problems.append(f"law list: search for the law number gave {m.group(1) if m else 'no count'} rows")
+            if want < 1 or not m or int(m.group(1).replace(",", "")) != want:
+                problems.append(f"law list: search for {query!r} shows {m.group(1) if m else 'no count'} rows, the list's own rule gives {want}")
             html = page("laws/?s=fr")
             first = re.search(r'<ul class="lawlist" id="lawlist"><li [^>]*data-fr="(\d+)"', html)
             top = max((int(x) for x in re.findall(r'data-fr="(\d+)"', html)), default=0)

@@ -1,18 +1,20 @@
-# STATE (2026-11-10)
+# STATE (2026-11-22)
 
-**Staged copy:** https://theguysaccount.github.io/impactline-law-to-outcome-tracker/ (noindex; the original at
-app.impactline.org is live and unchanged).
+**Live:** https://data.impactline.org/ since 2026-11-22, beside the original at app.impactline.org, which is
+unchanged. The home page, the law lists, how evidence works and about stay out of search because the original
+serves its own; law pages, spending, Federal Register, programs and data are indexable. The github.io address
+redirects here.
 
 ## Works
-- 774 public laws (117th to 119th Congress, through P.L. 119-138) read from GovInfo bulk data, with no API key.
+- 778 public laws (117th to 119th Congress, through P.L. 119-142) read from GovInfo bulk data, with no API key.
 - One page per law: identity from the law's own file, the seven-step record, Federal Register documents that cite it,
   spending Treasury tags to it (20 laws), or awards that name it (keyword candidates), each with source and check date.
 - Three program traces (Clean School Bus, Bridge Formula, Middle Mile) joined by fund code and Assistance Listing.
 - Evidence packet per law (canonical JSON), a manifest of SHA-256 digests attested by GitHub on every build, and an
   in-browser check. CSV/JSON mirror. Atom feeds (new laws; per-law Federal Register documents).
-- Nightly refresh within a request budget, weekly self-test and link check, keep-alive. 40 tests.
-  The refresh and the self-test have passed on GitHub's own schedule trigger (first on 2026-11-10). The Saturday link
-  check has passed by hand only; its first scheduled run had not come up when this was written.
+- Nightly refresh within a request budget, weekly self-test and link check, keep-alive. 46 tests.
+  All three scheduled workflows have passed on GitHub's own schedule trigger: the refresh and the self-test first on
+  2026-11-10, the Saturday link check on 2026-11-21.
 
 ## What the original has that this copy does not
 - Live per-request search of Regulations.gov, AI extraction of implementation steps (never configured), the
@@ -27,4 +29,4 @@ app.impactline.org is live and unchanged).
 - Popular law titles from the original's 2026-09-12 Congress.gov import (`data/congress-titles.json`).
 
 ## Not done
-- No analytics. No custom domain (cutover is Jack's call: OPERATIONS.md). No paid alerts or API (slot is off).
+- No analytics. No paid alerts or API (slot is off).

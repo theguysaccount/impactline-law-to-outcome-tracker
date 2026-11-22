@@ -10,11 +10,15 @@ permissions:
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
     timeout-minutes: 20
     strategy:
+      fail-fast: false
       matrix:
-        python-version: ["3.9", "3.12"]
+        include:
+          # Python 3.9 is what a Mac ships; setup-python has no 3.9 for the image ubuntu-latest now points at.
+          - {os: ubuntu-24.04, python-version: "3.9"}
+          - {os: ubuntu-latest, python-version: "3.12"}
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7

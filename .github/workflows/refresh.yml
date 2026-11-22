@@ -38,9 +38,11 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # Cutover settings (repository variables). SITE_URL is the one base-URL setting.
-  SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
-  SITE_INDEXABLE: ${{ vars.SITE_INDEXABLE }}     # "true" at cutover; unset = staged (noindex, no sitemap, no IndexNow)
+  # Where the site lives is one setting: the custom domain in the repository's GitHub Pages settings.
+  # .github/scripts/site-url.sh reads it and exports SITE_URL. The repository variable SITE_URL, when
+  # set, is used instead.
+  SITE_URL_VARIABLE: ${{ vars.SITE_URL }}
+  SITE_INDEXABLE: ${{ vars.SITE_INDEXABLE }}     # unset = staged at a github.io address, live at the site's own; "true" or "false" decides by hand
   GOATCOUNTER_URL: ${{ vars.GOATCOUNTER_URL }}
   ALERTS_URL: ${{ vars.ALERTS_URL }}
 
@@ -55,6 +57,10 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
+      - name: Find the site's address (the Pages custom domain, when one is set)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: .github/scripts/site-url.sh
 
       - name: Read the sources (each fails on its own and keeps its last good data)
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
@@ -161,6 +167,10 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
+      - name: Find the site's address (the Pages custom domain, when one is set)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: .github/scripts/site-url.sh
       - uses: actions/download-artifact@v8
         with:
           name: urls

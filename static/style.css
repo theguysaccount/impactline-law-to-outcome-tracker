@@ -31,6 +31,7 @@ h3{font-size:17px;font-weight:650;margin:26px 0 8px}
 p{margin:0 0 14px}
 .lede{font-size:clamp(17px,2vw,19px);color:var(--muted);max-width:800px}
 .crumbs{font-size:13px;color:var(--muted);margin:0 0 14px}.crumbs a{color:var(--muted)}
+.origin{font-size:13px;color:var(--muted);margin:28px 0 0;padding-top:12px;border-top:1px solid var(--line,rgba(128,128,128,.35))}
 .meta-row{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px;color:var(--muted);margin:10px 0 14px}
 .meta-row b{color:var(--ink);font-weight:600}
 .links{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 4px}

@@ -106,16 +106,62 @@ class SiteTest(unittest.TestCase):
         self.assertEqual(self.page("urls.txt"), "")
         self.assertIn('<meta name="robots" content="noindex, nofollow">', self.page("laws/119-1/index.html"))
 
-    def test_cutover_is_two_settings(self):
-        self.build({"SITE_URL": "https://app.example.org", "SITE_INDEXABLE": "true"})
+    def test_its_own_address_takes_the_site_live_and_pages_the_original_serves_stay_out_of_search(self):
+        self.build({"SITE_URL": "https://data.example.org"})        # the one setting; SITE_INDEXABLE is not set
+        self.assertTrue(self.summary["indexable"])
         home = self.page("index.html")
-        self.assertIn('<link rel="canonical" href="https://app.example.org/">', home)
-        self.assertNotIn("noindex", home)
+        self.assertIn('<link rel="canonical" href="https://data.example.org/">', home)
         self.assertIn('href="/static/style.css"', home)
-        self.assertIn("<loc>https://app.example.org/laws/119-1/</loc>", self.page("sitemap.xml"))
-        self.assertIn("Sitemap: https://app.example.org/sitemap.xml", self.page("robots.txt"))
+        for mirror in ("index.html", "laws/index.html", "congress/119/index.html", "method/index.html", "about/index.html"):
+            html = self.page(mirror)
+            self.assertIn('<meta name="robots" content="noindex, follow">', html, mirror)
+            self.assertIn('<p class="origin">The ImpactLine app has its own version of this page: <a href="https://app.impactline.org/', html, mirror)
+        for new in ("laws/119-1/index.html", "spending/index.html", "federal-register/index.html", "programs/index.html", "data/index.html"):
+            self.assertNotIn("noindex", self.page(new), new)
+            self.assertNotIn('class="origin"', self.page(new), new)
+        sitemap = self.page("sitemap.xml")
+        self.assertIn("<loc>https://data.example.org/laws/119-1/</loc>", sitemap)
+        self.assertIn("<loc>https://data.example.org/spending/</loc>", sitemap)
+        for mirror in ("/", "/laws/", "/congress/119/", "/method/", "/about/"):
+            self.assertNotIn(f"<loc>https://data.example.org{mirror}</loc>", sitemap)
+        self.assertIn("Sitemap: https://data.example.org/sitemap.xml", self.page("robots.txt"))
         self.assertNotIn("github.io", home + self.page("laws/119-1/index.html"))
+        self.assertEqual(len(self.page("urls.txt").split()), sitemap.count("<loc>"), "IndexNow is told about the same pages as the sitemap")
         self.assertEqual(guard.check(self.out)[0], [])
+
+    def test_the_indexing_switch_can_also_be_set_by_hand(self):
+        self.build({"SITE_URL": "https://data.example.org", "SITE_INDEXABLE": "false"})
+        self.assertFalse(self.summary["indexable"], "held back at its own address")
+        self.assertIn('<meta name="robots" content="noindex, nofollow">', self.page("laws/119-1/index.html"))
+        self.assertFalse(os.path.exists(os.path.join(self.out, "sitemap.xml")))
+        self.assertEqual(guard.check(self.out)[0], [])
+        self.build({"SITE_INDEXABLE": "true"})
+        self.assertTrue(self.summary["indexable"], "live at the github.io address")
+        self.assertNotIn("noindex", self.page("laws/119-1/index.html"))
+        self.assertIn('<meta name="robots" content="noindex, follow">', self.page("index.html"), "still a duplicate of the original")
+
+    def test_the_guard_refuses_a_live_build_that_would_index_a_duplicate_or_hide_a_page(self):
+        self.build({"SITE_URL": "https://data.example.org"})
+        path = os.path.join(self.out, "index.html")
+        original = self.page("index.html")
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(original.replace('<meta name="robots" content="noindex, follow">\n', ""))
+        errors = guard.check(self.out)[0]
+        self.assertTrue(any("index.html: the original already serves this page" in e for e in errors), errors[:5])
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(original)
+        text = self.page("sitemap.xml")
+        with open(os.path.join(self.out, "sitemap.xml"), "w", encoding="utf-8") as f:
+            f.write(text.replace("<url><loc>https://data.example.org/spending/</loc>", "<url><loc>https://data.example.org/laws/</loc>", 1))
+        errors = guard.check(self.out)[0]
+        self.assertTrue(any("spending/index.html: an indexable page is missing from the sitemap" in e for e in errors), errors[:5])
+        self.assertTrue(any("laws/index.html: a noindex page is listed in the sitemap" in e for e in errors), errors[:5])
+
+    def test_duplicate_pages_point_to_the_original_while_staged_too(self):
+        self.build()
+        self.assertIn('<p class="origin">The ImpactLine app has its own version of this page', self.page("index.html"))
+        self.assertIn('<meta name="robots" content="noindex, nofollow">', self.page("index.html"))
+        self.assertNotIn('class="origin"', self.page("laws/119-1/index.html"))
 
     def test_tagged_law_shows_official_figures_with_source_date_and_shared_code_note(self):
         self.build()
