@@ -3,8 +3,8 @@
   "tagline": "The public delivery record: follow an enacted law to its Federal Register trail and its spending, with the gaps left visible.",
   "repo": "theguysaccount/impactline-law-to-outcome-tracker",
   "default_url": "https://theguysaccount.github.io/impactline-law-to-outcome-tracker",
-  "indexable": "auto",
-  "indexable_why": "auto = staged (noindex everywhere) at a github.io address, live at the site's own address. The repository variable SITE_INDEXABLE=true|false decides by hand instead.",
+  "indexable": false,
+  "indexable_why": "false = staged: noindex on every page, robots.txt disallows everything, no sitemap, no IndexNow. The repository variable SITE_INDEXABLE=true makes the site indexable; the pages listed under duplicates_of_original stay noindex even then.",
   "original_name": "The ImpactLine app",
   "original_url": "https://app.impactline.org",
   "duplicates_of_original": {

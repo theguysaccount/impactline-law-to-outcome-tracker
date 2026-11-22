@@ -1,8 +1,9 @@
 # STATE (2026-11-22)
 
-**Live:** https://data.impactline.org/ since 2026-11-22, beside the original at app.impactline.org, which is
-unchanged. The home page, the law lists, how evidence works and about stay out of search because the original
-serves its own; law pages, spending, Federal Register, programs and data are indexable. The github.io address
+**At its own address, not indexed:** https://data.impactline.org/ since 2026-11-22, beside the original at
+app.impactline.org, which is unchanged. The whole copy is `noindex`, because the original lists the same laws and is
+itself out of search. Whether the law pages should be indexed is an open decision (OPERATIONS.md); one variable
+does it, and the home page, law lists, method and about would stay `noindex` even then. The github.io address
 redirects here.
 
 ## Works

@@ -1,19 +1,20 @@
 # LAUNCH
 
-This site is **live** at https://data.impactline.org/ since 2026-11-22, beside the original at app.impactline.org,
-which is unchanged. Nothing has been posted, sent or submitted anywhere by hand.
+This site has its own address, https://data.impactline.org/, since 2026-11-22, beside the original at
+app.impactline.org, which is unchanged. It is still **out of search**: every page is `noindex`. Nothing has been
+posted, sent or submitted anywhere by hand.
 
 ## What is live
-- https://data.impactline.org/ with a sitemap, an open robots.txt and IndexNow pings after each change.
-- The home page, the law lists, how evidence works and about are `noindex`: the original serves its own, and each
-  of these points to it. Law pages, the spending and Federal Register lists, program traces and data are indexable.
-- https://theguysaccount.github.io/impactline-law-to-outcome-tracker/ redirects to the live address.
+- https://data.impactline.org/ (noindex, robots.txt disallows crawling, no sitemap, IndexNow skipped).
+- https://theguysaccount.github.io/impactline-law-to-outcome-tracker/ redirects to it.
 
-## How it went live
-A DNS record for `data.impactline.org` and the Pages custom domain. The steps, and how to move the site or take it
-out of search, are in OPERATIONS.md under "Where the site lives".
+## Going into search (Jack's decision)
+The original app lists the same laws and is itself kept out of search, so this copy is too. One variable indexes the
+pages only this site has (a page per law, the spending and Federal Register lists, program traces, data); the home
+page, law lists, method and about would stay `noindex` and point to the original. The command is in OPERATIONS.md
+under "What search engines may index".
 
-## The search surfaces
+## Once indexed: the search surfaces
 | Query pattern | Page |
 |---|---|
 | "[law name] implementation", "[law name] federal register" | `/laws/<congress>-<number>/` |

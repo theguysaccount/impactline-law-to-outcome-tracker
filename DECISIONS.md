@@ -1,17 +1,20 @@
 # DECISIONS
 
 ## 2026-11-22: beside the original, never in its place
-- Jack's standing rule is "never replace, only build on top", so there is no cutover. The site went live at
+- Jack's standing rule is "never replace, only build on top", so there is no cutover. The site moved to
   `data.impactline.org` on 2026-11-22, and `app.impactline.org` is untouched.
-- **Staged at a github.io address, live at its own.** The first build (2026-11-10) was staged because the original is
-  live: `noindex` on every page, robots.txt disallowing everything, no sitemap, no IndexNow. That is still what a
-  github.io address gets. At its own address the site is indexable, except the pages the original already serves.
-- **What counts as a duplicate.** The original is one page: the list of enacted laws, the law you pick, and how
-  evidence works. So the home page, `/laws/`, the per-Congress lists, the method page and the about page here stay
-  `noindex` and point to the original. The original has no address per law, so the 778 law pages, the spending and
-  Federal Register lists, the program traces and the downloads are this site's own and are indexed.
-- **The original is itself `noindex, nofollow`.** Indexing this site therefore takes nothing from the original, but it
-  does put ImpactLine pages in search for the first time. `SITE_INDEXABLE=false` reverses that in one step (OPERATIONS.md).
+- **Still out of search.** The first build (2026-11-10) was staged because the original is live: `noindex` on every
+  page, robots.txt disallowing everything, no sitemap, no IndexNow. The session that moved the site kept it that
+  way: the original lists the same laws, shows the record of the one you pick, and is itself `noindex, nofollow`.
+  Moving the address and indexing are separate settings, and only the first was turned.
+- **Two readings of "duplicate".** Page by page, the original is one page with no address per law, so the 778 law
+  pages, the spending and Federal Register lists, the program traces and the downloads exist only here. By content,
+  every one of them covers a law the original already serves. This repository took the first reading for about
+  eight minutes on 2026-11-22 and indexed those pages; it was reversed when the second reading, already written
+  down by the session that moved the site, turned up. The cautious reading stands until Jack says otherwise.
+- **Ready either way.** `duplicates_of_original` in `config/site.json` lists the pages that repeat the original's
+  one page (home, law lists, method, about). They stay `noindex` and point to the original even if
+  `SITE_INDEXABLE=true` is set, and the guard enforces that on every build.
 - **The address is read from the Pages settings** on every run, so the custom domain is the one setting that moves the
   site. A build for the wrong address would publish pages whose stylesheet and links point elsewhere, so a run
   that cannot read the setting stops before building.
@@ -66,6 +69,6 @@
 
 ## Questions left for Jack (none blocks the site)
 1. Answered 2026-11-22: a new name beside the original, `data.impactline.org`. The original is never replaced.
-2. The site is indexable at its own address, and the original app is not. If ImpactLine should stay out of search
-   for now, set `SITE_INDEXABLE=false` (OPERATIONS.md).
+2. Should the law pages be in search? The original app is not, and this copy is not either. One variable indexes the
+   pages only this site has (OPERATIONS.md, "What search engines may index").
 3. Is the merge with America V2 (AuditLine) wanted? The two static sites share a contract and a build pattern, but no common key yet.

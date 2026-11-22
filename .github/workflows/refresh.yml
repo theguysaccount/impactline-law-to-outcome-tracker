@@ -42,7 +42,7 @@ env:
   # .github/scripts/site-url.sh reads it and exports SITE_URL. The repository variable SITE_URL, when
   # set, is used instead.
   SITE_URL_VARIABLE: ${{ vars.SITE_URL }}
-  SITE_INDEXABLE: ${{ vars.SITE_INDEXABLE }}     # unset = staged at a github.io address, live at the site's own; "true" or "false" decides by hand
+  SITE_INDEXABLE: ${{ vars.SITE_INDEXABLE }}     # "true" = indexable; unset = staged (noindex, no sitemap, no IndexNow)
   GOATCOUNTER_URL: ${{ vars.GOATCOUNTER_URL }}
   ALERTS_URL: ${{ vars.ALERTS_URL }}
 

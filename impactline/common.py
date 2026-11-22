@@ -32,22 +32,16 @@ def site_url(cfg=None):
     return (os.environ.get("SITE_URL") or cfg["default_url"]).rstrip("/")
 
 
-def indexable(cfg=None, url=None):
-    """Whether search engines may index the site.
-
-    SITE_INDEXABLE=true|false decides when it is set. Otherwise the config does: true, false or "auto".
-    "auto" means staged at a github.io address and live at any other, so giving the site its own
-    address is the whole going-live step. Pages the original already serves stay noindex either way
-    (see duplicate_of)."""
+def indexable(cfg=None):
+    """Whether search engines may index the site: the repository variable SITE_INDEXABLE (true or false) when
+    it is set, otherwise "indexable" in the config. A staged copy is false: noindex on every page, robots.txt
+    disallowing everything, no sitemap, no IndexNow. Moving the site to its own address does not change this.
+    Pages the original already serves stay noindex even when the site is indexable (see duplicate_of)."""
     cfg = cfg or load_config()
     env = os.environ.get("SITE_INDEXABLE", "").strip().lower()
     if env in ("true", "false"):
         return env == "true"
-    mode = cfg.get("indexable", False)
-    if mode == "auto":
-        host = (urlsplit(url or site_url(cfg)).hostname or "").lower()
-        return not (host == "github.io" or host.endswith(".github.io"))
-    return bool(mode)
+    return bool(cfg.get("indexable", False))
 
 
 def duplicate_of(cfg, path):

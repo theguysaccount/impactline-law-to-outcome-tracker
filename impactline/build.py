@@ -3,9 +3,9 @@
   python3 -m impactline.build [--site _site]
 
 Environment (all optional):
-  SITE_URL          public base URL, the one setting that moves the site. At a github.io address the
-                    site is staged (noindex everywhere); at its own address it is live
-  SITE_INDEXABLE    "true" or "false" to decide that by hand instead
+  SITE_URL          public base URL, the one setting that moves the site
+  SITE_INDEXABLE    "true" to let search engines index the site (a staged copy is noindex by default);
+                    pages the original already serves stay noindex either way
   GOATCOUNTER_URL   privacy-friendly page counts
   ALERTS_URL        link for the one marked "alerts and API" slot
 """

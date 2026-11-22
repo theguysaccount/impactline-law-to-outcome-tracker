@@ -47,7 +47,7 @@ def main(argv=None):
     if code != 200:
         print(f"FAIL home page answered {code}")
         return 1
-    want_index = indexable(cfg, a.site_url)
+    want_index = indexable(cfg)
     has_noindex = b'<meta name="robots" content="noindex' in home
     if want_index and duplicate_of(cfg, "/"):
         # The original already serves a home page like this one, so it stays noindex; a page only this site has shows the site is live.

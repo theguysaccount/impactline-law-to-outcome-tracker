@@ -1,6 +1,6 @@
 # ImpactLine (static edition)
 
-**Live:** https://data.impactline.org/ (beside the original; it adds to it and never replaces it).
+**This site:** https://data.impactline.org/ (beside the original; it adds to it and never replaces it). Not indexed: see OPERATIONS.md.
 **The original:** https://app.impactline.org (unchanged). How the address and the indexing are set: [OPERATIONS.md](OPERATIONS.md).
 
 The public delivery record. One page per enacted U.S. public law that follows the law into the Federal Register and

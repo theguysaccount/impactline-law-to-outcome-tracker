@@ -106,8 +106,8 @@ class SiteTest(unittest.TestCase):
         self.assertEqual(self.page("urls.txt"), "")
         self.assertIn('<meta name="robots" content="noindex, nofollow">', self.page("laws/119-1/index.html"))
 
-    def test_its_own_address_takes_the_site_live_and_pages_the_original_serves_stay_out_of_search(self):
-        self.build({"SITE_URL": "https://data.example.org"})        # the one setting; SITE_INDEXABLE is not set
+    def test_an_indexable_site_keeps_pages_the_original_serves_out_of_search(self):
+        self.build({"SITE_URL": "https://data.example.org", "SITE_INDEXABLE": "true"})
         self.assertTrue(self.summary["indexable"])
         home = self.page("index.html")
         self.assertIn('<link rel="canonical" href="https://data.example.org/">', home)
@@ -129,19 +129,23 @@ class SiteTest(unittest.TestCase):
         self.assertEqual(len(self.page("urls.txt").split()), sitemap.count("<loc>"), "IndexNow is told about the same pages as the sitemap")
         self.assertEqual(guard.check(self.out)[0], [])
 
-    def test_the_indexing_switch_can_also_be_set_by_hand(self):
-        self.build({"SITE_URL": "https://data.example.org", "SITE_INDEXABLE": "false"})
-        self.assertFalse(self.summary["indexable"], "held back at its own address")
+    def test_moving_the_address_does_not_index_the_site_and_the_switch_does(self):
+        self.build({"SITE_URL": "https://data.example.org"})
+        self.assertFalse(self.summary["indexable"], "its own address alone leaves the copy staged")
+        self.assertIn('<link rel="canonical" href="https://data.example.org/laws/119-1/">', self.page("laws/119-1/index.html"))
         self.assertIn('<meta name="robots" content="noindex, nofollow">', self.page("laws/119-1/index.html"))
         self.assertFalse(os.path.exists(os.path.join(self.out, "sitemap.xml")))
+        self.assertEqual(self.page("robots.txt"), "User-agent: *\nDisallow: /\n")
         self.assertEqual(guard.check(self.out)[0], [])
+        self.build({"SITE_URL": "https://data.example.org", "SITE_INDEXABLE": "false"})
+        self.assertFalse(self.summary["indexable"])
         self.build({"SITE_INDEXABLE": "true"})
-        self.assertTrue(self.summary["indexable"], "live at the github.io address")
+        self.assertTrue(self.summary["indexable"], "the switch decides, at any address")
         self.assertNotIn("noindex", self.page("laws/119-1/index.html"))
         self.assertIn('<meta name="robots" content="noindex, follow">', self.page("index.html"), "still a duplicate of the original")
 
     def test_the_guard_refuses_a_live_build_that_would_index_a_duplicate_or_hide_a_page(self):
-        self.build({"SITE_URL": "https://data.example.org"})
+        self.build({"SITE_URL": "https://data.example.org", "SITE_INDEXABLE": "true"})
         path = os.path.join(self.out, "index.html")
         original = self.page("index.html")
         with open(path, "w", encoding="utf-8") as f:
