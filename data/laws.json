@@ -308,7 +308,7 @@
    "title": "Chiricahua National Park Act",
    "title_source": "law text",
    "xml_bytes": 15168,
-   "xml_sha256": "b2e26de52efac81a0385fa53b7a02916454455e31e873a28e3a3f6f54353a801"
+   "xml_sha256": "83c7e2a91b1089604d811b10f8311f97e85c349ef593353127a2fa9bd7d55f79"
   },
   {
    "also_called": "",
@@ -24689,7 +24689,7 @@
  "sources": {
   "117": {
    "bytes": 9490590,
-   "checked_at": "2026-11-24T02:36:26Z",
+   "checked_at": "2026-11-24T18:52:07Z",
    "laws": 362,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/117/public",
    "modified": "05-Nov-2026 13:17",
@@ -24700,7 +24700,7 @@
   },
   "118": {
    "bytes": 5016235,
-   "checked_at": "2026-11-24T02:36:26Z",
+   "checked_at": "2026-11-24T18:52:07Z",
    "laws": 274,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/118/public",
    "modified": "27-Oct-2026 16:44",
@@ -24710,18 +24710,18 @@
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118-public.zip"
   },
   "119": {
-   "bytes": 3408115,
-   "checked_at": "2026-11-24T02:36:26Z",
+   "bytes": 3408129,
+   "checked_at": "2026-11-24T18:52:07Z",
    "laws": 142,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/119/public",
-   "modified": "23-Nov-2026 21:22",
-   "retrieved_at": "2026-11-24T02:36:26Z",
-   "sha256": "72b4e76ce4d4cef8179745ab8f3ad819ac12339faf036bfab1ef6098358298e5",
-   "stamp": "23-Nov-2026 21:22|3408115",
+   "modified": "24-Nov-2026 16:37",
+   "retrieved_at": "2026-11-24T18:52:07Z",
+   "sha256": "d72460c5d3e2b200b8281b32c78d0d001dbff599fb1118c8d0e55446acf02957",
+   "stamp": "24-Nov-2026 16:37|3408129",
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119-public.zip"
   }
  },
- "updated_at": "2026-11-24T02:36:26Z",
+ "updated_at": "2026-11-24T18:52:07Z",
  "window": {
   "congresses": [
    117,

@@ -174,11 +174,11 @@
   },
   {
    "agency": "National Aeronautics and Space Administration",
-   "amount": 10517828993.0,
+   "amount": 10518178993.0,
    "description": "PROVIDE DEVELOPMENTAL HARDWARE AND TEST ARTICLES, AND MANUFACTURE AND ASSEMBLE ARES I UPPER STAGES. THE UPPER STAGE (US) ELEMENT IS AN INTEGRAL PART OF THE ARES I LAUNCH VEHICLE AND PROVIDES THE SECOND STAGE OF FLIGHT. THE US ELEMENT IS RES",
    "id": "NNM07AB03C",
    "kind": "contracts",
-   "outlays": 4493519571.6,
+   "outlays": 4495965148.76,
    "recipient": "THE BOEING COMPANY",
    "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-"
   },
@@ -198,7 +198,7 @@
    "description": "SPACE LAUNCH SYSTEM (SLS) STAGES PRODUCTION AND EVOLUTION CONTRACT (SPEC)",
    "id": "80MSFC20C0052",
    "kind": "contracts",
-   "outlays": 2308148030.91,
+   "outlays": 2428956953.01,
    "recipient": "THE BOEING COMPANY",
    "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-"
   },
@@ -288,12 +288,12 @@
   {
    "listing": "93.676",
    "name": "Unaccompanied Alien Children Program",
-   "obligations": 6323714461.21
+   "obligations": 6321928790.23
   },
   {
    "listing": "93.566",
    "name": "Refugee and Entrant Assistance State/Replacement Designee Administered Programs",
-   "obligations": 5967861932.91
+   "obligations": 5948863613.67
   },
   {
    "listing": "97.048",
@@ -313,7 +313,7 @@
   {
    "listing": "20.205",
    "name": "Highway Planning and Construction",
-   "obligations": 1943490715.4
+   "obligations": 1943521426.65
   },
   {
    "listing": "10.964",
@@ -323,7 +323,7 @@
   {
    "listing": "93.576",
    "name": "Refugee and Entrant Assistance Discretionary Grants",
-   "obligations": 852337319.29
+   "obligations": 838438621.42
   },
   {
    "listing": "98.001",
@@ -333,7 +333,7 @@
   {
    "listing": "59.008",
    "name": "Disaster Assistance Loans",
-   "obligations": 631741535.19
+   "obligations": 631274558.13
   },
   {
    "listing": "10.148",
@@ -348,7 +348,7 @@
   {
    "listing": "10.703",
    "name": "Cooperative Fire Protection Agreement",
-   "obligations": 448118734.34
+   "obligations": 454786286.59
   }
  ],
  "shared_codes": [],

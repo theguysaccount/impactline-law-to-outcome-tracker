@@ -6,7 +6,7 @@
   {
    "counts": {
     "direct_payments": 215,
-    "grants": 86
+    "grants": 78
    },
    "match": "citation",
    "phrase": "Public Law 117-169",
@@ -161,5 +161,5 @@
    ]
   }
  ],
- "total": 1402
+ "total": 1394
 }

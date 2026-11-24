@@ -120,7 +120,7 @@
   },
   {
    "agency": "Department of Homeland Security",
-   "amount": 103346106.41,
+   "amount": 103484152.7,
    "description": "THE PURPOSE OF THIS TASK ORDER IS TO PROCURE VOICE AND DATA (V&D) SERVICES FOR FEMA. THIS IS A FIRM FIXED PRICE TASK ORDER",
    "id": "70FA3021F00000470",
    "kind": "contracts",
@@ -213,14 +213,14 @@
    "obligations": 212760829.67
   },
   {
+   "listing": "97.025",
+   "name": "National Urban Search and Rescue (US&R) Response System",
+   "obligations": 138166696.12
+  },
+  {
    "listing": "97.088",
    "name": "Disaster Assistance Projects",
    "obligations": 127721230.05
-  },
-  {
-   "listing": "97.025",
-   "name": "National Urban Search and Rescue (US&R) Response System",
-   "obligations": 103937949.63
   },
   {
    "listing": "97.029",

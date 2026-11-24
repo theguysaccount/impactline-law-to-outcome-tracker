@@ -66,16 +66,6 @@
   },
   {
    "agency": "Department of Agriculture",
-   "amount": 37445652.33,
-   "description": "COULSON - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER 160 DAY MAP",
-   "id": "1202SA24K9116",
-   "kind": "contracts",
-   "outlays": 33133571.18,
-   "recipient": "COULSON AVIATION (USA), INC.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9116_12C2_1202SA23T9103_12C2"
-  },
-  {
-   "agency": "Department of Agriculture",
    "amount": 37401739.44,
    "description": "10 TANKER - AIRTANKER MATCO EXCLUSIVE USE TASK ORDER 2024-2028 - 120 DAY MAP",
    "id": "1202SA24K9112",
@@ -83,6 +73,16 @@
    "outlays": 34045524.97,
    "recipient": "10 TANKER AIR CARRIER, LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9112_12C2_1202SA23T9100_12C2"
+  },
+  {
+   "agency": "Department of Agriculture",
+   "amount": 37226652.33,
+   "description": "COULSON - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER 160 DAY MAP",
+   "id": "1202SA24K9116",
+   "kind": "contracts",
+   "outlays": 33133571.18,
+   "recipient": "COULSON AVIATION (USA), INC.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9116_12C2_1202SA23T9103_12C2"
   },
   {
    "agency": "Department of Agriculture",
@@ -106,13 +106,13 @@
   },
   {
    "agency": "Department of Agriculture",
-   "amount": 33804282.9,
-   "description": "AERO AIR - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER - 160 DAY MAP",
-   "id": "1202SA24K9115",
+   "amount": 34328521.21,
+   "description": "RETARDANT ON-DEMAND BPA PERIMETER FY26",
+   "id": "1202SC26K2601",
    "kind": "contracts",
-   "outlays": 30093345.25,
-   "recipient": "AERO AIR, LLC",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA24K9115_12C2_1202SA23T9101_12C2"
+   "outlays": 11903492.1,
+   "recipient": "PERIMETER SOLUTIONS LP",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_1202SC26K2601_12C2_1202SC22T2602_12C2"
   }
  ],
  "codes": [
@@ -136,7 +136,7 @@
   {
    "listing": "10.703",
    "name": "Cooperative Fire Protection Agreement",
-   "obligations": 2882088521.71
+   "obligations": 2893555725.33
   },
   {
    "listing": "10.699",

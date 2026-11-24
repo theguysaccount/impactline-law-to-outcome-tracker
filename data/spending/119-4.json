@@ -118,7 +118,7 @@
    "description": "WORK REQUIRED FOR THE DESIGN, DEVELOPMENT, MANUFACTURE, TEST, LAUNCH, DEMONSTRATION, AND ENGINEERING SUPPORT OF THE HUMAN LANDING SYSTEM (HLS) INTEGRATED LANDER.",
    "id": "80MSFC20C0034",
    "kind": "contracts",
-   "outlays": 2895827556.11,
+   "outlays": 2896357728.11,
    "recipient": "SPACE EXPLORATION TECHNOLOGIES CORP.",
    "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-"
   },
@@ -144,7 +144,7 @@
   },
   {
    "agency": "National Aeronautics and Space Administration",
-   "amount": 817360951.0,
+   "amount": 817361024.3,
    "description": "IGF::OT::IGF SYNERGY-ACHIEVING CONSOLIDATED OPERATIONS AND MAINTENANCE, COST PLUS INCENTIVE FEE - INDEFINITE DELIVERY INDEFINITE QUANTITY",
    "id": "NNS15AA77T",
    "kind": "contracts",
@@ -154,7 +154,7 @@
   },
   {
    "agency": "National Aeronautics and Space Administration",
-   "amount": 670796870.32,
+   "amount": 672702242.41,
    "description": "BASE OPERATIONS AND SPACEPORT SERVICES (BOSS) CONTRACT",
    "id": "80KSC018C0017",
    "kind": "contracts",
@@ -178,17 +178,17 @@
    "description": "MARSHALL ENGINEERING TECHNICIANS AND TRADES SUPPORT (METTS III) COVERS A WIDE RANGE OF ENGINEERING TECHNICIANS AND TRADE SKILLS TO PERFORM TESTING GROUND AND SPACE BASED RESEARCH TEST OPERATIONS DATA ANALYSIS INSTRUMENTATION CALIBRATION",
    "id": "80MSFC23CA004",
    "kind": "contracts",
-   "outlays": 205959040.13,
+   "outlays": 210851965.15,
    "recipient": "RSI-QUANTITECH JV LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA004_8000_-NONE-_-NONE-"
   },
   {
    "agency": "National Aeronautics and Space Administration",
-   "amount": 261005811.04,
+   "amount": 262273383.09,
    "description": "THE PURPOSE OF THIS CONTRACT IS TO ACQUIRE REPAIRS, OPERATIONS & MAINTENANCE, AND ENGINEERING (ROME) AND RELATED SERVICES FOR THE GODDARD SPACE FLIGHT CENTER (GREENBELT AND WALLOPS FLIGHT FACILITY).",
    "id": "80GSFC23CA052",
    "kind": "contracts",
-   "outlays": 135991592.03,
+   "outlays": 140867517.33,
    "recipient": "ASRC FEDERAL FACILITIES LOGISTICS LLC",
    "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC23CA052_8000_-NONE-_-NONE-"
   }
@@ -244,7 +244,7 @@
   {
    "listing": "97.047",
    "name": "BRIC: Building Resilient Infrastructure and Communities",
-   "obligations": 445881533.86
+   "obligations": 446502147.66
   },
   {
    "listing": "97.046",
@@ -262,6 +262,11 @@
    "obligations": 71395996.91
   },
   {
+   "listing": "97.025",
+   "name": "National Urban Search and Rescue (US&R) Response System",
+   "obligations": 26377652.72
+  },
+  {
    "listing": "43.009",
    "name": "Mission Support",
    "obligations": 3271847.55
@@ -270,11 +275,6 @@
    "listing": "97.032",
    "name": "Crisis Counseling",
    "obligations": 421348.71
-  },
-  {
-   "listing": "97.025",
-   "name": "National Urban Search and Rescue (US&R) Response System",
-   "obligations": -7851093.77
   }
  ],
  "shared_codes": [],
