@@ -308,7 +308,7 @@
    "title": "Chiricahua National Park Act",
    "title_source": "law text",
    "xml_bytes": 15168,
-   "xml_sha256": "59888e6446c8054469e53afc1e5299bca6eea2d33bc174218a0e4ad0ed560c14"
+   "xml_sha256": "b2e26de52efac81a0385fa53b7a02916454455e31e873a28e3a3f6f54353a801"
   },
   {
    "also_called": "",
@@ -338,8 +338,8 @@
    "stat": "140 Stat. 1093",
    "title": "Vicksburg National Military Park Boundary Modification Act",
    "title_source": "law text",
-   "xml_bytes": 9669,
-   "xml_sha256": "ed04b64f2866e26a23e7ffb6a40debadb9ed402835c7080702659678d6710bf9"
+   "xml_bytes": 9667,
+   "xml_sha256": "ee4fb311cca9f6bc7666c8adb3a65ea776322cf24446d1628270d7d0ceeb1d95"
   },
   {
    "also_called": "",
@@ -370,7 +370,7 @@
    "title": "Enhancing Detection of Human Trafficking Act",
    "title_source": "law text",
    "xml_bytes": 14029,
-   "xml_sha256": "a386e19601068790bae71dad73caab1ef22d7211510d805b35493778c18c94c4"
+   "xml_sha256": "7850a09451515f3adda85db42ef92049570912846861bee606a50c3d82423b8c"
   },
   {
    "also_called": "",
@@ -432,7 +432,7 @@
    "title": "Romance Scam Prevention Act",
    "title_source": "law text",
    "xml_bytes": 31752,
-   "xml_sha256": "242d78567dbecaaf4cf93bbfc4f9cf295d099eb92e14750c972cf3a297f43470"
+   "xml_sha256": "ebdaf353c28a03fb5f709b52897ce74e4898929adc0935c1e03c9f51c0b5d859"
   },
   {
    "also_called": "",
@@ -741,8 +741,8 @@
    "stat": "140 Stat. 1063",
    "title": "Improving Social Security’s Service to Victims of Identity Theft Act",
    "title_source": "law text",
-   "xml_bytes": 10668,
-   "xml_sha256": "17e41dbd76a2298a1541400d1fcd6ead12c6e06f1f99ad47a3be732e7cd16c9c"
+   "xml_bytes": 10666,
+   "xml_sha256": "695f3e0ef8b67f2f044a5caff0072b5555041f7fc490c0e050c570f4554b9c22"
   },
   {
    "also_called": "",
@@ -24689,7 +24689,7 @@
  "sources": {
   "117": {
    "bytes": 9490590,
-   "checked_at": "2026-11-23T19:12:41Z",
+   "checked_at": "2026-11-24T02:36:26Z",
    "laws": 362,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/117/public",
    "modified": "05-Nov-2026 13:17",
@@ -24700,7 +24700,7 @@
   },
   "118": {
    "bytes": 5016235,
-   "checked_at": "2026-11-23T19:12:41Z",
+   "checked_at": "2026-11-24T02:36:26Z",
    "laws": 274,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/118/public",
    "modified": "27-Oct-2026 16:44",
@@ -24710,18 +24710,18 @@
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118-public.zip"
   },
   "119": {
-   "bytes": 3408059,
-   "checked_at": "2026-11-23T19:12:41Z",
+   "bytes": 3408115,
+   "checked_at": "2026-11-24T02:36:26Z",
    "laws": 142,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/119/public",
-   "modified": "20-Nov-2026 16:31",
-   "retrieved_at": "2026-11-20T22:22:30Z",
-   "sha256": "004c85b40edb306dfc74447ab05b04e0b051609687e1f2daecbd86e063971d2d",
-   "stamp": "20-Nov-2026 16:31|3408059",
+   "modified": "23-Nov-2026 21:22",
+   "retrieved_at": "2026-11-24T02:36:26Z",
+   "sha256": "72b4e76ce4d4cef8179745ab8f3ad819ac12339faf036bfab1ef6098358298e5",
+   "stamp": "23-Nov-2026 21:22|3408115",
    "zip": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119-public.zip"
   }
  },
- "updated_at": "2026-11-20T22:22:30Z",
+ "updated_at": "2026-11-24T02:36:26Z",
  "window": {
   "congresses": [
    117,
