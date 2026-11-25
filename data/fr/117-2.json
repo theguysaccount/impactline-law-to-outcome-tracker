@@ -6,7 +6,7 @@
   ],
   [
    "Treasury Department",
-   54
+   55
   ],
   [
    "Agriculture Department",
@@ -50,7 +50,7 @@
   ]
  ],
  "by_type": {
-  "Notice": 241,
+  "Notice": 242,
   "Presidential Document": 4,
   "Proposed Rule": 42,
   "Rule": 62
@@ -61,12 +61,22 @@
   "2023": 46,
   "2024": 50,
   "2025": 21,
-  "2026": 13
+  "2026": 14
  },
  "complete": true,
  "first": "2021-03-22",
- "last": "2026-11-06",
+ "last": "2026-11-25",
  "latest": [
+  {
+   "a": [
+    "Treasury Department"
+   ],
+   "d": "2026-11-25",
+   "k": "Notice",
+   "n": "2026-24020",
+   "t": "Agency Information Collection Activities; Proposed Collection; Comment Request; Coronavirus Capital Projects Fund Reporting & Recordkeeping",
+   "u": "https://www.federalregister.gov/documents/2026/11/25/2026-24020/agency-information-collection-activities-proposed-collection-comment-request-coronavirus-capital"
+  },
   {
    "a": [
     "Agriculture Department",
@@ -216,16 +226,6 @@
    "n": "2025-21332",
    "t": "Federal Financial Participation in State Assistance Expenditures; Federal Matching Shares for Medicaid, the Children's Health Insurance Program, and Aid to Needy Aged, Blind, or Disabled Persons for October 1, 2026, Through September 30, 2027",
    "u": "https://www.federalregister.gov/documents/2025/11/28/2025-21332/federal-financial-participation-in-state-assistance-expenditures-federal-matching-shares-for"
-  },
-  {
-   "a": [
-    "Small Business Administration"
-   ],
-   "d": "2025-11-26",
-   "k": "Notice",
-   "n": "2025-21129",
-   "t": "Data Collection Available for Public Comments",
-   "u": "https://www.federalregister.gov/documents/2025/11/26/2025-21129/data-collection-available-for-public-comments"
   }
  ],
  "law": "117-2",
@@ -395,5 +395,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-2%22+%7C+%22Pub.+L.+117-2%22+%7C+%22P.L.+117-2%22&order=newest",
  "term": "\"Public Law 117-2\" | \"Pub. L. 117-2\" | \"P.L. 117-2\"",
- "total": 349
+ "total": 350
 }
