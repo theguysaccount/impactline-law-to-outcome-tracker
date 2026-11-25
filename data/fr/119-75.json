@@ -52,16 +52,26 @@
  "by_type": {
   "Notice": 42,
   "Presidential Document": 1,
-  "Proposed Rule": 12,
+  "Proposed Rule": 13,
   "Rule": 6
  },
  "by_year": {
-  "2026": 61
+  "2026": 62
  },
  "complete": true,
  "first": "2026-02-12",
- "last": "2026-11-17",
+ "last": "2026-11-24",
  "latest": [
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-11-24",
+   "k": "Proposed Rule",
+   "n": "2026-23951",
+   "t": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
+   "u": "https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail"
+  },
   {
    "a": [
     "State Department"
@@ -209,20 +219,20 @@
    "n": "2026-19192",
    "t": "Sentencing Guidelines for United States Courts",
    "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19192/sentencing-guidelines-for-united-states-courts"
-  },
-  {
-   "a": [
-    "Committee for the Implementation of Textile Agreements"
-   ],
-   "d": "2026-09-18",
-   "k": "Notice",
-   "n": "2026-19191",
-   "t": "Limitations of Duty-Free Imports of Apparel Articles Assembled in Beneficiary Sub-Saharan African Countries From Regional and Third-Country Fabric",
-   "u": "https://www.federalregister.gov/documents/2026/09/18/2026-19191/limitations-of-duty-free-imports-of-apparel-articles-assembled-in-beneficiary-sub-saharan-african"
   }
  ],
  "law": "119-75",
  "rules": [
+  {
+   "a": [
+    "Securities and Exchange Commission"
+   ],
+   "d": "2026-11-24",
+   "k": "Proposed Rule",
+   "n": "2026-23951",
+   "t": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
+   "u": "https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -376,19 +386,9 @@
    "n": "2026-13445",
    "t": "Promoting Employee Accountability",
    "u": "https://www.federalregister.gov/documents/2026/07/02/2026-13445/promoting-employee-accountability"
-  },
-  {
-   "a": [
-    "Education Department"
-   ],
-   "d": "2026-05-28",
-   "k": "Proposed Rule",
-   "n": "2026-10620",
-   "t": "Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program",
-   "u": "https://www.federalregister.gov/documents/2026/05/28/2026-10620/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-75%22+%7C+%22Pub.+L.+119-75%22+%7C+%22P.L.+119-75%22&order=newest",
  "term": "\"Public Law 119-75\" | \"Pub. L. 119-75\" | \"P.L. 119-75\"",
- "total": 61
+ "total": 62
 }

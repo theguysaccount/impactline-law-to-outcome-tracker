@@ -2,7 +2,7 @@
  "agencies": [
   [
    "Treasury Department",
-   11
+   12
   ],
   [
    "Securities and Exchange Commission",
@@ -15,6 +15,10 @@
   [
    "Financial Crimes Enforcement Network",
    4
+  ],
+  [
+   "Comptroller of the Currency",
+   2
   ],
   [
    "Commodity Futures Trading Commission",
@@ -37,10 +41,6 @@
    1
   ],
   [
-   "Comptroller of the Currency",
-   1
-  ],
-  [
    "Management and Budget Office",
    1
   ]
@@ -48,16 +48,27 @@
  "by_type": {
   "Notice": 6,
   "Proposed Rule": 18,
-  "Rule": 3
+  "Rule": 4
  },
  "by_year": {
   "2025": 3,
-  "2026": 24
+  "2026": 25
  },
  "complete": true,
  "first": "2025-08-18",
- "last": "2026-11-09",
+ "last": "2026-11-24",
  "latest": [
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency"
+   ],
+   "d": "2026-11-24",
+   "k": "Rule",
+   "n": "2026-23851",
+   "t": "Notification of Inflation Adjustments for Civil Money Penalties",
+   "u": "https://www.federalregister.gov/documents/2026/11/24/2026-23851/notification-of-inflation-adjustments-for-civil-money-penalties"
+  },
   {
    "a": [
     "Treasury Department",
@@ -199,21 +210,21 @@
    "n": "2026-11342",
    "t": "Bank Secrecy Act and Sanctions Compliance Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
    "u": "https://www.federalregister.gov/documents/2026/06/05/2026-11342/bank-secrecy-act-and-sanctions-compliance-standards-for-fdic-supervised-permitted-payment-stablecoin"
-  },
-  {
-   "a": [
-    "Treasury Department",
-    "Internal Revenue Service"
-   ],
-   "d": "2026-04-13",
-   "k": "Rule",
-   "n": "2026-07104",
-   "t": "Occupations That Customarily and Regularly Received Tips; Definition of Qualified Tips",
-   "u": "https://www.federalregister.gov/documents/2026/04/13/2026-07104/occupations-that-customarily-and-regularly-received-tips-definition-of-qualified-tips"
   }
  ],
  "law": "119-27",
  "rules": [
+  {
+   "a": [
+    "Treasury Department",
+    "Comptroller of the Currency"
+   ],
+   "d": "2026-11-24",
+   "k": "Rule",
+   "n": "2026-23851",
+   "t": "Notification of Inflation Adjustments for Civil Money Penalties",
+   "u": "https://www.federalregister.gov/documents/2026/11/24/2026-23851/notification-of-inflation-adjustments-for-civil-money-penalties"
+  },
   {
    "a": [
     "Treasury Department",
@@ -359,21 +370,9 @@
    "n": "2026-06963",
    "t": "Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism Program and Sanctions Compliance Program Requirements",
    "u": "https://www.federalregister.gov/documents/2026/04/10/2026-06963/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism"
-  },
-  {
-   "a": [
-    "Treasury Department",
-    "Comptroller of the Currency",
-    "Federal Deposit Insurance Corporation"
-   ],
-   "d": "2026-04-10",
-   "k": "Proposed Rule",
-   "n": "2026-06948",
-   "t": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
-   "u": "https://www.federalregister.gov/documents/2026/04/10/2026-06948/anti-money-laundering-and-countering-the-financing-of-terrorism-programs"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-27%22+%7C+%22Pub.+L.+119-27%22+%7C+%22P.L.+119-27%22&order=newest",
  "term": "\"Public Law 119-27\" | \"Pub. L. 119-27\" | \"P.L. 119-27\"",
- "total": 27
+ "total": 28
 }
