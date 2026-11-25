@@ -2,24 +2,36 @@
  "agencies": [
   [
    "Interior Department",
-   2
+   3
   ],
   [
    "Fish and Wildlife Service",
-   2
+   3
   ]
  ],
  "by_type": {
-  "Notice": 1,
+  "Notice": 2,
   "Rule": 1
  },
  "by_year": {
-  "2023": 2
+  "2023": 2,
+  "2026": 1
  },
  "complete": true,
  "first": "2023-03-20",
- "last": "2023-06-12",
+ "last": "2026-11-19",
  "latest": [
+  {
+   "a": [
+    "Interior Department",
+    "Fish and Wildlife Service"
+   ],
+   "d": "2026-11-19",
+   "k": "Notice",
+   "n": "2026-23561",
+   "t": "Agency Information Collection Activities; Submission to the Office of Management and Budget; Big Cat Public Safety Act",
+   "u": "https://www.federalregister.gov/documents/2026/11/19/2026-23561/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-big-cat"
+  },
   {
    "a": [
     "Interior Department",
@@ -59,5 +71,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-243%22+%7C+%22Pub.+L.+117-243%22+%7C+%22P.L.+117-243%22&order=newest",
  "term": "\"Public Law 117-243\" | \"Pub. L. 117-243\" | \"P.L. 117-243\"",
- "total": 2
+ "total": 3
 }
