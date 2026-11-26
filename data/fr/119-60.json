@@ -17,8 +17,16 @@
    4
   ],
   [
+   "Commerce Department",
+   3
+  ],
+  [
    "Securities and Exchange Commission",
    3
+  ],
+  [
+   "International Trade Administration",
+   2
   ],
   [
    "Justice Department",
@@ -37,30 +45,33 @@
    2
   ],
   [
-   "Commerce Department",
-   2
-  ],
-  [
    "Transportation Department",
-   1
-  ],
-  [
-   "Maritime Administration",
    1
   ]
  ],
  "by_type": {
-  "Notice": 6,
+  "Notice": 7,
   "Proposed Rule": 9,
   "Rule": 6
  },
  "by_year": {
-  "2026": 21
+  "2026": 22
  },
  "complete": true,
  "first": "2026-01-28",
- "last": "2026-11-20",
+ "last": "2026-11-27",
  "latest": [
+  {
+   "a": [
+    "Commerce Department",
+    "International Trade Administration"
+   ],
+   "d": "2026-11-27",
+   "k": "Notice",
+   "n": "2026-24107",
+   "t": "American SI Exports Program; On-Demand Consortia for Specific Foreign Opportunities",
+   "u": "https://www.federalregister.gov/documents/2026/11/27/2026-24107/american-si-exports-program-on-demand-consortia-for-specific-foreign-opportunities"
+  },
   {
    "a": [
     "Homeland Security Department"
@@ -214,16 +225,6 @@
    "n": "2026-10916",
    "t": "Holding Foreign Insiders Accountable Act Disclosure; Correction",
    "u": "https://www.federalregister.gov/documents/2026/06/01/2026-10916/holding-foreign-insiders-accountable-act-disclosure-correction"
-  },
-  {
-   "a": [
-    "Commerce Department"
-   ],
-   "d": "2026-05-04",
-   "k": "Rule",
-   "n": "2026-08622",
-   "t": "Amending the Department of Commerce's Regulations Implementing the HAVANA Act",
-   "u": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act"
   }
  ],
  "law": "119-60",
@@ -395,5 +396,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-60%22+%7C+%22Pub.+L.+119-60%22+%7C+%22P.L.+119-60%22&order=newest",
  "term": "\"Public Law 119-60\" | \"Pub. L. 119-60\" | \"P.L. 119-60\"",
- "total": 21
+ "total": 22
 }

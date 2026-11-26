@@ -2,11 +2,11 @@
  "agencies": [
   [
    "Energy Department",
-   46
+   47
   ],
   [
    "Federal Energy Regulatory Commission",
-   42
+   43
   ],
   [
    "Treasury Department",
@@ -50,18 +50,29 @@
   ]
  ],
  "by_type": {
-  "Notice": 123,
+  "Notice": 124,
   "Proposed Rule": 63,
   "Rule": 62
  },
  "by_year": {
   "2025": 49,
-  "2026": 199
+  "2026": 200
  },
  "complete": true,
  "first": "2025-07-22",
- "last": "2026-11-25",
+ "last": "2026-11-27",
  "latest": [
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-27",
+   "k": "Notice",
+   "n": "2026-24103",
+   "t": "WBI Energy Transmission, Inc.; Notice of Availability of the Environmental Assessment for the Proposed Line Section 32 Expansion Project",
+   "u": "https://www.federalregister.gov/documents/2026/11/27/2026-24103/wbi-energy-transmission-inc-notice-of-availability-of-the-environmental-assessment-for-the-proposed"
+  },
   {
    "a": [
     "Federal Communications Commission"
@@ -211,16 +222,6 @@
    "n": "2026-21891",
    "t": "Patient Protection and Affordable Care Act, Exchange Pre-Eligibility Verification",
    "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21891/patient-protection-and-affordable-care-act-exchange-pre-eligibility-verification"
-  },
-  {
-   "a": [
-    "Environmental Protection Agency"
-   ],
-   "d": "2026-10-27",
-   "k": "Notice",
-   "n": "2026-21843",
-   "t": "Official Release of the MOVES6 Motor Vehicle Emissions Model for SIPs and Transportation Conformity",
-   "u": "https://www.federalregister.gov/documents/2026/10/27/2026-21843/official-release-of-the-moves6-motor-vehicle-emissions-model-for-sips-and-transportation-conformity"
   }
  ],
  "law": "119-21",
@@ -389,5 +390,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+119-21%22+%7C+%22Pub.+L.+119-21%22+%7C+%22P.L.+119-21%22&order=newest",
  "term": "\"Public Law 119-21\" | \"Pub. L. 119-21\" | \"P.L. 119-21\"",
- "total": 248
+ "total": 249
 }

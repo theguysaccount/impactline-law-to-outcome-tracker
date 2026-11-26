@@ -2,11 +2,11 @@
  "agencies": [
   [
    "Energy Department",
-   87
+   88
   ],
   [
    "Federal Energy Regulatory Commission",
-   84
+   85
   ],
   [
    "Labor Department",
@@ -50,7 +50,7 @@
   ]
  ],
  "by_type": {
-  "Notice": 107,
+  "Notice": 108,
   "Presidential Document": 2,
   "Proposed Rule": 43,
   "Rule": 61
@@ -59,12 +59,23 @@
   "2023": 16,
   "2024": 71,
   "2025": 62,
-  "2026": 64
+  "2026": 65
  },
  "complete": true,
  "first": "2023-07-10",
- "last": "2026-11-18",
+ "last": "2026-11-27",
  "latest": [
+  {
+   "a": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "d": "2026-11-27",
+   "k": "Notice",
+   "n": "2026-24103",
+   "t": "WBI Energy Transmission, Inc.; Notice of Availability of the Environmental Assessment for the Proposed Line Section 32 Expansion Project",
+   "u": "https://www.federalregister.gov/documents/2026/11/27/2026-24103/wbi-energy-transmission-inc-notice-of-availability-of-the-environmental-assessment-for-the-proposed"
+  },
   {
    "a": [
     "Homeland Security Department"
@@ -216,18 +227,6 @@
    "n": "2026-17944",
    "t": "Forza Pipeline LLC; Notice of Availability of the Environmental Assessment for the Proposed Forza Pipeline Project",
    "u": "https://www.federalregister.gov/documents/2026/09/02/2026-17944/forza-pipeline-llc-notice-of-availability-of-the-environmental-assessment-for-the-proposed-forza"
-  },
-  {
-   "a": [
-    "Transportation Department",
-    "Federal Highway Administration",
-    "Federal Railroad Administration"
-   ],
-   "d": "2026-09-01",
-   "k": "Rule",
-   "n": "2026-17904",
-   "t": "National Environmental Policy Act Regulations",
-   "u": "https://www.federalregister.gov/documents/2026/09/01/2026-17904/national-environmental-policy-act-regulations"
   }
  ],
  "law": "118-5",
@@ -393,5 +392,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+118-5%22+%7C+%22Pub.+L.+118-5%22+%7C+%22P.L.+118-5%22&order=newest",
  "term": "\"Public Law 118-5\" | \"Pub. L. 118-5\" | \"P.L. 118-5\"",
- "total": 213
+ "total": 214
 }
