@@ -184,7 +184,7 @@
   },
   {
    "agency": "Department of Energy",
-   "amount": 31223517818.95,
+   "amount": 31228812310.71,
    "description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY OPERATING AND MANAGING CONTRACT",
    "id": "DEAC0576RL01830",
    "kind": "contracts",
@@ -194,7 +194,7 @@
   },
   {
    "agency": "Department of Energy",
-   "amount": 7933559692.74,
+   "amount": 7953671773.86,
    "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003624 TO THE MISSION SUPPORT AND TEST SERVICES LLC (MSTS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY NATIONAL NUCLEAR SECURITY ADMINISTRATION'S NEVADA NATIONAL SECURITY SITE.",
    "id": "DENA0003624",
    "kind": "contracts",
@@ -274,7 +274,7 @@
   {
    "listing": "21.027",
    "name": "CORONAVIRUS STATE AND LOCAL FISCAL RECOVERY FUNDS",
-   "obligations": 349729514361.39
+   "obligations": 349729415642.84
   },
   {
    "listing": "10.551",
@@ -289,7 +289,7 @@
   {
    "listing": "97.036",
    "name": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)",
-   "obligations": 153287849169.53
+   "obligations": 153755497534.02
   },
   {
    "listing": "86.001",
@@ -299,7 +299,7 @@
   {
    "listing": "93.575",
    "name": "Child Care and Development Block Grant",
-   "obligations": 38985269861.99
+   "obligations": 38978479824.76
   },
   {
    "listing": "59.078",
@@ -319,7 +319,7 @@
   {
    "listing": "93.210",
    "name": "Tribal Self-Governance Program: IHS Compacts/Funding Agreements ",
-   "obligations": 23302632792.71
+   "obligations": 23311217105.71
   },
   {
    "listing": "98.001",
@@ -329,7 +329,7 @@
   {
    "listing": "21.023",
    "name": "Emergency Rental Assistance Program",
-   "obligations": 21281188650.1
+   "obligations": 21214283092.7
   },
   {
    "listing": "93.461",
@@ -339,7 +339,7 @@
   {
    "listing": "97.048",
    "name": "Federal Disaster Assistance to Individuals and Households in Presidential Declared Disaster Areas",
-   "obligations": 12758658558.62
+   "obligations": 12759096582.62
   },
   {
    "listing": "20.106",
