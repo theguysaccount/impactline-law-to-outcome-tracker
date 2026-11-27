@@ -24689,7 +24689,7 @@
  "sources": {
   "117": {
    "bytes": 9490590,
-   "checked_at": "2026-11-27T17:26:05Z",
+   "checked_at": "2026-11-27T23:44:52Z",
    "laws": 362,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/117/public",
    "modified": "05-Nov-2026 13:17",
@@ -24700,7 +24700,7 @@
   },
   "118": {
    "bytes": 5016235,
-   "checked_at": "2026-11-27T17:26:05Z",
+   "checked_at": "2026-11-27T23:44:52Z",
    "laws": 274,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/118/public",
    "modified": "27-Oct-2026 16:44",
@@ -24711,7 +24711,7 @@
   },
   "119": {
    "bytes": 3408129,
-   "checked_at": "2026-11-27T17:26:05Z",
+   "checked_at": "2026-11-27T23:44:52Z",
    "laws": 142,
    "listing": "https://www.govinfo.gov/bulkdata/json/PLAW/119/public",
    "modified": "24-Nov-2026 16:37",
