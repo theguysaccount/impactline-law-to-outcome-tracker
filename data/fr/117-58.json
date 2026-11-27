@@ -2,7 +2,7 @@
  "agencies": [
   [
    "Transportation Department",
-   425
+   426
   ],
   [
    "Federal Communications Commission",
@@ -22,7 +22,7 @@
   ],
   [
    "National Highway Traffic Safety Administration",
-   64
+   65
   ],
   [
    "Federal Railroad Administration",
@@ -52,7 +52,7 @@
  "by_type": {
   "Notice": 613,
   "Presidential Document": 6,
-  "Proposed Rule": 135,
+  "Proposed Rule": 136,
   "Rule": 158
  },
  "by_year": {
@@ -61,12 +61,23 @@
   "2023": 234,
   "2024": 235,
   "2025": 93,
-  "2026": 108
+  "2026": 109
  },
  "complete": true,
  "first": "2021-11-29",
- "last": "2026-11-25",
+ "last": "2026-11-27",
  "latest": [
+  {
+   "a": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "d": "2026-11-27",
+   "k": "Proposed Rule",
+   "n": "2026-24140",
+   "t": "Federal Motor Vehicle Safety Standards: Automatic Emergency Braking Systems for Light Vehicles",
+   "u": "https://www.federalregister.gov/documents/2026/11/27/2026-24140/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles"
+  },
   {
    "a": [
     "Energy Department"
@@ -216,21 +227,21 @@
    "n": "2026-19403",
    "t": "Amendment to the Uniform Procedures for State Highway Safety Grant Programs",
    "u": "https://www.federalregister.gov/documents/2026/09/23/2026-19403/amendment-to-the-uniform-procedures-for-state-highway-safety-grant-programs"
-  },
+  }
+ ],
+ "law": "117-58",
+ "rules": [
   {
    "a": [
     "Transportation Department",
     "National Highway Traffic Safety Administration"
    ],
-   "d": "2026-09-22",
+   "d": "2026-11-27",
    "k": "Proposed Rule",
-   "n": "2026-19370",
-   "t": "Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M)",
-   "u": "https://www.federalregister.gov/documents/2026/09/22/2026-19370/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult"
-  }
- ],
- "law": "117-58",
- "rules": [
+   "n": "2026-24140",
+   "t": "Federal Motor Vehicle Safety Standards: Automatic Emergency Braking Systems for Light Vehicles",
+   "u": "https://www.federalregister.gov/documents/2026/11/27/2026-24140/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles"
+  },
   {
    "a": [
     "Health and Human Services Department",
@@ -382,20 +393,9 @@
    "n": "2026-12919",
    "t": "Bus Testing: Updates to Bus Testing Program Procedures and Policies, Clarifications, Technical Adjustments, and Other Program Updates",
    "u": "https://www.federalregister.gov/documents/2026/06/26/2026-12919/bus-testing-updates-to-bus-testing-program-procedures-and-policies-clarifications-technical"
-  },
-  {
-   "a": [
-    "Transportation Department",
-    "Federal Motor Carrier Safety Administration"
-   ],
-   "d": "2026-06-22",
-   "k": "Rule",
-   "n": "2026-12449",
-   "t": "Removal of Self-Reporting Requirement",
-   "u": "https://www.federalregister.gov/documents/2026/06/22/2026-12449/removal-of-self-reporting-requirement"
   }
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-58%22+%7C+%22Pub.+L.+117-58%22+%7C+%22P.L.+117-58%22&order=newest",
  "term": "\"Public Law 117-58\" | \"Pub. L. 117-58\" | \"P.L. 117-58\"",
- "total": 912
+ "total": 913
 }

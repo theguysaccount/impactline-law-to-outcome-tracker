@@ -2,7 +2,7 @@
  "agencies": [
   [
    "Veterans Affairs Department",
-   28
+   29
   ],
   [
    "Regulatory Information Service Center",
@@ -22,7 +22,7 @@
   ]
  ],
  "by_type": {
-  "Notice": 17,
+  "Notice": 18,
   "Proposed Rule": 7,
   "Rule": 8
  },
@@ -31,12 +31,22 @@
   "2023": 13,
   "2024": 11,
   "2025": 6,
-  "2026": 1
+  "2026": 2
  },
  "complete": true,
  "first": "2022-12-22",
- "last": "2026-04-02",
+ "last": "2026-11-27",
  "latest": [
+  {
+   "a": [
+    "Veterans Affairs Department"
+   ],
+   "d": "2026-11-27",
+   "k": "Notice",
+   "n": "2026-24160",
+   "t": "Enhanced-Use Lease (EUL) of Department of Veterans Affairs (VA) Real Property at the Clement J. Zablocki VA Medical Center, Milwaukee, Wisconsin",
+   "u": "https://www.federalregister.gov/documents/2026/11/27/2026-24160/enhanced-use-lease-eul-of-department-of-veterans-affairs-va-real-property-at-the-clement-j-zablocki"
+  },
   {
    "a": [
     "Interior Department",
@@ -177,16 +187,6 @@
    "n": "2024-06634",
    "t": "Loan Guaranty: Specially Adapted Housing Assistive Technology Grant Program",
    "u": "https://www.federalregister.gov/documents/2024/03/28/2024-06634/loan-guaranty-specially-adapted-housing-assistive-technology-grant-program"
-  },
-  {
-   "a": [
-    "Veterans Affairs Department"
-   ],
-   "d": "2024-03-22",
-   "k": "Notice",
-   "n": "2024-06065",
-   "t": "Agency Information Collection Activity: VA Health Benefits: Application, Update, Hardship Determination",
-   "u": "https://www.federalregister.gov/documents/2024/03/22/2024-06065/agency-information-collection-activity-va-health-benefits-application-update-hardship-determination"
   }
  ],
  "law": "117-168",
@@ -344,5 +344,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-168%22+%7C+%22Pub.+L.+117-168%22+%7C+%22P.L.+117-168%22&order=newest",
  "term": "\"Public Law 117-168\" | \"Pub. L. 117-168\" | \"P.L. 117-168\"",
- "total": 32
+ "total": 33
 }

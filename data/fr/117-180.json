@@ -6,19 +6,19 @@
   ],
   [
    "Homeland Security Department",
-   12
+   13
   ],
   [
    "Food and Drug Administration",
    10
   ],
   [
-   "Housing and Urban Development Department",
+   "Federal Emergency Management Agency",
    9
   ],
   [
-   "Federal Emergency Management Agency",
-   8
+   "Housing and Urban Development Department",
+   9
   ],
   [
    "Centers for Medicare & Medicaid Services",
@@ -50,7 +50,7 @@
   ]
  ],
  "by_type": {
-  "Notice": 31,
+  "Notice": 32,
   "Presidential Document": 1,
   "Proposed Rule": 4,
   "Rule": 10
@@ -60,12 +60,23 @@
   "2023": 20,
   "2024": 9,
   "2025": 4,
-  "2026": 7
+  "2026": 8
  },
  "complete": true,
  "first": "2022-11-14",
- "last": "2026-10-27",
+ "last": "2026-11-27",
  "latest": [
+  {
+   "a": [
+    "Homeland Security Department",
+    "Federal Emergency Management Agency"
+   ],
+   "d": "2026-11-27",
+   "k": "Notice",
+   "n": "2026-24025",
+   "t": "Agency Information Collection Activities: Proposed Collection, Comment Request; Generic Clearance for Notice of Loss and Proof of Loss",
+   "u": "https://www.federalregister.gov/documents/2026/11/27/2026-24025/agency-information-collection-activities-proposed-collection-comment-request-generic-clearance-for"
+  },
   {
    "a": [
     "Housing and Urban Development Department"
@@ -217,16 +228,6 @@
    "n": "2024-17021",
    "t": "Medicare and Medicaid Programs and the Children's Health Insurance Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2025 Rates; Quality Programs Requirements; and Other Polic",
    "u": "https://www.federalregister.gov/documents/2024/08/28/2024-17021/medicare-and-medicaid-programs-and-the-childrens-health-insurance-program-hospital-inpatient"
-  },
-  {
-   "a": [
-    "Veterans Affairs Department"
-   ],
-   "d": "2024-05-16",
-   "k": "Notice",
-   "n": "2024-10786",
-   "t": "Solicitation of Nominations for Appointment to the Advisory Committee on Homeless Veterans",
-   "u": "https://www.federalregister.gov/documents/2024/05/16/2024-10786/solicitation-of-nominations-for-appointment-to-the-advisory-committee-on-homeless-veterans"
   }
  ],
  "law": "117-180",
@@ -390,5 +391,5 @@
  ],
  "search_url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Public+Law+117-180%22+%7C+%22Pub.+L.+117-180%22+%7C+%22P.L.+117-180%22&order=newest",
  "term": "\"Public Law 117-180\" | \"Pub. L. 117-180\" | \"P.L. 117-180\"",
- "total": 46
+ "total": 47
 }
